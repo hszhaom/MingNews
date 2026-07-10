@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search | Ming News</title>
+    <meta name="description" content="Search Ming News articles and briefings.">
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://your-domain.com/search.html">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html"><span class="brand-mark">MN</span><span>Ming News</span></a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
+          <a href="index.html">Home</a>
+          <a href="index.html#latest">Latest</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+    <main class="policy-page">
+      <p class="eyebrow">Search</p>
+      <h1>Search Ming News</h1>
+      <form class="newsletter-form search-form" role="search">
+        <label for="q">Search articles</label>
+        <div>
+          <input id="q" name="q" type="search" placeholder="Try technology, business, security" autocomplete="off">
+          <button type="submit">Search</button>
+        </div>
+      </form>
+      <section class="story-list search-results" aria-live="polite" aria-label="Search results"></section>
+    </main>
+    <footer class="site-footer">
+      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">MN</span><span>Ming News</span></a><p>Independent English news analysis for a global readership.</p></div>
+      <nav aria-label="Footer navigation"><a href="about.html">About</a><a href="editorial-policy.html">Editorial Policy</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="contact.html">Contact</a></nav>
+    </footer>
+    <script>
+      const articles = [
+        {
+          title: "How Newsrooms Use AI Without Giving Up Editorial Control",
+          category: "Technology",
+          url: "articles/how-newsrooms-use-ai.html",
+          summary: "A practical look at how editors use AI while keeping human accountability."
+        },
+        {
+          title: "Why Cities Are Rebuilding Public Data Portals",
+          category: "Policy",
+          url: "articles/cities-rebuild-public-data-portals.html",
+          summary: "Open data projects are becoming public services, not only compliance downloads."
+        },
+        {
+          title: "Small Businesses Turn Cash Discipline Into a Growth Strategy",
+          category: "Business",
+          url: "articles/small-business-cash-discipline.html",
+          summary: "Owners are tracking cash visibility, payment timing, and resilience more closely."
+        },
+        {
+          title: "Practical Cybersecurity Habits for Remote Teams",
+          category: "Security",
+          url: "articles/remote-team-cybersecurity-habits.html",
+          summary: "Simple routines can reduce avoidable risk for distributed teams."
+        },
+        {
+          title: "What Energy Storage Means for Grid Reliability",
+          category: "Energy",
+          url: "articles/energy-storage-grid-reliability.html",
+          summary: "Storage adds flexible capacity, backup options, and planning questions."
+        },
+        {
+          title: "The Newsletter Renaissance Is About Trust, Not Nostalgia",
+          category: "Media",
+          url: "articles/newsletter-renaissance.html",
+          summary: "Readers reward publications that make a clear editorial promise and keep it."
+        }
+      ];
+
+      const form = document.querySelector(".search-form");
+      const input = document.querySelector("#q");
+      const results = document.querySelector(".search-results");
+
+      function render(query) {
+        const normalized = query.trim().toLowerCase();
+        const matches = normalized
+          ? articles.filter((article) =>
+              [article.title, article.category, article.summary].join(" ").toLowerCase().includes(normalized)
+            )
+          : articles;
+
+        results.innerHTML = matches
+          .map((article) => `
+            <article>
+              <a href="${article.url}">
+                <span class="category">${article.category}</span>
+                <h3>${article.title}</h3>
+                <p>${article.summary}</p>
+              </a>
+            </article>
+          `)
+          .join("");
+      }
+
+      const params = new URLSearchParams(window.location.search);
+      input.value = params.get("q") || "";
+      render(input.value);
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const url = new URL(window.location.href);
+        url.searchParams.set("q", input.value);
+        history.replaceState(null, "", url);
+        render(input.value);
+      });
+    </script>
+    <script src="assets/main.js" defer></script>
+  </body>
+</html>
