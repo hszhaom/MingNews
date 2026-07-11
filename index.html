@@ -1,15 +1,15 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ming Trends | Global Hot Trends from Reddit, YouTube, Google, X, GitHub</title>
-    <meta name="description" content="Ming Trends is an English hot trends hub tracking global topics across Google Trends, Reddit, YouTube, X, Hacker News, Product Hunt, GitHub, TikTok, Twitch, Steam, IMDb, and more.">
+    <title>Ming Journal | A quieter read on the world's live news</title>
+    <meta name="description" content="Ming Journal is an English-language news reading desk. It brings together live reporting from open public news APIs with clear source links and a calm, editorial reading experience.">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://your-domain.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Ming Trends | Global Hot Trends Dashboard">
-    <meta property="og:description" content="Track what is trending across overseas traffic sources: Google Trends, Reddit, YouTube, X, Hacker News, Product Hunt, GitHub, TikTok, Twitch, Steam, IMDb, and more.">
+    <meta property="og:title" content="Ming Journal | Live news, quietly arranged">
+    <meta property="og:description" content="A calm English-language reading desk for live global reporting, built with transparent source attribution.">
     <meta property="og:image" content="https://your-domain.com/assets/hero-newsroom.png">
     <meta property="og:url" content="https://your-domain.com/">
     <meta name="twitter:card" content="summary_large_image">
@@ -18,9 +18,9 @@
       {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Ming Trends",
+        "name": "Ming Journal",
         "url": "https://your-domain.com/",
-        "description": "English dashboard for global hot trends and overseas traffic sources.",
+        "description": "An English-language reading desk for live global reporting with clear source links.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://your-domain.com/search.html?q={search_term_string}",
@@ -28,216 +28,103 @@
         }
       }
     </script>
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "ItemList",
-        "name": "Global hot trend sources",
-        "itemListElement": [
-          {"@type": "ListItem", "position": 1, "name": "Google Trends"},
-          {"@type": "ListItem", "position": 2, "name": "Reddit"},
-          {"@type": "ListItem", "position": 3, "name": "YouTube"},
-          {"@type": "ListItem", "position": 4, "name": "X"},
-          {"@type": "ListItem", "position": 5, "name": "Hacker News"},
-          {"@type": "ListItem", "position": 6, "name": "Product Hunt"},
-          {"@type": "ListItem", "position": 7, "name": "GitHub Trending"}
-        ]
-      }
-    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand" href="index.html" aria-label="Ming Trends home">
-          <span class="brand-mark">MT</span>
-          <span>Ming Trends</span>
+        <a class="brand" href="index.html" aria-label="Ming Journal home">
+          <span class="brand-mark">M</span>
+          <span>Ming Journal</span>
         </a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
         <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
-          <a href="index.html">Today</a>
-          <a href="#sources">Sources</a>
-          <a href="#rankings">Rankings</a>
-          <a href="#insights">Insights</a>
-          <a href="sources.html">Source Guide</a>
+          <a href="#latest">Latest</a>
+          <a href="#editorial">Editorial notes</a>
+          <a href="sources.html">Source guide</a>
           <a href="about.html">About</a>
         </nav>
       </div>
     </header>
 
     <main id="main">
-      <section class="trend-hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-          <p class="eyebrow">Global hot list for English readers</p>
-          <h1 id="hero-title">Track what the internet is paying attention to.</h1>
-          <p class="hero-summary">A TopHub-style English dashboard adapted for overseas traffic sources: search demand, social discussions, creator platforms, developer communities, gaming, entertainment, and product launches.</p>
-          <form class="trend-search" role="search" aria-label="Search trending topics">
-            <label for="trend-query">Search topics, sources, or categories</label>
-            <div>
-              <input id="trend-query" name="q" type="search" placeholder="AI tools, Taylor Swift, Apple, crypto, Steam..." autocomplete="off">
-              <button type="submit">Search</button>
+      <section class="journal-intro section-wrap" aria-labelledby="page-title">
+        <p class="eyebrow">Independent reading desk</p>
+        <h1 id="page-title">Live news,<br>quietly arranged.</h1>
+        <p class="intro-copy">A considered view of the world's current reporting. We use open public data feeds for discovery, keep the original publisher visible, and leave room for context.</p>
+        <p class="live-note"><span class="live-dot" aria-hidden="true"></span><span id="feed-status">Preparing the live news desk</span></p>
+      </section>
+
+      <nav class="topic-bar section-wrap" aria-label="News topics">
+        <button class="topic-filter is-active" type="button" data-topic="all">All stories</button>
+        <button class="topic-filter" type="button" data-topic="world">World</button>
+        <button class="topic-filter" type="button" data-topic="business">Business</button>
+        <button class="topic-filter" type="button" data-topic="technology">Technology</button>
+        <button class="topic-filter" type="button" data-topic="culture">Culture</button>
+        <button class="topic-filter" type="button" data-topic="science">Science</button>
+      </nav>
+
+      <div class="reading-layout section-wrap">
+        <section class="news-feed" aria-labelledby="latest-title">
+          <div class="section-kicker">
+            <p class="eyebrow">The current desk</p>
+            <h2 id="latest-title">Latest reporting</h2>
+          </div>
+          <article class="featured-story" id="featured-story" aria-live="polite">
+            <div class="story-wash" aria-hidden="true"></div>
+            <div class="featured-story-content">
+              <p class="story-meta">Loading live report</p>
+              <h3>Looking for the latest reporting</h3>
+              <p>Stories arrive here from the public news feeds. The original publisher remains the primary source.</p>
             </div>
-          </form>
-        </div>
-        <aside class="hero-panel" aria-label="Market pulse">
-          <img src="assets/hero-newsroom.png" alt="Editors monitoring global trends in a newsroom" width="1717" height="916">
-          <div class="pulse-grid">
-            <div><strong>24</strong><span>Sources</span></div>
-            <div><strong>7</strong><span>Verticals</span></div>
-            <div><strong>1h</strong><span>Refresh model</span></div>
-          </div>
-        </aside>
-      </section>
-
-      <section class="source-strip" aria-label="Primary overseas sources">
-        <a href="#google">Google Trends</a>
-        <a href="#reddit">Reddit</a>
-        <a href="#youtube">YouTube</a>
-        <a href="#x">X</a>
-        <a href="#hacker-news">Hacker News</a>
-        <a href="#product-hunt">Product Hunt</a>
-        <a href="#github">GitHub</a>
-        <a href="#tiktok">TikTok</a>
-        <a href="#steam">Steam</a>
-      </section>
-
-      <section class="dashboard section-wrap" aria-label="Trend dashboard">
-        <aside class="control-panel" aria-label="Trend filters">
-          <h2>Filters</h2>
-          <div class="filter-group" data-filter-group="category">
-            <p>Category</p>
-            <button type="button" class="filter-pill is-active" data-filter="all">All</button>
-            <button type="button" class="filter-pill" data-filter="technology">Technology</button>
-            <button type="button" class="filter-pill" data-filter="business">Business</button>
-            <button type="button" class="filter-pill" data-filter="entertainment">Entertainment</button>
-            <button type="button" class="filter-pill" data-filter="gaming">Gaming</button>
-            <button type="button" class="filter-pill" data-filter="sports">Sports</button>
-          </div>
-          <div class="filter-group" data-filter-group="region">
-            <p>Region</p>
-            <button type="button" class="filter-pill is-active" data-filter="global">Global</button>
-            <button type="button" class="filter-pill" data-filter="us">United States</button>
-            <button type="button" class="filter-pill" data-filter="uk">United Kingdom</button>
-            <button type="button" class="filter-pill" data-filter="eu">Europe</button>
-            <button type="button" class="filter-pill" data-filter="asia">Asia-Pacific</button>
-          </div>
-          <div class="filter-group" data-filter-group="window">
-            <p>Time window</p>
-            <button type="button" class="filter-pill is-active" data-filter="24h">24h</button>
-            <button type="button" class="filter-pill" data-filter="7d">7d</button>
-            <button type="button" class="filter-pill" data-filter="30d">30d</button>
-          </div>
-          <aside class="ad-slot compact-ad" aria-label="Advertisement">
-            <span>Advertisement</span>
-            <p>Responsive AdSense slot reserved.</p>
-          </aside>
-        </aside>
-
-        <section class="rankings" id="rankings" aria-labelledby="rankings-title">
-          <div class="section-heading">
-            <p class="eyebrow">Live-style rankings</p>
-            <h2 id="rankings-title">Trending now</h2>
-            <p>Static demo data is included for launch. Replace `assets/main.js` with API-backed feeds when your crawler or data provider is ready.</p>
-          </div>
-          <div class="trend-list" id="trend-list"></div>
+          </article>
+          <div class="article-list" id="latest" aria-live="polite"></div>
+          <p class="source-disclosure">Live discovery uses <a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT Project</a> and the <a href="https://github.com/HackerNews/API" target="_blank" rel="noopener">Hacker News public API</a>. Headlines link to a short reading note and then to the original reporting.</p>
         </section>
-      </section>
 
-      <section class="section-wrap source-matrix" id="sources" aria-labelledby="sources-title">
-        <div class="section-heading">
-          <p class="eyebrow">Traffic source adaptation</p>
-          <h2 id="sources-title">Built for overseas discovery channels</h2>
-        </div>
-        <div class="source-grid">
-          <article id="google" class="source-card">
-            <span class="source-icon google">G</span>
-            <h3>Google Trends</h3>
-            <p>Captures search intent, breakout keywords, local demand, and SEO-ready topic clusters.</p>
-            <a href="https://trends.google.com/trends/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="reddit" class="source-card">
-            <span class="source-icon reddit">R</span>
-            <h3>Reddit</h3>
-            <p>Tracks subreddit velocity, comment density, sentiment, and early community debates.</p>
-            <a href="https://www.reddit.com/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="youtube" class="source-card">
-            <span class="source-icon youtube">Y</span>
-            <h3>YouTube</h3>
-            <p>Monitors creator uploads, search-led explainers, trailers, music, tutorials, and shorts.</p>
-            <a href="https://www.youtube.com/feed/trending" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="x" class="source-card">
-            <span class="source-icon x">X</span>
-            <h3>X</h3>
-            <p>Surfaces real-time public conversation and breaking-news velocity across English markets.</p>
-            <a href="https://x.com/explore" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="hacker-news" class="source-card">
-            <span class="source-icon hn">HN</span>
-            <h3>Hacker News</h3>
-            <p>Prioritizes developer, startup, infrastructure, AI, security, and open-web discussions.</p>
-            <a href="https://news.ycombinator.com/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="product-hunt" class="source-card">
-            <span class="source-icon ph">P</span>
-            <h3>Product Hunt</h3>
-            <p>Captures new apps, SaaS launches, AI tools, indie maker products, and launch momentum.</p>
-            <a href="https://www.producthunt.com/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="github" class="source-card">
-            <span class="source-icon gh">GH</span>
-            <h3>GitHub Trending</h3>
-            <p>Tracks repositories, languages, stars, forks, and developer adoption signals.</p>
-            <a href="https://github.com/trending" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="tiktok" class="source-card">
-            <span class="source-icon tt">T</span>
-            <h3>TikTok Creative</h3>
-            <p>Useful for lifestyle, shopping, music, creator formats, and short-video trend discovery.</p>
-            <a href="https://ads.tiktok.com/business/creativecenter/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-          <article id="steam" class="source-card">
-            <span class="source-icon steam">S</span>
-            <h3>Steam & Twitch</h3>
-            <p>Adapts gaming traffic with wishlist movement, concurrent players, streams, and releases.</p>
-            <a href="https://store.steampowered.com/charts/" rel="nofollow noopener" target="_blank">Open source</a>
-          </article>
-        </div>
-      </section>
+        <aside class="reading-sidebar" aria-label="Reading tools">
+          <section class="sidebar-block table-of-contents">
+            <p class="sidebar-label">On this page</p>
+            <a href="#latest">Latest reporting</a>
+            <a href="#editorial">How we frame stories</a>
+            <a href="#sources">Data sources</a>
+          </section>
+          <section class="sidebar-block" aria-labelledby="topics-title">
+            <p class="sidebar-label" id="topics-title">Popular topics</p>
+            <div class="tag-cloud">
+              <button type="button" data-topic="technology">Artificial intelligence</button>
+              <button type="button" data-topic="business">Markets</button>
+              <button type="button" data-topic="world">Public policy</button>
+              <button type="button" data-topic="science">Climate</button>
+              <button type="button" data-topic="culture">Media</button>
+            </div>
+          </section>
+          <section class="sidebar-block source-panel" id="sources" aria-labelledby="sources-title">
+            <p class="sidebar-label" id="sources-title">Data sources</p>
+            <p>Open, public endpoints. No scraped article body is republished here.</p>
+            <a href="sources.html">Read our source guide <span aria-hidden="true">&rarr;</span></a>
+          </section>
+          <aside class="ad-slot" aria-label="Advertisement"><span>Advertisement</span></aside>
+        </aside>
+      </div>
 
-      <aside class="ad-slot section-wrap" aria-label="Advertisement">
-        <span>Advertisement</span>
-        <p>Leaderboard slot for global trend pages. Add the AdSense script only after publisher approval.</p>
-      </aside>
-
-      <section class="section-wrap insight-grid" id="insights" aria-labelledby="insights-title">
-        <div class="section-heading">
-          <p class="eyebrow">Editorial layer</p>
-          <h2 id="insights-title">Turn hot lists into useful pages</h2>
+      <section class="editorial-band" id="editorial" aria-labelledby="editorial-title">
+        <div class="section-wrap editorial-grid">
+          <div>
+            <p class="eyebrow">Editorial note</p>
+            <h2 id="editorial-title">The signal needs a little silence around it.</h2>
+          </div>
+          <div class="editorial-copy">
+            <p>Fast feeds are useful for finding a story, not for replacing it. Ming Journal points readers to the publisher, records the feed behind each item, and makes space for a small piece of original context.</p>
+            <a class="text-link" href="editorial-policy.html">Read the editorial policy <span aria-hidden="true">&rarr;</span></a>
+          </div>
         </div>
-        <article class="insight-card">
-          <span class="category">SEO</span>
-          <h3>Search intent pages</h3>
-          <p>Create explainers for keywords that appear on Google Trends and YouTube search. Use canonical pages, update notes, and short FAQ blocks.</p>
-        </article>
-        <article class="insight-card">
-          <span class="category">Social</span>
-          <h3>Community-led discovery</h3>
-          <p>Use Reddit and Hacker News to identify questions people are already asking, then write neutral summaries with source links and context.</p>
-        </article>
-        <article class="insight-card">
-          <span class="category">Creator</span>
-          <h3>Video-first topics</h3>
-          <p>YouTube, TikTok, Twitch, and Instagram need thumbnail-ready topic pages, concise summaries, and clear attribution to original creators.</p>
-        </article>
       </section>
 
       <section class="newsletter section-wrap" aria-labelledby="newsletter-title">
         <div>
-          <p class="eyebrow">Newsletter</p>
-          <h2 id="newsletter-title">Get the global trend briefing</h2>
-          <p>One concise email with fast-moving topics, source notes, and SEO opportunities.</p>
+          <p class="eyebrow">A weekly selection</p>
+          <h2 id="newsletter-title">A few stories worth carrying forward.</h2>
         </div>
         <form class="newsletter-form" aria-describedby="newsletter-note">
           <label for="email">Email address</label>
@@ -245,18 +132,15 @@
             <input id="email" name="email" type="email" placeholder="reader@example.com" autocomplete="email" required>
             <button type="submit">Subscribe</button>
           </div>
-          <p id="newsletter-note" class="form-note" aria-live="polite">Connect this form to your email provider before launch.</p>
+          <p id="newsletter-note" class="form-note" aria-live="polite">A connection to your email provider is needed before launch.</p>
         </form>
       </section>
     </main>
 
     <footer class="site-footer">
       <div>
-        <a class="brand footer-brand" href="index.html">
-          <span class="brand-mark">MT</span>
-          <span>Ming Trends</span>
-        </a>
-        <p>English hot lists and trend intelligence for global traffic sources.</p>
+        <a class="brand footer-brand" href="index.html"><span class="brand-mark">M</span><span>Ming Journal</span></a>
+        <p>Live reporting, clearly sourced, designed for unhurried reading.</p>
       </div>
       <nav aria-label="Footer navigation">
         <a href="sources.html">Source Guide</a>
@@ -271,6 +155,3 @@
     <script src="assets/main.js" defer></script>
   </body>
 </html>
-
-
-

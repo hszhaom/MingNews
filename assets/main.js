@@ -1,150 +1,18 @@
 const navToggle = document.querySelector(".nav-toggle");
 const siteNav = document.querySelector(".site-nav");
 const newsletterForm = document.querySelector(".newsletter-form");
-const trendList = document.querySelector("#trend-list");
-const searchForm = document.querySelector(".trend-search");
-const searchInput = document.querySelector("#trend-query");
-const filterButtons = document.querySelectorAll(".filter-pill");
+const latestList = document.querySelector("#latest");
+const featuredStory = document.querySelector("#featured-story");
+const feedStatus = document.querySelector("#feed-status");
+const topicButtons = document.querySelectorAll("[data-topic]");
 
-const trends = [
-  {
-    rank: 1,
-    title: "AI video generators reshape creator workflows",
-    source: "YouTube",
-    sourceUrl: "https://www.youtube.com/feed/trending",
-    category: "technology",
-    region: "global",
-    window: "24h",
-    score: 98,
-    momentum: "+42%",
-    summary: "Tutorials, comparisons, and creator reactions are driving discovery across video search and social clips.",
-    tags: ["AI", "creator economy", "video"]
-  },
-  {
-    rank: 2,
-    title: "New open-source agent framework gains developer attention",
-    source: "GitHub Trending",
-    sourceUrl: "https://github.com/trending",
-    category: "technology",
-    region: "global",
-    window: "24h",
-    score: 94,
-    momentum: "+31%",
-    summary: "Repository stars, forks, and Hacker News discussion suggest strong early adoption in the developer community.",
-    tags: ["open source", "agents", "developers"]
-  },
-  {
-    rank: 3,
-    title: "Indie productivity app launches with viral demo",
-    source: "Product Hunt",
-    sourceUrl: "https://www.producthunt.com/",
-    category: "business",
-    region: "us",
-    window: "24h",
-    score: 89,
-    momentum: "+27%",
-    summary: "Maker communities are responding to concise demos, founder replies, and practical workflow screenshots.",
-    tags: ["SaaS", "productivity", "startup"]
-  },
-  {
-    rank: 4,
-    title: "Streaming series finale sparks global debate",
-    source: "X",
-    sourceUrl: "https://x.com/explore",
-    category: "entertainment",
-    region: "global",
-    window: "24h",
-    score: 87,
-    momentum: "+24%",
-    summary: "Conversation is moving quickly across memes, reviews, reaction videos, and entertainment news recaps.",
-    tags: ["streaming", "TV", "fan discussion"]
-  },
-  {
-    rank: 5,
-    title: "PC game climbs weekend player charts",
-    source: "Steam",
-    sourceUrl: "https://store.steampowered.com/charts/",
-    category: "gaming",
-    region: "global",
-    window: "7d",
-    score: 84,
-    momentum: "+19%",
-    summary: "Discount timing, streamer coverage, and patch notes are combining into renewed player interest.",
-    tags: ["gaming", "Steam", "Twitch"]
-  },
-  {
-    rank: 6,
-    title: "Travel safety searches rise before holiday season",
-    source: "Google Trends",
-    sourceUrl: "https://trends.google.com/trends/",
-    category: "business",
-    region: "us",
-    window: "7d",
-    score: 81,
-    momentum: "+16%",
-    summary: "Search demand suggests readers want practical explainers, airport guidance, and destination-specific updates.",
-    tags: ["travel", "search intent", "consumer"]
-  },
-  {
-    rank: 7,
-    title: "Fitness challenge spreads through short-video platforms",
-    source: "TikTok Creative Center",
-    sourceUrl: "https://ads.tiktok.com/business/creativecenter/",
-    category: "entertainment",
-    region: "global",
-    window: "24h",
-    score: 78,
-    momentum: "+14%",
-    summary: "Creator templates, music reuse, and easy participation are pushing the format beyond one platform.",
-    tags: ["TikTok", "fitness", "creator trends"]
-  },
-  {
-    rank: 8,
-    title: "Major football transfer rumor dominates fan communities",
-    source: "Reddit",
-    sourceUrl: "https://www.reddit.com/",
-    category: "sports",
-    region: "uk",
-    window: "24h",
-    score: 75,
-    momentum: "+12%",
-    summary: "Subreddit threads show high comment velocity, but verification remains mixed across primary sources.",
-    tags: ["football", "Reddit", "sports"]
-  },
-  {
-    rank: 9,
-    title: "Cybersecurity breach explainer climbs tech discussions",
-    source: "Hacker News",
-    sourceUrl: "https://news.ycombinator.com/",
-    category: "technology",
-    region: "global",
-    window: "30d",
-    score: 72,
-    momentum: "+9%",
-    summary: "Readers are looking for clear summaries of impact, mitigation steps, and vendor response timelines.",
-    tags: ["security", "Hacker News", "risk"]
-  },
-  {
-    rank: 10,
-    title: "K-pop comeback drives search, shorts, and fan edits",
-    source: "YouTube",
-    sourceUrl: "https://www.youtube.com/feed/trending",
-    category: "entertainment",
-    region: "asia",
-    window: "24h",
-    score: 70,
-    momentum: "+8%",
-    summary: "Music video views, fan edits, lyric searches, and reaction content are reinforcing the topic across platforms.",
-    tags: ["music", "YouTube", "K-pop"]
-  }
-];
-
-const state = {
-  category: "all",
-  region: "global",
-  window: "24h",
-  query: ""
+const feedState = {
+  stories: [],
+  activeTopic: "all"
 };
+
+const gdeltUrl = "https://api.gdeltproject.org/api/v2/doc/doc?query=sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=18&sort=datedesc";
+const hackerNewsUrl = "https://hn.algolia.com/api/v1/search_by_date?tags=front_page&hitsPerPage=18";
 
 if (navToggle && siteNav) {
   navToggle.addEventListener("click", () => {
@@ -160,82 +28,191 @@ if (newsletterForm) {
     const input = newsletterForm.querySelector("input[type='email']");
 
     if (note && input instanceof HTMLInputElement) {
-      note.textContent = "Thanks. Connect this form to your email service before production launch.";
+      note.textContent = "Thank you. Connect your email provider to activate subscriptions.";
       input.value = "";
     }
   });
 }
 
-function matchesFilters(item) {
-  const categoryMatch = state.category === "all" || item.category === state.category;
-  const regionMatch = state.region === "global" || item.region === "global" || item.region === state.region;
-  const windowMatch = item.window === state.window || state.window === "30d";
-  const haystack = [item.title, item.source, item.category, item.region, item.summary, ...item.tags]
-    .join(" ")
-    .toLowerCase();
-  const queryMatch = !state.query || haystack.includes(state.query.toLowerCase());
-
-  return categoryMatch && regionMatch && windowMatch && queryMatch;
+function text(value) {
+  return String(value || "").replace(/[&<>'"]/g, (character) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "'": "&#39;",
+    "\"": "&quot;"
+  }[character]));
 }
 
-function renderTrends() {
-  if (!trendList) {
+function validUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
+function classifyStory(title) {
+  const headline = title.toLowerCase();
+  const categories = [
+    ["technology", /ai|tech|software|cyber|chip|apple|google|microsoft|digital|internet|robot|openai/],
+    ["business", /market|stock|economy|company|bank|trade|finance|business|oil|tariff/],
+    ["science", /climate|health|science|research|space|medical|environment|weather/],
+    ["culture", /film|music|book|media|art|sport|game|television|festival|culture/]
+  ];
+  const found = categories.find(([, pattern]) => pattern.test(headline));
+  return found ? found[0] : "world";
+}
+
+function getDomain(url, fallback) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return fallback;
+  }
+}
+
+function formatDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "Just now";
+  }
+  return new Intl.DateTimeFormat("en", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }).format(date);
+}
+
+function makeReadingLink(story) {
+  const parameters = new URLSearchParams({
+    title: story.title,
+    source: story.source,
+    url: story.url,
+    topic: story.topic
+  });
+  return `article.html?${parameters.toString()}`;
+}
+
+function normalizeGdelt(payload) {
+  return (payload.articles || [])
+    .filter((item) => item.title && validUrl(item.url))
+    .map((item) => ({
+      title: item.title.trim(),
+      url: validUrl(item.url),
+      source: item.domain || getDomain(item.url, "News source"),
+      date: item.seendate || new Date().toISOString(),
+      topic: classifyStory(item.title),
+      origin: "GDELT"
+    }));
+}
+
+function normalizeHackerNews(payload) {
+  return (payload.hits || [])
+    .filter((item) => item.title && validUrl(item.url))
+    .map((item) => ({
+      title: item.title.trim(),
+      url: validUrl(item.url),
+      source: getDomain(item.url, "Hacker News"),
+      date: item.created_at || new Date().toISOString(),
+      topic: classifyStory(item.title),
+      origin: "Hacker News"
+    }));
+}
+
+async function fetchJson(url) {
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), 9000);
+  try {
+    const response = await fetch(url, { signal: controller.signal });
+    if (!response.ok) {
+      throw new Error(`Request failed: ${response.status}`);
+    }
+    return await response.json();
+  } finally {
+    window.clearTimeout(timeout);
+  }
+}
+
+function renderStories() {
+  if (!latestList || !featuredStory) {
     return;
   }
 
-  const filtered = trends.filter(matchesFilters);
+  const visibleStories = feedState.stories.filter((story) => feedState.activeTopic === "all" || story.topic === feedState.activeTopic);
+  const [lead, ...rest] = visibleStories;
 
-  trendList.innerHTML = filtered.length
-    ? filtered.map((item) => `
-        <article class="trend-item">
-          <div class="trend-rank">${item.rank}</div>
-          <div class="trend-main">
-            <div class="trend-meta">
-              <span>${item.source}</span>
-              <span>${item.category}</span>
-              <span>${item.region.toUpperCase()}</span>
-            </div>
-            <h3>${item.title}</h3>
-            <p>${item.summary}</p>
-            <div class="tag-row">
-              ${item.tags.map((tag) => `<span>${tag}</span>`).join("")}
-            </div>
-          </div>
-          <div class="trend-score" aria-label="Trend score">
-            <strong>${item.score}</strong>
-            <span>${item.momentum}</span>
-            <a href="${item.sourceUrl}" target="_blank" rel="nofollow noopener">Source</a>
-          </div>
-        </article>
-      `).join("")
-    : `<p class="empty-state">No matching trends. Try another source, region, or keyword.</p>`;
+  if (!lead) {
+    featuredStory.innerHTML = `<div class="story-wash" aria-hidden="true"></div><div class="featured-story-content"><p class="story-meta">No matching stories</p><h3>Try another topic.</h3><p>The live desk may not have a matching item at this moment.</p></div>`;
+    latestList.innerHTML = "";
+    return;
+  }
+
+  featuredStory.innerHTML = `
+    <div class="story-wash" aria-hidden="true"></div>
+    <div class="featured-story-content">
+      <p class="story-meta"><span>${text(lead.topic)}</span><span>${text(lead.source)}</span><span>${text(formatDate(lead.date))}</span></p>
+      <h3><a href="${makeReadingLink(lead)}">${text(lead.title)}</a></h3>
+      <p>A live item from ${text(lead.origin)}. Read the original reporting through the source link on the story page.</p>
+      <a class="story-link" href="${makeReadingLink(lead)}">Open reading note <span aria-hidden="true">&rarr;</span></a>
+    </div>`;
+
+  latestList.innerHTML = rest.map((story) => `
+    <article class="article-card">
+      <div class="article-card-main">
+        <p class="story-meta"><span>${text(story.topic)}</span><span>${text(story.source)}</span></p>
+        <h3><a href="${makeReadingLink(story)}">${text(story.title)}</a></h3>
+      </div>
+      <div class="article-card-side">
+        <time datetime="${text(story.date)}">${text(formatDate(story.date))}</time>
+        <a href="${makeReadingLink(story)}" aria-label="Read note for ${text(story.title)}">Read <span aria-hidden="true">&rarr;</span></a>
+      </div>
+    </article>`).join("");
 }
 
-filterButtons.forEach((button) => {
+async function loadLiveStories() {
+  if (!latestList || !featuredStory) {
+    return;
+  }
+
+  if (feedStatus) {
+    feedStatus.textContent = "Updating from public news sources";
+  }
+
+  try {
+    const gdelt = await fetchJson(gdeltUrl);
+    feedState.stories = normalizeGdelt(gdelt);
+    if (feedState.stories.length < 4) {
+      throw new Error("GDELT returned too few stories");
+    }
+    if (feedStatus) {
+      feedStatus.textContent = `Live desk updated ${new Intl.DateTimeFormat("en", { hour: "numeric", minute: "2-digit" }).format(new Date())} via GDELT`;
+    }
+  } catch {
+    try {
+      const hackerNews = await fetchJson(hackerNewsUrl);
+      feedState.stories = normalizeHackerNews(hackerNews);
+      if (feedStatus) {
+        feedStatus.textContent = "Live desk is using the Hacker News public API";
+      }
+    } catch {
+      feedState.stories = [];
+      if (feedStatus) {
+        feedStatus.textContent = "Live sources are temporarily unavailable. Please refresh shortly.";
+      }
+    }
+  }
+  renderStories();
+}
+
+topicButtons.forEach((button) => {
   button.addEventListener("click", () => {
-    const group = button.closest("[data-filter-group]");
-    if (!group) {
+    const topic = button.dataset.topic;
+    if (!topic) {
       return;
     }
-
-    group.querySelectorAll(".filter-pill").forEach((item) => item.classList.remove("is-active"));
-    button.classList.add("is-active");
-    state[group.dataset.filterGroup] = button.dataset.filter || "all";
-    renderTrends();
+    feedState.activeTopic = topic;
+    topicButtons.forEach((item) => item.classList.toggle("is-active", item.dataset.topic === topic));
+    renderStories();
+    document.querySelector("#latest")?.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 });
 
-if (searchForm && searchInput) {
-  searchForm.addEventListener("submit", (event) => {
-    event.preventDefault();
-    state.query = searchInput.value.trim();
-    renderTrends();
-  });
-
-  searchInput.addEventListener("input", () => {
-    state.query = searchInput.value.trim();
-    renderTrends();
-  });
-}
-
-renderTrends();
+loadLiveStories();
