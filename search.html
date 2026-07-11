@@ -1,10 +1,10 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Search | Ming News</title>
-    <meta name="description" content="Search Ming News articles and briefings.">
+    <title>Search Global Trends | Ming Trends</title>
+    <meta name="description" content="Search Ming Trends for global hot topics, overseas traffic sources, and English trend explainers.">
     <meta name="robots" content="noindex, follow">
     <link rel="canonical" href="https://your-domain.com/search.html">
     <link rel="stylesheet" href="assets/styles.css">
@@ -12,11 +12,12 @@
   <body>
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand" href="index.html"><span class="brand-mark">MN</span><span>Ming News</span></a>
+        <a class="brand" href="index.html"><span class="brand-mark">MT</span><span>Ming Trends</span></a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
         <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
-          <a href="index.html">Home</a>
-          <a href="index.html#latest">Latest</a>
+          <a href="index.html">Today</a>
+          <a href="index.html#rankings">Rankings</a>
+          <a href="sources.html">Source Guide</a>
           <a href="about.html">About</a>
           <a href="contact.html">Contact</a>
         </nav>
@@ -24,57 +25,45 @@
     </header>
     <main class="policy-page">
       <p class="eyebrow">Search</p>
-      <h1>Search Ming News</h1>
+      <h1>Search Global Trends</h1>
       <form class="newsletter-form search-form" role="search">
-        <label for="q">Search articles</label>
+        <label for="q">Search topics or sources</label>
         <div>
-          <input id="q" name="q" type="search" placeholder="Try technology, business, security" autocomplete="off">
+          <input id="q" name="q" type="search" placeholder="Google Trends, Reddit, AI tools, gaming..." autocomplete="off">
           <button type="submit">Search</button>
         </div>
       </form>
       <section class="story-list search-results" aria-live="polite" aria-label="Search results"></section>
     </main>
     <footer class="site-footer">
-      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">MN</span><span>Ming News</span></a><p>Independent English news analysis for a global readership.</p></div>
-      <nav aria-label="Footer navigation"><a href="about.html">About</a><a href="editorial-policy.html">Editorial Policy</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="contact.html">Contact</a></nav>
+      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">MT</span><span>Ming Trends</span></a><p>English hot lists and trend intelligence for global traffic sources.</p></div>
+      <nav aria-label="Footer navigation"><a href="sources.html">Source Guide</a><a href="about.html">About</a><a href="editorial-policy.html">Editorial Policy</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="contact.html">Contact</a></nav>
     </footer>
     <script>
-      const articles = [
+      const entries = [
+        {
+          title: "Global Trend Sources Guide",
+          category: "Source Guide",
+          url: "sources.html",
+          summary: "How Ming Trends adapts Google Trends, Reddit, YouTube, X, Hacker News, Product Hunt, GitHub, TikTok, Twitch, Steam, and more."
+        },
         {
           title: "How Newsrooms Use AI Without Giving Up Editorial Control",
           category: "Technology",
           url: "articles/how-newsrooms-use-ai.html",
-          summary: "A practical look at how editors use AI while keeping human accountability."
-        },
-        {
-          title: "Why Cities Are Rebuilding Public Data Portals",
-          category: "Policy",
-          url: "articles/cities-rebuild-public-data-portals.html",
-          summary: "Open data projects are becoming public services, not only compliance downloads."
-        },
-        {
-          title: "Small Businesses Turn Cash Discipline Into a Growth Strategy",
-          category: "Business",
-          url: "articles/small-business-cash-discipline.html",
-          summary: "Owners are tracking cash visibility, payment timing, and resilience more closely."
+          summary: "Useful background for AI, media, and automation topics."
         },
         {
           title: "Practical Cybersecurity Habits for Remote Teams",
           category: "Security",
           url: "articles/remote-team-cybersecurity-habits.html",
-          summary: "Simple routines can reduce avoidable risk for distributed teams."
-        },
-        {
-          title: "What Energy Storage Means for Grid Reliability",
-          category: "Energy",
-          url: "articles/energy-storage-grid-reliability.html",
-          summary: "Storage adds flexible capacity, backup options, and planning questions."
+          summary: "Evergreen context for security trends and breach explainers."
         },
         {
           title: "The Newsletter Renaissance Is About Trust, Not Nostalgia",
           category: "Media",
           url: "articles/newsletter-renaissance.html",
-          summary: "Readers reward publications that make a clear editorial promise and keep it."
+          summary: "Reader trust and direct distribution for media trend strategy."
         }
       ];
 
@@ -85,18 +74,18 @@
       function render(query) {
         const normalized = query.trim().toLowerCase();
         const matches = normalized
-          ? articles.filter((article) =>
-              [article.title, article.category, article.summary].join(" ").toLowerCase().includes(normalized)
+          ? entries.filter((entry) =>
+              [entry.title, entry.category, entry.summary].join(" ").toLowerCase().includes(normalized)
             )
-          : articles;
+          : entries;
 
         results.innerHTML = matches
-          .map((article) => `
+          .map((entry) => `
             <article>
-              <a href="${article.url}">
-                <span class="category">${article.category}</span>
-                <h3>${article.title}</h3>
-                <p>${article.summary}</p>
+              <a href="${entry.url}">
+                <span class="category">${entry.category}</span>
+                <h3>${entry.title}</h3>
+                <p>${entry.summary}</p>
               </a>
             </article>
           `)
@@ -118,3 +107,6 @@
     <script src="assets/main.js" defer></script>
   </body>
 </html>
+
+
+
