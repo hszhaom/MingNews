@@ -219,6 +219,18 @@ async function getText(url, fetchImpl) {
   return (await request(url, fetchImpl)).text();
 }
 
+async function getGdelt(url, fetchImpl) {
+  try {
+    return await getJson(url, fetchImpl);
+  } catch (error) {
+    if (!String(error?.message || "").includes("HTTP 429")) {
+      throw error;
+    }
+    await new Promise((resolve) => setTimeout(resolve, 6_000));
+    return getJson(url, fetchImpl);
+  }
+}
+
 function joinUrl(baseUrl, path) {
   return new URL(path.replace(/^\//, ""), `${baseUrl.replace(/\/$/, "")}/`).href;
 }
@@ -228,7 +240,7 @@ export async function aggregateNews({ config, fetchImpl = fetch, discoveredAt = 
     {
       id: "gdelt",
       sourceType: "gdelt",
-      run: async () => normalizeGdelt(await getJson(config.gdelt.url, fetchImpl), discoveredAt)
+      run: async () => normalizeGdelt(await getGdelt(config.gdelt.url, fetchImpl), discoveredAt)
     },
     {
       id: "hacker-news",

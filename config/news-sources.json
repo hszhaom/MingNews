@@ -13,25 +13,19 @@
       {
         "id": "bbc-world",
         "name": "BBC News",
-        "route": "/bbc/news/world",
-        "topic": "world"
-      },
-      {
-        "id": "guardian-world",
-        "name": "The Guardian",
-        "route": "/theguardian/uk/world",
+        "route": "/bbc/world",
         "topic": "world"
       },
       {
         "id": "npr-news",
         "name": "NPR News",
-        "route": "/npr/news",
+        "route": "/npr/1001",
         "topic": "world"
       },
       {
         "id": "al-jazeera",
         "name": "Al Jazeera English",
-        "route": "/aljazeera/english",
+        "route": "/aljazeera/english/rss",
         "topic": "world"
       }
     ]
