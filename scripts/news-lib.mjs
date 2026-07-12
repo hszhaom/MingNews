@@ -257,7 +257,9 @@ export async function aggregateNews({ config, fetchImpl = fetch, discoveredAt = 
 
   const stories = deduplicateStories(completed.flatMap((result) => result.stories), config.maximumStories);
   if (stories.length < config.minimumStories) {
-    throw new Error(`Only ${stories.length} valid stories were collected; at least ${config.minimumStories} are required.`);
+    const error = new Error(`Only ${stories.length} valid stories were collected; at least ${config.minimumStories} are required.`);
+    error.sourceStatuses = completed.map(({ stories: _stories, ...source }) => source);
+    throw error;
   }
 
   return {
