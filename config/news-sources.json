@@ -14,18 +14,21 @@
         "id": "bbc-world",
         "name": "BBC News",
         "route": "/bbc/world",
+        "fallbackUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "topic": "world"
       },
       {
         "id": "npr-news",
         "name": "NPR News",
         "route": "/npr/1001",
+        "fallbackUrl": "https://feeds.npr.org/1001/rss.xml",
         "topic": "world"
       },
       {
         "id": "al-jazeera",
         "name": "Al Jazeera English",
         "route": "/aljazeera/english/rss",
+        "fallbackUrl": "https://www.aljazeera.com/xml/rss/all.xml",
         "topic": "world"
       }
     ]

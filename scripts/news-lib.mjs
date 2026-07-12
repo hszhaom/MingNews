@@ -197,9 +197,9 @@ export function deduplicateStories(stories, maximumStories) {
     .slice(0, maximumStories);
 }
 
-async function request(url, fetchImpl) {
+async function request(url, fetchImpl, timeoutMs = REQUEST_TIMEOUT_MS) {
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const response = await fetchImpl(url, { signal: controller.signal, headers: { "user-agent": "MingJournalBot/1.0 (+https://your-domain.com/)" } });
     if (!response.ok) {
@@ -215,8 +215,8 @@ async function getJson(url, fetchImpl) {
   return (await request(url, fetchImpl)).json();
 }
 
-async function getText(url, fetchImpl) {
-  return (await request(url, fetchImpl)).text();
+async function getText(url, fetchImpl, timeoutMs) {
+  return (await request(url, fetchImpl, timeoutMs)).text();
 }
 
 async function getGdelt(url, fetchImpl) {
@@ -254,14 +254,31 @@ export async function aggregateNews({ config, fetchImpl = fetch, discoveredAt = 
     ...config.rsshub.sources.map((source) => ({
       id: source.id,
       sourceType: "rsshub",
-      run: async () => normalizeRss(await getText(joinUrl(rsshubBaseUrl, source.route), fetchImpl), source, discoveredAt)
+      run: async () => {
+        try {
+          return {
+            stories: normalizeRss(await getText(joinUrl(rsshubBaseUrl, source.route), fetchImpl, 45_000), source, discoveredAt),
+            transport: "rsshub"
+          };
+        } catch (rsshubError) {
+          if (!source.fallbackUrl) {
+            throw rsshubError;
+          }
+          return {
+            stories: normalizeRss(await getText(source.fallbackUrl, fetchImpl), source, discoveredAt),
+            transport: "native-rss"
+          };
+        }
+      }
     }))
   ];
 
   const completed = await Promise.all(jobs.map(async (job) => {
     try {
-      const stories = await job.run();
-      return { id: job.id, sourceType: job.sourceType, status: stories.length ? "ok" : "empty", count: stories.length, stories };
+      const result = await job.run();
+      const stories = Array.isArray(result) ? result : result.stories;
+      const transport = Array.isArray(result) ? undefined : result.transport;
+      return { id: job.id, sourceType: job.sourceType, status: stories.length ? (transport === "native-rss" ? "fallback" : "ok") : "empty", count: stories.length, transport, stories };
     } catch (error) {
       return { id: job.id, sourceType: job.sourceType, status: "failed", count: 0, stories: [], error: error instanceof Error ? error.message : "Request failed" };
     }

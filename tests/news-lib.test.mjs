@@ -111,3 +111,27 @@ test("aggregation rejects a publish when the minimum story threshold is not met"
     /Only 1 valid stories were collected/
   );
 });
+
+test("aggregation falls back to a publisher RSS feed when the RSSHub route fails", async () => {
+  const config = {
+    minimumStories: 2,
+    maximumStories: 10,
+    gdelt: { url: "https://gdelt.test/feed" },
+    hackerNews: { baseUrl: "https://hn.test/v0", storyLimit: 0 },
+    rsshub: { sources: [{ ...sourceConfig, route: "/bbc", fallbackUrl: "https://publisher.test/world.rss" }] }
+  };
+  const fetchImpl = async (url) => {
+    if (url === "https://gdelt.test/feed") return new Response("upstream failure", { status: 503 });
+    if (url === "https://hn.test/v0/topstories.json") return jsonResponse([]);
+    if (url === "http://rsshub.test/bbc") return new Response("route failure", { status: 502 });
+    if (url === "https://publisher.test/world.rss") return textResponse(rssFixture);
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const feed = await aggregateNews({ config, fetchImpl, discoveredAt: generatedAt, rsshubBaseUrl: "http://rsshub.test" });
+  const source = feed.sources.find((item) => item.id === "bbc-world");
+
+  assert.equal(source.status, "fallback");
+  assert.equal(source.transport, "native-rss");
+  assert.equal(feed.stories.length, 2);
+});
