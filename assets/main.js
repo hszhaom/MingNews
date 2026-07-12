@@ -151,16 +151,22 @@ function renderBoard() {
 
 function renderSourceHealth() {
   if (!sourceHealth) return;
-  const labels = { gdelt: "GDELT", rsshub: "RSSHub", "hacker-news": "Hacker News" };
-  const grouped = new Map();
-  state.sources.forEach((source) => {
-    const current = grouped.get(source.sourceType) || { count: 0, failed: 0 };
-    current.count += Number(source.count || 0);
-    current.failed += source.status === "failed" ? 1 : 0;
-    grouped.set(source.sourceType, current);
-  });
-  sourceHealth.innerHTML = grouped.size
-    ? [...grouped.entries()].map(([type, stats]) => `<div><span class="health-dot ${stats.failed ? "is-warning" : ""}"></span><span>${text(labels[type] || type)}</span><strong>${stats.count}</strong></div>`).join("")
+  const labels = {
+    gdelt: "GDELT",
+    "hacker-news": "Hacker News",
+    "bbc-world": "BBC News",
+    "guardian-world": "The Guardian",
+    "npr-news": "NPR News",
+    "al-jazeera": "Al Jazeera"
+  };
+  sourceHealth.innerHTML = state.sources.length
+    ? state.sources.map((source) => {
+      const fallback = source.status === "fallback";
+      const warning = source.status === "failed" || source.status === "empty";
+      const label = labels[source.id] || source.id || source.sourceType;
+      const stateLabel = fallback ? "Official RSS" : warning ? "Unavailable" : "Live";
+      return `<div title="${text(stateLabel)}"><span class="health-dot ${warning ? "is-warning" : fallback ? "is-fallback" : ""}"></span><span>${text(label)}<em>${text(stateLabel)}</em></span><strong>${Number(source.count || 0)}</strong></div>`;
+    }).join("")
     : "<p>No feed report published yet.</p>";
 }
 

@@ -18,6 +18,13 @@
         "topic": "world"
       },
       {
+        "id": "guardian-world",
+        "name": "The Guardian",
+        "route": "/theguardian/tag/world",
+        "fallbackUrl": "https://www.theguardian.com/world/rss",
+        "topic": "world"
+      },
+      {
         "id": "npr-news",
         "name": "NPR News",
         "route": "/npr/1001",

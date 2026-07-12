@@ -5,7 +5,7 @@ Ming Journal is an English news-reading interface with live discovery from publi
 ## What is included
 
 - Responsive white-and-ink reading interface with topic tags, article cards, an editorial sidebar, and AdSense-ready placements.
-- Static news aggregation via GDELT, a self-hosted RSSHub container, and Hacker News' official Firebase API.
+- Static news aggregation via GDELT, a self-hosted RSSHub container with official publisher-RSS fallback, and Hacker News' official Firebase API.
 - Client-side topic filters and source-linked reading notes.
 - `article.html` reading page with a table of contents, tags, original-source CTA, and browser-local demo comments.
 - `sources.html` guide explaining the public data sources and attribution model.
@@ -34,17 +34,16 @@ Then visit `http://localhost:8000`.
 
 ## Data strategy
 
-GitHub Actions runs every 30 minutes, starts an ephemeral RSSHub container, fetches GDELT plus Hacker News' official Firebase API, and deploys the normalized JSON as part of the Pages artifact. The browser requests only the same-origin `data/news.json` file.
+GitHub Actions runs every 30 minutes, starts an ephemeral RSSHub container, fetches GDELT plus Hacker News' official Firebase API, and publishes the normalized JSON to both `main` and the Pages artifact. Publisher feeds use RSSHub first and fall back to the official BBC, The Guardian, NPR, or Al Jazeera RSS endpoint when an RSSHub route is unavailable. The browser requests only the same-origin `data/news.json` file.
 
 ```json
 {
   "title": "Original headline",
   "source": "Original publisher",
-  "sourceUrl": "https://publisher.example/story",
+  "url": "https://publisher.example/story",
   "sourceType": "gdelt",
   "publishedAt": "2026-07-11T09:00:00Z",
-  "category": "technology",
-  "editorialSummary": "Original editorial context and source attribution."
+  "topic": "technology"
 }
 ```
 

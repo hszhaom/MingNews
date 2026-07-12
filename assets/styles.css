@@ -102,6 +102,8 @@ h2 { margin: 0; font-size: 1.15rem; line-height: 1.2; }
 .source-health strong { color: var(--ink); font-size: .78rem; }
 .health-dot { width: 6px; height: 6px; }
 .health-dot.is-warning { background: var(--amber); }
+.health-dot.is-fallback { background: var(--blue); }
+.source-health em { display: block; overflow: hidden; color: var(--muted); font-size: .65rem; font-style: normal; text-overflow: ellipsis; white-space: nowrap; }
 .source-health p { margin: 0; color: var(--muted); font-size: .78rem; }
 .topic-guide { display: flex; flex-wrap: wrap; gap: .38rem; }
 .topic-guide .sidebar-label { flex-basis: 100%; }
