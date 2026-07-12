@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T21:27:40.084Z",
+  "generatedAt": "2026-07-12T22:27:52.440Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,6 +45,138 @@
   ],
   "stories": [
     {
+      "id": "dfa1670ec45a278f90b6",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T22:17:40.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "7db28241a6c7c2caa4d3",
+      "title": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T22:08:20.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "51ea80653ad60ccb1842",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T22:08:07.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "92345e2e285e14c3aa5a",
+      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+      "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:59:36.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "488d4372a843fce9e04d",
+      "title": "Israel releases video of huge detonations in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:50:28.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "42e46244268f7b13f9bd",
+      "title": "Lindsey Graham, key ally of Donald Trump, dies after sudden illness aged 71",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:48:38.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "bdd0834353a9a5d73020",
+      "title": "Deadly Israeli strikes pound Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:33:10.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "a93920e58bf0fd6ce79d",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "url": "https://kode.diy/",
+      "source": "kode.diy",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T21:27:29.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "36b509078d7550e1cee6",
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T21:26:41.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "316f54fe9f6f7ab97a2a",
+      "title": "Israel to hold national elections on October 27, parliament says",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:26:28.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "65d822ca02be39e48865",
+      "title": "At least 27 killed in blaze at Bangkok pub, Thai officials say",
+      "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:23:56.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "baad21e8ed22ae3c98be",
+      "title": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:21:27.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
       "id": "d84f43dcc7d1f6d84da8",
       "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
@@ -53,18 +185,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:12:54.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "dbf4afb1642b11177611",
-      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
       "source": "scrapfly.dev",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T21:12:11.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "27f032d36d31eaff44eb",
@@ -75,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:09:03.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "2e8217c4d41d61533561",
@@ -86,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T21:08:15.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "af95c8bb55ff3852de5e",
@@ -97,315 +229,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T21:03:40.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
-      "id": "91356e49e9078f87a8c8",
-      "title": "Im a Daughter of the American Revolution battling to keep sons out",
-      "url": "https://nypost.com/2026/07/12/opinion/im-a-daughter-of-the-american-revolution-battling-to-keep-sons-out/",
-      "source": "nypost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "ded703bec5235142fb91",
-      "title": "Lawan , NILDS DG , others set to unveil book on Nigerian legislature - Blueprint Newspapers Limited",
-      "url": "https://blueprint.ng/lawan-nilds-dg-others-set-to-unveil-book-on-nigerian-legislature/",
-      "source": "blueprint.ng",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "28b084b17d72ec3d4b1b",
-      "title": "Sen . Lindsey Graham dies after brief and unexpected illness , his office says",
-      "url": "https://www.kcrg.com/2026/07/12/sen-lindsey-graham-dies-after-brief-unexpected-illness-his-office-says/",
-      "source": "kcrg.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "14a2a91b8f9af14e3259",
-      "title": "Mallett Brothers Band to open downtown concerts",
-      "url": "https://www.ellsworthamerican.com/lifestyle/entertainment/mallett-brothers-band-to-open-downtown-concerts/article_c9084ac3-6729-4c11-9ab6-df1c95d2a3f6.html",
-      "source": "ellsworthamerican.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "69286e02e2c360ca3df2",
-      "title": "WHO Issues Chilling Warning : Cancer Cases Are Exploding Globally",
-      "url": "https://freerepublic.com/focus/f-chat/4387703/posts",
-      "source": "freerepublic.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "1be0ad9d6009508b4f70",
-      "title": "Senate GOP plot thrown into chao by Lindsey Graham sudden death : analysts",
-      "url": "https://www.rawstory.com/gop-lindsey-graham/",
-      "source": "rawstory.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "93c1ba8ccea16b47d9f6",
-      "title": "Head of Academy Recruitment Departs - Ipswich Town News",
-      "url": "https://www.twtd.co.uk/ipswich-town-news/52330/head-of-academy-recruitment-departs",
-      "source": "twtd.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "7a5aa32195604a2b3d69",
-      "title": "Moana Opens with Underwhelming $43 Million to Lead Box Office",
-      "url": "https://mynewsla.com/hollywood/2026/07/12/moana-opens-with-underwhelming-43-million-to-lead-box-office-2/",
-      "source": "mynewsla.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "d93bd21bd42039d994a8",
-      "title": "After death of Lindsay Graham , special election to be held in South Carolina ; source says Rep . Nancy Mace is considering candidacy",
-      "url": "https://abc11.com/post/death-lindsay-graham-special-election-held-south-carolina-source-says-rep-nancy-mace-is-considering-candidacy/19493303/",
-      "source": "abc11.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "b168e87592cf0dc74151",
-      "title": "Unis to face fines for failing to stamp out racism",
-      "url": "https://www.irrigator.com.au/story/9309239/unis-to-face-fines-for-failing-to-stamp-out-racism/",
-      "source": "irrigator.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
+      "id": "ccf7101348556644904a",
+      "title": "The State of MCP Security [pdf]",
+      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+      "source": "canopii.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "43ceff35e2de56c5579e",
-      "title": "中國疾控中心發布六月疫情數據 ： 新增確診7 . 9萬宗 重症130宗",
-      "url": "https://www.singtaousa.com/2026/07/12/news/china/covid-19-june-national-cases-data/",
-      "source": "singtaousa.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "0ed1fbb6399ebdcea000",
-      "title": "DELIVERING ON COMMITMENTS",
-      "url": "https://www.postcourier.com.pg/delivering-on-commitments/",
-      "source": "postcourier.com.pg",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "6e31461090c2dce6c59f",
-      "title": "World News : Toronto active shooter incident leaves 5 people injured , 2 dead , police say",
-      "url": "https://www.gdnonline.com/Details/1400439/Toronto-active-shooter-incident-leaves-5-people-injured,-2-dead,-police-say",
-      "source": "gdnonline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "7faaf15d17179a4515f8",
-      "title": "Oasis Wonderwall streaming numbers soar after England triumph over Norway",
-      "url": "https://www.northwalespioneer.co.uk/news/national/26273522.oasiss-wonderwall-streaming-numbers-soar-englands-triumph-norway/",
-      "source": "northwalespioneer.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "6a8d95e351ea0632e3d3",
-      "title": "What This $1 . 1 Million Insider Sale at Accelerant Means for Investors",
-      "url": "https://www.fool.com/coverage/filings/2026/07/12/what-this-usd1-1-million-insider-sale-at-accelerant-means-for-investors/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "265ae3a1ed2b07bc8c15",
-      "title": "Danny Parkins Salary",
-      "url": "https://www.unitaid.eu/danny-parkins-salary-a9fv.html",
-      "source": "unitaid.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "fa02028f6a66a4ed7ad4",
-      "title": "Government Taxes : Half a New Sydney Home Cost Is Charges | Southern Cross",
-      "url": "https://www.juneesoutherncross.com.au/story/9306043/government-taxes-half-a-new-sydney-homes-cost-is-charges/",
-      "source": "juneesoutherncross.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "37f5855ce2e3f8b096ed",
-      "title": "Write of passage : paper trail ends for travel arrivals",
-      "url": "https://www.juneesoutherncross.com.au/story/9309243/write-of-passage-paper-trail-ends-for-travel-arrivals/",
-      "source": "juneesoutherncross.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "b7ae7f83f48e34be8745",
-      "title": "Group Home Jobs Near Me No Experience",
-      "url": "https://www.unitaid.eu/jobs-near-me-no-experience-sp6m.html",
-      "source": "unitaid.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "65e638f2eb7b1ad53979",
-      "title": "Christopher Nolan personal take on smartphones is surprisingly practical",
-      "url": "https://www.digitaltrends.com/movies/christopher-nolans-personal-take-on-smartphones-is-surprisingly-practical/",
-      "source": "digitaltrends.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "90ebc77090fee441eafb",
-      "title": "Welch & Forbes LLC Sells 1 , 276 Shares of iShares Core S & P 500 ETF $IVV",
-      "url": "https://www.dailypolitical.com/2026/07/12/welch-forbes-llc-sells-1276-shares-of-ishares-core-sp-500-etf-ivv.html",
-      "source": "dailypolitical.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "72a32eb50d1c75baff86",
-      "title": "Many feared killed as suspected herdsmen attack Benue communities - Blueprint Newspapers Limited",
-      "url": "https://blueprint.ng/many-feared-killed-as-suspected-herdsmen-attack-benue-communities/",
-      "source": "blueprint.ng",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "2d081d6ab1697cf0e188",
-      "title": "Cardinal May strives to regain form in rematch against Braves",
-      "url": "https://www.fultonsun.com/news/2026/jul/12/cardinals-may-strives-to-regain-form-in-rematch-against-braves/",
-      "source": "fultonsun.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "565aa36cd21b81a3dddd",
-      "title": "Lucy Dacus , Smidley",
-      "url": "https://isthmus.com/events/lucy-dacus-smidley/?occ_dtstart=2026-07-12T20%3A00",
-      "source": "isthmus.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "816bbc506a87ed2817a8",
-      "title": "Short Interest in Elmer Bancorp , Inc . ( OTCMKTS : ELMA ) Declines By 74 . 6 %",
-      "url": "https://www.themarketsdaily.com/2026/07/12/short-interest-in-elmer-bancorp-inc-otcmktselma-declines-by-74-6.html",
-      "source": "themarketsdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "10a89afc19cab774165f",
-      "title": "Turner says he hopes Senate will pass Russia sanctions as part of Lindsey Graham legacy",
-      "url": "https://www.yahoo.com/news/politics/articles/turner-says-hopes-senate-pass-165526588.html",
-      "source": "yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "052f1bccd7b09036b6c5",
-      "title": "Dublin - based children group warns about addictive social media",
-      "url": "http://www.coloradostar.com/news/279181178/concerns-by-dublin-based-children-s-group-over-social-media-design",
-      "source": "coloradostar.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
-    },
-    {
-      "id": "3d408e9aa7ea6c34c9c0",
-      "title": "ASX to climb , but Iran strikes escalate uncertainty",
-      "url": "https://www.theage.com.au/business/markets/asx-to-climb-but-iran-strikes-escalate-uncertainty-20260713-p60epu.html",
-      "source": "theage.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "publishedAt": "2026-07-12T20:49:46.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "14e2f1e161a92e71f62b",
@@ -416,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T20:48:37.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "a166cd8c85a43d4d6ebf",
@@ -427,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:30:54.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "44d8324be0c35c507f97",
@@ -438,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:25:43.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "43a6dd60de60e339e6b0",
@@ -449,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:23:54.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "ec00079b40e11d7b8b35",
@@ -460,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T20:23:05.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "accc9deea3d6bd529dbd",
@@ -471,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T20:20:37.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "cad321884f17b459682a",
@@ -482,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T20:16:12.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "564fc4ecf577c7836580",
@@ -493,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T20:14:43.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "4645627c90d2ba479161",
@@ -504,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T20:14:13.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "9c874374e648d593606f",
@@ -515,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:13:14.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "aae2d12896cdfbb1be87",
@@ -526,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T20:09:58.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "1180207ec261631495cb",
@@ -537,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:07:42.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "3786f5980dd82c2a00c6",
@@ -548,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T20:01:32.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
       "id": "731f3d6f40d94988aa21",
@@ -559,18 +394,183 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T19:56:26.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     },
     {
-      "id": "abbb805fc0840a3ce3e9",
-      "title": "Defining new Jax types with hijax",
-      "url": "https://docs.jax.dev/en/latest/hijax_types.html",
-      "source": "docs.jax.dev",
+      "id": "d71cedc5adeee5643f6d",
+      "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+      "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:53:24.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "033a00c4c33290d8ee2d",
+      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:53:03.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "c4d594e7248d01e3af39",
+      "title": "Lindsey Graham’s sudden death sends shockwaves through Congress as politicians mourn and mull his replacement – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:48:36.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "694d3b4e55971a48f288",
+      "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+      "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:48:00.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "e92ccca091cbd8e9e53f",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:42:26.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "b6010218a64d75af819f",
+      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:41:37.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "40ac73a38a7c88b0ddd9",
+      "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:31:20.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "73bda930f1219b8b503a",
+      "title": "Why the Iran-US ceasefire is falling apart",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:27:34.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "c910846d0cbb46d04512",
+      "title": "Anti-migrant display set alight in Northern Ireland bonfire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:21:17.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "305708d04ec2dd5b11dc",
+      "title": "Friends turned foes: The split reshaping Senegal",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:21:00.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "1cdb285b8c0e20c97ffe",
+      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+      "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:01:40.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "ccf9a2172464c13adc4f",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:57:17.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "2344b274087d514c011c",
+      "title": "Trump rejects Iran’s strait of Hormuz closure claim as fight for control goes on",
+      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:49:08.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "80d212d9fc99f7c6e2cb",
+      "title": "Reform would have received a fraction of £26.7m donations haul under a £100,000 cap, analysis shows",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:44:38.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "8025174f1e99e180627d",
+      "title": "Martha Lillard, last known US polio survivor using iron lung, dies aged 78",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/martha-lillard-last-polio-survivor-iron-lung-death",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:37:11.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
+    },
+    {
+      "id": "bccddf2bab1ba52291fe",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "geohot.github.io",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-12T19:54:30.000Z",
-      "discoveredAt": "2026-07-12T21:27:40.084Z"
+      "publishedAt": "2026-07-12T18:31:56.000Z",
+      "discoveredAt": "2026-07-12T22:27:52.440Z"
     }
   ]
 }
