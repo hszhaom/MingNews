@@ -1,38 +1,31 @@
 const navToggle = document.querySelector(".nav-toggle");
 const siteNav = document.querySelector(".site-nav");
-const newsletterForm = document.querySelector(".newsletter-form");
-const latestList = document.querySelector("#latest");
-const featuredStory = document.querySelector("#featured-story");
+const newsBoard = document.querySelector("#board");
 const feedStatus = document.querySelector("#feed-status");
+const storyCount = document.querySelector("#story-count");
+const sourceCount = document.querySelector("#source-count");
+const sourceTabs = document.querySelector("#source-tabs");
+const sourceHealth = document.querySelector("#source-health");
+const refreshButton = document.querySelector("#refresh-feed");
 const topicButtons = document.querySelectorAll("[data-topic]");
 
-const feedState = {
-  stories: [],
-  activeTopic: "all"
+const sourceLabels = {
+  gdelt: "Global media",
+  rsshub: "Publisher feeds",
+  "hacker-news": "Hacker News"
 };
 
-const sourceLabels = {
-  gdelt: "GDELT",
-  rsshub: "RSSHub",
-  "hacker-news": "Hacker News"
+const state = {
+  stories: [],
+  sources: [],
+  activeTopic: "all",
+  activeSource: "all"
 };
 
 if (navToggle && siteNav) {
   navToggle.addEventListener("click", () => {
     const isOpen = siteNav.classList.toggle("is-open");
     navToggle.setAttribute("aria-expanded", String(isOpen));
-  });
-}
-
-if (newsletterForm) {
-  newsletterForm.addEventListener("submit", (event) => {
-    event.preventDefault();
-    const note = newsletterForm.querySelector(".form-note");
-    const input = newsletterForm.querySelector("input[type='email']");
-    if (note && input instanceof HTMLInputElement) {
-      note.textContent = "Thank you. Connect your email provider to activate subscriptions.";
-      input.value = "";
-    }
   });
 }
 
@@ -58,110 +51,177 @@ function validUrl(value) {
 function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) {
-    return "Just now";
+    return "Now";
   }
   return new Intl.DateTimeFormat("en", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }).format(date);
 }
 
 function makeReadingLink(story) {
-  const parameters = new URLSearchParams({
-    title: story.title,
-    source: story.source,
-    url: story.url,
-    topic: story.topic
-  });
+  const parameters = new URLSearchParams({ title: story.title, source: story.source, url: story.url, topic: story.topic });
   return `article.html?${parameters.toString()}`;
 }
 
-function normalizeStoredStories(stories) {
+function sourceKey(story) {
+  if (story.sourceType === "gdelt" || story.sourceType === "hacker-news") {
+    return story.sourceType;
+  }
+  return story.sourceId || story.source.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+}
+
+function sourceName(story) {
+  return story.sourceType === "rsshub" ? story.source : (sourceLabels[story.sourceType] || story.source);
+}
+
+function normalizeStories(stories) {
   return (Array.isArray(stories) ? stories : [])
     .map((story) => ({
+      id: story.id,
       title: String(story.title || "").trim(),
       url: validUrl(story.url),
       source: String(story.source || "News source").trim(),
+      sourceId: String(story.sourceId || "").trim(),
+      sourceType: String(story.sourceType || "").trim(),
       topic: String(story.topic || "world").trim().toLowerCase(),
-      date: story.publishedAt,
-      origin: sourceLabels[story.sourceType] || "News desk"
+      publishedAt: story.publishedAt
     }))
     .filter((story) => story.title && story.url);
 }
 
-function renderStories() {
-  if (!latestList || !featuredStory) {
+function filteredStories() {
+  return state.stories.filter((story) => {
+    const topicMatch = state.activeTopic === "all" || story.topic === state.activeTopic;
+    const sourceMatch = state.activeSource === "all" || sourceKey(story) === state.activeSource;
+    return topicMatch && sourceMatch;
+  });
+}
+
+function storyGroups(stories) {
+  const groups = new Map();
+  stories.forEach((story) => {
+    const key = sourceKey(story);
+    if (!groups.has(key)) {
+      groups.set(key, { key, name: sourceName(story), type: story.sourceType, stories: [] });
+    }
+    groups.get(key).stories.push(story);
+  });
+  return [...groups.values()]
+    .map((group) => ({ ...group, stories: group.stories.sort((left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt)) }))
+    .sort((left, right) => right.stories.length - left.stories.length || left.name.localeCompare(right.name));
+}
+
+function sourceMark(group) {
+  if (group.type === "gdelt") return "G";
+  if (group.type === "hacker-news") return "HN";
+  return text(group.name.slice(0, 1).toUpperCase());
+}
+
+function renderSourceTabs() {
+  if (!sourceTabs) return;
+  const groups = storyGroups(state.stories);
+  const availableKeys = new Set(groups.map((group) => group.key));
+  if (state.activeSource !== "all" && !availableKeys.has(state.activeSource)) state.activeSource = "all";
+  sourceTabs.innerHTML = `
+    <button class="source-filter ${state.activeSource === "all" ? "is-active" : ""}" type="button" data-source="all">All feeds</button>
+    ${groups.map((group) => `<button class="source-filter ${state.activeSource === group.key ? "is-active" : ""}" type="button" data-source="${text(group.key)}"><span class="feed-dot feed-${text(group.type)}" aria-hidden="true"></span>${text(group.name)}</button>`).join("")}`;
+}
+
+function renderBoard() {
+  if (!newsBoard) return;
+  const groups = storyGroups(filteredStories());
+  if (!groups.length) {
+    newsBoard.innerHTML = `<div class="board-empty"><strong>No matching stories.</strong><p>Choose another topic or feed.</p></div>`;
     return;
   }
-  const visibleStories = feedState.stories.filter((story) => feedState.activeTopic === "all" || story.topic === feedState.activeTopic);
-  const [lead, ...rest] = visibleStories;
+  newsBoard.innerHTML = groups.map((group) => `
+    <section class="source-board source-${text(group.type)}" aria-labelledby="${text(group.key)}-title">
+      <header class="source-board-header">
+        <div class="source-title"><span class="source-mark">${sourceMark(group)}</span><div><h2 id="${text(group.key)}-title">${text(group.name)}</h2><p>${text(group.type === "rsshub" ? "Approved publisher feed" : sourceLabels[group.type] || "News source")}</p></div></div>
+        <span class="source-total">${group.stories.length}</span>
+      </header>
+      <ol class="ranked-stories">
+        ${group.stories.slice(0, 10).map((story, index) => `
+          <li>
+            <span class="rank rank-${index + 1}">${index + 1}</span>
+            <a href="${makeReadingLink(story)}"><span class="ranked-title">${text(story.title)}</span><span class="ranked-meta">${text(story.source)} · ${text(formatDate(story.publishedAt))}</span></a>
+          </li>`).join("")}
+      </ol>
+      <footer><button class="source-board-filter" type="button" data-board-source="${text(group.key)}">View this feed <span aria-hidden="true">&rarr;</span></button></footer>
+    </section>`).join("");
+}
 
-  if (!lead) {
-    featuredStory.innerHTML = `<div class="story-wash" aria-hidden="true"></div><div class="featured-story-content"><p class="story-meta">No published update</p><h3>The desk is awaiting its first refresh.</h3><p>The next scheduled aggregation will publish source-linked stories here.</p></div>`;
-    latestList.innerHTML = "";
-    return;
-  }
+function renderSourceHealth() {
+  if (!sourceHealth) return;
+  const labels = { gdelt: "GDELT", rsshub: "RSSHub", "hacker-news": "Hacker News" };
+  const grouped = new Map();
+  state.sources.forEach((source) => {
+    const current = grouped.get(source.sourceType) || { count: 0, failed: 0 };
+    current.count += Number(source.count || 0);
+    current.failed += source.status === "failed" ? 1 : 0;
+    grouped.set(source.sourceType, current);
+  });
+  sourceHealth.innerHTML = grouped.size
+    ? [...grouped.entries()].map(([type, stats]) => `<div><span class="health-dot ${stats.failed ? "is-warning" : ""}"></span><span>${text(labels[type] || type)}</span><strong>${stats.count}</strong></div>`).join("")
+    : "<p>No feed report published yet.</p>";
+}
 
-  featuredStory.innerHTML = `
-    <div class="story-wash" aria-hidden="true"></div>
-    <div class="featured-story-content">
-      <p class="story-meta"><span>${text(lead.topic)}</span><span>${text(lead.source)}</span><span>${text(formatDate(lead.date))}</span></p>
-      <h3><a href="${makeReadingLink(lead)}">${text(lead.title)}</a></h3>
-      <p>Discovered through ${text(lead.origin)}. Read the original reporting through the source link on the story page.</p>
-      <a class="story-link" href="${makeReadingLink(lead)}">Open reading note <span aria-hidden="true">&rarr;</span></a>
-    </div>`;
+function renderStats() {
+  if (storyCount) storyCount.textContent = String(state.stories.length);
+  if (sourceCount) sourceCount.textContent = String(storyGroups(state.stories).length);
+}
 
-  latestList.innerHTML = rest.map((story) => `
-    <article class="article-card">
-      <div class="article-card-main">
-        <p class="story-meta"><span>${text(story.topic)}</span><span>${text(story.source)}</span></p>
-        <h3><a href="${makeReadingLink(story)}">${text(story.title)}</a></h3>
-      </div>
-      <div class="article-card-side">
-        <time datetime="${text(story.date)}">${text(formatDate(story.date))}</time>
-        <a href="${makeReadingLink(story)}" aria-label="Read note for ${text(story.title)}">Read <span aria-hidden="true">&rarr;</span></a>
-      </div>
-    </article>`).join("");
+function renderAll() {
+  renderStats();
+  renderSourceTabs();
+  renderSourceHealth();
+  renderBoard();
 }
 
 async function loadPublishedStories() {
-  if (!latestList || !featuredStory) {
-    return;
-  }
-  if (feedStatus) {
-    feedStatus.textContent = "Loading the latest published refresh";
-  }
-
+  if (feedStatus) feedStatus.textContent = "Loading published update";
+  if (refreshButton) refreshButton.disabled = true;
   try {
     const response = await fetch(`data/news.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`Request failed: ${response.status}`);
-    }
+    if (!response.ok) throw new Error(`Request failed: ${response.status}`);
     const feed = await response.json();
-    feedState.stories = normalizeStoredStories(feed.stories);
-    const activeSources = (Array.isArray(feed.sources) ? feed.sources : []).filter((source) => source.status === "ok").length;
-    if (feedStatus) {
-      feedStatus.textContent = feed.generatedAt
-        ? `Last published refresh ${formatDate(feed.generatedAt)}${activeSources ? ` from ${activeSources} source groups` : ""}`
-        : "The desk is awaiting its first scheduled refresh.";
-    }
+    state.stories = normalizeStories(feed.stories);
+    state.sources = Array.isArray(feed.sources) ? feed.sources : [];
+    if (feedStatus) feedStatus.textContent = feed.generatedAt ? `Published ${formatDate(feed.generatedAt)}` : "Awaiting first scheduled refresh";
   } catch {
-    feedState.stories = [];
-    if (feedStatus) {
-      feedStatus.textContent = "The latest published refresh is temporarily unavailable.";
-    }
+    state.stories = [];
+    state.sources = [];
+    if (feedStatus) feedStatus.textContent = "Published feed is temporarily unavailable";
+  } finally {
+    if (refreshButton) refreshButton.disabled = false;
   }
-  renderStories();
+  renderAll();
 }
 
 topicButtons.forEach((button) => {
   button.addEventListener("click", () => {
     const topic = button.dataset.topic;
-    if (!topic) {
-      return;
-    }
-    feedState.activeTopic = topic;
+    if (!topic) return;
+    state.activeTopic = topic;
     topicButtons.forEach((item) => item.classList.toggle("is-active", item.dataset.topic === topic));
-    renderStories();
-    document.querySelector("#latest")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    renderBoard();
   });
 });
 
+sourceTabs?.addEventListener("click", (event) => {
+  const button = event.target.closest("[data-source]");
+  if (!button) return;
+  state.activeSource = button.dataset.source || "all";
+  renderSourceTabs();
+  renderBoard();
+});
+
+newsBoard?.addEventListener("click", (event) => {
+  const button = event.target.closest("[data-board-source]");
+  if (!button) return;
+  state.activeSource = button.dataset.boardSource || "all";
+  renderSourceTabs();
+  renderBoard();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+refreshButton?.addEventListener("click", loadPublishedStories);
 loadPublishedStories();

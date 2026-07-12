@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ming Journal | A quieter read on the world's live news</title>
-    <meta name="description" content="Ming Journal is an English-language news reading desk. It brings together live reporting from open public news APIs with clear source links and a calm, editorial reading experience.">
+    <title>Ming Journal | Global News Pulse</title>
+    <meta name="description" content="A source-first English news pulse that ranks current stories from global media, trusted feeds, and developer communities.">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://your-domain.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Ming Journal | Live news, quietly arranged">
-    <meta property="og:description" content="A calm English-language reading desk for live global reporting, built with transparent source attribution.">
+    <meta property="og:title" content="Ming Journal | Global News Pulse">
+    <meta property="og:description" content="Current stories, grouped by source and refreshed through a transparent public-feed pipeline.">
     <meta property="og:image" content="https://your-domain.com/assets/hero-newsroom.png">
     <meta property="og:url" content="https://your-domain.com/">
     <meta name="twitter:card" content="summary_large_image">
@@ -20,7 +20,7 @@
         "@type": "WebSite",
         "name": "Ming Journal",
         "url": "https://your-domain.com/",
-        "description": "An English-language reading desk for live global reporting with clear source links.",
+        "description": "A source-first English news pulse for current global reporting.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://your-domain.com/search.html?q={search_term_string}",
@@ -30,127 +30,83 @@
     </script>
   </head>
   <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#board">Skip to news board</a>
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand" href="index.html" aria-label="Ming Journal home">
-          <span class="brand-mark">M</span>
-          <span>Ming Journal</span>
-        </a>
+        <a class="brand" href="index.html" aria-label="Ming Journal home"><span class="brand-mark">M</span><span>Ming Journal</span></a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
         <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
-          <a href="#latest">Latest</a>
-          <a href="#editorial">Editorial notes</a>
-          <a href="sources.html">Source guide</a>
+          <a class="is-current" href="index.html">Pulse</a>
+          <a href="sources.html">Sources</a>
           <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
         </nav>
       </div>
     </header>
 
     <main id="main">
-      <section class="journal-intro section-wrap" aria-labelledby="page-title">
-        <p class="eyebrow">Independent reading desk</p>
-        <h1 id="page-title">Live news,<br>quietly arranged.</h1>
-        <p class="intro-copy">A considered view of the world's current reporting. We use open public data feeds for discovery, keep the original publisher visible, and leave room for context.</p>
-        <p class="live-note"><span class="live-dot" aria-hidden="true"></span><span id="feed-status">Loading the latest published refresh</span></p>
+      <section class="pulse-heading section-wrap" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Global news pulse</p>
+          <h1 id="page-title">What is moving now.</h1>
+          <p class="pulse-copy">A compact, source-first board for English-language headlines. Every item keeps its original publisher in view.</p>
+        </div>
+        <div class="pulse-stats" aria-label="Feed status">
+          <div><strong id="story-count">--</strong><span>stories</span></div>
+          <div><strong id="source-count">--</strong><span>feeds</span></div>
+          <p><span class="live-dot" aria-hidden="true"></span><span id="feed-status">Loading published update</span></p>
+        </div>
       </section>
 
-      <nav class="topic-bar section-wrap" aria-label="News topics">
-        <button class="topic-filter is-active" type="button" data-topic="all">All stories</button>
-        <button class="topic-filter" type="button" data-topic="world">World</button>
-        <button class="topic-filter" type="button" data-topic="business">Business</button>
-        <button class="topic-filter" type="button" data-topic="technology">Technology</button>
-        <button class="topic-filter" type="button" data-topic="culture">Culture</button>
-        <button class="topic-filter" type="button" data-topic="science">Science</button>
-      </nav>
+      <div class="board-controls">
+        <div class="section-wrap">
+          <nav class="topic-tabs" aria-label="News categories">
+            <button class="topic-filter is-active" type="button" data-topic="all">All</button>
+            <button class="topic-filter" type="button" data-topic="world">World</button>
+            <button class="topic-filter" type="button" data-topic="business">Business</button>
+            <button class="topic-filter" type="button" data-topic="technology">Technology</button>
+            <button class="topic-filter" type="button" data-topic="science">Science</button>
+            <button class="topic-filter" type="button" data-topic="culture">Culture</button>
+          </nav>
+          <button class="refresh-feed" id="refresh-feed" type="button">Refresh</button>
+        </div>
+      </div>
 
-      <div class="reading-layout section-wrap">
-        <section class="news-feed" aria-labelledby="latest-title">
-          <div class="section-kicker">
-            <p class="eyebrow">The current desk</p>
-            <h2 id="latest-title">Latest reporting</h2>
-          </div>
-          <article class="featured-story" id="featured-story" aria-live="polite">
-            <div class="story-wash" aria-hidden="true"></div>
-            <div class="featured-story-content">
-              <p class="story-meta">Loading live report</p>
-              <h3>Looking for the latest reporting</h3>
-              <p>Stories arrive here from the public news feeds. The original publisher remains the primary source.</p>
-            </div>
-          </article>
-          <div class="article-list" id="latest" aria-live="polite"></div>
-          <p class="source-disclosure">A static news feed is published every 30 minutes from <a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT Project</a>, self-hosted <a href="https://github.com/DIYgod/RSSHub" target="_blank" rel="noopener">RSSHub</a>, and the <a href="https://github.com/HackerNews/API" target="_blank" rel="noopener">Hacker News public API</a>. Headlines link to a short reading note and then to the original reporting.</p>
+      <section class="source-tabs-wrap section-wrap" aria-label="News sources">
+        <div class="source-tabs" id="source-tabs">
+          <button class="source-filter is-active" type="button" data-source="all">All feeds</button>
+        </div>
+      </section>
+
+      <div class="board-layout section-wrap">
+        <section class="news-board" id="board" aria-label="Ranked news sources" aria-live="polite">
+          <div class="board-loading"><span></span><p>Preparing source boards</p></div>
         </section>
-
-        <aside class="reading-sidebar" aria-label="Reading tools">
-          <section class="sidebar-block table-of-contents">
-            <p class="sidebar-label">On this page</p>
-            <a href="#latest">Latest reporting</a>
-            <a href="#editorial">How we frame stories</a>
-            <a href="#sources">Data sources</a>
+        <aside class="board-sidebar" aria-label="Feed information">
+          <section class="sidebar-block source-health-panel">
+            <p class="sidebar-label">Feed status</p>
+            <div id="source-health" class="source-health"><p>Checking published feed...</p></div>
           </section>
-          <section class="sidebar-block" aria-labelledby="topics-title">
-            <p class="sidebar-label" id="topics-title">Popular topics</p>
-            <div class="tag-cloud">
-              <button type="button" data-topic="technology">Artificial intelligence</button>
-              <button type="button" data-topic="business">Markets</button>
-              <button type="button" data-topic="world">Public policy</button>
-              <button type="button" data-topic="science">Climate</button>
-              <button type="button" data-topic="culture">Media</button>
-            </div>
+          <section class="sidebar-block topic-guide">
+            <p class="sidebar-label">Browse by topic</p>
+            <button type="button" data-topic="technology">AI & technology</button>
+            <button type="button" data-topic="business">Markets & business</button>
+            <button type="button" data-topic="world">Global affairs</button>
+            <button type="button" data-topic="science">Science & climate</button>
           </section>
-          <section class="sidebar-block source-panel" id="sources" aria-labelledby="sources-title">
-            <p class="sidebar-label" id="sources-title">Data sources</p>
-            <p>Published static data from open feeds. No scraped article body is republished here.</p>
-            <a href="sources.html">Read our source guide <span aria-hidden="true">&rarr;</span></a>
+          <section class="source-note">
+            <p class="sidebar-label">About this board</p>
+            <p>Updated every 30 minutes from GDELT, self-hosted RSSHub routes, and the Hacker News public API.</p>
+            <a href="sources.html">Source guide <span aria-hidden="true">&rarr;</span></a>
           </section>
           <aside class="ad-slot" aria-label="Advertisement"><span>Advertisement</span></aside>
         </aside>
       </div>
-
-      <section class="editorial-band" id="editorial" aria-labelledby="editorial-title">
-        <div class="section-wrap editorial-grid">
-          <div>
-            <p class="eyebrow">Editorial note</p>
-            <h2 id="editorial-title">The signal needs a little silence around it.</h2>
-          </div>
-          <div class="editorial-copy">
-            <p>Fast feeds are useful for finding a story, not for replacing it. Ming Journal points readers to the publisher, records the feed behind each item, and makes space for a small piece of original context.</p>
-            <a class="text-link" href="editorial-policy.html">Read the editorial policy <span aria-hidden="true">&rarr;</span></a>
-          </div>
-        </div>
-      </section>
-
-      <section class="newsletter section-wrap" aria-labelledby="newsletter-title">
-        <div>
-          <p class="eyebrow">A weekly selection</p>
-          <h2 id="newsletter-title">A few stories worth carrying forward.</h2>
-        </div>
-        <form class="newsletter-form" aria-describedby="newsletter-note">
-          <label for="email">Email address</label>
-          <div>
-            <input id="email" name="email" type="email" placeholder="reader@example.com" autocomplete="email" required>
-            <button type="submit">Subscribe</button>
-          </div>
-          <p id="newsletter-note" class="form-note" aria-live="polite">A connection to your email provider is needed before launch.</p>
-        </form>
-      </section>
     </main>
 
     <footer class="site-footer">
-      <div>
-        <a class="brand footer-brand" href="index.html"><span class="brand-mark">M</span><span>Ming Journal</span></a>
-        <p>Live reporting, clearly sourced, designed for unhurried reading.</p>
-      </div>
-      <nav aria-label="Footer navigation">
-        <a href="sources.html">Source Guide</a>
-        <a href="about.html">About</a>
-        <a href="editorial-policy.html">Editorial Policy</a>
-        <a href="privacy-policy.html">Privacy Policy</a>
-        <a href="terms.html">Terms</a>
-        <a href="contact.html">Contact</a>
-        <a href="rss.xml">RSS</a>
-      </nav>
+      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">M</span><span>Ming Journal</span></a><p>Source-linked news, arranged for quick scanning.</p></div>
+      <nav aria-label="Footer navigation"><a href="sources.html">Source Guide</a><a href="about.html">About</a><a href="editorial-policy.html">Editorial Policy</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="contact.html">Contact</a><a href="rss.xml">RSS</a></nav>
     </footer>
     <script src="assets/main.js" defer></script>
   </body>
