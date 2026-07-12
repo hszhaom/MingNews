@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T17:38:15.112Z",
+  "generatedAt": "2026-07-12T19:19:19.603Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -52,8 +52,162 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-12T17:24:30.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "publishedAt": "2026-07-12T18:58:05.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "ccf9a2172464c13adc4f",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:57:17.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "2344b274087d514c011c",
+      "title": "Trump rejects Iran’s strait of Hormuz closure claim as fight for control goes on",
+      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:49:08.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "80d212d9fc99f7c6e2cb",
+      "title": "Reform would have received a fraction of £26.7m donations haul under a £100,000 cap, analysis shows",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:44:38.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "8025174f1e99e180627d",
+      "title": "Martha Lillard, last known US polio survivor using iron lung, dies aged 78",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/martha-lillard-last-polio-survivor-iron-lung-death",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:37:11.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "bccddf2bab1ba52291fe",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "geohot.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T18:31:56.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "398431a5f118d841d6a8",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "systima.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T18:25:51.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "06d08cd06ab8f5ab9d47",
+      "title": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T18:24:30.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "58e9d60354f812376cd7",
+      "title": "Can We Understand How Large Language Models Reason?",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "source": "cacm.acm.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T18:04:41.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "6cdb6eaffa243bc4c7bb",
+      "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+      "url": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T17:51:54.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "b10885c363a60bbb0344",
+      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T17:50:27.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "1c7a2c4c0ae710a1721c",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "source": "motivenotes.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T17:47:07.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "51ea80653ad60ccb1842",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T17:40:34.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "f7905e7d10bb01e93bf7",
+      "title": "Former Spanish PM accused of racism in remarks about French football team",
+      "url": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T17:39:13.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "1fb64130eaee92d99afa",
+      "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/yellowstone-bull-bison-throws-tourist-in-air",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T17:33:54.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "4f0d13a3e26dbe0a1037",
@@ -64,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T17:22:29.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "13db120e7286ea1c73b7",
@@ -75,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:02:46.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "2ffb6e8feaa10bd7567a",
@@ -86,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:00:11.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "244323ace81c44502f82",
@@ -97,7 +251,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:58:11.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
+    },
+    {
+      "id": "5a859e76426e6fd5bdd9",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "source": "larp.website",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T16:56:41.000Z",
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "ecb9907c4735b60bfc94",
@@ -108,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T16:55:42.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "0ef8c45c136f61abed74",
@@ -119,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:54:49.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "f56a5a53af112434d12b",
@@ -130,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T16:54:47.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "cba747cc5376f1d8fbdd",
@@ -141,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T16:48:41.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "dfa1670ec45a278f90b6",
@@ -152,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:46:24.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "0a070643e38ce9e820ed",
@@ -163,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:43:24.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "3eacfeba8212ab5853c0",
@@ -174,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:42:54.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "8b29f77375fcd0a486f6",
@@ -185,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:38:34.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "84ea2719fdd7142d5fb6",
@@ -196,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:35:50.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "fef3e5e9bba109182ce1",
@@ -207,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:34:17.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "69a81a0649b922492d05",
@@ -218,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:30:57.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "6553513973cfdee6f0a5",
@@ -229,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:30:00.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "0e3145e1671f3029b337",
@@ -240,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:11:57.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "b57077029a6d11b528a9",
@@ -251,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T16:05:29.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "0eaea0479a41d11d1374",
@@ -262,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:05:05.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "fb6b5f50906fc04a49e3",
@@ -273,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T15:53:53.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "bdb6a24585b6142c4149",
@@ -284,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T15:47:50.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "9db353967a4ea45c75a7",
-      "title": "How to Read More Books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "source": "scotto.me",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T15:47:16.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "f2fefe7ebf2f16390a5a",
@@ -306,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T15:38:36.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "1883a8115dc95130020c",
@@ -317,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T15:38:03.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "c5c1b5d6c5b2191c5676",
@@ -328,18 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T15:35:36.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "51ea80653ad60ccb1842",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:34:45.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "4c25688fefb6d395562c",
@@ -350,18 +493,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T15:33:27.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "438670f373aaeff05c64",
-      "title": "A no-brainer for protecting your brain",
+      "title": "The shingles vaccine may reduce the risk of dementia",
       "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
       "source": "economist.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T15:23:59.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "9d1a5d46cbbbcffb42b8",
@@ -372,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T15:22:52.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "7141896f80f2d1a400cb",
@@ -383,18 +526,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T15:19:05.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "bdfb1ef18e23afeae824",
-      "title": "Don't You Mean Extinct?",
+      "title": "Don't you mean extinct?",
       "url": "https://fabiensanglard.net/extinct/index.html",
       "source": "fabiensanglard.net",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T15:17:20.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "fe9139ad74753c6f9b79",
@@ -405,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T15:16:44.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "3a938b17e5b6becb5d78",
@@ -416,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T15:03:49.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     },
     {
       "id": "16d484768c9932c79f49",
@@ -427,150 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T15:00:22.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "68952a28d80803641c14",
-      "title": "Australia to ditch paper arrrival cards for incoming travellers",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:00:22.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "2de4366aec2e2cc5a989",
-      "title": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
-      "url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:00:21.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "b6010218a64d75af819f",
-      "title": "US politicians and foreign leaders pay tribute to Lindsey Graham",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:59:35.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "28b81bb600e632480aab",
-      "title": "Middle East crisis live: Trump claims strait of Hormuz open to commercial traffic despite Iran earlier announcing closure – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:57:09.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "42e46244268f7b13f9bd",
-      "title": "Lindsey Graham, key ally of Donald Trump, dies after sudden illness aged 71",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:54:05.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "8288151b08cbe8d9b94a",
-      "title": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:47:15.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "b360ccfcdd391598b109",
-      "title": "The architect of Qatari autonomy",
-      "url": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:42:27.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "9ad000cac78b6d7dcb49",
-      "title": "Autoresearch, Claude and Constrained Optimization",
-      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "source": "elliotcsmith.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T14:32:00.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "a166cd8c85a43d4d6ebf",
-      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
-      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:26:34.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "43583e22460487e29dfe",
-      "title": "Ukrainian drone strikes force Russia to suspend shipping in Sea of Azov",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:19:45.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "ee3a2fc05bb129d4d675",
-      "title": "Man arrested after 24-year-old woman killed in stabbing in west London",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/12/suspect-arrested-after-woman-killed-stabbing-hayes-west-london",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:16:46.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "46a107ffee775ba44fdd",
-      "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
-      "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T14:12:45.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
-    },
-    {
-      "id": "6c02efeef6c7a157ca30",
-      "title": "Marc Marquez dominates German MotoGP to close in on championship lead",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/marc-marquez-dominates-germany-motogp-to-close-in-on-championship-lead?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T13:45:32.000Z",
-      "discoveredAt": "2026-07-12T17:38:15.112Z"
+      "discoveredAt": "2026-07-12T19:19:19.603Z"
     }
   ]
 }
