@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T06:23:15.643Z",
+  "generatedAt": "2026-07-12T06:25:03.762Z",
   "sources": [
     {
       "id": "gdelt",
@@ -17,8 +17,9 @@
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
-      "status": "failed",
-      "count": 0
+      "status": "fallback",
+      "count": 30,
+      "transport": "native-rss"
     },
     {
       "id": "guardian-world",
@@ -44,17 +45,6 @@
   ],
   "stories": [
     {
-      "id": "468575540e062910960d",
-      "title": "Ghana slavery apology: Why many descendants say words are not enough",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T06:08:46.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
       "id": "90e820b379165516e6e7",
       "title": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
       "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
@@ -63,7 +53,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T06:01:07.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "7ad7de7a09eb5fadabfd",
@@ -74,7 +64,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T06:00:10.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "e2288f483f9389fb4eb6",
@@ -85,7 +75,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T05:49:28.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "2344b274087d514c011c",
@@ -96,7 +86,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T05:27:38.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "924a44a4cccbe5555e24",
@@ -107,7 +97,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T05:15:01.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "2718a8492619ed08a8f8",
@@ -118,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T05:07:10.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "f3e59c53ae812a88adf7",
@@ -129,7 +119,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T05:03:18.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "cfeb09bfbbe61b8d9eec",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T05:00:15.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "ba11c84e00333e2ecaea",
@@ -140,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T05:00:09.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "26b5c01a179ad700e438",
@@ -151,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T05:00:09.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "6632b5fc876d46977866",
@@ -162,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T05:00:09.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "c67f9aa3df4df4969b70",
@@ -173,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T04:59:27.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "61f24b73ce7340da21f2",
@@ -184,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T04:44:34.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "de4fdb7198edc4bc1f48",
@@ -195,7 +196,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T04:43:50.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "dfa1670ec45a278f90b6",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T04:39:18.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "8f9e111072991fc6c15c",
@@ -206,7 +218,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T04:15:27.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "734e4a82531c3b6085f2",
@@ -217,7 +229,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T04:10:30.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "8a648ac553bf40b55a3f",
@@ -228,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T04:03:00.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "97f6b326f606645cb657",
@@ -239,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T04:00:31.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "bbd1f8e65e045d90c76c",
@@ -250,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T04:00:14.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "2369620d17a3ce1893ce",
@@ -261,7 +273,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T04:00:08.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "38ac4c51239d964dda61",
+      "title": "At least two killed in Toronto street festival shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T03:56:02.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "bb3b2656a82931b662c7",
@@ -272,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T03:50:27.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "63a83c714337e6e80166",
@@ -283,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T03:45:57.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "ae9643828695ef2d801f",
@@ -294,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T03:34:23.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "62338792d280a7a68be1",
@@ -305,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T02:13:46.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "0ff0b365d7d7c42e1137",
@@ -316,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T01:59:35.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "30acbc2366bc1ff30740",
@@ -327,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T01:56:01.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "441b03b5ebbf80f9e515",
@@ -338,7 +361,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T01:38:29.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "78e09d391aa6cbea4322",
@@ -349,7 +372,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T01:32:36.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "fba06f9bdaf76e163751",
+      "title": "China's second typhoon in a week makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T01:22:22.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "c815bb5e842ab4f651a1",
@@ -360,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T01:03:29.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "b6b48447e89972bfc01a",
@@ -371,7 +405,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T00:57:18.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "bf19969bcfe4f3d34882",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T00:49:24.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "0f9b82244dc5327945e4",
@@ -382,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T00:22:21.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "b4f8cd6d4b378774efa8",
@@ -393,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T00:20:54.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "5aadfd4a822bbeb6ee8d",
@@ -404,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T00:11:57.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "bb6659d25dd804b914c1",
@@ -415,7 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T00:00:00.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "20e6ed2105c4b77ea18a",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-11T23:58:40.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "5d48a7443ee53a4e6ad9",
@@ -426,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-11T23:46:50.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "7ef77d4574d9384ff061",
@@ -437,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-11T23:35:23.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "49632194f95ea4a6cac3",
@@ -448,7 +504,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-11T23:31:23.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "27548eac63f37d489a0e",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-11T23:27:45.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
+    },
+    {
+      "id": "f1dd5799e667b763ce1d",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-11T23:27:31.000Z",
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "3f3b171af100020d0e06",
@@ -459,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-11T22:58:10.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "93e726a6a300de816b01",
@@ -470,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-11T22:46:26.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "0cb2a7c0c0cba9c680db",
@@ -481,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-11T22:38:57.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     },
     {
       "id": "3a32854df8c899519b5c",
@@ -492,84 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-11T21:58:00.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "0b34fc202103e96297b4",
-      "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-11T21:53:40.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "150502a1855bc0f87f0d",
-      "title": "Argentina 3-1 Switzerland (aet): FIFA World Cup 2026 – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-11T21:31:40.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "62d20a8f3e4074bf51a1",
-      "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-11T21:09:56.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "834afaf4ba7c6102b8d2",
-      "title": "This English professor has run with the bulls in Spain for two decades",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-11T21:08:27.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "fbc6e7f9c84e1ba4fa48",
-      "title": "UK police investigate murder of politician Ann Widdecombe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-11T20:29:40.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "4fef56519382917ac7f7",
-      "title": "Man dies after falling from Eleventh Night bonfire in east Belfast",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/man-dies-after-falling-from-eleventh-night-bonfire-in-east-belfast",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-11T20:16:27.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
-    },
-    {
-      "id": "19bc97f0f030fdb0f5ed",
-      "title": "What’s behind Pakistan’s mass deportation of Afghans?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-11T20:11:55.000Z",
-      "discoveredAt": "2026-07-12T06:23:15.643Z"
+      "discoveredAt": "2026-07-12T06:25:03.762Z"
     }
   ]
 }
