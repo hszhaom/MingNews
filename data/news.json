@@ -1,6 +1,220 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "sources": [],
-  "stories": []
+  "generatedAt": "2026-07-12T03:23:30.803Z",
+  "sources": [
+    {
+      "id": "gdelt",
+      "sourceType": "gdelt",
+      "status": "failed",
+      "count": 0
+    },
+    {
+      "id": "hacker-news",
+      "sourceType": "hacker-news",
+      "status": "ok",
+      "count": 16
+    },
+    {
+      "id": "bbc-world",
+      "sourceType": "rsshub",
+      "status": "failed",
+      "count": 0
+    },
+    {
+      "id": "guardian-world",
+      "sourceType": "rsshub",
+      "status": "failed",
+      "count": 0
+    },
+    {
+      "id": "npr-news",
+      "sourceType": "rsshub",
+      "status": "failed",
+      "count": 0
+    },
+    {
+      "id": "al-jazeera",
+      "sourceType": "rsshub",
+      "status": "failed",
+      "count": 0
+    }
+  ],
+  "stories": [
+    {
+      "id": "0342be6ca914daaf49fd",
+      "title": "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
+      "url": "https://github.com/PJHkorea/quantum-mesh-qec",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T02:15:11.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "62338792d280a7a68be1",
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "source": "quantamagazine.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T02:13:46.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "0ff0b365d7d7c42e1137",
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T01:59:35.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "cbe2d7cc977042f8483a",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "gist.github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T01:09:50.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "c815bb5e842ab4f651a1",
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com/",
+      "source": "igropyr.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T01:03:29.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "b6b48447e89972bfc01a",
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev/",
+      "source": "goeteia.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T00:57:18.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "6e8cc465ff176d68a623",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "source": "fabiensanglard.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T00:48:10.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "0cb2a7c0c0cba9c680db",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "iroh.computer",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T22:38:57.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "3a32854df8c899519b5c",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T21:58:00.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "cef453d5d0ee4f0a45b8",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org/",
+      "source": "antjs.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T20:07:18.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "3bb35e61c94ed0fe9f67",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "io-fund.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T17:21:49.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "17585ade27cc26b9033c",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "source": "timeseriesofindia.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T16:33:42.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "b6751349536eec884ca1",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "clickhouse.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-11T15:28:02.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "0cc87da860dad7d5ba2a",
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-09T17:44:20.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "15837a76af3c215e083a",
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "source": "triapul.cz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-09T14:10:04.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    },
+    {
+      "id": "2406983a632dcee4f45c",
+      "title": "Jellyfish Undersea Roundabout",
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "source": "visitfaroeislands.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-09T02:17:59.000Z",
+      "discoveredAt": "2026-07-12T03:23:30.803Z"
+    }
+  ]
 }
