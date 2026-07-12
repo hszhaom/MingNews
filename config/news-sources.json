@@ -1,0 +1,39 @@
+{
+  "minimumStories": 6,
+  "maximumStories": 48,
+  "gdelt": {
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=30&sort=datedesc"
+  },
+  "hackerNews": {
+    "baseUrl": "https://hacker-news.firebaseio.com/v0",
+    "storyLimit": 16
+  },
+  "rsshub": {
+    "sources": [
+      {
+        "id": "bbc-world",
+        "name": "BBC News",
+        "route": "/bbc/news/world",
+        "topic": "world"
+      },
+      {
+        "id": "guardian-world",
+        "name": "The Guardian",
+        "route": "/theguardian/uk/world",
+        "topic": "world"
+      },
+      {
+        "id": "npr-news",
+        "name": "NPR News",
+        "route": "/npr/news",
+        "topic": "world"
+      },
+      {
+        "id": "al-jazeera",
+        "name": "Al Jazeera English",
+        "route": "/aljazeera/english",
+        "topic": "world"
+      }
+    ]
+  }
+}

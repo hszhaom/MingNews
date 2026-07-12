@@ -1,0 +1,76 @@
+name: Publish aggregated news
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Start RSSHub
+        run: |
+          docker run --detach --name rsshub --publish 1200:1200 diygod/rsshub:latest
+          for attempt in {1..30}; do
+            if bash -c '</dev/tcp/127.0.0.1/1200' 2>/dev/null; then
+              exit 0
+            fi
+            sleep 1
+          done
+          docker logs rsshub
+          exit 1
+
+      - name: Run aggregation tests
+        run: npm test
+
+      - name: Generate news feed
+        env:
+          RSSHUB_BASE_URL: http://127.0.0.1:1200
+        run: npm run aggregate
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp -R assets articles data _site/
+          cp *.html *.xml *.txt _site/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

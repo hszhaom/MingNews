@@ -5,7 +5,7 @@ Ming Journal is an English news-reading interface with live discovery from publi
 ## What is included
 
 - Responsive white-and-ink reading interface with topic tags, article cards, an editorial sidebar, and AdSense-ready placements.
-- Live story discovery via GDELT's public article API, with Hacker News' public API as a fallback.
+- Static news aggregation via GDELT, a self-hosted RSSHub container, and Hacker News' official Firebase API.
 - Client-side topic filters and source-linked reading notes.
 - `article.html` reading page with a table of contents, tags, original-source CTA, and browser-local demo comments.
 - `sources.html` guide explaining the public data sources and attribution model.
@@ -18,7 +18,7 @@ Ming Journal is an English news-reading interface with live discovery from publi
 1. Replace every `https://your-domain.com` value with the production domain.
 2. Replace `pub-XXXXXXXXXXXXXXXX` in `ads.txt` with the real Google AdSense publisher ID after approval.
 3. Replace placeholder email addresses such as `editor@your-domain.com` with monitored inboxes.
-4. Move API requests behind a server-side cache before large-scale launch.
+4. In the repository Pages settings, set the deployment source to `GitHub Actions`.
 5. Add source attribution, update timestamps, and original editorial summaries to each published article page.
 6. Add the deployed domain to Google Search Console and submit `sitemap.xml`.
 
@@ -34,14 +34,14 @@ Then visit `http://localhost:8000`.
 
 ## Data strategy
 
-The browser requests GDELT's public news endpoint with a short timeout and uses Hacker News' public API as a fallback. For production, use a scheduled server-side job to normalize and cache feeds into a common structure:
+GitHub Actions runs every 30 minutes, starts an ephemeral RSSHub container, fetches GDELT plus Hacker News' official Firebase API, and deploys the normalized JSON as part of the Pages artifact. The browser requests only the same-origin `data/news.json` file.
 
 ```json
 {
   "title": "Original headline",
   "source": "Original publisher",
   "sourceUrl": "https://publisher.example/story",
-  "sourceFeed": "GDELT",
+  "sourceType": "gdelt",
   "publishedAt": "2026-07-11T09:00:00Z",
   "category": "technology",
   "editorialSummary": "Original editorial context and source attribution."

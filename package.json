@@ -1,0 +1,12 @@
+{
+  "name": "ming-journal-news-aggregator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "aggregate": "node scripts/aggregate-news.mjs",
+    "test": "node --test tests/news-lib.test.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}

@@ -45,6 +45,9 @@
       <h2>Hacker News public API</h2>
       <p><strong>Hacker News</strong> is used as a graceful technical-news fallback when the main public feed is unavailable. It is useful for developer, startup, security, science, and open-web discussion, but discussion velocity is not verification.</p>
 
+      <h2>Self-hosted RSSHub</h2>
+      <p><strong>RSSHub</strong> runs inside the scheduled aggregation job and provides source-specific feeds for the approved English-language publisher whitelist. Each configured route is checked during the job; an unavailable route is recorded without blocking the remaining sources.</p>
+
       <h2>How we use feeds</h2>
       <p>Feeds are a starting point. They help editors identify reporting that may deserve a reading note, a source check, or a longer original explainer. A feed item is never treated as a complete account of a developing event.</p>
 
@@ -53,9 +56,9 @@
 
       <h2>Refresh cadence</h2>
       <ul>
-        <li>Live news APIs are requested on page load with a short timeout.</li>
-        <li>Failed primary requests fall back to a secondary public endpoint.</li>
-        <li>Production deployments should cache normalized responses server-side.</li>
+        <li>A GitHub Actions workflow runs every 30 minutes and can also be started manually.</li>
+        <li>GDELT, RSSHub, and Hacker News are fetched server-side during the build.</li>
+        <li>Only the normalized static feed is published to readers through GitHub Pages.</li>
         <li>Original editorial pages should state their update time and source links.</li>
       </ul>
 
