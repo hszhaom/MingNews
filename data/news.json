@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T19:19:19.603Z",
+  "generatedAt": "2026-07-12T20:23:55.753Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,191 @@
   ],
   "stories": [
     {
+      "id": "9c874374e648d593606f",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:13:14.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "aae2d12896cdfbb1be87",
+      "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:09:58.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "1180207ec261631495cb",
+      "title": "Police: speculation during Widdecombe murder investigation is ‘unhelpful and distressing’",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/police-speculation-during-widdecombe-investigation-is-unhelpful-and-distressing",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:07:42.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "3786f5980dd82c2a00c6",
+      "title": "Two men die after going into sea to rescue children at County Durham beach",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/12/two-men-die-after-going-into-sea-to-rescue-children-at-county-durham-beach",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:01:32.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "731f3d6f40d94988aa21",
+      "title": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:56:26.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "d71cedc5adeee5643f6d",
+      "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+      "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:53:24.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "033a00c4c33290d8ee2d",
+      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:53:03.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "3cbfab01310cfc3a25b4",
+      "title": "Neocities: Create your own free website",
+      "url": "https://neocities.org/",
+      "source": "neocities.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T19:49:53.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
       "id": "c4d594e7248d01e3af39",
-      "title": "Lindsey Graham’s sudden death sends shockwaves through Congress as politicians mourn and mull his replacement – live",
+      "title": "Lindsey Graham’s sudden death sends shockwaves through Congress as politicians mourn and mull his replacement – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-12T18:58:05.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "publishedAt": "2026-07-12T19:48:36.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "694d3b4e55971a48f288",
+      "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+      "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:48:00.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "e92ccca091cbd8e9e53f",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:42:26.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "b6010218a64d75af819f",
+      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:41:37.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "40ac73a38a7c88b0ddd9",
+      "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:31:20.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "73bda930f1219b8b503a",
+      "title": "Why the Iran-US ceasefire is falling apart",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:27:34.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "c910846d0cbb46d04512",
+      "title": "Anti-migrant display set alight in Northern Ireland bonfire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:21:17.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "305708d04ec2dd5b11dc",
+      "title": "Friends turned foes: The split reshaping Senegal",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:21:00.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "1cdb285b8c0e20c97ffe",
+      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+      "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T19:01:40.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "ccf9a2172464c13adc4f",
@@ -64,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T18:57:17.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "2344b274087d514c011c",
@@ -75,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T18:49:08.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "80d212d9fc99f7c6e2cb",
@@ -86,7 +262,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T18:44:38.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "74ab8f0715de05b2f0bf",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "incompleteideas.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T18:41:15.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "8025174f1e99e180627d",
@@ -97,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T18:37:11.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "bccddf2bab1ba52291fe",
@@ -108,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T18:31:56.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "398431a5f118d841d6a8",
@@ -119,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T18:25:51.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "06d08cd06ab8f5ab9d47",
@@ -130,7 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T18:24:30.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "e7863f308e78764b7027",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "source": "substack.magazinenongrata.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T18:22:15.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "58e9d60354f812376cd7",
@@ -141,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T18:04:41.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "6cdb6eaffa243bc4c7bb",
@@ -152,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T17:51:54.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "b10885c363a60bbb0344",
@@ -163,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T17:50:27.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "1c7a2c4c0ae710a1721c",
@@ -174,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T17:47:07.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "51ea80653ad60ccb1842",
@@ -185,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:40:34.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "f7905e7d10bb01e93bf7",
@@ -196,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:39:13.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "1fb64130eaee92d99afa",
@@ -207,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:33:54.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "4f0d13a3e26dbe0a1037",
@@ -218,7 +416,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T17:22:29.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
+    },
+    {
+      "id": "6340c21e25cd51fb54ca",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "ploy.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T17:13:07.000Z",
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "13db120e7286ea1c73b7",
@@ -229,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:02:46.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "2ffb6e8feaa10bd7567a",
@@ -240,18 +449,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T17:00:11.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "244323ace81c44502f82",
-      "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
+      "title": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
       "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:58:11.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "5a859e76426e6fd5bdd9",
@@ -262,18 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T16:56:41.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "ecb9907c4735b60bfc94",
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "url": "https://github.com/hasenj/go-shirei/",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T16:55:42.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "0ef8c45c136f61abed74",
@@ -284,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:54:49.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "f56a5a53af112434d12b",
@@ -295,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T16:54:47.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "cba747cc5376f1d8fbdd",
@@ -306,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-12T16:48:41.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "dfa1670ec45a278f90b6",
@@ -317,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:46:24.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "0a070643e38ce9e820ed",
@@ -328,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:43:24.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "3eacfeba8212ab5853c0",
@@ -339,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:42:54.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "8b29f77375fcd0a486f6",
@@ -350,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:38:34.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "84ea2719fdd7142d5fb6",
@@ -361,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T16:35:50.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     },
     {
       "id": "fef3e5e9bba109182ce1",
@@ -372,205 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T16:34:17.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "69a81a0649b922492d05",
-      "title": "FIFA World Cup 2026: Day 31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T16:30:57.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "6553513973cfdee6f0a5",
-      "title": "United States at 250: Seven tests of the American experiment",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/12/united-states-at-250-seven-tests-of-the-american-experiment?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T16:30:00.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "0e3145e1671f3029b337",
-      "title": "Starmer is expected to use last week in power to push through Hillsborough law",
-      "url": "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T16:11:57.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "b57077029a6d11b528a9",
-      "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-      "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-      "source": "marc.info",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T16:05:29.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "0eaea0479a41d11d1374",
-      "title": "UK ambassador remembers former emir of Qatar as humble and humorous",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-ambassador-remembers-former-emir-of-qatar-as-humble-and-humorous?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T16:05:05.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "fb6b5f50906fc04a49e3",
-      "title": "Why study Diophantine equations?",
-      "url": "https://hidden-phenomena.com/articles/modular",
-      "source": "hidden-phenomena.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T15:53:53.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "bdb6a24585b6142c4149",
-      "title": "Back to the future as young England fans embrace fashion of the noughties",
-      "url": "https://www.theguardian.com/fashion/2026/jul/12/back-to-the-noughties-young-fashion-conscious-england-fans",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:47:50.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "f2fefe7ebf2f16390a5a",
-      "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
-      "url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:38:36.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "1883a8115dc95130020c",
-      "title": "Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:38:03.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "c5c1b5d6c5b2191c5676",
-      "title": "The power of collaboration: How we can reduce traffic congestion",
-      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "source": "research.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T15:35:36.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "4c25688fefb6d395562c",
-      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
-      "url": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:33:27.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "438670f373aaeff05c64",
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "source": "economist.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T15:23:59.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "9d1a5d46cbbbcffb42b8",
-      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
-      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:22:52.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "7141896f80f2d1a400cb",
-      "title": "Germany records nearly 100 drowning deaths, many of them young men, in June heatwave",
-      "url": "https://www.theguardian.com/world/2026/jul/12/germany-drowning-deaths-heatwave-paris-france-spain",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:19:05.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "bdfb1ef18e23afeae824",
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "source": "fabiensanglard.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T15:17:20.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "fe9139ad74753c6f9b79",
-      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:16:44.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "3a938b17e5b6becb5d78",
-      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
-      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:03:49.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
-    },
-    {
-      "id": "16d484768c9932c79f49",
-      "title": "Dorothy’s aged care home charged $52 a day for Foxtel, wine and newspapers that were no use to her. She wasn’t alone",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-12T15:00:22.000Z",
-      "discoveredAt": "2026-07-12T19:19:19.603Z"
+      "discoveredAt": "2026-07-12T20:23:55.753Z"
     }
   ]
 }
