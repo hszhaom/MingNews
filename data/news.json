@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T23:32:25.628Z",
+  "generatedAt": "2026-07-13T01:09:37.389Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 29
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,26 @@
   ],
   "stories": [
     {
-      "id": "b8b30237fa3b7e8e0b7c",
-      "title": "Disney’s live-action Moana fails to make a splash at box office with underwhelming opening",
-      "url": "https://www.theguardian.com/film/2026/jul/13/disneys-live-action-moana-fails-to-make-a-splash-at-box-office-with-underwhelming-opening",
-      "source": "The Guardian",
+      "id": "5a842f8aeb593501abf6",
+      "title": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+      "url": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-12T23:23:17.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-13T00:54:53.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "7db28241a6c7c2caa4d3",
-      "title": "News live: Leeser accuses ‘spineless’ university vice-chancellors of failures on antisemitism; Dfat checking if Australians caught in Bangkok fire",
+      "title": "Australia news live: royal commission witnesses endure ‘ugly antisemitic attacks’ after appearing, Virginia Bell says",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-12T23:17:36.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-13T00:52:48.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "813e60b5010c5a28e307",
@@ -74,19 +74,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-12T23:14:06.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-13T00:47:45.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
-      "id": "675a9e600384f84fae4c",
-      "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+      "id": "eb506beacb68c1965c36",
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-12T23:03:32.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-13T00:22:10.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "007b779156c900468ebb",
+      "title": "MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)",
+      "url": "https://maxghenis.com/mackenzie-scott-qaly/",
+      "source": "maxghenis.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T00:18:16.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "4aea65cacfb67c5bc29d",
+      "title": "Want to own a real T. rex? It could cost you $30 million",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-13T00:14:03.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "2fb12d1d423c000befbd",
+      "title": "How Indian scientists are mapping the brain's last frontier",
+      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T00:08:11.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "180aed04f7937c2e316c",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T00:07:00.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "6ce9ec402e6166cac0a5",
+      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T00:05:46.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "fc15d67d1dfae66088e2",
+      "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T00:00:00.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "21cdbf9a9b141843f054",
+      "title": "Billion Dollar PDFs",
+      "url": "https://billiondollarpdf.com/",
+      "source": "billiondollarpdf.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T23:45:35.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "f13ecceacf5521f62ecc",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:41:00.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "9c874374e648d593606f",
@@ -96,8 +184,63 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-12T22:57:20.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-12T23:40:50.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "65d822ca02be39e48865",
+      "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
+      "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:35:15.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "5194e7d96b9fffc22c76",
+      "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
+      "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:29:33.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "6b07314b1779e4cf2305",
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:29:06.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "b8b30237fa3b7e8e0b7c",
+      "title": "Disney’s live-action Moana fails to make a splash at box office with underwhelming opening",
+      "url": "https://www.theguardian.com/film/2026/jul/13/disneys-live-action-moana-fails-to-make-a-splash-at-box-office-with-underwhelming-opening",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:23:17.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "675a9e600384f84fae4c",
+      "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
+      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T23:03:32.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "e5da738834e3cf55f760",
@@ -108,18 +251,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T22:56:56.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
-      "id": "ed92dd455269955662da",
-      "title": "Architecture Description Languages [pdf]",
-      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "source": "ics.uci.edu",
+      "id": "fc2f0624cf2d702493a3",
+      "title": "Why Vanilla JavaScript",
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "source": "guseyn.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-12T22:54:07.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "publishedAt": "2026-07-12T22:53:51.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "0b322a54933d5c44799c",
@@ -130,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T22:45:31.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "62495ccaf33eaa002cfb",
@@ -141,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T22:36:33.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "43a6dd60de60e339e6b0",
@@ -152,315 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T22:34:10.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "e1620aef695c645e222e",
-      "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles ?",
-      "url": "https://www.kedm.org/2026-07-12/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
-      "source": "kedm.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "2d4f9b1ca2f4a4044e4e",
-      "title": "Bangkok pub fire kills at least 27 people",
-      "url": "https://www.abc.net.au/news/2026-07-13/bangkok-pub-fire-kills-at-least-27/106908044",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "6d342a7d95a110cb7eca",
-      "title": "Twenty - seven people killed in fire at Bangkok pub , say officials",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26273528.twenty-seven-people-killed-fire-bangkok-pub-say-officials/",
-      "source": "ledburyreporter.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "71cfe4df469fd6dbf16e",
-      "title": "Write of passage : paper trail ends for travel arrivals",
-      "url": "https://www.examiner.com.au/story/9309243/write-of-passage-paper-trail-ends-for-travel-arrivals/",
-      "source": "examiner.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "f8495c95d8fa7a697e5d",
-      "title": "Canberra P - plater : 19 - year - old driver loses licence after hooning | The Examiner",
-      "url": "https://www.examiner.com.au/story/9308523/canberra-p-plater-19-year-old-driver-loses-licence-after-hooning/",
-      "source": "examiner.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "034c743d9d8e5306d189",
-      "title": "Why the world biggest AI companies want data centres in the NT",
-      "url": "https://www.abc.net.au/news/2026-07-13/data-centre-hyperscalers-target-northern-territory/106898282",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "9b167d8db31bfbb1b4d4",
-      "title": "Unis to face fines for failing to stamp out racism",
-      "url": "https://www.examiner.com.au/story/9309239/unis-to-face-fines-for-failing-to-stamp-out-racism/",
-      "source": "examiner.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "21b81bccbe63fa1de529",
-      "title": "Interactive radar : Tracking Carolina thunderstorms on July 12 , 2026",
-      "url": "https://www.wbtv.com/2026/07/12/interactive-radar-tracking-carolina-thunderstorms-july-12-2026/",
-      "source": "wbtv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "5efbb8e8ff6d6a90eb3b",
-      "title": "Sweaty , Loud , and Not a Little Tipsy",
-      "url": "https://nassauweekly.com/sweaty-loud-and-not-a-little-tipsy/",
-      "source": "nassauweekly.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "cff52876aec5c8d35d8b",
-      "title": "So far , everybody has been really happy : Stroma tours get positive feedback",
-      "url": "https://www.johnogroat-journal.co.uk/news/so-far-everybody-has-been-really-happy-stroma-tours-get-439732/",
-      "source": "johnogroat-journal.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "5935324572d0342b27a4",
-      "title": "Two men die after entering sea to help children in difficulty",
-      "url": "https://www.leaderlive.co.uk/news/national/26273515.two-men-die-entering-sea-help-children-difficulty/",
-      "source": "leaderlive.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "3cd35caabdc369b7d0b1",
-      "title": "Ahmedabad plane crash : Families of Air India flight 171 crash victims demand clear timeline for final report",
-      "url": "http://www.austinglobe.com/news/279183087/ahmedabad-plane-crash-families-of-air-india-flight-171-crash-victims-demand-clear-timeline-for-final-report",
-      "source": "austinglobe.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "a7a2edf8dc766d7189ea",
-      "title": "Titus Welliver New War Thriller Sparks Confusion With Bizarre Release Date",
-      "url": "https://collider.com/titus-welliver-liam-neeson-thriller-the-fix-release-date-september-11-2026/",
-      "source": "collider.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "cadaf871265ddb56fac1",
-      "title": "Hampshire Care Association appoints four executive members",
-      "url": "https://www.hampshirechronicle.co.uk/news/26262860.hampshire-care-association-appoints-four-executive-members/",
-      "source": "hampshirechronicle.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "587bb5d42f0e456ed5cb",
-      "title": "NDIS cuts threaten blind bowler dream of representing Australia",
-      "url": "https://www.abc.net.au/news/2026-07-13/blind-lawn-bowler-ndis-funding-cuts/106875242",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "1194b9a17d531e4a3b2e",
-      "title": "موجز أخبار الساعة 8 م 2026 / 07 / 12",
-      "url": "https://arn.ps/podcasts/304290.html",
-      "source": "arn.ps",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "e51d4ee89be947b61fb1",
-      "title": "Sen . Lindsey Graham remembered by Long Island political , religious leaders",
-      "url": "https://www.newsday.com/long-island/politics/lindsey-graham-memories-v39stvyw",
-      "source": "newsday.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "8f915280a12594c7ca20",
-      "title": "Rajab Butt , Emaan Fatima reunite months after separation announcement",
-      "url": "https://www.pakistantimes.com/entertainment/news/rajab-butt-emaan-fatima-reunite-months-after-separation-announcement-13563/",
-      "source": "pakistantimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "901c013095c52685a35c",
-      "title": "Australia news LIVE : One Nation slides in poll ; mass casualties in Thai pub fire",
-      "url": "https://www.brisbanetimes.com.au/national/australia-news-live-one-nation-slides-in-poll-mass-casualties-in-thai-pub-fire-20260713-p60epx.html",
-      "source": "brisbanetimes.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "4cef4d491f45337aff3c",
-      "title": "US launches more strikes on Iran as standoff over Strait of Hormuz escalates",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26272856.us-launches-strikes-iran-standoff-strait-hormuz-escalates/",
-      "source": "ledburyreporter.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "34fb4f8fa63ee110a552",
-      "title": "Homicide squad arrests man after dead body found in Morwell home",
-      "url": "https://www.abc.net.au/news/2026-07-13/homicide-squad-arrest-man-dead-body-morwell-gippsland/106908084",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "3bf149a4111513b69571",
-      "title": "Markets live updates : Markets on edge as US - Iran war flares , oil price under pressure , ASX priced to edge higher",
-      "url": "https://www.abc.net.au/news/2026-07-13/asx-markets-business-live-news/106907228",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "26245790ad14cf50ce06",
-      "title": "Man death investigated by police after violent disturbance on APY Lands",
-      "url": "https://www.abc.net.au/news/2026-07-13/apy-lands-death-investigated-by-police/106904908",
-      "source": "abc.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "51a8b604ffe3e9e74b65",
-      "title": "موجز أخبار الساعة 9 م 2026 / 07 / 12",
-      "url": "https://arn.ps/podcasts/304291.html",
-      "source": "arn.ps",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "4ae7fae90bdfc38861ee",
-      "title": "Ryan Fox has finished in a tie for 30th at the European Golf Tour Scottish Open at five - under par - 13 - Jul - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=449725",
-      "source": "home.nzcity.co.nz",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "7b4cc0083a4e23fa767b",
-      "title": "Israel election will be held on October 27 , coalition head says",
-      "url": "https://www.al-monitor.com/originals/2026/07/israels-election-will-be-held-october-27-coalition-head-says",
-      "source": "al-monitor.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "87e10391acfcc12fe077",
-      "title": "Tavera homer and 3 RBIs carry the Orioles to an 8 - 2 win over the Royals for a 3 - game sweep",
-      "url": "https://www.ky3.com/2026/07/12/taveras-homer-3-rbis-carry-orioles-an-8-2-win-over-royals-3-game-sweep/",
-      "source": "ky3.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-12T22:30:00.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
-    },
-    {
-      "id": "7f72d9973b9fed8fa6c4",
-      "title": "A Speed Limit for Computers",
-      "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-      "source": "caolan.uk",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-12T22:29:46.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "dfa1670ec45a278f90b6",
@@ -471,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T22:17:40.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "8169d55550551cd326cf",
@@ -482,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T22:11:09.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "51ea80653ad60ccb1842",
@@ -493,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-12T22:08:07.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "92345e2e285e14c3aa5a",
@@ -504,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:59:36.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "488d4372a843fce9e04d",
@@ -515,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:50:28.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "42e46244268f7b13f9bd",
@@ -526,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-12T21:48:38.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "bdd0834353a9a5d73020",
@@ -537,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:33:10.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "a93920e58bf0fd6ce79d",
@@ -548,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T21:27:29.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "36b509078d7550e1cee6",
@@ -559,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-12T21:26:41.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     },
     {
       "id": "316f54fe9f6f7ab97a2a",
@@ -570,7 +405,172 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-12T21:26:28.000Z",
-      "discoveredAt": "2026-07-12T23:32:25.628Z"
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "baad21e8ed22ae3c98be",
+      "title": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:21:27.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "d84f43dcc7d1f6d84da8",
+      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:12:54.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "dbf4afb1642b11177611",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "source": "scrapfly.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T21:12:11.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "27f032d36d31eaff44eb",
+      "title": "The man who changed the Arab world",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:09:03.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "2e8217c4d41d61533561",
+      "title": "Georgia's unique in the American Revolution told through its historical markers",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:08:15.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "af95c8bb55ff3852de5e",
+      "title": "‘His blood is on Trump’s hands’: man killed by ICE in Texas mourned at vigil",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lorenzo-salgado-araujo-texas-killed-ice-vigil",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T21:03:40.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "14e2f1e161a92e71f62b",
+      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+      "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:48:37.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "a166cd8c85a43d4d6ebf",
+      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:30:54.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "44d8324be0c35c507f97",
+      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:25:43.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "ec00079b40e11d7b8b35",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "source": "floooh.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-12T20:23:05.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "accc9deea3d6bd529dbd",
+      "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:20:37.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "564fc4ecf577c7836580",
+      "title": "Qatar’s former emir remembered as ‘a man of vision and courage’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatars-former-emir-remembered-as-a-man-of-vision-and?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:14:43.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "4645627c90d2ba479161",
+      "title": "How will Qatar’s Father Emir be remembered?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/12/how-will-qatars-father-emir-be-remembered?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:14:13.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "aae2d12896cdfbb1be87",
+      "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:09:58.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
+    },
+    {
+      "id": "1180207ec261631495cb",
+      "title": "Police warn Widdecombe murder speculation is ‘unhelpful and distressing’",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/police-speculation-during-widdecombe-investigation-is-unhelpful-and-distressing",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-12T20:07:42.000Z",
+      "discoveredAt": "2026-07-13T01:09:37.389Z"
     }
   ]
 }
