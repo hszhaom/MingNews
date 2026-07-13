@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T14:55:14.525Z",
+  "generatedAt": "2026-07-13T17:20:41.667Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,422 @@
   ],
   "stories": [
     {
-      "id": "cd7647004160c8dce4df",
-      "title": "Trump claims he will reinstate Iranian blockade and US will charge fee for ships crossing strait of Hormuz – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T14:38:46.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
       "id": "6dd35027917a0262eeeb",
-      "title": "Counter-terrorist police chief says ‘new evidence’ led to his team taking over investigation into Ann Widdecombe’s death – UK politics live",
+      "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-13T14:37:42.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "publishedAt": "2026-07-13T17:09:25.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "cd7647004160c8dce4df",
+      "title": "Trump claims US will reinstate Iranian blockade and charge fee for ships crossing strait of Hormuz – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T17:06:50.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "447f40bb284ea5705969",
-      "title": "Person reported killed during ICE operation in Maine, state house speaker says – US politics live",
+      "title": "Anti-ICE protest in Maine after person killed during immigration operation – live",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-13T14:37:25.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "publishedAt": "2026-07-13T17:06:40.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "c59c94cdda3266d27e51",
+      "title": "Leaders arrive for Ukraine talks in Paris as Macron hosts ‘coalition of the willing’ – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T17:03:48.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "bff3c11b971029235977",
+      "title": "UK bans support for Iran’s Islamic Revolutionary Guard Corps",
+      "url": "https://www.theguardian.com/politics/2026/jul/13/uk-list-iran-islamic-revolutionary-guard-corps-irgc-terrorist-organisation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:56:05.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "b84ab4ce2e867c7b2c04",
+      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:53:40.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "0c555d9ad0995c0b2c44",
+      "title": "Reform UK triggers row over MPs’ safety – podcast",
+      "url": "https://www.theguardian.com/politics/audio/2026/jul/13/reform-uk-row-mp-safety-podcast",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:51:55.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "2783e96136561625aafc",
+      "title": "Bangkok pub fire kills 27, wounds dozens: What we know",
+      "url": "https://www.aljazeera.com/news/2026/7/13/bangkok-pub-fire-kills-27-wounds-dozens-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:50:49.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "187b5724bfa63dea0c8a",
+      "title": "Tom Cruise unveils remarkable transformation in Digger trailer: ‘I’ve never had something that could challenge me in this way’",
+      "url": "https://www.theguardian.com/film/2026/jul/13/tom-cruise-digger-trailer-transformation-alejandro-gonzalez-inarritu-film",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:42:43.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "c3b23baf40d3247a8e10",
+      "title": "Trump backs Lindsey Graham’s sister to serve rest of Republican’s Senate term",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/lindsey-graham-sister-senate-seat-trump",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:38:23.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "e533e9cf302c2977814d",
+      "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping",
+      "url": "https://www.theguardian.com/business/2026/jul/13/oil-prices-leap-stocks-fall-us-iran-strait-of-hormuz-brent-crude-markets",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:36:16.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "6ecd0cbc6dbd4c09a66a",
+      "title": "States sue to stop Paramount-Warner Bros blockbuster merger",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:30:12.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "9d4ca0414d43bb7c8b25",
+      "title": "EU unveils $1bn fund for Gaza war recovery",
+      "url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:28:52.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "924c13f3546c8b73d7c2",
+      "title": "US state attorneys general file lawsuit in effort to block Paramount merger",
+      "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:21:01.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "4d5858ae9ae8ea5235d2",
+      "title": "UK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn",
+      "url": "https://www.theguardian.com/world/2026/jul/13/conwy-villagers-flee-homes-as-wildfires-burn-in-wales-and-england",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:19:16.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "36960366fb9faa9c31ec",
+      "title": "Person killed in shooting involving ICE agents in US state of Maine",
+      "url": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:11:38.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "7c260b97844bfcde996c",
+      "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+      "url": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:10:55.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "2676c016c6c62d556037",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "source": "get-inscribe.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T16:06:08.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "bec544bf263fa64d9276",
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:05:13.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "052e30ffd363c46550f1",
+      "title": "Anti-terror police take over probe into death of UK politician Widdecombe",
+      "url": "https://www.aljazeera.com/news/2026/7/13/anti-terror-police-take-over-probe-into-death-of-uk-politician-widdecombe?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T16:02:39.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "e368b5cfb692e951c92c",
+      "title": "DOGE is done. What happened to its records?",
+      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+      "source": "ms.now",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T15:56:39.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "ecb08b92363aff511346",
+      "title": "British couple killed in Spanish wildfires as authorities race to identify victims",
+      "url": "https://www.theguardian.com/world/2026/jul/13/british-couple-confirmed-to-have-been-killed-by-deadly-wildfires-in-spain",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:54:04.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "92887e843ac4dbdc1efb",
+      "title": "Trump renews Iran blockade and again threatens to take control of strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:44:57.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "9ef3b7710ff2c478989b",
+      "title": "India thrash England in historic first women’s cricket Test match at Lord’s",
+      "url": "https://www.aljazeera.com/sports/2026/7/13/india-thrash-england-in-historic-first-womens-cricket-test-match-at-lords?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:44:45.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "3e3a1dff3529acb073dc",
+      "title": "Trump: US will ‘take over’ Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:41:07.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "c903c453461aaaa62f22",
+      "title": "Police arrest 12 over suspected far-right threat against Islamic event in Suffolk",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/13/police-arrests-suspected-far-right-threat-islamic-event-suffolk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:28:11.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "63a3e9a79e9d86c37f1d",
+      "title": "Iraqi PM heads to US seeking balance between security and economy",
+      "url": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:25:56.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "a8d8fca88e3d33390aa9",
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "source": "techcrunch.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T15:11:50.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "9c874374e648d593606f",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:04:36.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "a9b9ab449ed16eba8855",
+      "title": "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
+      "url": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:04:06.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "19439cffd984fb4cd3be",
+      "title": "Australia banned vape ads more than two years ago – so why are they still all over social media?",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/australia-banned-vape-ads-more-than-two-years-ago-so-why-are-they-still-all-over-social-media",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:00:52.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "5cb5be6703c36dcf299d",
+      "title": "Layla Jeffery, 13, was ‘somewhat shy’ and ‘well-liked’. A Victorian town is struggling with her alleged murder",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/layla-jeffery-13-victorian-town-struggling-alleged-murder-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:00:52.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "d29800f374e181f29934",
+      "title": "Dolphin deaths in South Australia spike after algal bloom decimates food sources",
+      "url": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:00:51.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "07eecd24cdbe334162af",
+      "title": "Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T15:00:50.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "87c70b7b3cc1dd7a5b5f",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "source": "fabiensanglard.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T14:52:33.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "32de46071be96673ec71",
+      "title": "FIFA World Cup: Key players to watch as France play Spain in semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-key-players-to-watch-as-france-take-on-spain-in-2026-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T14:50:01.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "ee70d5c11f32f41f3402",
+      "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
+      "url": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-13T14:43:01.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
+    },
+    {
+      "id": "8e31d791b1ab6fad6517",
+      "title": "Precursor",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "source": "blog.cloudflare.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-13T14:39:38.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "af50b29a72a844846fa7",
@@ -86,29 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T14:33:14.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "de3b50ca1c2a7796738f",
-      "title": "JP Morgan boss pressed by US senator about bank’s contact with Jeffrey Epstein",
+      "title": "JP Morgan boss pressed by US senator about contact with Jeffrey Epstein",
       "url": "https://www.theguardian.com/business/2026/jul/13/jp-morgan-boss-jamie-dimon-us-uk-jeffrey-epstein-elizabeth-warren",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T14:26:38.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "c59c94cdda3266d27e51",
-      "title": "Ukraine to present its anti-ballistic programme at Paris meeting today, Zelenskyy says – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T14:25:35.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "3cdc55012d3d4161bc20",
@@ -119,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T14:24:29.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "de13c521b4f416f98e75",
-      "title": "Two teens arrested after five members of family killed in Illinois shooting",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/east-st-louis-illinois-shooting-arrests",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T14:19:01.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "bc231e1c19dd79870906",
@@ -141,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T14:03:44.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "9fbe8936ed2a34eeeeb8",
@@ -152,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-13T14:02:03.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "6d7b045c237978ab8a9d",
@@ -163,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T14:00:49.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "d3f15c01c946feb4c754",
@@ -174,18 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T14:00:48.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "e4c5cc4295ad453dd952",
-      "title": "Pilot fighting Colorado wildfire dies as plane crashes into reservoir",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/colorado-pilot-dies-wildfire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T14:00:35.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "dd701737187a547610e8",
@@ -196,18 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T13:59:54.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "92887e843ac4dbdc1efb",
-      "title": "US and Iran exchange fresh wave of strikes as Tehran says diplomacy has proven ‘futile’",
-      "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T13:59:50.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
       "id": "e5a41d6fc21c22ea420e",
@@ -218,359 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T13:59:43.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     },
     {
-      "id": "93bf54affbabd5d9fa23",
-      "title": "VW chief confirms plan to cut 50,000 jobs as board rejects plant closures",
-      "url": "https://www.theguardian.com/business/2026/jul/13/vw-cut-jobs-board-rejects-plant-closures-staff-restructuring",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T13:42:21.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "5d8a401932a453d89f7f",
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "source": "twitter.com",
+      "id": "757c92cf7524e33435ce",
+      "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/",
+      "source": "esologic.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-13T13:39:59.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "e9842c2542b982c2af92",
-      "title": "Burnham expected to vote in favour of Mahmood’s asylum system changes",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-expected-to-vote-shabana-mahmood-asylum-system-changes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T13:38:32.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "a09065cccb7a9be70c76",
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "url": "https://twitter.com/i/status/2076598897779020159",
-      "source": "twitter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T13:35:32.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "f24a78f4b8ae9a701037",
-      "title": "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/argentina-england-fifa-world-cup-semifinal-prediction-messi-kane-venue?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T13:21:48.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "8d40b6060ed6dc83ad12",
-      "title": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-      "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T13:07:15.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "0fa4cb1a5882979b1cb2",
-      "title": "EU chief pledges social media ban to protect children from ‘predatory algorithms’",
-      "url": "https://www.theguardian.com/world/2026/jul/13/eu-social-media-ban-children-under-13-ursula-von-der-leyen",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:52:36.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "28d2a6af7f2de1956de1",
-      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
-      "url": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:41:22.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "7c712e1e1e54cf7ef32c",
-      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:36:41.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "71ac788ed5a8b5278c2b",
-      "title": "Irish police to engage with Jordanian force in murder investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:32:45.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "9c874374e648d593606f",
-      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:32:08.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "01220b60b8655278e9df",
-      "title": "Street in Illinois named after murdered Palestinian boy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:31:36.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "7dc1acb2cea7a53c5764",
-      "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-      "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:30:18.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "7869d5882ee8944f0c0e",
-      "title": "Keystone pipeline operator agrees to pay $26.9m penalty over Kansas oil spill",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/keystone-pipeline-operator-settlement-kansas-oil-spill",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:16:01.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "9f46c025b4c80e090cd8",
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:12:46.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "563cb1553114a8f9b277",
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:10:38.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "65d822ca02be39e48865",
-      "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
-      "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:05:28.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "ac12d2849108b51f669c",
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:02:33.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "53e9bbe14b0b93501abd",
-      "title": "Trump officials accused of stacking top chemical safety board with industry ‘mouthpieces’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/trump-chemical-safety-board",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:00:47.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "19bb42ae656d6bcbccdb",
-      "title": "Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
-      "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T12:00:46.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "174999abdc723263b322",
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:52:55.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "d1b99f33d37bbcfada07",
-      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-      "url": "https://github.com/floodtide/dom-docx",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T11:51:56.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "b3a7f79a58f45802b6b0",
-      "title": "South Korea rolls out plan to tackle youth suicide crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:48:52.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "c92a7c0b7d1a35dd7e44",
-      "title": "Ann Widdecombe death: counter-terrorism police take over investigation",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/13/ann-widdecombe-counter-terrorism-police-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:46:01.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "42c2742a9ea6e6261dee",
-      "title": "Control the Ideas, Not the Code",
-      "url": "https://antirez.com/news/169",
-      "source": "antirez.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T11:45:36.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "16b77a70ccaa19a612f2",
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:45:25.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "bff3c11b971029235977",
-      "title": "UK to list Iran’s Islamic Revolutionary Guard Corps as terrorist organisation",
-      "url": "https://www.theguardian.com/politics/2026/jul/13/uk-list-iran-islamic-revolutionary-guard-corps-irgc-terrorist-organisation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:42:28.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "f721bda5d421c076ae52",
-      "title": "Al Jazeera bids farewell to founder Sheikh Hamad",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/al-jazeera-bids-farewell-to-founder-sheikh-hamad?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:38:09.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "55b7a42cfecfbbb8a831",
-      "title": "Yemen government says its forces attacked Sanaa airport",
-      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:38:03.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "7f5b961ffd2ebe0c4c27",
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:36:18.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "e754d84b4b022cb7f56e",
-      "title": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
-      "url": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:29:20.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
-    },
-    {
-      "id": "cbc1ec2766f9311adbf4",
-      "title": "Plan to restore nature in England by 2030 criticised as ‘completely insufficient’",
-      "url": "https://www.theguardian.com/environment/2026/jul/13/england-rewilding-plan-restore-nature-2030-criticised",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T11:27:48.000Z",
-      "discoveredAt": "2026-07-13T14:55:14.525Z"
+      "publishedAt": "2026-07-13T13:48:42.000Z",
+      "discoveredAt": "2026-07-13T17:20:41.667Z"
     }
   ]
 }
