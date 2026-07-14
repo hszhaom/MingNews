@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T16:01:36.978Z",
+  "generatedAt": "2026-07-14T17:24:27.272Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,268 @@
   ],
   "stories": [
     {
+      "id": "a71d573c742e2781cef0",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T17:13:27.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "3d00916f26cec92d206f",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T17:07:42.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
       "id": "82407d2fae1bb4b48c32",
-      "title": "Ann Widdecombe was killed in ‘targeted attack’, police say – UK politics live",
+      "title": "MPs vote on Hillsborough amendment as Starmer and Burnham address Commons",
       "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-14T15:48:58.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "publishedAt": "2026-07-14T17:03:44.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "1fe3ab610cc5e1553a14",
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "source": "lucumr.pocoo.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T16:57:54.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "191e837324f38e9d4ba6",
+      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
+      "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:56:56.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "0e88f37b0b24c5498195",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:54:46.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "997ce574d65c3d78e341",
+      "title": "Ann Widdecombe killing: police investigating possible leftwing motivation",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/14/ann-widdecombe-killing-police-investigating-possible-leftwing-motivation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:53:29.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "30fbae7d467f4e138d1c",
+      "title": "Trump drops threat of strait of Hormuz tolls, saying Gulf states agreed ‘massive’ US investment instead – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:52:46.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "a8dce6f0d5bdc5b2c7c2",
+      "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:50:54.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "ebe948448ee6082c8791",
+      "title": "Environmental groups sue government to stop a big change to the Endangered Species Act",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:46:18.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "89b78203d0ab4f6fe974",
+      "title": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
+      "url": "https://www.aljazeera.com/news/2026/7/14/murder-of-uk-politician-ann-widdecombe-was-targeted-attack-police-say?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:45:46.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "a80ae4976a69326b28a5",
+      "title": "Humanities among degrees being ‘extinguished’ by hard-up universities",
+      "url": "https://www.theguardian.com/education/2026/jul/14/university-job-cuts-humanities-social-sciences",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:45:26.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "22375941c73fc9b4d1cc",
+      "title": "World leaders travel to Qatar to honour Father Emir",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:36:26.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "15ab653984df00d7d86f",
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "source": "marco-nett.de",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T16:36:06.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "e5da5950226cca2472a0",
+      "title": "Johnson government wasted £10bn on PPE, Covid inquiry finds",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/14/boris-johnson-government-wasted-vast-sums-on-ppe-covid-inquiry-finds",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:35:17.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "db028feb22c44c954e9b",
+      "title": "Supreme court justices testify to House on budget request to increase security",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:33:39.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "e41f627407291505d0dd",
+      "title": "Mexico: Football Without Fear",
+      "url": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:30:00.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "1ea0798ef496c5b6fd30",
+      "title": "Bastille Day celebrations in France tempered by fear of more wildfires",
+      "url": "https://www.theguardian.com/world/2026/jul/14/bastille-day-celebrations-france-tempered-fear-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:28:31.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "af66dc371b977cbf9fb5",
+      "title": "ICE identifies man agents fatally shot in Maine as Joan Sebastian Guerrero",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-shooting-maine-joan-sebastian-guerrero",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:14:25.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "2e736e024d7e4062f055",
+      "title": "Buffett omits gift to Bill Gates' foundation after Microsoft cofounder's Epstein ties disclosed",
+      "url": "https://www.theguardian.com/business/2026/jul/14/bill-gates-warren-buffet-donation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:10:41.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "549da42a1776e56cfb07",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai/",
+      "source": "agnost.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T16:06:18.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "20b86ec36792a1b7c84e",
+      "title": "Mexico begins legal action in US over deaths of its citizens in ICE custody",
+      "url": "https://www.aljazeera.com/news/2026/7/14/mexico-begins-legal-action-in-us-over-deaths-of-its-citizens-in-ice-custody?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:04:54.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "5c02daa27c7252480e09",
+      "title": "Israeli attack on north Gaza police station kills eight",
+      "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T16:02:54.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
+    },
+    {
+      "id": "ad08c6498c42d0bab1dd",
+      "title": "Yellowstone tourist tossed 8ft in air by bison says attack could have been worse",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/yellowstone-bison-attack-grandfather",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T15:57:52.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "431d7dd5234b12ecfa95",
@@ -64,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:42:04.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "06daea6885d62ebb2a18",
@@ -75,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:41:21.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "5199b26d9d3eb27fb9fc",
@@ -86,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T15:41:07.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "b4eb5d4cd03fa7da74d0",
@@ -97,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:37:52.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "1f066ed7d9fa7c3d6569",
@@ -108,40 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:37:26.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
-      "id": "d0749faa73d22c9a84cb",
-      "title": "Tuberculosis outbreak at Colorado ICE jail sickens at least 12 detainees",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/tuberculosis-outbreak-colorado-ice-jail",
-      "source": "The Guardian",
+      "id": "baf7dfdffe09cb96406c",
+      "title": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/14/france-vs-spain-live-fifa-world-cup-2026-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-14T15:33:24.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "30fbae7d467f4e138d1c",
-      "title": "Trump drops threat of strait of Hormuz tolls, saying Gulf states agreed ‘massive’ US investment instead – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T15:32:58.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "ae4ad2a29339a5b4739b",
-      "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/t-rex-skeleton-auction-record-price",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T15:31:05.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "publishedAt": "2026-07-14T15:30:58.000Z",
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "c47f8c3eb2db25ba3656",
@@ -152,18 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-14T15:24:49.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "52da206ef646708ab632",
-      "title": "US rapper Boosie seeks $300,000 refund after failed Trump pardon bid",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/boosie-trump-pardon-refund",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T15:21:51.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "e69e09bf0693beb45191",
@@ -174,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T15:21:49.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "7de749ac65480fc173aa",
@@ -185,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T15:20:28.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "44a5172373879ebb3677",
@@ -196,18 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-14T15:18:13.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "18a251da6d188ea6bf75",
-      "title": "E Jean Carroll receives $5.6m owed by Trump after court releases damages",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/e-jean-carroll-trump-payment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T15:12:30.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "fff55f6550fb4af014ff",
@@ -218,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:08:02.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "2a40379bb1e6c4371c02",
@@ -229,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T15:04:34.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "e5da5950226cca2472a0",
-      "title": "Johnson government wasted £10bn on PPE, Covid inquiry finds",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/14/boris-johnson-government-wasted-vast-sums-on-ppe-covid-inquiry-finds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T15:01:49.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "14dd78d25c43bd129f6a",
@@ -251,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:00:29.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "ef0ff8099ed466936a7b",
@@ -262,29 +460,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:00:28.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "418d639fc82c4230e36a",
-      "title": "France deploys 70,000 security personnel across country for Bastille Day, World Cup semifinal events – Europe live",
+      "title": "France deploys 70,000 security personnel across country for Bastille Day, World Cup semifinal events – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T15:00:03.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "09d0af73f4170c40af8a",
-      "title": "UK man admits 32 sexual offences against allegedly drugged or sleeping partner",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/14/uk-man-admits-32-sexual-offences-against-allegedly-drugged-or-sleeping-partner",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T14:58:07.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "f49f7ec89729516d397e",
@@ -295,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:56:21.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "0b2ea41807c32880f891",
@@ -306,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:48:02.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "3b3c7aa925f666e6430b",
@@ -317,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T14:46:11.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "d08f7ad28e95f65bf532",
@@ -328,29 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T14:40:20.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "db0b729efb117ac8b5a6",
-      "title": "‘Catastrophic failure’: UK Covid families welcome inquiry findings on PPE",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/14/uk-covid-families-inquiry-findings-ppe-vip-lane",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T14:34:33.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "4cfc09b6b03729cd2980",
-      "title": "New York becomes first state to impose one-year pause on new AI datacenters",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T14:34:05.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "e32f150d15bd634706b6",
@@ -361,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:32:19.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "2dff0d39cad37dfe4a59",
@@ -372,29 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:29:30.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "0c6ec3caf227f4f6b754",
-      "title": "New York becomes the first state to impose a data center moratorium",
-      "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
-      "source": "reuters.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-14T14:17:54.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "d5838d686d9ad5bff6dc",
-      "title": "Agnes Callard’s theory of the uni-context",
-      "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-      "source": "derekthompson.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-14T14:17:39.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "2594e01cb9d5f84e34d9",
@@ -405,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:08:05.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "e67b5da8498bb53fdc0b",
@@ -416,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T14:03:52.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     },
     {
       "id": "72d3a3bb2d2660ab0ea8",
@@ -427,150 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T14:01:27.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "4ec8fe03dd2f52cb3f63",
-      "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T14:01:27.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "0eb787b8718427a7ae4b",
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:49:42.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "a71d573c742e2781cef0",
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:46:14.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "3b329bdee559e41bdbcd",
-      "title": "Indian activist Wangchuk urged to end hunger strike over exam paper leaks",
-      "url": "https://www.aljazeera.com/news/2026/7/14/indian-activist-wangchuk-urged-to-end-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:44:56.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "0654dacd75db424eb86c",
-      "title": "Mexico files criminal complaints over migrant deaths during ICE operations",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/mexico-files-criminal-complaints-over-migrant-deaths-during-ice-operations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:42:36.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "950d868a42f0fe23abb0",
-      "title": "Spanish PM’s brother banned from public office after misconduct trial",
-      "url": "https://www.theguardian.com/world/2026/jul/14/spanish-pm-brother-david-sanchez-banned-public-office-misconduct",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:38:46.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "a8dce6f0d5bdc5b2c7c2",
-      "title": "Iran targets Bahrain and Jordan in retaliation as US strikes continue",
-      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:35:15.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "a1b4a074489856636cb2",
-      "title": "Which world leaders are visiting Qatar to pay their condolences?",
-      "url": "https://www.aljazeera.com/news/2026/7/14/which-world-leaders-are-visiting-qatar-to-pay-their-condolences?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:32:14.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "4618e00ef41e3fe426f5",
-      "title": "Iran lawmakers present Hormuz management bill as US war heats up",
-      "url": "https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:30:00.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "107f257788c9017575da",
-      "title": "Sheikh Hamad gave Arab media a voice",
-      "url": "https://www.aljazeera.com/opinions/2026/7/14/sheikh-hamad-gave-arab-media-a-voice?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:24:01.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "91ea4621c5bc0ebcdfc9",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:22:09.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "bfd5a590ce093eb8a2b1",
-      "title": "What’s behind the Sanaa Airport attack and latest Yemen tensions?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/whats-behind-the-sanaa-airport-attack-and-latest-yemen-tensions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:17:44.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
-    },
-    {
-      "id": "586453f57dc8ed1e5ccc",
-      "title": "WHO warns DR Congo Ebola outbreak may be double the official tally",
-      "url": "https://www.aljazeera.com/news/2026/7/14/who-warns-dr-congo-ebola-outbreak-may-be-double-the-official-tally?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T13:07:34.000Z",
-      "discoveredAt": "2026-07-14T16:01:36.978Z"
+      "discoveredAt": "2026-07-14T17:24:27.272Z"
     }
   ]
 }
