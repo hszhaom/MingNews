@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T00:58:18.586Z",
+  "generatedAt": "2026-07-14T04:11:50.904Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,303 @@
   ],
   "stories": [
     {
+      "id": "3a3b229d7f3b40ae7aac",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T04:05:13.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "9203182ebf15884ec9f7",
+      "title": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:52:50.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "30fbae7d467f4e138d1c",
+      "title": "Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz",
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:51:53.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "0c93841f79c2f7b872ec",
+      "title": "Australia news live: Ed Husic warns AI companies can’t be trusted to regulate themselves; academic tells antisemitism inquiry of ‘highly personal’ attack",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:50:21.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "f9cb86dd156b69b5f688",
+      "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
+      "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:38:22.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "cd7647004160c8dce4df",
+      "title": "Trump says US reinstating blockade on Iranian ports – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:27:16.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "4e5b0ea4cf170fec257d",
+      "title": "Police claim breakthrough in Melbourne’s hospitality wars, alleging links to overseas crime figure",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/melbourne-hospitality-hospo-wars-arrest-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T03:08:34.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "21c9669abbcbcaf4bdb7",
+      "title": "ICE officer kills motorist in Maine; the second fatality in a week",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T02:59:18.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "296eafb266e12a56768b",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "source": "tech.supercarblondie.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T02:27:20.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "8ca8f08ddd6f05b95c78",
+      "title": "Fundamentals of Wireless Communication",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "source": "web.stanford.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T02:10:19.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "1f090e190276a15a954c",
+      "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
+      "url": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T02:03:38.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "447f40bb284ea5705969",
+      "title": "ICE fatally shoots 26-year-old Colombian man in Maine during immigration operation – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:59:57.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "d6cdbcade996644a9edf",
+      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "url": "https://satellitemap.space/",
+      "source": "satellitemap.space",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:55:24.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "927446898b22a7eed368",
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:50:48.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "0fa05243360179884e20",
+      "title": "What will be left for us to work on?",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "source": "normaltech.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:44:40.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "a2de0d650794054e41b8",
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:43:57.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "03099091347f925ac2b5",
+      "title": "Building Food Metadata with LLM Juries",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "source": "careersatdoordash.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:41:49.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "a2dc874b9c86e63b8640",
+      "title": "Marco Rubio launches campaign to dismantle international criminal court",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-international-criminal-court",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:39:26.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "699b83133c1b9a8a2966",
+      "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:37:48.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "df987f4959a2f6c30654",
+      "title": "Is x86 ready to ACE it?",
+      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "source": "chipsandcheese.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:36:13.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "a07695ee603a3e7799b5",
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "source": "elasticity.institute",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:35:23.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "174999abdc723263b322",
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:29:58.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "7b6d456e15d08b8aba11",
+      "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
+      "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:27:57.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "4059adb337733ffb8ac3",
+      "title": "MorphoHDL: A minimalistic language for growing circuits",
+      "url": "https://paradigms-of-intelligence.github.io/morpho/",
+      "source": "paradigms-of-intelligence.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T01:17:30.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "426cb3d8444f7c5ce8ba",
+      "title": "Japan admits growing need to counter espionage after Russian ‘den of spies’ report",
+      "url": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T01:10:26.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "894f8896e67e52f50add",
+      "title": "The Git history command deserves more attention",
+      "url": "https://lalitm.com/post/git-history/",
+      "source": "lalitm.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T00:57:11.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "6f026c30cfdb3763ff1b",
+      "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
+      "url": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T00:53:51.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
       "id": "7f42ba06687403d81d53",
       "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
       "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
@@ -53,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T00:35:53.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "1e86780370846a1a3c29",
@@ -64,40 +361,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T00:35:07.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
-      "id": "0c93841f79c2f7b872ec",
-      "title": "Australia news live: Angus Taylor says he criticised One Nation with ‘a heavy heart’; four more charged over alleged murder of Chris Baghsarian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T00:33:01.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "cd7647004160c8dce4df",
-      "title": "Middle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles",
-      "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T00:26:32.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "447f40bb284ea5705969",
-      "title": "ICE fatally shoots 26-year-old Colombian man in Maine during immigration operation – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T00:00:39.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "id": "f7272c01476f9d52de1c",
+      "title": "Turn your singing voice into printable notes (in the browser)",
+      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
+      "source": "om-intelligence.ch",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T00:10:36.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "2f095eb52b7615cb06a9",
@@ -108,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T00:00:00.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "53f37c5748775bea5c56",
@@ -119,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T23:55:00.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "156ab73a6c9b8f5b8399",
@@ -130,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T23:54:32.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "722172be0afcbd37074f",
@@ -141,18 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T23:45:45.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "3a3b229d7f3b40ae7aac",
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T23:42:24.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "bc0fc70a0b1f141a377a",
@@ -163,29 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T23:41:32.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "29924b4e9e940d40b23a",
-      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
-      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
-      "source": "newsletter.pragmaticengineer.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T23:39:10.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "e637f952bc9ff2b20590",
-      "title": "Prosecutors get long-withheld evidence on fatal shootings of Renée Good and Alex Pretti",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/renee-good-alex-pretti-minnesota-evidence",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T23:30:40.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "943f51c50194e5b615e8",
@@ -196,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T23:25:49.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "06a30fda2379a12c38a7",
@@ -207,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-13T23:12:22.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "3271d6d78eb798247f6a",
@@ -218,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T23:01:13.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "c714ec0659ddc0ffe50d",
@@ -229,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T23:01:13.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "f6021080e6da6b6ff814",
@@ -240,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T22:52:54.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "0cd904b83c0b8894863c",
@@ -251,18 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T22:43:12.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "174999abdc723263b322",
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T22:38:34.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "1531e0435b07d8f0ad25",
@@ -273,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T22:33:08.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "937f56761f98b09534e5",
@@ -284,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T22:31:36.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "315ec7794e9146ea537f",
@@ -295,18 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T22:23:09.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "f287f8b69daefb74a9f3",
-      "title": "Mawlynnong, India, transformed by tourism, bans visitors on Sundays",
-      "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T22:19:16.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "27499cdd19ac6661316c",
@@ -317,7 +537,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-13T22:06:01.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
+    },
+    {
+      "id": "cd804120706d8fa77d99",
+      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-13T22:03:16.000Z",
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "71a7257f1c6289e40f11",
@@ -328,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-13T21:38:51.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     },
     {
       "id": "cfff0409cd757da97abf",
@@ -339,238 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-13T21:37:02.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "95c871976c6951c1067e",
-      "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/police-in-south-africa-open-probe-into-post-world-cup-death-of-jayden-adams?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T21:27:52.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "907a97e123b8abaf2f03",
-      "title": "US, Iran exchange attacks around Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T21:19:28.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "c942541803a173953eaf",
-      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T21:04:56.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "14d8e3de405ec6dfe95e",
-      "title": "How is the US tech industry regulated?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T21:03:57.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "e568546fc41c0c5f50e7",
-      "title": "Andy Burnham in line to become British PM after securing party support",
-      "url": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:57:21.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "adf52229c2b78f46cd5f",
-      "title": "Argentina vs England World Cup tickets more expensive than France vs Spain",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/argentina-vs-england-world-cup-tickets-more-expensive-than-france-vs-spain?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:51:33.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "782ec6102decd4079085",
-      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:48:18.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "4dc4994e09e5076db78a",
-      "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-      "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:41:27.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "be586974ca720e5e419e",
-      "title": "Iran military warns US against Strait of Hormuz ‘interference’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:40:07.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "e78d57f580bea8b72639",
-      "title": "Hungary parliament votes to remove president from office",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:39:14.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "8f9e9ab081aae94dfde1",
-      "title": "Artist sews names of Gaza children killed by Israel into gown",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:35:50.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "8223cd527087dfe0b7e8",
-      "title": "What do Israeli settler attacks on Americans reveal?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:35:01.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "f26e21d3c8629da6ee0b",
-      "title": "Gaza man builds roadside library from books buried in rubble",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:26:38.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "8f438e139f1a6dd66acc",
-      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:23:27.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "10c3d60b79253ccf87d9",
-      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:22:49.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "1d45ab5e7e9bb1870ca8",
-      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:17:53.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "d983e00748f00d9cba4e",
-      "title": "World pays tribute to Qatar’s Father Emir",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:17:21.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "4092452a2df4b83ceebb",
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:15:00.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "0440afed4976f286e0d9",
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T20:13:14.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "b0ddd25f76e83b4d5b92",
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-13T20:05:24.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
-    },
-    {
-      "id": "c328c8ca299f5a2b38c3",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "source": "neow.in",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-13T20:01:43.000Z",
-      "discoveredAt": "2026-07-14T00:58:18.586Z"
+      "discoveredAt": "2026-07-14T04:11:50.904Z"
     }
   ]
 }
