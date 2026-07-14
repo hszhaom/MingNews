@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T21:33:13.459Z",
+  "generatedAt": "2026-07-14T22:35:24.346Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 36,
+      "count": 38,
       "transport": "native-rss"
     },
     {
@@ -45,17 +45,6 @@
   ],
   "stories": [
     {
-      "id": "30fbae7d467f4e138d1c",
-      "title": "US carries out more strikes on Iran and resumes blockade of nation’s ports – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T21:24:56.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
       "id": "1b4110b01b571cc85074",
       "title": "Australia news live: top 100 CEOs bank 16% pay rise; Husic warns Labor over Gaza policy",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
@@ -63,19 +52,162 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-14T21:24:17.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "publishedAt": "2026-07-14T22:24:55.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "30fbae7d467f4e138d1c",
+      "title": "US carries out more strikes on Iran and resumes blockade of nation’s ports – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T22:24:16.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "c370459c16ac98dcaa8c",
+      "title": "US marshal shot dead serving arrest warrant in Louisiana",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/us-marshal-shot-dead-louisiana",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T22:13:56.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "5e3fcdff0f76ecc08384",
+      "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+      "url": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T22:11:33.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "e30f55cfcf48e5405505",
+      "title": "US House passes bill to make daylight saving time permanent",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:59:11.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "bd9eb14ebd28f3cf260b",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "source": "bis.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T21:58:36.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "db028feb22c44c954e9b",
+      "title": "Supreme court justices request $14.6m increase in security amid rise in threats",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:54:30.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "a0826fcfe2409a779daa",
+      "title": "Colombian father identified in deadly ICE shooting",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:51:14.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "0c72b1332ba731c6e12e",
+      "title": "California: thousands flock to see pair of pungent corpse flowers bloom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/corpse-flowers-huntington-los-angeles-california",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:50:08.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "5fe8f031b9f982398f0c",
+      "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:39:16.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "dd94461210e22559b63d",
+      "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:30:36.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "81b9ceccaedf16156337",
+      "title": "Are countries prepared to cope with extreme weather?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:26:07.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "4d24c0e9bc6e82412324",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "source": "github.blog",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T21:15:51.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "f05ac5add2ce6e64ac0c",
+      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-14T21:13:12.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "89ff39c6ee2ef146f859",
-      "title": "World Cup: Key players to watch as England and Argentina clash in semifinal",
+      "title": "World Cup semifinal: Key players to watch in England vs Argentina clash",
       "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T21:10:42.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "b5e43ceda958623e2dd8",
@@ -86,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T21:08:42.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "d1611182d4ce13abbbd1",
@@ -97,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T21:07:48.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "9ae7119b185e295bf790",
@@ -108,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T21:05:39.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "d7f0f7af34101bf40fc3",
@@ -119,18 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T21:05:12.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "f969212e01950275e140",
-      "title": "Man killed by semi after fleeing from immigration officials in Florida",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-shooting-death-florida",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T21:01:29.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "4120ffdebc7cd9e5d770",
@@ -141,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T20:59:10.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "d7fa3a3900a218eb8aab",
@@ -152,29 +273,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:36:57.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
-      "id": "715c7193efbdf694e7ef",
-      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator",
-      "source": "The Guardian",
+      "id": "def32dd14b1eef6f1f31",
+      "title": "Wife describes moment husband nearly sucked out of Ryanair plane",
+      "url": "https://www.bbc.co.uk/news/videos/cd959ygx8g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-14T20:35:20.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "7c84a8d4410e55eee30f",
-      "title": "Mahmoud Khalil sues Trump officials and pro-Israel groups over ‘conspiracy’ to target him",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/mahmoud-khalil-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T20:32:02.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "publishedAt": "2026-07-14T20:29:08.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "d4a32f4d6fe8268186f1",
@@ -185,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:27:40.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "3de75eb69d270c0b0a7c",
@@ -196,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:18:36.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "b711ea92d8e5eb09f0b2",
@@ -207,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:17:56.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "6545f3ea3db7efb3c404",
@@ -218,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:16:52.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "a47054485d66b8aff4bf",
@@ -229,18 +339,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:13:32.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "d29ec34f7dd32ea7c441",
-      "title": "Senate Democrats block defence bill over Iran war, Israel integration",
+      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
       "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T20:12:06.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "0e88f37b0b24c5498195",
@@ -251,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-14T20:10:37.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "c82f31017006cd87be28",
@@ -262,18 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T20:10:34.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "0afe6ee9f6f239e8539c",
-      "title": "ICE pauses vehicle stops after deadly shootings in Texas and Maine",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-vehicle-stops-texas-maine-shootings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T20:10:27.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "b92643174fb906e3bd65",
@@ -284,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T20:00:24.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "e07cd0a6ed545161d9d3",
@@ -295,7 +394,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T20:00:00.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
+    },
+    {
+      "id": "138528e76582b7f22d2c",
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "source": "alexedwards.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-14T19:55:31.000Z",
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "3424f9dd3978c0b9c47a",
@@ -306,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T19:54:53.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "0c71fd7802428683f8fd",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T19:47:33.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "507e67c6e5db3c52fc85",
@@ -328,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T19:43:26.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "0eb787b8718427a7ae4b",
@@ -339,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-14T19:40:23.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "0efd4e252216a024b55e",
@@ -350,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T19:32:54.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "879ca1be273915a381b8",
@@ -361,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-14T19:13:49.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "927446898b22a7eed368",
@@ -372,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-14T19:11:37.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "c616504c346226b55a4d",
@@ -383,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T18:56:11.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "c258e94c26c28da50376",
@@ -394,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T18:55:57.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "b15471c284dfd7d32a94",
@@ -405,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T18:32:40.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "ff3e0ac70ba6233aba48",
@@ -416,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T18:26:10.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "ffbe99a4d50c0d3cc92a",
@@ -427,18 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-14T18:23:45.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "68a7c5a736c4d2e28b07",
-      "title": "MPs say death threats a daily reality in ‘increasing climate of abuse’",
-      "url": "https://www.theguardian.com/politics/2026/jul/14/mp-death-threats-daily-reality-increasing-climate-abuse-intimidation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T18:22:28.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "de5b7481a019d1857cb6",
@@ -449,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-14T18:05:05.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "1e730088e39cb4081bfa",
@@ -460,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-14T18:00:35.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     },
     {
       "id": "27ec0538f7927c7e4d7d",
@@ -471,106 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-14T17:58:35.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "a0bc0f630680e91c4594",
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "source": "prismml.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-14T17:50:48.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "6f07db314aaf96a74de5",
-      "title": "US, Russian astronauts launch into orbit for joint space mission",
-      "url": "https://www.aljazeera.com/news/2026/7/14/us-russian-astronauts-launch-into-orbit-for-joint-space-mission?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:49:28.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "b50c02527af7cc1b5931",
-      "title": "Dua Lipa calls Albanian protests against Jared Kushner-backed resort ‘inspiring’",
-      "url": "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:39:38.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "085ab17d37c776b83369",
-      "title": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
-      "url": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:34:29.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "a47c72399b19ffece4d0",
-      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
-      "url": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:31:25.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "6b4b43981297ba84f1df",
-      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:22:58.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "a71d573c742e2781cef0",
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:13:27.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "3d00916f26cec92d206f",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-14T17:07:42.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
-    },
-    {
-      "id": "1fe3ab610cc5e1553a14",
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "source": "lucumr.pocoo.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-14T16:57:54.000Z",
-      "discoveredAt": "2026-07-14T21:33:13.459Z"
+      "discoveredAt": "2026-07-14T22:35:24.346Z"
     }
   ]
 }
