@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T18:16:57.212Z",
+  "generatedAt": "2026-07-15T19:47:53.658Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 34,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,37 @@
   ],
   "stories": [
     {
-      "id": "0b980894471706664e0d",
-      "title": "Andy Burnham signals a wealth tax is off the agenda for now",
-      "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
+      "id": "5ff799ef79b6cdde3399",
+      "title": "Police charge 14-year-old boy over alleged terror plot targeting London mosques",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/15/police-charge-boy-over-alleged-terror-plot-targeting-london-mosques",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-15T18:09:13.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "publishedAt": "2026-07-15T19:32:52.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "cdbce078994e62f430cb",
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "source": "elbowgreasegames.substack.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-15T19:27:59.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "dd4f9bf6113dcf9ac482",
+      "title": "New $1 coin featuring Trump in production at US Mint, treasury says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-coin-us-mint-production",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T19:24:32.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "677bd4817177cf09e913",
@@ -63,8 +85,206 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-15T18:07:11.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "publishedAt": "2026-07-15T19:23:37.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "a53f1520b2dd5216dd31",
+      "title": "Venezuelan man becomes 22nd person to die in ICE custody this year",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/man-dies-georgia-ice-detention",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T19:10:47.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "550e1feef690307ca2a5",
+      "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
+      "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T19:09:32.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "d9b14c26b23b97804090",
+      "title": "Argentina fans flood Atlanta ahead of England World Cup match",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T19:08:24.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "331c61663b654e547a19",
+      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:58:58.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "75a1e701f20c79b0b687",
+      "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:56:56.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "ab08d8f3a272f333cd27",
+      "title": "Shabana Mahmood expected to be named Andy Burnham’s chancellor",
+      "url": "https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:52:25.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "4f40ced785a86f0a05ce",
+      "title": "European Athletics moves to curb on-screen sexualisation of female athletes",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/european-athletics-moves-to-curb-on-screen-sexualisation-of-female-athletes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:51:59.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "954210fdbc50ac263a17",
+      "title": "Palestinian homes sealed off by Israeli military restrictions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:49:42.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "0060d6195ecb1eb67ff7",
+      "title": "Germany warns US against election interference after it announces grants scheme",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:45:24.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "579fb9a150e4896e9c96",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:41:21.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "2d4999dbcb0aad85c951",
+      "title": "US intelligence director pick refuses to acknowledge Trump loss in 2020",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:38:49.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "e61a0f6bdbdd1bc9aae4",
+      "title": "Lebanon and Israel end sixth round of US-brokered talks",
+      "url": "https://www.aljazeera.com/news/2026/7/15/lebanon-and-israel-end-sixth-round-of-us-brokered?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:34:34.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "e98260b65acf11c2d051",
+      "title": "Iran unveils huge billboard showing Trump in coffin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:28:42.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "4b8e887575e2be020427",
+      "title": "Jude Bellingham lookalikes compete for a £1,966 Deliveroo voucher",
+      "url": "https://www.theguardian.com/football/2026/jul/15/jude-bellingham-lookalikes-compete-for-a-1966-deliveroo-voucher",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:28:24.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "2a2e38331edd976c3def",
+      "title": "Prominent Moroccan journalist Ali Lmrabet released from custody",
+      "url": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:23:29.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "8c3acf43834d43ba4e45",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "source": "thinkingmachines.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-15T18:12:45.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "0b980894471706664e0d",
+      "title": "Andy Burnham signals a wealth tax is off the agenda for now",
+      "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:09:13.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "2cedee322ab3093e6818",
+      "title": "What if Bluey spoke one of the world's oldest living languages?",
+      "url": "https://www.bbc.co.uk/news/videos/c07y7r91vz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:07:05.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "22e8bd47588181e00e42",
@@ -75,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T18:05:46.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "1c62f590118eb3ee7752",
@@ -86,29 +306,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T18:04:55.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
-      "id": "c074e9722cbd51aab965",
-      "title": "Todd Blanche downplays Trump alliance in confirmation hearing",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
-      "source": "The Guardian",
+      "id": "8e776387e03606e24ac7",
+      "title": "Gas tanker explodes in fire near army barracks in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-15T17:59:34.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "a53f1520b2dd5216dd31",
-      "title": "Venezuelan man becomes 22nd person to die in ICE custody this year",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/man-dies-georgia-ice-detention",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T17:50:38.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "publishedAt": "2026-07-15T17:56:03.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "a343e1917103f5dc3ac2",
@@ -119,18 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T17:49:25.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "dae5fb6b892d0ab98ee4",
-      "title": "Save the Children clashes with Labour after accusing Starmer of ‘complicity’ in Gaza deaths",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/15/save-the-children-accusing-starmer-of-complicity-in-gaza-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T17:49:19.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "40121bf98135cd44bfb4",
@@ -141,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T17:38:54.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "88749769a8659d8eb257",
@@ -152,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T17:32:52.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "86f8a4f19a4d877a42e0",
@@ -163,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T17:29:26.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "b441ebc0b1b6bcef21af",
@@ -174,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T17:14:07.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "514ea325d12ca7a0fe42",
@@ -185,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T17:02:41.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "a7df4e95830e45ecc308",
@@ -196,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T17:01:59.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "673bd12ac3b8479ef313",
@@ -207,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T17:00:00.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "1c1eefa496cc8e5d8fa8",
@@ -218,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:57:23.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "290b55f28a21cda31a7d",
@@ -229,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:55:01.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "7f7897f09e56698db573",
@@ -240,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T16:51:07.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "e369e751dc6e6f2774b5",
@@ -251,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:48:14.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "2eaca58ab2ef169c06cf",
@@ -262,40 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:46:51.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "3fa60190b286b0b6126d",
-      "title": "Nobby Stiles died with brain condition caused by repeatedly heading a football, coroner rules",
-      "url": "https://www.theguardian.com/football/2026/jul/15/nobby-stiles-died-with-brain-condition-caused-by-repeatedly-heading-a-football-coroner-rules",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:43:56.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "a081f21b9a84e5f1bcd2",
-      "title": "Stonegate pub and bar chain investigated over ‘unfair’ treatment of landlords",
-      "url": "https://www.theguardian.com/business/2026/jul/15/stonegate-pub-and-bar-chain-investigated-over-unfair-treatment-of-landlords",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:39:53.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "6d9949061c1e51f4b737",
-      "title": "A General Goal-Conditioned Minecraft Model",
-      "url": "https://pantograph.com/journal/pan-1",
-      "source": "pantograph.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T16:35:09.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "5b20ec32d985c81a32bf",
@@ -306,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T16:33:15.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "fd99b3201137a8af81df",
@@ -317,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:30:20.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "a142f47c2bf313c64486",
@@ -328,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:24:39.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "5a1c9c6351d7a5d6c855",
@@ -339,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:22:28.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "836f3dfa69d44ad94cd5",
@@ -350,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T16:15:03.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "f990ee23bbd7f01db410",
@@ -361,7 +526,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:14:05.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
+    },
+    {
+      "id": "f58c86e8a774fc874864",
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "source": "openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-15T16:12:58.000Z",
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "7fce55a9fd72d8209bb0",
@@ -372,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:12:32.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "4c41418c042260a8ac7b",
@@ -383,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T16:08:39.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     },
     {
       "id": "56001d27333b178b25e5",
@@ -394,183 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:02:21.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "624fa3fc3217ce8d993e",
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T15:58:59.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "e4ea4fe1e7f33d6fbad4",
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "source": "coasty.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T15:51:20.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "6ca1fe072befd51830e6",
-      "title": "Trump urges ICE to keep using traffic stops after deadly incidents",
-      "url": "https://www.aljazeera.com/news/2026/7/15/trump-urges-ice-to-keep-using-traffic-stops-after-deadly-incidents?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:41:43.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "964a3690e8f9eab0681e",
-      "title": "When A.I. Is a Member of the Family",
-      "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-      "source": "newyorker.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T15:37:47.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "96480dee2e150a9cda80",
-      "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-      "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:37:22.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "4642acaabec6d133af8c",
-      "title": "Who is calling the shots in Iran amid the deadly war with the US?",
-      "url": "https://www.aljazeera.com/features/2026/7/15/who-is-calling-the-shots-in-iran-amid-the-deadly-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:35:57.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "5ae5e6cbae43a5959447",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "source": "neomindlabs.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T15:34:05.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "a6f00f46d1400cff1fda",
-      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:33:30.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "fe3731eed95356e8a15a",
-      "title": "England vs Argentina LIVE: FIFA World Cup 2026 semifinal",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/15/england-vs-argentina-live-fifa-world-cup-2026-semifinal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:30:13.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "843aa9d795c46dc6b292",
-      "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:16:35.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "e2f3846ce384b9689c24",
-      "title": "Moscow warns that foreign troops in Ukraine would be seen as legitimate targets – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:15:38.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "668feb10609691f5e9e8",
-      "title": "July 15, 10 years on: Turkiye’s will, Turkiye’s victory",
-      "url": "https://www.aljazeera.com/opinions/2026/7/15/july-15-10-years-on-turkiyes-will-turkiyes-victory?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:12:32.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "92eb10d86056a364b383",
-      "title": "Dramatic video shows wildfire surround freight train in Canada",
-      "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:11:00.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "180cd5779b13b57eb423",
-      "title": "How US-Iran escalation will test Iraq’s balancing act",
-      "url": "https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:03:29.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "9d4c881ce6e347e4a736",
-      "title": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say",
-      "url": "https://www.theguardian.com/environment/2026/jul/16/greater-gliders-gliding-study",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:01:00.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
-    },
-    {
-      "id": "df0a225af0e5e3f7a236",
-      "title": "Almost 145,000 Australians will lose support for autism under NDIS reforms, documents reveal",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/16/ndis-reforms-autism-almost-145000-australians-will-lose-support",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:00:59.000Z",
-      "discoveredAt": "2026-07-15T18:16:57.212Z"
+      "discoveredAt": "2026-07-15T19:47:53.658Z"
     }
   ]
 }
