@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T16:41:06.427Z",
+  "generatedAt": "2026-07-15T18:16:57.212Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,268 @@
   ],
   "stories": [
     {
-      "id": "0f7bf1a15abb6523deb7",
-      "title": "Primate Is the Last Great Web Framework",
-      "url": "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html",
-      "source": "superarch.org",
+      "id": "0b980894471706664e0d",
+      "title": "Andy Burnham signals a wealth tax is off the agenda for now",
+      "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:09:13.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "677bd4817177cf09e913",
+      "title": "Democrats grill Todd Blanche on ICE agents at polling sites and Kash Patel’s conduct at attorney general confirmation hearing – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:07:11.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "22e8bd47588181e00e42",
+      "title": "Trump rails against New York’s statewide datacenter moratorium",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-new-york-datacenter-moratorium",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:05:46.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "1c62f590118eb3ee7752",
+      "title": "Extreme temperature warnings in place as ‘heat dome’ bakes US",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/extreme-heat-warnings-us",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T18:04:55.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "c074e9722cbd51aab965",
+      "title": "Todd Blanche downplays Trump alliance in confirmation hearing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:59:34.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "a53f1520b2dd5216dd31",
+      "title": "Venezuelan man becomes 22nd person to die in ICE custody this year",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/man-dies-georgia-ice-detention",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:50:38.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "a343e1917103f5dc3ac2",
+      "title": "Florence Welch’s mother says cuts to arts and humanities ‘absolutely tragic’",
+      "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:49:25.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "dae5fb6b892d0ab98ee4",
+      "title": "Save the Children clashes with Labour after accusing Starmer of ‘complicity’ in Gaza deaths",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/15/save-the-children-accusing-starmer-of-complicity-in-gaza-deaths",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:49:19.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "40121bf98135cd44bfb4",
+      "title": "Mapping the latest US strikes across Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:38:54.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "88749769a8659d8eb257",
+      "title": "Chaos and confusion bring US no closer to resolution on strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/15/chaos-confusion-no-closer-resolution-strait-hormuz-us-iran-donald-trump",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:32:52.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "86f8a4f19a4d877a42e0",
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:29:26.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "b441ebc0b1b6bcef21af",
+      "title": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
+      "url": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:14:07.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "514ea325d12ca7a0fe42",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:02:41.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "a7df4e95830e45ecc308",
+      "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
+      "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:01:59.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "673bd12ac3b8479ef313",
+      "title": "Why are right-wing parties gaining ground in Latin America?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/why-are-right-wing-parties-gaining-ground-in-latin-america?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T17:00:00.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "1c1eefa496cc8e5d8fa8",
+      "title": "Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/argentine-vp-calls-england-pirates-ahead-of-world-cup-semifinal-clash?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:57:23.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "290b55f28a21cda31a7d",
+      "title": "Cruise ship hotel left listing in China port after high tides",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/cruise-ship-hotel-left-listing-in-china-port-after-high-tides?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:55:01.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "7f7897f09e56698db573",
+      "title": "Five arrested after Hong Kong police raid independent bookshops",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:51:07.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "e369e751dc6e6f2774b5",
+      "title": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
+      "url": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:48:14.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "2eaca58ab2ef169c06cf",
+      "title": "Norway’s Waerenskjold wins fastest Tour de France stage in history",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/norways-waerenskjold-wins-fastest-tour-de-france-stage-in-history?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:46:51.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "3fa60190b286b0b6126d",
+      "title": "Nobby Stiles died with brain condition caused by repeatedly heading a football, coroner rules",
+      "url": "https://www.theguardian.com/football/2026/jul/15/nobby-stiles-died-with-brain-condition-caused-by-repeatedly-heading-a-football-coroner-rules",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:43:56.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "a081f21b9a84e5f1bcd2",
+      "title": "Stonegate pub and bar chain investigated over ‘unfair’ treatment of landlords",
+      "url": "https://www.theguardian.com/business/2026/jul/15/stonegate-pub-and-bar-chain-investigated-over-unfair-treatment-of-landlords",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T16:39:53.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "6d9949061c1e51f4b737",
+      "title": "A General Goal-Conditioned Minecraft Model",
+      "url": "https://pantograph.com/journal/pan-1",
+      "source": "pantograph.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-15T16:35:38.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "publishedAt": "2026-07-15T16:35:09.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
+    },
+    {
+      "id": "5b20ec32d985c81a32bf",
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev/",
+      "source": "clocks.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-15T16:33:15.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "fd99b3201137a8af81df",
@@ -64,40 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:30:20.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "677bd4817177cf09e913",
-      "title": "Democrats grill Todd Blanche on ICE agents at polling sites and Kash Patel’s conduct at attorney general confirmation hearing – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:29:56.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "65bdb63e67002e9937f6",
-      "title": "Farage’s £5m gift came after saying he needed ‘a million a year’ to stand as MP",
-      "url": "https://www.theguardian.com/politics/2026/jul/15/farage-said-he-would-need-a-million-a-year-to-stand-as-mp-in-2024",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:29:22.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "4f78432e7b8ef3704c68",
-      "title": "Wisconsin panel finds Elon Musk’s $1m state supreme court voter giveaway was likely illegal",
-      "url": "https://www.theguardian.com/technology/2026/jul/15/elon-musk-wisconsin-election-payments",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:25:52.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "a142f47c2bf313c64486",
@@ -108,18 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:24:39.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "3956e7c2e6000f4ed68b",
-      "title": "DUP sets up review on what party knew about sex offender Jeffrey Donaldson – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:23:17.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "5a1c9c6351d7a5d6c855",
@@ -130,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:22:28.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "19a57f90d2856299f7fd",
-      "title": "Social media curfew for teens: is it pointless? – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/15/social-media-curfew-for-teens-is-it-pointless-the-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T16:18:09.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "836f3dfa69d44ad94cd5",
@@ -152,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T16:15:03.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "f990ee23bbd7f01db410",
@@ -163,18 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:14:05.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "f58c86e8a774fc874864",
-      "title": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "source": "openai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T16:12:58.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "7fce55a9fd72d8209bb0",
@@ -185,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:12:32.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "4c41418c042260a8ac7b",
@@ -196,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T16:08:39.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "56001d27333b178b25e5",
@@ -207,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T16:02:21.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "624fa3fc3217ce8d993e",
@@ -218,51 +405,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T15:58:59.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
-      "id": "f8a99607121cc620a006",
-      "title": "Man arrested on suspicion of posting social media threat to shoot Nigel Farage",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/15/man-arrested-on-suspicion-social-media-threat-nigel-farage",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:58:45.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "0da42cc3c981c121e2ee",
-      "title": "J-space comparisons across open models",
-      "url": "https://eliebak.com/viz/jspace-open-v2",
-      "source": "eliebak.com",
+      "id": "e4ea4fe1e7f33d6fbad4",
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "source": "coasty.ai",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-15T15:57:16.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "ecfdbf2f3ad3a42d1d7d",
-      "title": "Nationwide customer vows to fight on after failed attempt to join board",
-      "url": "https://www.theguardian.com/business/2026/jul/15/nationwide-customer-board-building-society",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:55:05.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "4332bcdf4aba11c295b9",
-      "title": "Trump intelligence pick Jay Clayton refuses to say Biden won 2020 election",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/jay-clayton-senate-intelligence-committee-hearing",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:48:53.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "publishedAt": "2026-07-15T15:51:20.000Z",
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "6ca1fe072befd51830e6",
@@ -273,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T15:41:43.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "d2c90375d2ff7c03ee2d",
-      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:40:27.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "964a3690e8f9eab0681e",
@@ -295,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T15:37:47.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "96480dee2e150a9cda80",
@@ -306,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-15T15:37:22.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "4642acaabec6d133af8c",
@@ -317,18 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T15:35:57.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "5ae5e6cbae43a5959447",
-      "title": "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
       "source": "neomindlabs.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T15:34:05.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "a6f00f46d1400cff1fda",
@@ -339,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T15:33:30.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "fe3731eed95356e8a15a",
@@ -350,29 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T15:30:13.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "c074e9722cbd51aab965",
-      "title": "Todd Blanche sits for confirmation hearing in bid for attorney general",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:21:57.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "58836a0d772d5df545ee",
-      "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-      "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-      "source": "dea.gov",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T15:17:44.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "843aa9d795c46dc6b292",
@@ -383,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-15T15:16:35.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "e2f3846ce384b9689c24",
@@ -394,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T15:15:38.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "668feb10609691f5e9e8",
@@ -405,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T15:12:32.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "92eb10d86056a364b383",
@@ -416,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T15:11:00.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "180cd5779b13b57eb423",
@@ -427,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T15:03:29.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "9d4c881ce6e347e4a736",
@@ -438,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T15:01:00.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     },
     {
       "id": "df0a225af0e5e3f7a236",
@@ -449,128 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T15:00:59.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "c4e08ac442ec09ca99aa",
-      "title": "Albanese’s AI plan is admirable – but will face tech giants more powerful than most national governments",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/16/albanese-ai-plan-tech-giants-regulating-social-media-analysis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:00:59.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "7dd1ca4358752403c3a0",
-      "title": "Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/16/albaneses-ai-blueprint-sparks-calls-for-datacentre-moratorium-until-new-regulations-in-place",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T15:00:58.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "95834bba2a487dda1c8b",
-      "title": "My Twitter, not X",
-      "url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:32:46.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "121a5c2e7c70580055c0",
-      "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
-      "url": "https://www.theguardian.com/world/2026/jul/15/as-russias-assault-continues-ukraines-politics-shift-and-an-old-alliance-begins-to-fray",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:30:56.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "0b787bc441437785fc28",
-      "title": "Legal challenge says Trump ICC sanctions tread on US citizens’ rights",
-      "url": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:24:53.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "a37394e1f7b4da2bfa82",
-      "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
-      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:11:41.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "724b22a9203e5453f7d0",
-      "title": "The well-calibrated Bayesian [pdf] (1982)",
-      "url": "https://fitelson.org/seminar/dawid.pdf",
-      "source": "fitelson.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T14:11:12.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "a7df4e95830e45ecc308",
-      "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
-      "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:06:01.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "b958bcaaadddec2df93e",
-      "title": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T14:05:39.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "862bb4b76110221e0634",
-      "title": "Iraq’s prime minister carries the title, but not the power",
-      "url": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T13:57:10.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
-    },
-    {
-      "id": "520b66d4eb113e4ba23b",
-      "title": "What DOGE saved, and what it cost",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/15/what-doge-saved-and-what-it-cost?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T13:46:35.000Z",
-      "discoveredAt": "2026-07-15T16:41:06.427Z"
+      "discoveredAt": "2026-07-15T18:16:57.212Z"
     }
   ]
 }
