@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T16:51:47.968Z",
+  "generatedAt": "2026-07-16T18:15:24.856Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "08af04c2b340d9ae2355",
+      "title": "General Mills recalls 736,000 Pillsbury rolls over glass contamination fears",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/pillsbury-general-mills-frozen-bread-rolls-recall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T18:03:45.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "5705bf7dfe2611fad571",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:56:47.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "2fb1badf09a6b6222583",
+      "title": "Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:56:29.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "b17ff7dfc302fc958e2d",
+      "title": "Trump-backed Senate candidate is linked to white nationalist influencer – his son-in-law",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/senate-trump-mike-collins-white-nationalism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:38:15.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "ae493511a99888fc46c8",
+      "title": "Amnesty UK self-reports to watchdog after calling JK Rowling women’s centre ‘anti-rights’",
+      "url": "https://www.theguardian.com/society/2026/jul/16/amnesty-uk-self-reports-to-watchdog-calling-women-centre-anti-rights",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:37:35.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "f1b45ba1e43b472ad5d8",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:36:43.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "3cff55e8fe495ab06035",
+      "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:24:31.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "3082fd00398854eecf04",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:22:31.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "942b479e50275f383ee2",
+      "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:22:09.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
       "id": "5886d5506ae70ab82d70",
       "title": "'Moment of joy' as Uganda discharges last Ebola patient",
       "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
@@ -52,19 +151,140 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T16:50:57.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "publishedAt": "2026-07-16T17:15:32.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "9ca08c01d78e7283e494",
+      "title": "Rare protests in Kyiv over dismissal of defence minister",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:15:03.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "4b5a4cce7c2df345e033",
+      "title": "Keir Starmer makes Sadiq Khan a peer in the House of Lords",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:14:38.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "a0436f43ec70581419d5",
+      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:10:29.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "fb507a8ae6556c1b84e1",
+      "title": "Ava DuVernay to make Netflix documentary 14th on birthright citizenship",
+      "url": "https://www.theguardian.com/film/2026/jul/16/ava-duvernay-netflix-birthright-citizenship",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:04:40.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "fe0518185c63981a4804",
+      "title": "Eleven killed in Algeria orphanage fire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:56:54.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "28d55e56193a0b15b84e",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T16:52:16.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "395778cdf16d4257e917",
+      "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+      "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+      "source": "nytimes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T16:51:20.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "3bcbef8bbb5f24fd73e9",
+      "title": "At least one dead as life-threatening flash floods and storms hit central Texas",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/texas-flooding-emergency-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:49:01.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "ed7d7a007ecf361eec1c",
+      "title": "Iran reports fresh strikes near Qeshm Island and accuses US over ‘barbaric’ hospital attack – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:47:55.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "3c8bbc1cc2eda377217e",
+      "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:45:22.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "84c47ab4ec38382e9dc0",
+      "title": "Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse",
+      "url": "https://www.aljazeera.com/news/2026/7/16/ex-ceo-of-italian-motorway-sentenced-to-12-years-for-genoa-bridge-collapse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:43:46.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "5e7124128d368bb39377",
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "source": "blog.lyc8503.net",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T16:41:37.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "459690cd2252e0fb359a",
@@ -75,29 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:36:21.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "3c8bbc1cc2eda377217e",
-      "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:33:29.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "d0f98abb405af07570ff",
-      "title": "Cool, calm and creepy-crawly: reporter unfazed by cockroach cameo on live TV",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/cockroach-reporter-live-tv-california",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:32:56.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "58b3f3a52ad4d62df5f1",
@@ -108,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:32:18.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "a075dc3cfffade257c3e",
@@ -119,7 +317,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:30:43.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "78a14bf15a51cbb92f91",
+      "title": "US to impose new 25 percent tariffs on some Brazilian imports",
+      "url": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:27:44.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "ca736fee222cacd37da5",
@@ -130,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:26:32.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "ae9c40a01bee864fd7ca",
@@ -141,7 +350,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:25:57.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "e1c4c03aecb08f96b6b0",
+      "title": "Trump limits length of visas for students, exchange visitors, journalists",
+      "url": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:25:44.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "9d4ef1a1df202ff27576",
+      "title": "How can Argentina and Messi beat Spain and Yamal to defend World Cup?",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:25:08.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "2383b8ce7d279b02b1c7",
@@ -152,18 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T16:24:50.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "ed7d7a007ecf361eec1c",
-      "title": "Iran reports fresh strikes near Qeshm Island and accuses US over ‘barbaric’ hospital attack – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:22:48.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "14acc7b6b8ee24297656",
@@ -174,18 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T16:18:21.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "2fb1badf09a6b6222583",
-      "title": "Former pardon attorney slams Todd Blanche nomination for AG: ‘Do not degrade our justice system further’ – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:15:32.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "580808a80ff19228404c",
@@ -196,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:14:45.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "872b4f4a15a1a67a7ca4",
@@ -207,29 +416,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T16:13:25.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "0d9e25784a0e9130b74e",
-      "title": "Inquest reopened into death of 14-year-old boy after TikTok ‘blackout challenge’",
+      "title": "Inquest reopened into death of 14-year-old boy after ‘TikTok blackout challenge’",
       "url": "https://www.theguardian.com/media/2026/jul/16/inquest-death-jools-sweeney-tiktok-blackout-challenge-social-media",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:12:24.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "3082fd00398854eecf04",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:10:40.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "0792e62e59839e671dc7",
@@ -240,7 +438,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:08:52.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "330bc8b9fb00c31bf53f",
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:08:40.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "0b0a6e54c316a79e704f",
@@ -251,7 +460,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T16:08:28.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
+    },
+    {
+      "id": "af76aea73422e52bf788",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "source": "blog.google",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T16:08:13.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "f6f28604f0c4f7ef7600",
@@ -262,18 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T16:06:27.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "3bcbef8bbb5f24fd73e9",
-      "title": "Life-threatening flash flooding hits central Texas as storms ravage region",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/texas-flooding-emergency-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T16:00:07.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "aa129cd51737b905c67d",
@@ -284,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T15:53:42.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "fc1af75e7a15fc130f4e",
@@ -295,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T15:44:26.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "280eb1ab1a15341c24ae",
@@ -306,29 +515,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T15:38:48.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
-      "id": "f1b45ba1e43b472ad5d8",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:30:43.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "e23f950b07675fce9310",
-      "title": "Drugmaker Merck announces approval of new cholesterol-fighting drug",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/merck-cholesterol-drug-fda-approval-lipfendra",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:28:21.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "id": "e01ad62a95532e11e2e0",
+      "title": "Immersive Linear Algebra Book with Interactive Figures",
+      "url": "https://immersivemath.com/ila/",
+      "source": "immersivemath.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T15:32:23.000Z",
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "3cace427a8c59d9f8837",
@@ -339,40 +537,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T15:20:58.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "4b5a4cce7c2df345e033",
-      "title": "Keir Starmer makes Sadiq Khan a peer in the House of Lords",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:17:41.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "3c5ca7b97b8b5b43fd8b",
-      "title": "Zelenskyy defends sacking Ukraine’s defence minister Mykhailo Fedorov",
+      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
       "url": "https://www.theguardian.com/world/2026/jul/16/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-federov",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T15:16:10.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "b1d95de9ffafa92574aa",
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "source": "zhinit.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T15:13:00.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "e08602357b5ed7bc1a66",
@@ -383,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T15:10:52.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     },
     {
       "id": "8ab14ad67689322a81a1",
@@ -394,183 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T15:06:49.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "f3a61767d3a89abdfce7",
-      "title": "Nearly one in five World Cup matches reached heat levels players’ union warns against",
-      "url": "https://www.theguardian.com/football/2026/jul/16/world-cup-heat-players-union",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:01:37.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "65aee030b7f334c5e54a",
-      "title": "Smoking rates fall to historic low across Australia despite the rise of illicit tobacco",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/smoking-rate-australia-historic-low-illicit-tobacco",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:00:43.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "52f478074f7b2842ee05",
-      "title": "‘We are waiting with bated breath’: Super El Niño forecast could make 2027 hottest year on record, BoM says",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T15:00:41.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "5fdbdc92315674401e9f",
-      "title": "Guide to data tools landscape for developers",
-      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-      "source": "sinja.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T14:59:14.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "7ed79a458282cc731d1f",
-      "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
-      "url": "https://www.theguardian.com/world/2026/jul/16/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:51:34.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "fda324395148a01889eb",
-      "title": "What happens if Mitch McConnell is unable to finish his US Senate term?",
-      "url": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:50:27.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "cbfffbbd4e96b36f421e",
-      "title": "Air quality plummets in 20 states as smoke from Canadian wildfires spreads across the US",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:49:46.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "7ba772a5cb8451fbf74b",
-      "title": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
-      "url": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:46:12.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "c9498ffc02e7898b1b28",
-      "title": "Kimi K3 is now live",
-      "url": "https://www.kimi.com/en",
-      "source": "kimi.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T14:46:05.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "ba63e1b33d2989fc6342",
-      "title": "Has Bali’s Melukat ritual turned into a commodified religious ceremony?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:44:36.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "8b0c43d42efd448ba597",
-      "title": "Private schools offer 41% more tree shade than state schools in England",
-      "url": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:37:19.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "e2b4ff1a3a76e14dcd00",
-      "title": "World Cup: Why is there a third-place playoff between France and England?",
-      "url": "https://www.aljazeera.com/sports/2026/7/16/world-cup-why-is-there-a-third-place-playoff-between-france-and-england?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:31:30.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "bda21359587f5631c704",
-      "title": "How World Cup football jerseys became political fashion in Latin America",
-      "url": "https://www.aljazeera.com/news/longform/2026/7/16/how-world-cup-football-jerseys-became-political-fashion-in-latin-america?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:20:56.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "093c4a3374350c9b4434",
-      "title": "Epstein linked to Israeli ‘deep state’, US intel, says Vance: What we know",
-      "url": "https://www.aljazeera.com/news/2026/7/16/epstein-linked-to-israeli-deep-state-us-intel-says-vance-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:20:34.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "cc85f36c42f732fe5032",
-      "title": "US or Iran — Who needs a new truce deal more?",
-      "url": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T14:13:10.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
-    },
-    {
-      "id": "90722ae8ee3e4f36350c",
-      "title": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme",
-      "url": "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T13:58:29.000Z",
-      "discoveredAt": "2026-07-16T16:51:47.968Z"
+      "discoveredAt": "2026-07-16T18:15:24.856Z"
     }
   ]
 }
