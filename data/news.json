@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T19:43:50.140Z",
+  "generatedAt": "2026-07-16T21:12:34.633Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,15 +45,59 @@
   ],
   "stories": [
     {
-      "id": "e24e1b17de75fa9af3d1",
-      "title": "Mary Jo, mother of Kardashian matriarch Kris Jenner, dies aged 91",
-      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "5ea6bea65812662fdcf9",
+      "title": "White House teleprompter operator put on leave over alleged bets on Trump speeches",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets",
+      "source": "The Guardian",
       "sourceType": "rsshub",
-      "sourceId": "bbc-world",
+      "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T19:36:51.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "publishedAt": "2026-07-16T21:04:17.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "514c5e86c46db10acd84",
+      "title": "Remains of LA millionaire missing since 1981 identified after more than 40 years",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/la-millionaire-remains-identified",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:59:02.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "29c2b54269855b4d42ce",
+      "title": "Australia news live: Telstra CEO to face parliamentary inquiry over mobile outage",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:57:20.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "e0895a8475c513c7e419",
+      "title": "After years of false claims on voting, Trump to give an address on election integrity",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:50:26.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "e23f950b07675fce9310",
+      "title": "Drugmaker Merck announces approval of new cholesterol-fighting drug",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/merck-cholesterol-drug-fda-approval-lipfendra",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:45:20.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "2fb1badf09a6b6222583",
@@ -63,8 +107,173 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T19:21:39.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "publishedAt": "2026-07-16T20:44:18.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "230d562872f71b1518c7",
+      "title": "The hardest party to manage in the Iran talks isn’t Iran",
+      "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:40:53.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "b2170b46892d6dc28f09",
+      "title": "Palestinians injured in Israeli settler attacks across West Bank",
+      "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:37:23.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "75e9687ed32021ac14aa",
+      "title": "Syria says it foiled Hezbollah weapons shipment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:30:29.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "6513a76b1adce45f6ee1",
+      "title": "Wildfire smoke blankets World Cup final stadium before kickoff",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:25:39.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "e24e1b17de75fa9af3d1",
+      "title": "Kris Jenner's mother Mary Jo dies aged 91",
+      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:24:54.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "bffb9d1128b698999ced",
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "source": "science.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T20:24:02.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "f3b2247276c34eee4e13",
+      "title": "How Syria is redefining ties with Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:21:22.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "e92da1656dac27d854f2",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "source": "lmstudio.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T20:18:15.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "45da8ee8c262777d8e16",
+      "title": "The privacy problems hidden in your period tracker",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T20:15:58.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "3bcbef8bbb5f24fd73e9",
+      "title": "At least one dead as life-threatening flash floods and storms hit central Texas",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/texas-flooding-emergency-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:12:55.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "3ccb5bed7bed44ae5066",
+      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+      "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T20:03:58.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "61798edb52cae09038c5",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "source": "tryai.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T20:03:23.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "f1b45ba1e43b472ad5d8",
+      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T19:58:55.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "aad8e0a2d6ff2b0e969f",
+      "title": "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
+      "url": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T19:57:46.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "562739ae8793f9c4daf0",
+      "title": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T19:44:16.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "1606b64d94d6d673a13b",
@@ -75,337 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T19:19:13.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "5564c3a85522d7865921",
-      "title": "NPP - USA Delegates To Elect Leaders , Settle Bylaws Fight",
-      "url": "https://www.newsghana.com.gh/npp-usa-delegates-to-elect-leaders-settle-bylaws-fight/",
-      "source": "newsghana.com.gh",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "27f6d80658d220d78801",
-      "title": "US limits stays of students , journalists - Jamaica Observer",
-      "url": "https://www.jamaicaobserver.com/2026/07/16/us-limits-stays-students-journalists/",
-      "source": "jamaicaobserver.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "2b67becf987ce8e00cce",
-      "title": "Madonna Turned Mourning Into Music After Multiple Family Losses",
-      "url": "https://933flz.iheart.com/content/2026-07-16-madonna-turned-mourning-into-music-after-multiple-family-losses/",
-      "source": "933flz.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "b9a82bfa6b37e6df9d42",
-      "title": "Yemen Houthis threaten to attack Saudi Arabia",
-      "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-threaten-attack-saudi-183417730.html",
-      "source": "yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "34bf1535c1c283edf1d1",
-      "title": "THURS PT 2 : Celebs Failing To Get Out Of Tickets + Cyclosporiasis Wrecks Ou | Buckeye Country 94 . 3 WMRN - FM",
-      "url": "https://buckeyecountry943.iheart.com/featured/bobby-bones/content/2026-07-16-1119-the-bobby-bones-show-thurs-pt-2-celebs-failing-to-get-out-of-tickets-c/",
-      "source": "buckeyecountry943.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "93ebf83ee103d44fe4c3",
-      "title": "House education panel advances package to dismantle Education Department",
-      "url": "https://kfoxtv.com/news/nation-world/house-education-panel-advances-package-to-dismantle-education-department-trump-linda-mcmahon-executive-order-tim-walberg-bobby-scott",
-      "source": "kfoxtv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "6c79dfb17a364dfc3468",
-      "title": "Warner Bros . Drops 1st Teaser Trailer For The Batman 2",
-      "url": "https://hiphopwired.com/3059515/warner-bros-drops-1st-teaser-trailer-for-the-batman-2/",
-      "source": "hiphopwired.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "488c54d2eac6955befcb",
-      "title": "Trump Media launches Truth API to give banks faster access to Truth Social posts",
-      "url": "https://www.hindustantimes.com/world-news/us-news/trump-media-launches-truth-api-to-give-banks-faster-access-to-truth-social-posts-101784225959242.html",
-      "source": "hindustantimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "80366de9c01cfb9b5352",
-      "title": "Air quality warnings expand across region as smoke spreads from Brunswick wildfires",
-      "url": "https://www.castanetkamloops.net/news/Kamloops/624977/Air-quality-warnings-expand-across-region-as-smoke-spreads-from-Brunswick-wildfires",
-      "source": "castanetkamloops.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "bb70ff73a4a23e798ef5",
-      "title": "Vishwanand Srivastava , Founder & CEO of Caz Brain Group , Strengthens Caz Legal AI to Build AI - Enabled Legal Professionals",
-      "url": "http://www.myanmarnews.net/news/279191913/vishwanand-srivastava-founder-ceo-of-caz-brain-group-strengthens-caz-legal-ai-to-build-ai-enabled-legal-professionals",
-      "source": "myanmarnews.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "b97c3270c77a8a2439ac",
-      "title": "Prosecutors drop four charges against broadcaster Alan Jones",
-      "url": "https://www.outinperth.com/prosecutors-drop-four-charges-against-broadcaster-alan-jones/",
-      "source": "outinperth.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "d31afb0034a0214e7591",
-      "title": "London mayor awarded House of Lords peerage",
-      "url": "https://www.samaa.tv/2087353696-london-mayor-awarded-house-of-lords-peerage",
-      "source": "samaa.tv",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "bde4ecacb5cc7d1207ee",
-      "title": "Madonna , Justin Bieber , BTS & more : How to watch the FIFA World Cup™ Final Halftime Show",
-      "url": "https://hot967fm.com/2026/07/16/madonna-justin-bieber-bts-more-how-to-watch-the-fifa-world-cup-final-halftime-show/",
-      "source": "hot967fm.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "8a844afa5de3c6f8fc63",
-      "title": "In Syria Jobar , locals struggle to rebuild their destroyed homes | Syria War",
-      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes",
-      "source": "aljazeera.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "e79688104079f1b57f90",
-      "title": "Why T - Mobile US ( TMUS ) is One of the Top Cheap Blue Chip Stocks to Buy According to Wall Street Analysts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-mobile-us-tmus-085508201.html",
-      "source": "finance.yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "a87d6b470ab80ec1d678",
-      "title": "Workforce Readiness Scholarships presented by Dixie now open through Leaders Education Foundation",
-      "url": "https://www.wbbjtv.com/2026/07/16/workforce-readiness-scholarships-presented-by-dixie-now-open-through-leaders-education-foundation/",
-      "source": "wbbjtv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "bf1596332f275338f9d9",
-      "title": "Training Camp Preview 2026 : Running Backs",
-      "url": "http://www.coloradostar.com/news/279191665/training-camp-preview-2026-running-backs",
-      "source": "coloradostar.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "b973da9f8a3745f0334f",
-      "title": "Cascade Locks City Council : Water rates are going up",
-      "url": "https://www.columbiagorgenews.com/news/cascade-locks-city-council-water-rates-are-going-up/article_2d7a16cc-d7f1-425f-b191-515534af48ff.html",
-      "source": "columbiagorgenews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "d9ca87d22c7dd06d6d57",
-      "title": "ABVP seeks Success School recognition cancellation",
-      "url": "https://organiser.org/2026/07/16/370193/bharat/telangana-abvp-seeks-success-school-recognition-cancellation-mos-calls-kalma-homework-threat-to-religious-freedom/",
-      "source": "organiser.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "50360f39f723e5010705",
-      "title": "Doctor Who Icon Tries To Solve an Impossible Case in First Images for New British Crime Thriller",
-      "url": "https://collider.com/british-crime-thriller-time-season-3-images-david-tennant/",
-      "source": "collider.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "8144a2edf3eb39698998",
-      "title": "Hurricane Center Monitoring Two Areas for Development",
-      "url": "https://cajunradio.com/ixp/33/p/tropical-trouble-gulf-atlantic-development/",
-      "source": "cajunradio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "0b08eda2eea72c2e44f2",
-      "title": "Children Vaccine Levels Rise But Remain Below Pre - Pandemic Levels",
-      "url": "https://ktok.iheart.com/content/2026-07-16-children-vaccine-levels-rise-but-remain-below-pre-pandemic-levels/",
-      "source": "ktok.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "34b171b967aca61fde47",
-      "title": "FKA Twigs to Ex Shia : I Cant Ruin Your Reputation , You Damaged It Yourself",
-      "url": "https://www.tmz.com/2026/07/16/shia-labeouf-and-fka-twigs-fight-over-his-reputation/",
-      "source": "tmz.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "f1e9486b9adb585b2a28",
-      "title": "Vacant Building Fire Under Investigation in Georgetown",
-      "url": "https://www.wmdt.com/2026/07/vacant-building-fire-under-investigation-in-georgetown/",
-      "source": "wmdt.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "d9a0be94aba34c9f08f8",
-      "title": "Kind Garage Doors & Gates Inc . Addresses Property Security Concerns With End - to - End Gate Repair Services",
-      "url": "http://www.stlouisstar.com/news/279191940/kind-garage-doors-gates-inc-addresses-property-security-concerns-with-end-to-end-gate-repair-services",
-      "source": "stlouisstar.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "5932916ee407f654bf17",
-      "title": "Security Breach At 30 Rock : Man Lunges At Today Host Craig Melvin",
-      "url": "https://957bigfm.iheart.com/content/2026-07-16-security-breach-at-30-rock-man-lunges-at-today-host-craig-melvin/",
-      "source": "957bigfm.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "f1f9b0cdadc2cede7185",
-      "title": "Rani Mukerji to be conferred Honorary Doctorate by La Trobe University at the 2026 Indian Film Festival of Melbourne – Indusage",
-      "url": "https://www.indusage.com.au/?p=98719",
-      "source": "indusage.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "329e61e1856d2555e8aa",
-      "title": "Trump teleprompter operator on unpaid leave for alleged prediction market bets on Trump speeches",
-      "url": "https://www.clickondetroit.com/business/2026/07/16/trumps-teleprompter-operator-on-unpaid-leave-for-alleged-prediction-market-bets-on-trump-speeches/",
-      "source": "clickondetroit.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "3fc017274d320319fd49",
-      "title": "Cory Booker alleges Blanche lied about being barred from meeting with Epstein victims",
-      "url": "https://abc3340.com/news/nation-world/cory-booker-alleges-blanche-lied-about-being-barred-from-meeting-with-epstein-victims-ghislaine-maxwell-new-jersey-sex-trafficking",
-      "source": "abc3340.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "1041cd665ec645c52eb3",
-      "title": "Role reset as AI rises , managers emerge as new change agents",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/role-reset-as-ai-rises-managers-emerge-as-new-change-agents/articleshow/132447068.cms",
-      "source": "economictimes.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T19:15:00.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "81db4f183090967c0b01",
@@ -416,18 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T19:05:09.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "631c5128581ac629124f",
-      "title": "John Fetterman says he would leave Democrats if they became ‘anti-Israel’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/john-fetterman-democrats-israel",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T19:03:11.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "a1c84091bfd00a74755b",
@@ -438,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:53:03.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "94ad717b2f710acfb081",
@@ -449,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:52:35.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "0111920bb94789ab6c84",
@@ -460,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:52:01.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "0f2cad02c9db693f227d",
@@ -471,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:46:07.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "4c869dd11fc6156a8733",
@@ -482,18 +350,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T18:45:30.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "e0315747468f9258b4c8",
-      "title": "Fifa 'assessing reports' over Falklands banner",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
       "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:44:43.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "65e30018425e87213448",
@@ -504,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T18:37:55.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "3c5ca7b97b8b5b43fd8b",
@@ -515,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:25:48.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "98ff88a2ead2fe9874e8",
@@ -526,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T18:21:28.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
-    },
-    {
-      "id": "c50b50f71aea71112eda",
-      "title": "A House vote makes it clear: Israel’s support among Democrats is starting to buckle",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T18:19:56.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "8d08071025bef7ce76b5",
@@ -548,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:15:55.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
       "id": "8562b3c197a490d25d0b",
@@ -559,18 +416,161 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T18:10:52.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     },
     {
-      "id": "532c93b4f5a3db9c202a",
-      "title": "Largest landlord in the US accused of civil rights violations",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
+      "id": "5705bf7dfe2611fad571",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:56:47.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "ab8830e664cbc81122e7",
+      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
+      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:54:46.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "ae493511a99888fc46c8",
+      "title": "Amnesty UK self-reports to watchdog after calling JK Rowling women’s centre ‘anti-rights’",
+      "url": "https://www.theguardian.com/society/2026/jul/16/amnesty-uk-self-reports-to-watchdog-calling-women-centre-anti-rights",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T18:09:28.000Z",
-      "discoveredAt": "2026-07-16T19:43:50.140Z"
+      "publishedAt": "2026-07-16T17:37:35.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "3cff55e8fe495ab06035",
+      "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:24:31.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "3082fd00398854eecf04",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:22:31.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "942b479e50275f383ee2",
+      "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:22:09.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "5886d5506ae70ab82d70",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:15:32.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "9ca08c01d78e7283e494",
+      "title": "Rare protests in Kyiv over dismissal of defence minister",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:15:03.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "a0436f43ec70581419d5",
+      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T17:10:29.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "fe0518185c63981a4804",
+      "title": "Eleven killed in Algeria orphanage fire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:56:54.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "28d55e56193a0b15b84e",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T16:52:16.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "ed7d7a007ecf361eec1c",
+      "title": "Iran reports fresh strikes near Qeshm Island and accuses US over ‘barbaric’ hospital attack – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:47:55.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "84c47ab4ec38382e9dc0",
+      "title": "Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse",
+      "url": "https://www.aljazeera.com/news/2026/7/16/ex-ceo-of-italian-motorway-sentenced-to-12-years-for-genoa-bridge-collapse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T16:43:46.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
+    },
+    {
+      "id": "5e7124128d368bb39377",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "blog.lyc8503.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T16:41:37.000Z",
+      "discoveredAt": "2026-07-16T21:12:34.633Z"
     }
   ]
 }
