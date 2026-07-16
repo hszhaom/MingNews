@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T11:19:59.822Z",
+  "generatedAt": "2026-07-16T13:04:34.611Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,444 @@
   ],
   "stories": [
     {
+      "id": "3082fd00398854eecf04",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T13:03:24.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
       "id": "459690cd2252e0fb359a",
-      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
       "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T11:11:22.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "publishedAt": "2026-07-16T12:56:24.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "2fb1badf09a6b6222583",
+      "title": "Trump to meet Darline Graham at the White House today – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:48:37.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "e2e3b35653080dc403a4",
+      "title": "TikTok facing UK investigation amid fears over age checks and harm to children",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:46:13.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "c31ef850d48bfbbc4409",
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:44:26.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "977cd7ec99860ef202b0",
+      "title": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:42:17.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "ab664c0b7e80cb9d25ea",
+      "title": "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
+      "url": "https://www.aljazeera.com/features/2026/7/16/john-esposito-pioneering-scholar-of-islam-in-the-us-dies-aged-86?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:41:19.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "5886d5506ae70ab82d70",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:36:35.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "8ab14ad67689322a81a1",
-      "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
+      "title": "Outrage at sacking of Ukraine’s defence minister overshadows Starmer’s final visit as PM – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T11:04:16.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "publishedAt": "2026-07-16T12:33:50.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "9903f6a3d60b78c02591",
+      "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:31:08.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "ed7d7a007ecf361eec1c",
+      "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:28:49.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "0b45845d53f4839d16e5",
+      "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:26:57.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "ca45872ec7f5b75a71d4",
+      "title": "FIFA World Cup 2026: Biggest takeaways from the semifinals",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-2026-biggest-takeaways-from-the-semifinals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:26:27.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "b9974954d5a02f9aea08",
+      "title": "Thousands to lose their homes as Ivory Coast demolitions begin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/thousands-to-lose-their-homes-as-ivory-coast-demolitions-begin?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:20:29.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "3c8bbc1cc2eda377217e",
+      "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:19:34.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "16ec6979cc5b8213552c",
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:13:23.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "78db8cb733d1023e4b50",
+      "title": "Keir Starmer wants Fifa investigation into Argentina players who held Falklands banner",
+      "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:11:09.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "f1b45ba1e43b472ad5d8",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:09:13.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "faaa1bb2c41ad5e53d91",
+      "title": "Trump fires new US attorney in Seattle an hour after federal judges appoint him",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-fires-us-attorney-roger-rogoff-seattle",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:07:46.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "e2ac0e0d8b80c124d973",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "url": "https://www.bbc.com/news/articles/c5y680w62wno",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T12:05:53.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "92c0f971074380ffbf6e",
+      "title": "The Act and the Outcome of Creation",
+      "url": "https://www.ssp.sh/blog/on-creation/",
+      "source": "ssp.sh",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T12:05:42.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "8060dd7b73a3c38f4a76",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "source": "latimes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T12:02:11.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "88b590eb3a0e79d037a9",
+      "title": "‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:01:51.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "8852cb6db84079d9bcae",
+      "title": "Argentina face action over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:01:37.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "e1f3cae68a2fe57f22ca",
+      "title": "Iran claims strikes on US bases, warns of wider attacks on region",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:00:45.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "1dc52d558bd0eac0cf9d",
+      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T12:00:39.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "f61af9108731c7d97cba",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "source": "theocharis.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T11:59:01.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "78d049a068ab9156d1ae",
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+      "source": "onatm.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T11:58:09.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "1f3064bf9b4f59cbf5bc",
+      "title": "EU court upholds Spanish amnesty law as compatible with EU law",
+      "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:56:14.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "2f820b333263bf7ddd2a",
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:48:49.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "58b3f3a52ad4d62df5f1",
+      "title": "US intensifies attacks on Iran as Tehran hits back at Gulf states",
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:47:12.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "8c4831b27b69a67600ef",
+      "title": "Venezuela’s recovery clouded by uncertainty three weeks after earthquake",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/venezuelas-recovery-clouded-by-uncertainty-three-weeks-after-earthquake?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:40:51.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "4a3d52c72dc06057dc26",
+      "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
+      "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:40:05.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "a51fc0c5255d76ea88e8",
+      "title": "Palestinians fight fires after settler attacks in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:36:47.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "5a34adcf9ff96bc92376",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:33:27.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "fea127b4167a7f34f12a",
+      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:33:11.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "2edb4cb9100f04a8dc2c",
+      "title": "World Cup: Tuchel, Messi and why Argentina beat England in semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/key-factors-in-argentinas-win-over-england-in-world-cup-2026-semifinal-tuchel-messi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:31:23.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "0fdfc344275f80fd110d",
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:29:01.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "6fa109cd9408491aec95",
+      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:18:51.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "2a05623ed9eee1e135b7",
+      "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/first-thing-us-attacks-tanker-in-continuing-iran-conflict-as-tehran-releases-us-citizen",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T11:16:05.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "2dc83532567e2d17c5e5",
@@ -75,359 +493,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T11:00:37.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
-      "id": "42b06005cbe8badcfd83",
-      "title": "‘A first step to fascism’: critics denounce Trump administration replacing slavery exhibit at George Washington’s ​home",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/critics-denounce-trump-administration-replacing-slavery-exhibit-george-washington-home",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:37.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "b97533ce535c1cf9210f",
-      "title": "Update on Investment in Vodafone | The Manila Times",
-      "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/update-on-investment-in-vodafone/2385712",
-      "source": "manilatimes.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "9754d419551d0bd2b691",
-      "title": "The Pink Fairy Armadillo | Maximum Fun",
-      "url": "https://maximumfun.org/episodes/comfort-creatures/the-pink-fairy-armadillo/",
-      "source": "maximumfun.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
+      "id": "58963bf265c559ac0eb4",
+      "title": "Track your workout from the iPhone Lock Screen",
+      "url": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
+      "source": "musklr.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "d5d1f58853d279062cc7",
-      "title": "Elena Rose Joins Karol G for Selected Tropitour Stadium Dates",
-      "url": "https://www.kfru.com/2026/07/16/elena-rose-joins-karol-g-for-selected-tropitour-stadium-dates/",
-      "source": "kfru.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "045af281d1cc26aeb7df",
-      "title": "GE Aerospace lifts 2026 forecast as airlines keep up maintenance spending",
-      "url": "https://www.933thedrive.com/2026/07/16/ge-aerospace-lifts-2026-forecast-as-airlines-keep-up-maintenance-spending/",
-      "source": "933thedrive.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2d97f19a371e98af7384",
-      "title": "Go For Launch – Space Experience – WLRH",
-      "url": "https://wlrh.org/episode/go-for-launch-space-experience/",
-      "source": "wlrh.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "9a5866d67894de07b2c6",
-      "title": "Shilpakala Academy celebrates monsoon with Nazrul music evening Borshay Nazrul",
-      "url": "https://www.thedailystar.net/culture/theatre-arts/news/shilpakala-academy-celebrates-monsoon-nazrul-music-evening-borshay-nazrul-4225321",
-      "source": "thedailystar.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "7772d10d9de16819fc0b",
-      "title": "Gurgaon firm seeks IIT intern , gross CTC is Rs 67 lakh for 2 months . Hiring post sparks debate",
-      "url": "https://www.moneycontrol.com/news/trends/gurgaon-firm-seeks-iit-interns-gross-ctc-is-rs-67-lakh-for-2-months-hiring-post-sparks-debate-13975757.html",
-      "source": "moneycontrol.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "e11fad86bcfcc3612fa4",
-      "title": "Geriatrician reveals the habit the healthiest people over 80 always avoid",
-      "url": "https://nypost.com/2026/07/16/health/geriatrician-reveals-the-habit-the-healthiest-people-over-80-always-avoid/",
-      "source": "nypost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "ee6b422c0ee9e3f371f9",
-      "title": "Pharos Energy announces Trading and Operations Update",
-      "url": "https://www.energy-pedia.com/news/general/pharos-energy-announces-trading-and-operations-update-204621",
-      "source": "energy-pedia.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2f65ae7d4a5dd723fbd3",
-      "title": "ICICI Prudential Life falls 3 % as post - results rally fizzles despite Q1 margin beat ; brokerages stay bullish",
-      "url": "https://www.moneycontrol.com/news/business/markets/icici-prudential-life-falls-3-as-post-results-rally-fizzles-despite-q1-margin-beat-brokerages-stay-bullish-13975624.html",
-      "source": "moneycontrol.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "79e4a02934df2f3dc504",
-      "title": "Winds carrying wildfire smoke over Ontario force cancellation of music festival",
-      "url": "https://www.chch.com/chch-news/winds-carrying-wildfire-smoke-over-ontario-force-cancellation-of-music-festival/",
-      "source": "chch.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "6ac073b382a2a6cf7905",
-      "title": "An F1 aerodynamicist just raised $55m to teach factory robots , using footage of people doing chores",
-      "url": "https://thenextweb.com/news/microagi-55m-seed-robot-training-data-shift",
-      "source": "thenextweb.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "d92332b5939c855f620d",
-      "title": "Founder raises Rs 5 crore funding , buys car , new flat . Investor calls him out : Uncomfortable conversation",
-      "url": "https://www.moneycontrol.com/news/trends/founder-raises-rs-5-crore-funding-buys-car-new-flat-investor-calls-him-out-uncomfortable-conversation-13975771.html",
-      "source": "moneycontrol.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "19d83e68043e01001546",
-      "title": "Roads repair regime never ending",
-      "url": "https://www.wangarattachronicle.com.au/news/roads-repair-regime-never-ending-u7ay356b",
-      "source": "wangarattachronicle.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "d238e25193917fb0b908",
-      "title": "Hillside Funerals Cremations Laredo Obituaries",
-      "url": "https://www.unitaid.eu/hillside-funerals-cremations-laredo-obituaries-t07j.html",
-      "source": "unitaid.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "f1e300fc98c6e01ef1e3",
-      "title": "These are California most affordable and least affordable cities . Both lists induce sticker shock",
-      "url": "https://www.latimes.com/california/story/2026-07-16/these-are-californias-most-affordable-least-affordable-cities-both-lists-induce-sticker-shock",
-      "source": "latimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "1869fad58f5640daf535",
-      "title": "Madelon Vriesendorp review – sex - crazed visions of skyscrapers copulating",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/16/madelon-vriesendorp-review-sir-john-soanes-museum-london-skyscrapers",
-      "source": "theguardian.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "08cac846154f2711bdb1",
-      "title": "Ethereum ( ETH ) Price Prediction : Can ETH Clear $2 , 000 as Bullish Breakout Signals Gather Pace ?",
-      "url": "https://bravenewcoin.com/insights/ethereum-eth-price-prediction-can-eth-clear-2000-as-bullish-breakout-signals-gather-pace",
-      "source": "bravenewcoin.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "612a314f5b3db106514d",
-      "title": "Three people reported for speeding on River Colne | Maldon and Burnham Standard",
-      "url": "https://www.maldonandburnhamstandard.co.uk/news/26284423.three-people-reported-speeding-river-colne/",
-      "source": "maldonandburnhamstandard.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "982925b23def38d3b4c4",
-      "title": "Americans are angry about data centers . Politicians are feeling the pressure",
-      "url": "https://wtvbam.com/2026/07/16/americans-are-angry-about-data-centers-politicians-are-feeling-the-pressure/",
-      "source": "wtvbam.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "9dfbfacb1d9a9b630908",
-      "title": "5 Big Banks Earned $49 Billion in One Quarter by Owning What Crypto Wants to Replace",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/5-big-banks-earned-49-231805896.html",
-      "source": "finance.yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2cbd01425dbff0da846e",
-      "title": "First Atlantic Nickel & Cobalt Corp .: First Atlantic Nickel & Cobalt Expands Alloy Max Zone 445 Meters South of the Discovery Hole : XL - 26 - 16 , the Deepest Hole to Date at Pipestone XL , Intersects Large - Grain Visible Awaruite ( Ni - Fe - Co A...",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69045831-first-atlantic-nickel-cobalt-corp-first-atlantic-nickel-cobalt-expands-alloy-max-zone-445-meters-south-of-the-discovery-hole-xl-26-16-the-deep-399.htm",
-      "source": "finanznachrichten.de",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "ccb08c4f449d66252f8c",
-      "title": "Warning after person stung by jellyfish on Welsh beach",
-      "url": "https://www.walesonline.co.uk/news/wales-news/warning-after-person-stung-jellyfish-34299536",
-      "source": "walesonline.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "961da911ce731dfc10d8",
-      "title": "Khalifa International Award for Date Palm and Agricultural Innovation opens nominations for 2027",
-      "url": "http://www.bignewsnetwork.com/news/279191143/khalifa-international-award-for-date-palm-and-agricultural-innovation-opens-nominations-for-2027",
-      "source": "bignewsnetwork.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "b455e57c3c9699c1989d",
-      "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity",
-      "url": "https://www.news4jax.com/tech/2026/07/16/taiwan-computer-chipmaker-tsmc-pledges-another-100-billion-to-expand-us-chipmaking-capacity/",
-      "source": "news4jax.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "8f60f2140ddca4e53ed0",
-      "title": "Will Ontario follow if U . S . stops changing its clocks ?",
-      "url": "https://www.insidehalton.com/news/ontario-update-as-us-moves-toward-permanent-dst/article_27f9db01-f731-5567-b225-cd1a8dca0b08.html",
-      "source": "insidehalton.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "51a48af19353b2fb4bd0",
-      "title": "Ya se conocen los resultados de la PAU de julio en Asturias : la nota media no llega al 6 , pero sube respecto al año pasado",
-      "url": "https://www.lne.es/asturias/2026/07/16/conocen-resultados-pau-asturias-convocatoria-132508705.html",
-      "source": "lne.es",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "50e6000ce1e19ab0c116",
-      "title": "$20 million expansion planned for Lunenburg Shipyard , adding 150 jobs",
-      "url": "https://www.saltwire.com/nova-scotia/lunenburg-shipyard-eyes-150-new-jobs-over-five-year-period-through-20-million-expansion",
-      "source": "saltwire.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "ed7d7a007ecf361eec1c",
-      "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:57:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "88b590eb3a0e79d037a9",
-      "title": "‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:53:19.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2fb1badf09a6b6222583",
-      "title": "Trump to meet Darline Graham at the White House today – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:47:31.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "publishedAt": "2026-07-16T10:49:50.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "4ec65729375065f53371",
@@ -438,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T10:45:36.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "3838ae2c2f54d7075d2b",
@@ -449,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T10:41:41.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "3c8bbc1cc2eda377217e",
-      "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:40:08.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "5328a6880ce8a4732e2b",
@@ -471,7 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T10:39:45.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
+    },
+    {
+      "id": "6229fe9ef673ec6d8c8d",
+      "title": "Ente – Opening Our Books",
+      "url": "https://ente.com/open/",
+      "source": "ente.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T10:37:17.000Z",
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "580808a80ff19228404c",
@@ -482,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T10:34:21.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     },
     {
       "id": "245e6f74fb17fdb7d786",
@@ -493,84 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T10:27:59.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2f820b333263bf7ddd2a",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:26:05.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "2a05623ed9eee1e135b7",
-      "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/first-thing-us-attacks-tanker-in-continuing-iran-conflict-as-tehran-releases-us-citizen",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:23:11.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "5db2d68f64dcc07622ec",
-      "title": "Chip giant TSMC pledges another $100bn to expand US production",
-      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:23:00.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "ddfa190fec14660bb7c0",
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "source": "community.oneplus.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T10:14:04.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "5d5c7585be74c88d80b3",
-      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
-      "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:13:40.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "72838a491e34a0a1d1ce",
-      "title": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak",
-      "url": "https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:12:57.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
-    },
-    {
-      "id": "7cb826bec44d0b987d54",
-      "title": "Uber to buy Germany’s Delivery Hero in $14.8bn global deal",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/uber-buy-germany-delivery-hero-148bn-global-deal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T10:01:50.000Z",
-      "discoveredAt": "2026-07-16T11:19:59.822Z"
+      "discoveredAt": "2026-07-16T13:04:34.611Z"
     }
   ]
 }
