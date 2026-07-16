@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T01:05:16.740Z",
+  "generatedAt": "2026-07-16T04:21:26.679Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -46,36 +46,267 @@
   "stories": [
     {
       "id": "0fccb0d00320a91cb729",
-      "title": "Australia news live: Barnaby Joyce defends Pauline Hanson’s meeting with Tommy Robinson; police make arrest after man dies in Sydney house fire",
+      "title": "Australia news live: Victoria’s police chief arrests man in Melbourne CBD; diesel over $2 a litre as Iran war lifts oil prices",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T00:56:09.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "publishedAt": "2026-07-16T04:14:59.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
-      "id": "677bd4817177cf09e913",
-      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
-      "source": "The Guardian",
+      "id": "579fb9a150e4896e9c96",
+      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T00:50:35.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "publishedAt": "2026-07-16T04:06:11.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "a24af069d587033517b4",
+      "title": "An Interactive Map of AI",
+      "url": "https://artifipedia.com/map",
+      "source": "artifipedia.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T03:53:55.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "0f8eef59c4b9a323d27c",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "source": "madcampos.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T03:48:43.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "2156b2d68ca465bc7614",
+      "title": "Senior Chinese delegation visits North Korea for talks",
+      "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T03:45:33.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "8a21891338c1e4df1ef4",
+      "title": "South Korea’s international adoptees seek justice, not homecoming",
+      "url": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T03:41:50.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "8d8fdc7a1baef1b36556",
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "source": "planetscale.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T03:36:42.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "b948a05ecf5ef9f86b95",
-      "title": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
+      "title": "US says latest attack wave on Iran completed – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T00:42:23.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "publishedAt": "2026-07-16T03:32:53.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "422cb95bf21bff0c5777",
+      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+      "source": "hyperallergic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T03:24:25.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "018c497fd318925583ca",
+      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T02:57:30.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "48a94fb0cd941759aa60",
+      "title": "ANU denies it ‘lost control’ to a pro-Palestine encampment, royal commission hears",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/16/anu-pro-palestine-protest-university-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:47:04.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "2ce8be54c12fa5d1a167",
+      "title": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:40:19.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "47c6d229a34b8bc1cde6",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:33:40.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "09d0cedcebaa557f3eee",
+      "title": "Toronto engulfed by wildfire smoke as US cities threatened",
+      "url": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:31:26.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "aa0604cd2e4d281554bf",
+      "title": "Fears for New Zealand’s native species as first bird flu case emerges",
+      "url": "https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:23:46.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "d801ef48991ca17c73ae",
+      "title": "R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:20:41.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "4b827e53ec831fd152c0",
+      "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T02:10:58.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "6eee5c308404b11a1682",
+      "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T01:58:45.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "56cf33d0e2778f221326",
+      "title": "France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals",
+      "url": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T01:55:54.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "677bd4817177cf09e913",
+      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T01:54:01.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "55a9e4cb3eab7d745b4f",
+      "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T01:36:58.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "2b58a89b0422eef9f803",
+      "title": "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T01:27:32.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "eb4ed6a69617f514809b",
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "source": "atproto.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T01:21:04.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
+    },
+    {
+      "id": "e2c4cee74e2bf6a50f77",
+      "title": "Wildfire smoke engulfs Toronto, Canada and turns its skies orange",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T00:47:07.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "fb6344b6e64f276cd9fa",
@@ -86,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:35:12.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "f443597645d61aec7ab9",
@@ -97,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:33:23.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "997b67463a63f93de9d8",
@@ -108,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:32:16.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "b16a1a8103ec08396bcf",
@@ -119,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:20:51.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "4c98b69190dcacab3a40",
@@ -130,29 +361,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T00:15:34.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "5b8f40780203e19eff35",
-      "title": "How global heating supercharged floods in West Africa displacing thousands",
+      "title": "How global heating supercharged floods in West Africa, displacing thousands",
       "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:01:08.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "f8095afa42081dcfb7ee",
-      "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T00:00:48.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "dd4f9bf6113dcf9ac482",
@@ -163,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T23:59:46.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "3ca1001c6a97a10d97b2",
@@ -174,18 +405,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T23:58:12.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
-      "id": "da44f562e7758f8f65d3",
-      "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/china-more-positive-view-us-pew-poll-survey",
-      "source": "The Guardian",
+      "id": "716350ada6b748955b5e",
+      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-15T23:46:30.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "publishedAt": "2026-07-15T23:45:12.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "44ff9de297713a80151a",
@@ -196,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T23:36:16.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "10e664c28c1f5645f207",
@@ -207,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T23:35:39.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "c5ce8c34ccb1d2966e7b",
@@ -218,29 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T23:13:20.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "927ab16d7290e8995572",
-      "title": "Show HN: One More Letter",
-      "url": "https://playonemoreletter.com/",
-      "source": "playonemoreletter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T23:10:10.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "30011f84337fba6e1c2e",
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "source": "sqlite.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T23:03:45.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "31ad3689d4a631deaf58",
@@ -251,18 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-15T23:02:57.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "6140554bd22a13564176",
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
       "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T23:02:49.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "bd84a87beafbd9dadeb6",
@@ -273,40 +482,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T23:02:37.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "ace276452fcf0cc9e7d5",
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
       "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
       "source": "chemistry.berkeley.edu",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T23:00:31.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "8852cb6db84079d9bcae",
-      "title": "Argentina face disciplinary action for Falklands banner in semi-final win",
+      "title": "Argentina face action after waving Falklands banner",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T22:49:47.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "47c6d229a34b8bc1cde6",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:46:02.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "c9f6eb2af9ad4ae5c475",
@@ -317,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T22:42:58.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "94c91bb6dac012833a0c",
@@ -328,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-15T22:30:06.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "ad58fc131d6c7250e2c9",
@@ -339,18 +537,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-15T22:23:27.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
-      "id": "65b15b71fa6f508fea67",
-      "title": "P2P local file transfer based on WebRTC",
-      "url": "https://pairdrop.net/",
-      "source": "pairdrop.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T22:22:08.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "id": "a24090c49273679144a5",
+      "title": "Crackdown on 'objectionable' books in Indian-administered Kashmir sparks row",
+      "url": "https://www.bbc.co.uk/news/articles/c0jyj292xdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-15T22:05:16.000Z",
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "cc77f66ccb6bf87d5700",
@@ -361,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T22:04:12.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     },
     {
       "id": "b34b56ed800ff51be605",
@@ -372,205 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-15T22:03:47.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "57bf5103f2f7cd55284e",
-      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:03:19.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "579fb9a150e4896e9c96",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:55:04.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "03ff4c6e61dee19ae46c",
-      "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:55:00.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "979774e27388a83c8840",
-      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:46:57.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "888c65e8c1ae93832d01",
-      "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:37:08.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "04d9ef9595e5435e313c",
-      "title": "xAI sues user for exploiting AI tool to sexualise minors",
-      "url": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:31:44.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "819006fdfb435560c45b",
-      "title": "Authors, publishers sue Google over alleged AI copyright infringement",
-      "url": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:21:20.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "cbc16adc2f35c56cad38",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:21:19.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "b20934c6903df20cc934",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "source": "siegelendowment.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T21:16:36.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "486876167441193bb60b",
-      "title": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:10:43.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "1cbee8b701c703b9534f",
-      "title": "Takeaways from Todd Blanche's confirmation hearing for attorney general",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-15T21:09:09.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "1eb3432d73d73b232e06",
-      "title": "Show HN: Firefox in WebAssembly",
-      "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "source": "developer.puter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T21:00:17.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "250c965f5c1d69d1c597",
-      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:58:43.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "507454343a1695a67fa5",
-      "title": "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
-      "url": "https://www.aljazeera.com/news/2026/7/15/sheinbaum-rejects-us-claim-that-mexicos-government-is-linked-to-cartels?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:52:12.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "f88bb4fcd45fe8b2a69a",
-      "title": "Volodymyr Zelenskyy dismisses Ukraine’s popular defence minister",
-      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:47:41.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "034b3ca7059b1e3fd0ae",
-      "title": "What are the obstacles to peace between Israel and Lebanon?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:46:03.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "676514e06080e3caa492",
-      "title": "What happened in the first half of the England vs Argentina semifinal?",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:35:34.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
-    },
-    {
-      "id": "49101b5c32cfbc231d5f",
-      "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/10-years-on-from-turkiyes-failed-coup-attempt-on-erdogan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T20:35:09.000Z",
-      "discoveredAt": "2026-07-16T01:05:16.740Z"
+      "discoveredAt": "2026-07-16T04:21:26.679Z"
     }
   ]
 }
