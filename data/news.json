@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T04:21:26.679Z",
+  "generatedAt": "2026-07-16T07:05:16.678Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 34,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,256 @@
   "stories": [
     {
       "id": "0fccb0d00320a91cb729",
-      "title": "Australia news live: Victoria’s police chief arrests man in Melbourne CBD; diesel over $2 a litre as Iran war lifts oil prices",
+      "title": "Australia news live: Telstra CEO to front Senate inquiry; Victoria’s police chief arrests man in Melbourne CBD",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-16T04:14:59.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "publishedAt": "2026-07-16T06:47:33.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "d3da82a4ea876ca164a6",
+      "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T06:03:39.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "cb45e564cca66e69ff93",
+      "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-16T06:03:21.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "689befccf7d9d08ebcf4",
+      "title": "British girl, 15, stranded in Rome for six weeks due to new passport rules",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/british-girl-stranded-rome-six-weeks-new-passport-rules",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T06:00:17.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "efb448626a5ce6dc8ff9",
+      "title": "Police release images of clothes to help identify victims of alleged Sydney childcare paedophile",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/16/hamish-tait-childcare-alleged-paedophile-police-release-clothes-images-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:52:50.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "f9fc258169c0465384ad",
+      "title": "Australian patients’ medical records could be sold on dark web after clinics’ data breach",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/16/partnered-health-data-breach-medical-centres-cyber-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:46:29.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "27ec4ab1735c4386761e",
+      "title": "Hundreds of refugees feared dead after two suspected shipwrecks off Myanmar: UN",
+      "url": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:36:43.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "f88bb4fcd45fe8b2a69a",
+      "title": "Volodymyr Zelenskyy dismisses Ukraine’s defence minister on eve of Starmer visit",
+      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:03:15.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "60edccd3133aa6250e53",
+      "title": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:01:36.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "e4b62bc6dc2d709bc829",
+      "title": "Brazil condemns US move to impose 25% tariffs next week",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:01:23.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "e9cae7f25f656ee0eb11",
+      "title": "‘It’s like home’: Brixton market traders fight to stop site being sold to big business",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/16/brixton-market-traders-fight-big-business-london",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:00:16.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "825cd1ee274c2dded346",
+      "title": "All newborns in England to be screened for spinal muscular atrophy from 2027",
+      "url": "https://www.theguardian.com/society/2026/jul/16/newborns-babies-england-spinal-muscular-atrophy-sma-screening",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:00:16.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "bb4ab15aca7092af8717",
+      "title": "Revealed: Bucharest tourists hiring rentals that could collapse in an earthquake",
+      "url": "https://www.theguardian.com/world/2026/jul/16/tourists-bucharest-rentals-collapse-earthquake-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:00:15.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "a5653a83669981a756b6",
+      "title": "Burnham must avoid ‘summer of speculation’ on tax, warns CBI chief",
+      "url": "https://www.theguardian.com/business/2026/jul/16/burnham-speculation-tax-cbi-rain-newton-smith",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T05:00:14.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "f006cd7d429f5ecdb1ea",
+      "title": "UK proposes voluntary overnight social media curfew for older teens",
+      "url": "https://www.aljazeera.com/news/2026/7/16/uk-proposes-voluntary-overnight-social-media-curfew-for-older-teens?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:57:34.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "223c511269af41d700e0",
+      "title": "Argentina’s Falklands banner sparks controversy at World Cup",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/argentinas-falklands-banner-sparks-controversy-at-world-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:54:10.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "7cabad485dd4b703bcc8",
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "source": "pigeonsandplanes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T04:46:21.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "8cc6a43c7b1d97fcf45f",
+      "title": "Liberals say ‘all options’ should be considered despite Angus Taylor hosing down gender quota proposal",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/16/liberal-party-gender-quotas-angus-taylor-response",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:42:01.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "48a94fb0cd941759aa60",
+      "title": "ANU student asked to show death certificates to prove relatives died in Gaza, royal commission hears",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/16/anu-pro-palestine-protest-university-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:38:46.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "323008a670180447e12c",
+      "title": "Stop saying that AI is just a tool and it only matters how it is used",
+      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+      "source": "frank.computer",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T04:31:01.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "6e023c9581217c33b396",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:30:13.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "3eb9e5666400ed4331b7",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:28:22.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "420987223feed8d9e9c8",
+      "title": "Former US Ambassador says Iran miscalculated Trump’s resolve",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-16T04:18:22.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "579fb9a150e4896e9c96",
@@ -64,18 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T04:06:11.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "a24af069d587033517b4",
-      "title": "An Interactive Map of AI",
-      "url": "https://artifipedia.com/map",
-      "source": "artifipedia.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T03:53:55.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "0f8eef59c4b9a323d27c",
@@ -86,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T03:48:43.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "2156b2d68ca465bc7614",
@@ -97,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T03:45:33.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "8a21891338c1e4df1ef4",
@@ -108,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T03:41:50.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "8d8fdc7a1baef1b36556",
@@ -119,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T03:36:42.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "b948a05ecf5ef9f86b95",
@@ -130,40 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T03:32:53.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
-      "id": "422cb95bf21bff0c5777",
-      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
-      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
-      "source": "hyperallergic.com",
+      "id": "9a06643264e36e955993",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "source": "openculture.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-16T03:24:25.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "018c497fd318925583ca",
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-16T02:57:30.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "48a94fb0cd941759aa60",
-      "title": "ANU denies it ‘lost control’ to a pro-Palestine encampment, royal commission hears",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/16/anu-pro-palestine-protest-university-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T02:47:04.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "publishedAt": "2026-07-16T03:12:47.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "2ce8be54c12fa5d1a167",
@@ -174,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T02:40:19.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "47c6d229a34b8bc1cde6",
@@ -185,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T02:33:40.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "09d0cedcebaa557f3eee",
@@ -196,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T02:31:26.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "aa0604cd2e4d281554bf",
@@ -207,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T02:23:46.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "d801ef48991ca17c73ae",
@@ -218,7 +427,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T02:20:41.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
+    },
+    {
+      "id": "e624fbe986684c4eed3a",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-16T02:17:31.000Z",
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "4b827e53ec831fd152c0",
@@ -229,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T02:10:58.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "6eee5c308404b11a1682",
@@ -240,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T01:58:45.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "56cf33d0e2778f221326",
@@ -251,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T01:55:54.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "677bd4817177cf09e913",
@@ -262,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T01:54:01.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "55a9e4cb3eab7d745b4f",
@@ -273,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T01:36:58.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "2b58a89b0422eef9f803",
@@ -284,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T01:27:32.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "eb4ed6a69617f514809b",
@@ -295,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-16T01:21:04.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "e2c4cee74e2bf6a50f77",
@@ -306,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T00:47:07.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "fb6344b6e64f276cd9fa",
-      "title": "Moira Deeming drops legal case against Victorian Liberal party and makes last-ditch bid to avoid disendorsement",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/16/moira-deeming-legal-case-victorian-liberal-party-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T00:35:12.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "f443597645d61aec7ab9",
@@ -328,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:33:23.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "997b67463a63f93de9d8",
@@ -339,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:32:16.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "b16a1a8103ec08396bcf",
@@ -350,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-16T00:20:51.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     },
     {
       "id": "4c98b69190dcacab3a40",
@@ -361,216 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-16T00:15:34.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "5b8f40780203e19eff35",
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-16T00:01:08.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "f8095afa42081dcfb7ee",
-      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-16T00:00:48.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "dd4f9bf6113dcf9ac482",
-      "title": "New $1 coin featuring Trump in production at US Mint, treasury says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-coin-us-mint-production",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:59:46.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "3ca1001c6a97a10d97b2",
-      "title": "Tuchel defends tactics after Argentina send England packing from World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:58:12.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "716350ada6b748955b5e",
-      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
-      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:45:12.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "44ff9de297713a80151a",
-      "title": "Argentina players brandish political Falklands flag after England match",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:36:16.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "10e664c28c1f5645f207",
-      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:35:39.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "c5ce8c34ccb1d2966e7b",
-      "title": "US Justice Department refuses New Mexico’s request for Epstein files",
-      "url": "https://www.aljazeera.com/news/2026/7/15/us-justice-department-refuses-new-mexicos-request-for-epstein-files?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:13:20.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "31ad3689d4a631deaf58",
-      "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
-      "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:02:57.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "6140554bd22a13564176",
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:02:49.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "bd84a87beafbd9dadeb6",
-      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T23:02:37.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "ace276452fcf0cc9e7d5",
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "source": "chemistry.berkeley.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T23:00:31.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "8852cb6db84079d9bcae",
-      "title": "Argentina face action after waving Falklands banner",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:49:47.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "c9f6eb2af9ad4ae5c475",
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "source": "mort.coffee",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T22:42:58.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "94c91bb6dac012833a0c",
-      "title": "Black doctors in England four times less likely to get training places than white counterparts",
-      "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:30:06.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "ad58fc131d6c7250e2c9",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "source": "blog.greg.technology",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-15T22:23:27.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "a24090c49273679144a5",
-      "title": "Crackdown on 'objectionable' books in Indian-administered Kashmir sparks row",
-      "url": "https://www.bbc.co.uk/news/articles/c0jyj292xdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:05:16.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "cc77f66ccb6bf87d5700",
-      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:04:12.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
-    },
-    {
-      "id": "b34b56ed800ff51be605",
-      "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
-      "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-15T22:03:47.000Z",
-      "discoveredAt": "2026-07-16T04:21:26.679Z"
+      "discoveredAt": "2026-07-16T07:05:16.678Z"
     }
   ]
 }
