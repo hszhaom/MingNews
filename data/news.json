@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T17:42:15.134Z",
+  "generatedAt": "2026-07-17T19:23:27.521Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "0dd91e654cead6a32c0f",
-      "title": "Feline good: why kitten heel flip-flops are winning over flats-only gen Z",
-      "url": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
-      "source": "The Guardian",
+      "id": "9507f857f53e0065aaff",
+      "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+      "source": "NPR News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "npr-news",
       "topic": "world",
-      "publishedAt": "2026-07-17T17:20:52.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "publishedAt": "2026-07-17T18:59:36.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "cd80623b9b91929eeb19",
+      "title": "At least three killed and hundreds displaced by heavy rain in Chile",
+      "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:59:03.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "7c4ed6980c15d89864e8",
@@ -63,19 +74,195 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-17T17:17:51.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "publishedAt": "2026-07-17T18:55:46.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "136338d62220cc146acf",
+      "title": "Andy Burnham promises to end Labour infighting as he becomes party’s leader",
+      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:55:42.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "aec095b80a44f73cf882",
+      "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:40:44.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "dd3712fa0ee399f49cb3",
+      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:39:51.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "0c36ea918cc86a919c1f",
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "source": "app.everything.diena.co",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T18:37:33.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "67f63e27aed3525994f4",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:34:04.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "e6b26d69520972cf2e2a",
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:33:12.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "fc1d68a0f203114198eb",
+      "title": "Jeffrey Donaldson to appeal against conviction for child sexual offences",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/17/jeffrey-donaldson-to-appeal-against-conviction-for-child-sexual-offences",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:32:03.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "5392a44aad4ba5fab70a",
+      "title": "Germany’s Merz hails nuclear deterrence cooperation with France",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:31:27.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "6929fc533bc013f7d329",
+      "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:28:34.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "3f25c6583c629e6a2a18",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:12:54.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "021434877e37b78bf0ae",
+      "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:12:00.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "fc837788b73bf1de143c",
+      "title": "Nigel Farage says questions over his finances are part of ‘coordinated pile-on’",
+      "url": "https://www.theguardian.com/politics/2026/jul/17/nigel-farage-questions-finances-coordinated-pile-on-reform-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:05:42.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "3829335a764d3eecd85d",
+      "title": "Life after amputation: Gaza women find recovery through football",
+      "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T18:02:39.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "34111744bc3bd638af64",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "source": "jvns.ca",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T17:45:41.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "97bff436f474e06ef0b9",
+      "title": "World Cup 2026: What did we learn?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/world-cup-2026-what-did-we-learn?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:43:10.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "0dd91e654cead6a32c0f",
+      "title": "Feline good: why kitten heel flip-flops are winning over flats-only gen Z",
+      "url": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:20:52.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "037c7d56e0b7c57e3d93",
-      "title": "Burnham elected Labour leader, vows new direction for UK",
+      "title": "Burnham confirmed as Labour leader, vows new direction for UK",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/burnham-elected-labour-leader-vows-new-direction-for-uk?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T17:16:27.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "63b1922b07c65eb706e4",
@@ -86,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T17:15:48.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "7a6753d4aba839186413",
@@ -97,18 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T17:12:08.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "136338d62220cc146acf",
-      "title": "Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader",
-      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T17:08:15.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "bc0b6e54c1cba04c5132",
@@ -119,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T17:08:07.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "2f89574b4e4d0b16232f",
@@ -130,18 +306,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T17:04:33.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
-      "id": "248de7bb4b0990165efd",
-      "title": "Lauren Laverne reveals blood and bone marrow disorder diagnosis",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/lauren-laverne-reveals-blood-and-bone-marrow-disorder-smouldering-myeloma-diagnosis",
-      "source": "The Guardian",
+      "id": "ccbbacabb7760311b4ec",
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-17T16:56:38.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "publishedAt": "2026-07-17T17:01:16.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "77144de182c97353a356",
@@ -152,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:54:27.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "c51ce72033e0675da910",
@@ -163,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T16:50:10.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "798af73d754a457cc413",
@@ -174,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:47:39.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "5ddc6689aab5c062e369",
@@ -185,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:44:22.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "e8cf00b7611e6e0672ff",
@@ -196,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:40:02.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "84f0f94e190abf92e10a",
-      "title": "Tory MP Patrick Spencer found not guilty of Groucho Club sexual assaults",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/17/conservative-mp-patrick-spencer-cleared-sexual-assault",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:37:47.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "f878e2f479cf192663e8",
@@ -218,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:37:34.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "c5adaa2211a82b31d449",
@@ -229,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:30:39.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "819870005023a54e40f3",
@@ -240,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:27:32.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "0ac8de851a1232482d54",
@@ -251,7 +416,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:26:34.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "8ee07bde15228ed05145",
+      "title": "Designing emoji for the way we communicate today",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "source": "blog.google",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T16:24:13.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "a67cb8ace6ed0a5abb38",
@@ -262,7 +438,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T16:21:49.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
+    },
+    {
+      "id": "cd460d8d6754af8e9a44",
+      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:20:45.000Z",
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "4059560ba89a3b1834b6",
@@ -273,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:06:37.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "481190356b9355d4b635",
@@ -284,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:06:19.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "0ea601ee18e03a6f3f36",
@@ -295,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:01:02.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "353175f0eabdbd96308e",
@@ -306,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-17T15:41:05.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "7f317a5d169b093540aa",
@@ -317,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:40:10.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "5302555ff9e91f979f14",
@@ -328,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-17T15:31:22.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "62c96a12a889fdf15f76",
@@ -339,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T15:24:49.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "c31dd42a78c739989776",
@@ -350,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:21:34.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "0a7e282885c8b595f3b1",
@@ -361,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:19:37.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "2b0d111eea220178a0ea",
@@ -372,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T15:07:09.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     },
     {
       "id": "11bfca1f9b1200e2de0c",
@@ -383,194 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T15:00:34.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "dcf9a25dc1f45f3ab857",
-      "title": "Peter Falconio murder: British expert says he has identified a ‘most likely’ burial location",
-      "url": "https://www.theguardian.com/world/2026/jul/18/peter-falconio-british-expert-says-he-has-identified-a-most-likely-burial-location",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T15:00:34.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "5705bf7dfe2611fad571",
-      "title": "At least two dead in Texas floods ravaging same area where campers died",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:56:26.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "188fd8bf41a615d4b6d2",
-      "title": "Iran proves it can still inflict damage despite waves of US attacks",
-      "url": "https://www.theguardian.com/world/2026/jul/17/iran-inflict-damage-us-attacks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:52:10.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "1840000b458d84fb5307",
-      "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
-      "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:48:53.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "896f6605c742a56a4cdf",
-      "title": "France vs England – World Cup third-place playoff: Prediction, kickoff",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:36:49.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "7c1f853b0e97869a1d41",
-      "title": "Trump speech lays groundwork for him to tamper with midterm results, critics warn",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-speech-midterm-election-voting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:36:47.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "e6b26d69520972cf2e2a",
-      "title": "Iran accuses US of hitting civilian infrastructure",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:32:07.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "14270184fe75ec594fc7",
-      "title": "Mozilla: The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "source": "stateofopensource.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:31:10.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "c0a51f6c4021981fa084",
-      "title": "Iranian airport and bridges hit as US forces board ship amid ports blockade – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:24:32.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "1dafeff52c6061b30ca4",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "source": "simonwillison.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:21:51.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "8f927b53587dfa92cc7a",
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "source": "blog.zksecurity.xyz",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:21:35.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "2a97188294c65b354973",
-      "title": "Uganda school bus crash kills 20 children and 1 adult",
-      "url": "https://www.aljazeera.com/news/2026/7/17/uganda-school-bus-crash-kills-20-children-and-1-adult?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:12:42.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "a1210195b51a4aa56ca4",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:06:13.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "f2166666148a0ff3f1ce",
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "source": "honeypotlive.cc",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:05:15.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "d66bb900ef76a3614e0a",
-      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T14:00:31.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "82f1a460aa68753b5073",
-      "title": "Three ways people respond to a problem (other than solving it)",
-      "url": "https://improvesomething.today/responses-to-problems/",
-      "source": "improvesomething.today",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T14:00:04.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
-    },
-    {
-      "id": "e92bf58b1f314eadef24",
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "source": "scotto.me",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T13:56:04.000Z",
-      "discoveredAt": "2026-07-17T17:42:15.134Z"
+      "discoveredAt": "2026-07-17T19:23:27.521Z"
     }
   ]
 }
