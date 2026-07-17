@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T16:22:54.173Z",
+  "generatedAt": "2026-07-17T17:42:15.134Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,15 +45,224 @@
   ],
   "stories": [
     {
-      "id": "847a80e8c5987b70862c",
-      "title": "Burnham to announce cabinet picks on Monday – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates",
+      "id": "0dd91e654cead6a32c0f",
+      "title": "Feline good: why kitten heel flip-flops are winning over flats-only gen Z",
+      "url": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-17T16:08:26.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "publishedAt": "2026-07-17T17:20:52.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "7c4ed6980c15d89864e8",
+      "title": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:17:51.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "037c7d56e0b7c57e3d93",
+      "title": "Burnham elected Labour leader, vows new direction for UK",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/burnham-elected-labour-leader-vows-new-direction-for-uk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:16:27.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "63b1922b07c65eb706e4",
+      "title": "Did the US just start a trade war with Brazil?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:15:48.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "7a6753d4aba839186413",
+      "title": "DHS secretary doubles down on Trump’s baseless 2020 election claims",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:12:08.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "136338d62220cc146acf",
+      "title": "Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader",
+      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:08:15.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "bc0b6e54c1cba04c5132",
+      "title": "Berry tough: Ribena seeks to make hardier blackcurrants to beat extreme weather",
+      "url": "https://www.theguardian.com/business/2026/jul/17/ribena-owner-invests-uk-blackcurrant-bushes-extreme-weather",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:08:07.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "2f89574b4e4d0b16232f",
+      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-17T17:04:33.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "248de7bb4b0990165efd",
+      "title": "Lauren Laverne reveals blood and bone marrow disorder diagnosis",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/lauren-laverne-reveals-blood-and-bone-marrow-disorder-smouldering-myeloma-diagnosis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:56:38.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "77144de182c97353a356",
+      "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:54:27.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "c51ce72033e0675da910",
+      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:50:10.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "798af73d754a457cc413",
+      "title": "Apple regains top spot as world’s most valuable company",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:47:39.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "5ddc6689aab5c062e369",
+      "title": "China hits out at British Steel nationalisation",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:44:22.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "e8cf00b7611e6e0672ff",
+      "title": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
+      "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:40:02.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "84f0f94e190abf92e10a",
+      "title": "Tory MP Patrick Spencer found not guilty of Groucho Club sexual assaults",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/17/conservative-mp-patrick-spencer-cleared-sexual-assault",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:37:47.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "f878e2f479cf192663e8",
+      "title": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
+      "url": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:37:34.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "c5adaa2211a82b31d449",
+      "title": "‘Master yachtsman’ who fled 2005 trial for sexual assault arrested off US coast",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/rhode-island-fugitive-sexual-assault-arrest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:30:39.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "819870005023a54e40f3",
+      "title": "Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:27:32.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "0ac8de851a1232482d54",
+      "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:26:34.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "a67cb8ace6ed0a5abb38",
+      "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T16:21:49.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "4059560ba89a3b1834b6",
@@ -64,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:06:37.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "481190356b9355d4b635",
@@ -75,18 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:06:19.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "dd07687ae3969a5d3b2e",
-      "title": "What Andy Burnham’s first speech as Labour leader tells us",
-      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-what-first-speech-as-labour-leader-tells-us",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:02:01.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "0ea601ee18e03a6f3f36",
@@ -97,359 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T16:01:02.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "1c7f5c46ba871a66d0b5",
-      "title": "David Wain follows the yellow brick road to Hollywood in his latest comedy",
-      "url": "https://www.ypradio.org/npr-news/2026-07-17/david-wain-follows-the-yellow-brick-road-to-hollywood-in-his-latest-comedy",
-      "source": "ypradio.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "c111dda9e61b609a3ee3",
-      "title": "Individual opinion , considerable variance with facts : MEA rejects former Japanese minister comment on bullet train",
-      "url": "https://ianslive.in/individual-opinion-considerable-variance-with-facts-mea-rejects-former-japanese-ministers-comment-on-bullet-train--20260717201417",
-      "source": "ianslive.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "f5ce2b661a31d89c44e5",
-      "title": "Daily Highlight : How PS22 Landed the World Cup Halftime Show | 93 . 7 NOW",
-      "url": "https://937now.iheart.com/featured/elvis-duran/content/2026-07-17-1014-elvis-duran-and-the-morni-daily-highlight-how-ps22-landed-the-world-cu/",
-      "source": "937now.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "7518dd0c41bb72cf23a7",
-      "title": "Review & setlist : Bob Dylan at Leader Bank Pavilion , Boston , 7 / 16 / 26",
-      "url": "https://www.boston.com/culture/concert-reviews/2026/07/17/review-setlist-bob-dylan-at-leader-bank-pavilion-boston-7-16-26/",
-      "source": "boston.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "4f157b18149b10b3aa54",
-      "title": "AP Exclusive : ICE officer in Maine shooting has history of violent behavior , family and records say",
-      "url": "https://www.kbtx.com/2026/07/17/ap-exclusive-ice-officer-maine-shooting-has-history-violent-behavior-family-records-say/",
-      "source": "kbtx.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "7be9cfbe383b983f32ca",
-      "title": "Israeli strike on Gaza kills 7 and wounds 22 , local hospital says",
-      "url": "https://www.wgauradio.com/news/world/israeli-strike/DKRFNUDEJY3ZZIK7TQ2CCQHZD4/",
-      "source": "wgauradio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "e35d5a57812181050cd9",
-      "title": "Sophie Cunningham exposes ugly truth behind WNBA contracts and salaries",
-      "url": "https://www.aol.com/articles/sophie-cunningham-exposes-ugly-truth-151544000.html",
-      "source": "aol.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "15721fa4f737fd78c573",
-      "title": "Google AI Budget Could Explode Even Higher as It Runs Out of Capacity",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-ai-budget-could-explode-153209853.html",
-      "source": "finance.yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "33abe905e7e5679f6342",
-      "title": "Met Office sunny spell alert - very warm again",
-      "url": "https://www.stokesentinel.co.uk/news/uk-world-news/met-office-sunny-spells-alert-11064945",
-      "source": "stokesentinel.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "95f022f3ae9fb0249fff",
-      "title": "Netflix stock hits a 52 - week low after earnings but analysts say investors are missing the picture",
-      "url": "https://fortune.com/2026/07/17/netflix-stock-hit-52-week-low-after-earnings-analysts-say-investors-missing-big-picture-cfo/",
-      "source": "fortune.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "36796ede863f29233eaa",
-      "title": "DRIVER ALERT : Part of South Academy Boulevard in Colorado Springs to close for weekend",
-      "url": "https://krdo.com/news/top-stories/2026/07/17/driver-alert-part-of-south-academy-boulevard-in-colorado-springs-to-close-for-weekend/",
-      "source": "krdo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "185cab2906ebd71bfc21",
-      "title": "Flood waters collapse bridge in Uvalde County",
-      "url": "https://www.click2houston.com/news/local/2026/07/17/flood-waters-collapse-bridge-in-uvalde-county/",
-      "source": "click2houston.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "18bc948ba966fbd5b600",
-      "title": "WWE Friday Night SmackDown Coming to Lafayette , Louisiana",
-      "url": "https://gator995.com/wwe-smackdown-lafayette-october-2026/",
-      "source": "gator995.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "e28d29911ea217d97c06",
-      "title": "National Trust partners with Pokémon GO for its 10th anniversary",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/national/uk-today/26290051.national-trust-partners-pok-mon-go-10th-anniversary/",
-      "source": "thewestmorlandgazette.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "d8d7fc33acfb82a9ae90",
-      "title": "Toronto Blue Jays turn to Spencer Miles against Chicago White Sox to kick off second half",
-      "url": "https://www.tsn.ca/mlb/article/blue-jays-turn-to-miles-against-white-sox-to-kick-off-second-half/",
-      "source": "tsn.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "02c0f2de0d078510beff",
-      "title": "West Indies great Garfield Sobers dies at 89",
-      "url": "https://www.orissapost.com/west-indies-great-garfield-sobers-dies-at-89/",
-      "source": "orissapost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "f8db42bd16334d1c3cb2",
-      "title": "Expect More Smith County Deputies on I - 20 and Toll 49",
-      "url": "https://965therock.com/ixp/185/p/smith-county-operation-slow-down/",
-      "source": "965therock.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "bdb5570f561964ace638",
-      "title": "Creator defends AI actor Tilly Norwood after feature film backlash",
-      "url": "https://b93radio.com/2026/07/17/creator-defends-ai-actor-tilly-norwood-after-feature-film-backlash/",
-      "source": "b93radio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "e6e8c41d42d3de894818",
-      "title": "Wheeling Heritage Show of Hands Applications Now Open",
-      "url": "https://mix973wheeling.iheart.com/content/2026-07-17-wheeling-heritages-show-of-hands-applications-now-open/",
-      "source": "mix973wheeling.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "33af9edfed37af2a9209",
-      "title": "Texas Tech Reveals Historic Stadium Name Change For 2026",
-      "url": "https://awesome98.com/ixp/192/p/texas-tech-galaxy-stadium/",
-      "source": "awesome98.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "c1d787fabf8bebed6927",
-      "title": "Wildfires Cause Sebastian Bach , John Mellencamp Postponements",
-      "url": "https://therockofrochester.com/ixp/295/p/wildfires-concert-postponements/",
-      "source": "therockofrochester.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "af96d22c6eb16033021b",
-      "title": "Oppenheimer Has Lowered Expectations for Hamilton Lane ( NASDAQ : HLNE ) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13507163/oppenheimer-has-lowered-expectations-for-hamilton-lane-nasdaqhlne-stock-price.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "371d6d2d6949f8fa522f",
-      "title": "Ferro Offices / GROUP A | ArchDaily",
-      "url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
-      "source": "archdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "18cfc376ff76fb26717e",
-      "title": "Danniella Westbrook shows first surgery results at Sellebrity Soccer match",
-      "url": "https://www.el-balad.com/17033271",
-      "source": "el-balad.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "a8972a8675da3218209b",
-      "title": "Trump Again Decries Deranged Reflecting Pool Vandals With Scant Evidence",
-      "url": "https://www.forbes.com/sites/conormurray/2026/07/17/trump-doubles-down-on-reflecting-pool-vandalism-claim-despite-photos-showing-no-evidence-of-gash/",
-      "source": "forbes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "cadcefcaa61328f47a9e",
-      "title": "Steam to Electric Reveals Jet Trains and Gyro Monorails in New Gameplay Trailer",
-      "url": "https://www.techtimes.com/articles/320822/20260717/steam-electric-reveals-jet-trains-gyro-monorails-new-gameplay-trailer.htm",
-      "source": "techtimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "4e937c6309406113c1ac",
-      "title": "When Will the Smoky Skies Leave Ocean and Monmouth Counties ?",
-      "url": "https://wobm.com/smoky-skies-finally-leaving-jersey-soon/",
-      "source": "wobm.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "2e96f4c384c7c44b3b8f",
-      "title": "How To Listen To The FIFA World Cup 2026 Final Halftime Show",
-      "url": "https://kool108.iheart.com/content/2026-07-17-everything-to-know-about-the-fifa-world-cup-final-halftime-show/",
-      "source": "kool108.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "5df9b06925c5ac83790c",
-      "title": "Mass . trucking company revives plans for Manchester hub",
-      "url": "https://hartfordbusiness.com/article/mass-trucking-company-revives-plans-for-manchester-hub/",
-      "source": "hartfordbusiness.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "7ca394a90feecf99321b",
-      "title": "Intercity rail passengers face summer disruption amid slashed services and strike votes",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/17/intercity-rail-summer-cancelled-services-strike-votes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T15:49:28.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "7c4ed6980c15d89864e8",
-      "title": "DHS chief releases unsubstantiated election findings as Democrats slam Trump attempt to undermine system – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T15:45:50.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "e8f22fcee107af93c1c0",
-      "title": "Trump administration to grant $12m to groups founded by UK conservatives Jacob Rees-Mogg and Toby Young",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-administration-to-grant-12m-to-groups-founded-by-uk-conservatives-jacob-rees-mogg-and-toby-young",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T15:43:31.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "353175f0eabdbd96308e",
@@ -460,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-17T15:41:05.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "7f317a5d169b093540aa",
@@ -471,7 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:40:10.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "5302555ff9e91f979f14",
+      "title": "Frame – the first Linux Assembly X server",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "source": "isene.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T15:31:22.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "62c96a12a889fdf15f76",
@@ -482,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T15:24:49.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "c31dd42a78c739989776",
@@ -493,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:21:34.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "0a7e282885c8b595f3b1",
@@ -504,18 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-17T15:19:37.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
-    },
-    {
-      "id": "e377f75122c2a36ef805",
-      "title": "Amazon Web Services customers receive bills for up to $1.5tn after global glitch",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-17T15:13:56.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "2b0d111eea220178a0ea",
@@ -526,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-17T15:07:09.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "11bfca1f9b1200e2de0c",
@@ -537,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T15:00:34.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "dcf9a25dc1f45f3ab857",
@@ -548,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T15:00:34.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "5705bf7dfe2611fad571",
@@ -559,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-17T14:56:26.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     },
     {
       "id": "188fd8bf41a615d4b6d2",
@@ -570,7 +416,161 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-17T14:52:10.000Z",
-      "discoveredAt": "2026-07-17T16:22:54.173Z"
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "1840000b458d84fb5307",
+      "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
+      "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:48:53.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "896f6605c742a56a4cdf",
+      "title": "France vs England – World Cup third-place playoff: Prediction, kickoff",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:36:49.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "7c1f853b0e97869a1d41",
+      "title": "Trump speech lays groundwork for him to tamper with midterm results, critics warn",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-speech-midterm-election-voting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:36:47.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "e6b26d69520972cf2e2a",
+      "title": "Iran accuses US of hitting civilian infrastructure",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:32:07.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "14270184fe75ec594fc7",
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "source": "stateofopensource.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:31:10.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "c0a51f6c4021981fa084",
+      "title": "Iranian airport and bridges hit as US forces board ship amid ports blockade – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:24:32.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "1dafeff52c6061b30ca4",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "source": "simonwillison.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:21:51.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "8f927b53587dfa92cc7a",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "source": "blog.zksecurity.xyz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:21:35.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "2a97188294c65b354973",
+      "title": "Uganda school bus crash kills 20 children and 1 adult",
+      "url": "https://www.aljazeera.com/news/2026/7/17/uganda-school-bus-crash-kills-20-children-and-1-adult?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:12:42.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "a1210195b51a4aa56ca4",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:06:13.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "f2166666148a0ff3f1ce",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "source": "honeypotlive.cc",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:05:15.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "d66bb900ef76a3614e0a",
+      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-17T14:00:31.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "82f1a460aa68753b5073",
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "source": "improvesomething.today",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T14:00:04.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
+    },
+    {
+      "id": "e92bf58b1f314eadef24",
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "source": "scotto.me",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-17T13:56:04.000Z",
+      "discoveredAt": "2026-07-17T17:42:15.134Z"
     }
   ]
 }
