@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T17:36:27.980Z",
+  "generatedAt": "2026-07-18T18:34:25.373Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,116 @@
   ],
   "stories": [
     {
+      "id": "7e95082b78b3a9a9fe56",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:32:30.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "dcbc7341099b979f3a49",
+      "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
+      "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:17:00.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "69164e86d01bc32e1530",
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:15:42.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "dfdbc73edb043ee52714",
+      "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:14:11.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "0167128fe5e2a4438d1f",
+      "title": "Damage visible at Iran bridges and water plant after US attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:09:15.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "9c6726c667eeaaae053d",
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "url": "https://imaxxing.io/",
+      "source": "imaxxing.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-18T18:06:23.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "ac3f16574316fd373fb2",
+      "title": "US military says two service members killed in Iranian strike in Jordan",
+      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T18:04:47.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "33a1803de433406420e9",
+      "title": "France vs England LIVE: FIFA World Cup 2026 third-place playoff",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T17:46:20.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "9a6b01face8d12a0237f",
+      "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+      "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T17:35:21.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "5497c1aa20f5ef1909c9",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-18T17:33:28.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
       "id": "7b7d65cba6ad054f8cfa",
       "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
@@ -53,18 +163,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T17:29:50.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
-      "id": "6fe90bd98afa8703a974",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "e4ee144f81b10a1f5542",
+      "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "bbc-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-18T16:56:34.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "publishedAt": "2026-07-18T17:29:23.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
+    },
+    {
+      "id": "fa54f0fbafd1a0622f9f",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "source": "queue.acm.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-18T17:27:24.000Z",
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "b022a3302557509c6fef",
@@ -75,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T16:47:14.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "22f806b7a4a18036b4a7",
@@ -86,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T16:24:53.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "fa36579cfa61a0dcf6af",
@@ -97,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T16:24:29.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "a914dc7c46d2ad7861f4",
@@ -108,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T16:23:09.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "cbf50d89f855520c7ea6",
@@ -119,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T16:22:16.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "bbff2f3c36b5e00507da",
@@ -130,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T16:12:08.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "63eb74d935e926e159ca",
@@ -141,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T16:06:06.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "53ad893ddb18c2e18d2e",
@@ -152,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T16:02:45.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "3bbef4aea64688ac51e5",
@@ -163,18 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T15:44:04.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "798d1cf9091e73555478",
-      "title": "The Fermi Paradox, Percolation, and Inbreeding",
-      "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
-      "source": "reactormag.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T15:38:36.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "187dd8dd7d8c17eab297",
@@ -185,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T15:37:01.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "f9fe44634b53e32937ab",
@@ -196,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T15:35:54.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "944768fee974a0e85d79",
@@ -207,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T15:35:23.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "597d862ddb283e49ebd7",
@@ -218,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T15:32:04.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "ffdb1296dfa0a4b06cf9",
@@ -229,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-18T15:30:00.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "386e963fdc4284425db7",
@@ -240,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T15:24:42.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "3ba8aa862e8acfd6c155",
@@ -251,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T15:23:31.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "d347a931f237105ddb8f",
@@ -262,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T15:12:40.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "2087b4dacec994f124fa",
@@ -273,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T15:09:33.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "ab53eb5d1065ebfda920",
@@ -284,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T15:03:27.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "7535d804f9467e71c6ee",
@@ -295,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T15:00:00.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "e76c47d8006d823208f0",
@@ -306,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T14:26:22.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "b8fceb669f3639eb7b99",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T14:23:33.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "e4a80acfb89c940b3646",
@@ -328,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T14:13:36.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "900d77e7807fa71bc4bd",
@@ -339,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T14:04:05.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "b0e734f1485f393425a8",
@@ -350,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T13:54:21.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "7c30d5296b79f1f96b64",
@@ -361,18 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T13:46:26.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "57eaefc90e8f71778638",
-      "title": "Andy Burnham’s plan to scrap technology department triggers backlash",
+      "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
       "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T13:42:43.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "feda05247c1a00519611",
@@ -383,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T13:14:57.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "0e94f56e82b3e69a16f2",
@@ -394,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T13:07:39.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "3a89716f0afc5506a95d",
@@ -405,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T13:06:25.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "6452fee6de74cc5fc4cc",
@@ -416,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T13:00:52.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "8a6f0a22ec0eec8dc68c",
@@ -427,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T12:59:26.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "0c6f23f18e29b6a01e68",
@@ -438,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T12:57:21.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "f894d62af3666e3cb656",
@@ -449,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-18T12:45:13.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     },
     {
       "id": "e6b153dc5b540c49b8bb",
@@ -460,117 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T12:19:35.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "a462445a7ceea09c3f4d",
-      "title": "Opinion: The continued courage of Captain Sully",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-18T12:00:00.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "80ead3a6ed53a67343ac",
-      "title": "India achieves milestone with launch of first private-sector orbital rocket",
-      "url": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T11:50:36.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "db30daf74a090bed8b0c",
-      "title": "India’s salt workers: The human cost of the world’s most popular seasoning",
-      "url": "https://www.aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T11:30:00.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "f87cf5105615bedd7816",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "source": "data.stackexchange.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T11:12:46.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "b59d535be616b98aebf5",
-      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T11:10:20.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "29254a3cc39146c66546",
-      "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-      "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T11:10:09.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "30b464672fa1d6c824fb",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "source": "charlesazam.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T11:00:29.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "cbd01c80e28c9a18e885",
-      "title": "What will Keir Starmer do next?",
-      "url": "https://www.theguardian.com/politics/2026/jul/18/what-will-keir-starmer-do-next",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T11:00:02.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "0f1cf1eea0f538bd5cad",
-      "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-      "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T10:54:07.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
-    },
-    {
-      "id": "60339033651d0ea8b51a",
-      "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-      "url": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T10:48:09.000Z",
-      "discoveredAt": "2026-07-18T17:36:27.980Z"
+      "discoveredAt": "2026-07-18T18:34:25.373Z"
     }
   ]
 }
