@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T09:11:33.351Z",
+  "generatedAt": "2026-07-19T10:57:36.677Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "edb5c08ed594070c9fa5",
-      "title": "5 clever design tricks to make a small home look bigger",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-      "source": "NPR News",
+      "id": "abb5eb3653d73a219805",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "npr-news",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T09:01:00.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "publishedAt": "2026-07-19T10:44:11.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "59df4375a86e2b44dc01",
@@ -63,8 +63,195 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T08:50:21.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "publishedAt": "2026-07-19T10:39:45.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "ea68b48428b4c45e2747",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T10:22:35.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "030d65f08d153c431fea",
+      "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
+      "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T10:09:25.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "3ca5a0f1a0fa127beefe",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "simonwillison.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T10:03:23.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "bdf1a9017a80ba7b4496",
+      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T10:00:00.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "0bb48e316ea0e2590677",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:59:41.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "fe165d05d3015030c330",
+      "title": "Bad Bunny concert in Milan abandoned because of hailstorm",
+      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:57:53.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "34889b510350e138451b",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:54:50.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "783fa4a9f724d4553ee4",
+      "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:46:35.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "47ce4e35a39fb8220811",
+      "title": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:35:52.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "792ca7a7ebf80dd4baa0",
+      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:14:38.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "6df069437b00ac4f7611",
+      "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:08:55.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "edb5c08ed594070c9fa5",
+      "title": "5 clever design tricks to make a small home look bigger",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:01:00.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "70b4b8023e97b02fcd97",
+      "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
+      "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:00:22.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "cdece907f939d2c8ab55",
+      "title": "Qwen 3.8 Max Preview",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "source": "qwencloud.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T08:57:31.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "7535d804f9467e71c6ee",
+      "title": "Many carers hit with demands to repay more than £20,000 despite reforms",
+      "url": "https://www.theguardian.com/society/2026/jul/18/scores-of-carers-overpaid-more-than-20000-last-year-despite-reforms",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:56:12.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "e1f57eb46b2c3f4881ff",
+      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:49:56.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "e305d70adb8aa50af7f8",
+      "title": "Half a Second – a book about the XZ backdoor",
+      "url": "https://www.half-second.com/",
+      "source": "half-second.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T08:48:41.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "63ac48f137294c1d698e",
@@ -75,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:46:42.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "5ae030bf07aabbb3d5ed",
@@ -86,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T08:44:57.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "5fd7babfcc1b5dc02065",
@@ -97,29 +284,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:41:18.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "34889b510350e138451b",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:37:48.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "12c3f8fd166356f9fda8",
-      "title": "Dozens of Russian missiles pound Kyiv in major attack",
+      "title": "Russia pounds Kyiv for five hours in one of biggest ever ballistic missile attacks",
       "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T08:35:16.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "64d1b33c6f5ad2e50822",
@@ -130,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:24:19.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "9e90cd8e54f1fe973644",
@@ -141,18 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:20:41.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "6ae040b6cb2e0aefdd67",
-      "title": "Spain vs Argentina: Key factors that could decide World Cup 2026 final",
+      "title": "Spain vs Argentina: How each team can win World Cup final 2026",
       "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:12:54.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "74224814c30701e7dc7e",
@@ -163,7 +339,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T08:00:24.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
+    },
+    {
+      "id": "d1255b05e88d2dc5b9a8",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T07:54:39.000Z",
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "1981a020e8d41f97a511",
@@ -174,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T07:47:02.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "d569d77a60ee011b7eef",
@@ -185,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T07:30:54.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "a0237767fe4257e66c08",
@@ -196,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T07:28:08.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "4c2b1d02863d56dee2d7",
@@ -207,7 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T07:27:59.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "2e6e84e4b43fb46624b5",
@@ -218,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T07:22:01.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "afbd34cc50332c751781",
@@ -229,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T07:15:31.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "c48d86e01cc306a18f0b",
@@ -240,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T07:15:19.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "1b360837e6203c3e5121",
@@ -251,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T07:00:00.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "74de31f19bb838807160",
@@ -262,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:32:35.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "abb5eb3653d73a219805",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T05:10:57.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "2abe7d9acff75c59ce39",
@@ -284,18 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T05:08:20.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "2e49f38dd9c7328e1550",
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "source": "chipsandcheese.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T05:07:08.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "5e1eea8459116e792a54",
@@ -306,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:00:17.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "7b36578f8c3438f9e162",
@@ -317,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:00:17.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "22f806b7a4a18036b4a7",
@@ -328,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T04:41:49.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "b966a033c88e6c218de8",
@@ -339,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:36:47.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "3a0179b679b774f6542f",
@@ -350,18 +515,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:32:28.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "cf846af738410ce5150e",
-      "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
       "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:16:08.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "3a6862a78949102cca40",
@@ -372,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T04:00:16.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "26502d716af4c0eb264e",
@@ -383,7 +548,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T04:00:00.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "5c800aee509ea56bce0e",
@@ -394,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:38:03.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     },
     {
       "id": "1ca5f824b72eb5ecddba",
@@ -405,172 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:36:44.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "f46a547a747ff96e1a0a",
-      "title": "FIFA World Cup 2026 sees major increase in goals from outside the box",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T03:34:40.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "8619e6c45ca41cc9c56d",
-      "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T03:02:22.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "aa9b2181e0394954cfcf",
-      "title": "Palestinian teenage footballer dies after Israeli settler attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T02:57:31.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "59626d3a7eba1b540428",
-      "title": "Man dies after cross-border police pursuit ends in NSW northern rivers",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/man-dies-after-queensland-nsw-police-car-chase-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T02:46:04.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "ea68b48428b4c45e2747",
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T02:17:07.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "f4b5e6ea36f818c989d8",
-      "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-      "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T02:05:41.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "95b26c5997f6fdbe553b",
-      "title": "WNBA coach Brondello suspended over inappropriate comment at Angel Reese",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/wnba-coach-brondello-suspended-over-inappropriate-comment-at-angel-reese?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T01:57:39.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "282a724e983a65fd3e93",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T01:47:59.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "15363f7b1524fe28189c",
-      "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
-      "url": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T01:40:12.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "ac3f968a5a445043fc51",
-      "title": "Argentina fans flood NYC’s Times Square before World Cup final",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T01:20:48.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "94254080a0bbfd35e55b",
-      "title": "Why the World Cup half-time show may be a taste of things to come",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T01:11:23.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "0ad5fdc83ea29f7aa173",
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T00:59:55.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "8014e74f0e5b580638b4",
-      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T00:57:08.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "fec603645eeac5489ed3",
-      "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
-      "url": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T00:52:18.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
-    },
-    {
-      "id": "71bba2bf6960532975ff",
-      "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T00:39:42.000Z",
-      "discoveredAt": "2026-07-19T09:11:33.351Z"
+      "discoveredAt": "2026-07-19T10:57:36.677Z"
     }
   ]
 }
