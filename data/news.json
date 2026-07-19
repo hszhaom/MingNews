@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T21:03:24.812Z",
+  "generatedAt": "2026-07-19T22:04:29.789Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,48 @@
   ],
   "stories": [
     {
-      "id": "95352137fce863c655e1",
-      "title": "Heavy TV watching associated with smaller brain structures, study finds",
-      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
-      "source": "dornsife.usc.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T20:25:58.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "id": "4d8dcb0146f8490a6fd1",
+      "title": "News live: PM says Hanson should not ‘talk Australia down’ overseas; private schools cry poor in new ad campaign",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T21:49:40.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
+    },
+    {
+      "id": "cc2c46f6d01fc5a84781",
+      "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T21:43:54.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
+    },
+    {
+      "id": "fb101393bf94aee56eae",
+      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T21:29:52.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
+    },
+    {
+      "id": "69e518f6b8affac6f11e",
+      "title": "Israeli ministers join march to Gaza to demand return of settlements",
+      "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T20:55:11.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "59df4375a86e2b44dc01",
@@ -64,7 +97,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T20:25:52.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
+    },
+    {
+      "id": "65dfb91e08494808d5c2",
+      "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T20:22:38.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "3738aac5984f1f0ba3d5",
@@ -75,7 +119,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T20:19:26.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "691efca9e4e7ebbdd463",
@@ -86,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T20:16:44.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "0f464842b839d0369bce",
@@ -97,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T20:12:26.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "284561f58dd8690b8914",
@@ -108,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T20:11:51.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "d9336f7be4c802f5fe87",
@@ -119,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T20:05:31.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "ed51ce0d510874a8beff",
@@ -130,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T19:49:43.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "abb5eb3653d73a219805",
@@ -141,7 +185,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T19:45:12.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "3a03d8784c4f1a203661",
@@ -152,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T19:39:58.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "11fdd707d3f0f68bc323",
@@ -163,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T19:18:59.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "7ae0dee1bc9ec80da7dc",
@@ -174,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T19:16:04.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "65802c4710680dc9728a",
@@ -185,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T19:13:29.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "48458634dcbd2d734610",
@@ -196,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T19:05:41.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "cf40292cae8931f613f6",
@@ -207,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T18:57:01.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "e1dc69987d2facbf2d1d",
@@ -218,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:54:54.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "b6ccde3357881a06fd59",
@@ -229,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T18:48:12.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "935cce52b48d1f22e859",
@@ -240,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:40:14.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "fa5bd8f1bb73421592f4",
@@ -251,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T18:32:36.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "efa3c0ec1f3883f2f7f6",
@@ -262,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:29:47.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "801b7e6067a4b9818bf5",
@@ -273,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:27:58.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "34889b510350e138451b",
@@ -284,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T18:25:40.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "e5f9337dca32d07369e0",
@@ -295,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:24:33.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "0bb48e316ea0e2590677",
@@ -306,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T18:18:05.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "e22fa1dec988bc2edcce",
@@ -317,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T18:10:20.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "dcf265d92e6de0f84b13",
@@ -328,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T18:00:33.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "5de890752c2e2c3465fa",
@@ -339,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T17:56:56.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "f50b01454256501ab2ed",
@@ -350,7 +394,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T17:54:50.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
+    },
+    {
+      "id": "4d38b0d0ef76dce9c95c",
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "source": "hmd.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T17:25:03.000Z",
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "283064a97420cf71b9f8",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T17:24:27.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "96b58a58116d1619bc25",
@@ -372,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T17:12:47.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "7ab26ba7affd3a2a64a0",
@@ -383,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:51:24.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "22414d96ee844f2e4777",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T16:43:55.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "d72b950e893f52836a65",
@@ -405,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:17:11.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "9ac92c6adf1d77b389fc",
@@ -416,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T16:06:55.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "ba5572ddc18d30084755",
@@ -427,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:06:23.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "174456e30771e02f1a34",
@@ -438,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:02:20.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "66c0376e37defac5c707",
@@ -449,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T16:00:00.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "5c2158b4ef7f0ddf83be",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:54:22.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "d02638e17010374c66cd",
@@ -471,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:46:23.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "6d0388b6399359612ba9",
@@ -482,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:38:11.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "6482b15538b9f341ee55",
@@ -493,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:31:31.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "6cbe153f53657bf956d1",
@@ -504,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:26:45.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     },
     {
       "id": "76379b8680baf98a65f7",
@@ -515,62 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:25:01.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
-    },
-    {
-      "id": "e4cebbea4a3237d2a713",
-      "title": "Tate brothers arrested in the US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T15:23:49.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
-    },
-    {
-      "id": "d414df336276a561d007",
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "source": "retrogamecoders.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T15:20:22.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
-    },
-    {
-      "id": "1c820a11c3c9b5310da8",
-      "title": "Health officials identify source of US explosive diarrhoea outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T15:17:23.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
-    },
-    {
-      "id": "c791cd3e9a8a908c1c16",
-      "title": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
-      "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T15:00:31.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
-    },
-    {
-      "id": "144a10d16fec9bb4c1b7",
-      "title": "Australian and NZ safety assurances about asbestos in play sand were based on supplier’s own assessment",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T15:00:30.000Z",
-      "discoveredAt": "2026-07-19T21:03:24.812Z"
+      "discoveredAt": "2026-07-19T22:04:29.789Z"
     }
   ]
 }
