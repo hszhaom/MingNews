@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T13:46:51.424Z",
+  "generatedAt": "2026-07-19T15:07:35.076Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "ebfe26a514e7d76467e4",
-      "title": "Marathon runners compete on drifting sea ice at North Pole",
-      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "id": "cdd6ab6ce65a575bd785",
+      "title": "Spain vs Argentina LIVE: 2026 FIFA World Cup final",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:00:00.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "5250c59b7326297c2f3d",
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T13:32:30.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "publishedAt": "2026-07-19T14:50:11.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "59df4375a86e2b44dc01",
@@ -63,8 +74,140 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T13:21:39.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "publishedAt": "2026-07-19T14:50:05.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "c2668a48a283d5097d5d",
+      "title": "Why is Argentina’s football team so white?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/why-is-argentinas-football-team-so-white?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:34:15.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "f6858750f14744c3a49c",
+      "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+      "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:27:53.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "aec77c20009637ff9bbe",
+      "title": "Who controls football in Palestine?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:27:02.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "128306d945f792426131",
+      "title": "The story behind football stars Messi and Yamal’s viral photo",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:17:39.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "ba5572ddc18d30084755",
+      "title": "US boxer Hannah Rapp dies after being struck by car while cycling in Texas",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:15:36.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "2b4b225d7ebfb8f02147",
+      "title": "Why is China protesting about the nationalisation of British Steel?",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:12:10.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "ebfe26a514e7d76467e4",
+      "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:06:08.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "31f2546a8179356aa8a8",
+      "title": "As Andy Burnham enters No 10, what of his ‘bezzie mate’ Steve Rotheram?",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/andy-burnham-no-10-steve-rotheram",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:00:28.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "0bb48e316ea0e2590677",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T14:00:03.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "3513cdfc4a009533bfaa",
+      "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:56:18.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "ae319c58b7e17326499d",
+      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+      "url": "https://www.cortex.io/drive",
+      "source": "cortex.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T13:30:01.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
+    },
+    {
+      "id": "92ea8ba2792fd58a8c9f",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T13:29:29.000Z",
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "a7a364ff563e2800e7ba",
@@ -75,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T13:12:50.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "abb5eb3653d73a219805",
@@ -86,7 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T13:10:57.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "f086dcb3670ab530f21e",
@@ -97,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T13:00:29.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "17b53731d0436a89d564",
@@ -108,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T13:00:28.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "ea68b48428b4c45e2747",
@@ -119,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:53:20.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "a00bd517618666e6425e",
@@ -130,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:45:07.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "1e7a193e3dffed909a9b",
@@ -141,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:38:24.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "ba2300c9d7da33f522da",
@@ -152,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:29:57.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "0bc5fd534fc0773c259d",
@@ -163,18 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:21:32.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "71812e02b7e8e4ac9bc9",
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "source": "quesma.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T12:01:53.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "a10449392e08ffad6f53",
@@ -185,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:27.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "f4a39feabaa610beac5b",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:26.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "2feb04cfab1e39a9b6aa",
@@ -207,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:57:47.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "8e7ff08d008c12c1d76e",
@@ -218,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T11:48:18.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "7968d6802432da0ef3b1",
@@ -229,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:46:19.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "34889b510350e138451b",
@@ -240,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:28:24.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "a69717bf1733cfc0edaa",
@@ -251,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:21:52.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "cd1adc0e361bbabf0cec",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:18:17.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "4d572af03f72eddfa58a",
@@ -273,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:16:20.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "3dbe095878bcf64dd1dc",
@@ -284,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T11:14:38.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "9c5aad41d6fb948ff278",
@@ -295,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:26.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "850bbc1fb62f02bfb350",
@@ -306,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "4e01ad8292be2a834a16",
@@ -317,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "38f574f162644f0808e9",
@@ -328,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:00.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "8400f2a50ade91628483",
@@ -339,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T10:44:31.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "0b787e121aeb2de50ac2",
@@ -350,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T10:43:27.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "8d304728ca8f16db1c79",
@@ -361,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T10:34:58.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "030d65f08d153c431fea",
@@ -372,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T10:09:25.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "bdf1a9017a80ba7b4496",
@@ -383,18 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T10:00:00.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "0bb48e316ea0e2590677",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:59:41.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "fe165d05d3015030c330",
@@ -405,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T09:57:53.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "415dff0482cfb1546891",
@@ -416,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T09:55:22.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "783fa4a9f724d4553ee4",
@@ -427,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T09:46:35.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "47ce4e35a39fb8220811",
@@ -438,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T09:35:52.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     },
     {
       "id": "792ca7a7ebf80dd4baa0",
@@ -449,128 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T09:14:38.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "6df069437b00ac4f7611",
-      "title": "Seven more people rescued after boat sinks in Indonesia, 18 still missing",
-      "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:08:55.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "edb5c08ed594070c9fa5",
-      "title": "5 clever design tricks to make a small home look bigger",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:01:00.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "70b4b8023e97b02fcd97",
-      "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
-      "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:00:22.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "cdece907f939d2c8ab55",
-      "title": "Qwen 3.8 Max Preview",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "source": "qwencloud.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T08:57:31.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "7535d804f9467e71c6ee",
-      "title": "Many carers hit with demands to repay more than £20,000 despite reforms",
-      "url": "https://www.theguardian.com/society/2026/jul/18/scores-of-carers-overpaid-more-than-20000-last-year-despite-reforms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:56:12.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "e1f57eb46b2c3f4881ff",
-      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:49:56.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "63ac48f137294c1d698e",
-      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:46:42.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "5ae030bf07aabbb3d5ed",
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "source": "twitter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T08:44:57.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "5fd7babfcc1b5dc02065",
-      "title": "Spain fans bring the party to New York before World Cup final",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:41:18.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "12c3f8fd166356f9fda8",
-      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:35:16.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
-    },
-    {
-      "id": "64d1b33c6f5ad2e50822",
-      "title": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
-      "url": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:24:19.000Z",
-      "discoveredAt": "2026-07-19T13:46:51.424Z"
+      "discoveredAt": "2026-07-19T15:07:35.076Z"
     }
   ]
 }
