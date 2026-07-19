@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T12:04:24.934Z",
+  "generatedAt": "2026-07-19T13:46:51.424Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,180 @@
   ],
   "stories": [
     {
+      "id": "ebfe26a514e7d76467e4",
+      "title": "Marathon runners compete on drifting sea ice at North Pole",
+      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:32:30.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "59df4375a86e2b44dc01",
+      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
+      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:21:39.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "a7a364ff563e2800e7ba",
+      "title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:12:50.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
       "id": "abb5eb3653d73a219805",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T11:57:10.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "publishedAt": "2026-07-19T13:10:57.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "f086dcb3670ab530f21e",
+      "title": "What happened to Nolan Wells? Family seeks answers two weeks after 18-year-old’s death",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/nolan-wells-mississippi-investigation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:00:29.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "17b53731d0436a89d564",
+      "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T13:00:28.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "ea68b48428b4c45e2747",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:53:20.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "a00bd517618666e6425e",
+      "title": "Why have India’s Gen Z protesters called for a march to parliament?",
+      "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:45:07.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "1e7a193e3dffed909a9b",
+      "title": "Indian court rejects bid to release hunger-striking activist from hospital",
+      "url": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:38:24.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "ba2300c9d7da33f522da",
+      "title": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:29:57.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "0bc5fd534fc0773c259d",
+      "title": "Nigel Farage admits George Cottrell paid for filming and let him use his home",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:21:32.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "71812e02b7e8e4ac9bc9",
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "source": "quesma.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T12:01:53.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "a10449392e08ffad6f53",
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:00:27.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "f4a39feabaa610beac5b",
+      "title": "Trump’s rebranding of Palm Beach airport hasn’t taken off as he planned",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/trump-palm-beach-airport-renamed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T12:00:26.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "2feb04cfab1e39a9b6aa",
+      "title": "India’s cockroach politics is no joke",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T11:57:47.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "8e7ff08d008c12c1d76e",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "source": "minecraft.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T11:48:18.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "7968d6802432da0ef3b1",
@@ -64,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:46:19.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "34889b510350e138451b",
@@ -75,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:28:24.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "a69717bf1733cfc0edaa",
@@ -86,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:21:52.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "cd1adc0e361bbabf0cec",
@@ -97,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:18:17.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "4d572af03f72eddfa58a",
@@ -108,29 +273,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:16:20.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
-      "id": "59df4375a86e2b44dc01",
-      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
-      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:15:30.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "ea68b48428b4c45e2747",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:04:50.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "id": "3dbe095878bcf64dd1dc",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "source": "en.andros.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T11:14:38.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "9c5aad41d6fb948ff278",
@@ -141,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:26.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "850bbc1fb62f02bfb350",
@@ -152,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "4e01ad8292be2a834a16",
@@ -163,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "38f574f162644f0808e9",
@@ -174,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:00.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "8400f2a50ade91628483",
@@ -185,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T10:44:31.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "0b787e121aeb2de50ac2",
@@ -196,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T10:43:27.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "8d304728ca8f16db1c79",
@@ -207,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T10:34:58.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "030d65f08d153c431fea",
@@ -218,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T10:09:25.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "3ca5a0f1a0fa127beefe",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "source": "simonwillison.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T10:03:23.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "bdf1a9017a80ba7b4496",
@@ -240,7 +383,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T10:00:00.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "0bb48e316ea0e2590677",
@@ -251,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T09:59:41.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "fe165d05d3015030c330",
@@ -262,7 +405,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T09:57:53.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
+    },
+    {
+      "id": "415dff0482cfb1546891",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:55:22.000Z",
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "783fa4a9f724d4553ee4",
@@ -273,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T09:46:35.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "47ce4e35a39fb8220811",
@@ -284,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T09:35:52.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "792ca7a7ebf80dd4baa0",
@@ -295,18 +449,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T09:14:38.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "6df069437b00ac4f7611",
-      "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "title": "Seven more people rescued after boat sinks in Indonesia, 18 still missing",
       "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T09:08:55.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "edb5c08ed594070c9fa5",
@@ -317,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T09:01:00.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "70b4b8023e97b02fcd97",
@@ -328,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T09:00:22.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "cdece907f939d2c8ab55",
@@ -339,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T08:57:31.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "7535d804f9467e71c6ee",
@@ -350,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T08:56:12.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "e1f57eb46b2c3f4881ff",
@@ -361,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:49:56.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "e305d70adb8aa50af7f8",
-      "title": "Half a Second – a book about the XZ backdoor",
-      "url": "https://www.half-second.com/",
-      "source": "half-second.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T08:48:41.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "63ac48f137294c1d698e",
@@ -383,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:46:42.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "5ae030bf07aabbb3d5ed",
@@ -394,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T08:44:57.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "5fd7babfcc1b5dc02065",
@@ -405,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:41:18.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "12c3f8fd166356f9fda8",
@@ -416,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T08:35:16.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     },
     {
       "id": "64d1b33c6f5ad2e50822",
@@ -427,150 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T08:24:19.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "9e90cd8e54f1fe973644",
-      "title": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
-      "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:20:41.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "6ae040b6cb2e0aefdd67",
-      "title": "Spain vs Argentina: How each team can win the 2026 World Cup final",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T08:12:54.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "cb1c81d6f7f1fe7fa2c5",
-      "title": "The Mighty Big Array of Finn Jensen LA8YB",
-      "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-      "source": "la0by.darc.de",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T08:05:46.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "d1255b05e88d2dc5b9a8",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T07:54:39.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "1981a020e8d41f97a511",
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:47:02.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "d569d77a60ee011b7eef",
-      "title": "Israel demolishes Palestinian home in Masafer Yatta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:30:54.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "a0237767fe4257e66c08",
-      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:28:08.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "4c2b1d02863d56dee2d7",
-      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:27:59.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "2e6e84e4b43fb46624b5",
-      "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:22:01.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "afbd34cc50332c751781",
-      "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:15:31.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "c48d86e01cc306a18f0b",
-      "title": "The number one health issue in Palestine is the Israeli occupation",
-      "url": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:15:19.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "1b360837e6203c3e5121",
-      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T07:00:00.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
-    },
-    {
-      "id": "74de31f19bb838807160",
-      "title": "Terence Donovan, ‘larger-than-life’ actor and father of Jason, dies aged 90 – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T05:32:35.000Z",
-      "discoveredAt": "2026-07-19T12:04:24.934Z"
+      "discoveredAt": "2026-07-19T13:46:51.424Z"
     }
   ]
 }
