@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T16:30:16.599Z",
+  "generatedAt": "2026-07-19T17:36:15.745Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
+      "id": "4d38b0d0ef76dce9c95c",
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "source": "hmd.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T17:25:03.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "abb5eb3653d73a219805",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T17:22:23.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "96b58a58116d1619bc25",
+      "title": "5.5-magnitude earthquake hits Peru's Andes region and kills at least 5 people",
+      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T17:12:47.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "fa5bd8f1bb73421592f4",
+      "title": "Burnham to warn UK must be honest about its challenges as he prepares to become PM",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T17:08:02.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "7ab26ba7affd3a2a64a0",
+      "title": "Second person dies in legionnaires’ disease outbreak in New York City",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:51:24.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "22414d96ee844f2e4777",
+      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:43:55.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "0bb48e316ea0e2590677",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:35:02.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
       "id": "d72b950e893f52836a65",
-      "title": "Thames Water creditors prepare for legal fight over possible nationalisation",
+      "title": "Thames Water creditors seek talks with Burnham as nationalisation looms",
       "url": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:17:11.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "59df4375a86e2b44dc01",
@@ -64,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:12:57.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "9ac92c6adf1d77b389fc",
@@ -75,18 +152,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T16:06:55.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "ba5572ddc18d30084755",
-      "title": "US boxer Hannah Rapp allegedly killed by driver while cycling in Texas",
+      "title": "US boxer Hannah Rapp struck and killed by driver while cycling, police say",
       "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:06:23.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "174456e30771e02f1a34",
@@ -97,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T16:02:20.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "66c0376e37defac5c707",
@@ -108,7 +185,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T16:00:00.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "5c2158b4ef7f0ddf83be",
@@ -119,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:54:22.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "d02638e17010374c66cd",
@@ -130,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:46:23.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "6d0388b6399359612ba9",
@@ -141,18 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:38:11.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "abb5eb3653d73a219805",
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T15:35:18.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "6482b15538b9f341ee55",
@@ -163,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:31:31.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "6cbe153f53657bf956d1",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:26:45.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "76379b8680baf98a65f7",
@@ -185,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:25:01.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "e4cebbea4a3237d2a713",
@@ -196,7 +262,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:23:49.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "d414df336276a561d007",
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "source": "retrogamecoders.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T15:20:22.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "1c820a11c3c9b5310da8",
@@ -207,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:17:23.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "c791cd3e9a8a908c1c16",
@@ -218,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:00:31.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "144a10d16fec9bb4c1b7",
@@ -229,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:00:30.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "6fb323356106a2ab90b0",
@@ -240,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T15:00:29.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "cdd6ab6ce65a575bd785",
@@ -251,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:00:00.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "5250c59b7326297c2f3d",
@@ -262,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:50:11.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "c2668a48a283d5097d5d",
@@ -273,7 +350,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:34:15.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
+    },
+    {
+      "id": "ca2822dd45c352d598ad",
+      "title": "Terence McKenna's Mega Bad Trip",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+      "source": "psychedelics.community",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T14:30:31.000Z",
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "f6858750f14744c3a49c",
@@ -284,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:27:53.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "aec77c20009637ff9bbe",
@@ -295,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:27:02.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "128306d945f792426131",
@@ -306,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:17:39.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "2b4b225d7ebfb8f02147",
@@ -317,40 +405,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:12:10.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "ebfe26a514e7d76467e4",
-      "title": "North Pole hosts 'world's coolest marathon' on drifting sea ice",
+      "title": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
       "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:06:08.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "31f2546a8179356aa8a8",
-      "title": "As Andy Burnham enters No 10, what of his ‘bezzie mate’ Steve Rotheram?",
-      "url": "https://www.theguardian.com/politics/2026/jul/19/andy-burnham-no-10-steve-rotheram",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T14:00:28.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "0bb48e316ea0e2590677",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T14:00:03.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "3513cdfc4a009533bfaa",
@@ -361,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T13:56:18.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "92ea8ba2792fd58a8c9f",
@@ -372,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T13:29:29.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "a7a364ff563e2800e7ba",
@@ -383,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T13:12:50.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "f086dcb3670ab530f21e",
@@ -394,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T13:00:29.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "ea68b48428b4c45e2747",
@@ -405,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:53:20.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "a00bd517618666e6425e",
@@ -416,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:45:07.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "1e7a193e3dffed909a9b",
@@ -427,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:38:24.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "ba2300c9d7da33f522da",
@@ -438,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:29:57.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "a10449392e08ffad6f53",
@@ -449,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:27.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "f4a39feabaa610beac5b",
@@ -460,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:26.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "2feb04cfab1e39a9b6aa",
@@ -471,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:57:47.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "8e7ff08d008c12c1d76e",
@@ -482,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T11:48:18.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "34889b510350e138451b",
@@ -493,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:28:24.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     },
     {
       "id": "a69717bf1733cfc0edaa",
@@ -504,73 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:21:52.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "cd1adc0e361bbabf0cec",
-      "title": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
-      "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:18:17.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "4d572af03f72eddfa58a",
-      "title": "Iranians suffer from power blackouts during war and heatwave",
-      "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:16:20.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "3dbe095878bcf64dd1dc",
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "source": "en.andros.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T11:14:38.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "9c5aad41d6fb948ff278",
-      "title": "Majority of US voters link extreme weather to climate crisis, study finds",
-      "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:00:26.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "850bbc1fb62f02bfb350",
-      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
-      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
-    },
-    {
-      "id": "4e01ad8292be2a834a16",
-      "title": "How Trump and his administration have mired the US in multiple crises",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T16:30:16.599Z"
+      "discoveredAt": "2026-07-19T17:36:15.745Z"
     }
   ]
 }
