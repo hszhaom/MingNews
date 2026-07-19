@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T15:07:35.076Z",
+  "generatedAt": "2026-07-19T16:30:16.599Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,213 @@
   ],
   "stories": [
     {
+      "id": "d72b950e893f52836a65",
+      "title": "Thames Water creditors prepare for legal fight over possible nationalisation",
+      "url": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:17:11.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "59df4375a86e2b44dc01",
+      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
+      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:12:57.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "9ac92c6adf1d77b389fc",
+      "title": "Israeli settlers torch homes and mosque in Masafer Yatta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:06:55.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "ba5572ddc18d30084755",
+      "title": "US boxer Hannah Rapp allegedly killed by driver while cycling in Texas",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:06:23.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "174456e30771e02f1a34",
+      "title": "‘What has the BBC ever done for me?’ Romesh Ranganathan reboots corporation’s 1985 licence fee plea",
+      "url": "https://www.theguardian.com/media/2026/jul/19/bbc-advert-romesh-ranganathan-reboot-john-cleese-licence-fee-plea",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:02:20.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "66c0376e37defac5c707",
+      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "5c2158b4ef7f0ddf83be",
+      "title": "5.6 magnitude earthquake hits Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:54:22.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "d02638e17010374c66cd",
+      "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:46:23.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "6d0388b6399359612ba9",
+      "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:38:11.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "abb5eb3653d73a219805",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:35:18.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "6482b15538b9f341ee55",
+      "title": "Andrew and Tristan Tate arrested in US on UK rape and sex trafficking charges",
+      "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:31:31.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "6cbe153f53657bf956d1",
+      "title": "Kimi Antonelli wins Belgian Grand Prix to extend F1 championship lead",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:26:45.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "76379b8680baf98a65f7",
+      "title": "Designing cities for a hotter future",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/19/designing-cities-for-a-hotter-future?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:25:01.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "e4cebbea4a3237d2a713",
+      "title": "Tate brothers arrested in the US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:23:49.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "1c820a11c3c9b5310da8",
+      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:17:23.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "c791cd3e9a8a908c1c16",
+      "title": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
+      "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:00:31.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "144a10d16fec9bb4c1b7",
+      "title": "Australian and NZ safety assurances about asbestos in play sand were based on supplier’s own assessment",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:00:30.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
+      "id": "6fb323356106a2ab90b0",
+      "title": "Rise in overseas surrogates ‘increases risk of stateless babies’",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/rise-overseas-surrogates-increases-risk-stateless-babies-experts-warn",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T15:00:29.000Z",
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
+    },
+    {
       "id": "cdd6ab6ce65a575bd785",
-      "title": "Spain vs Argentina LIVE: 2026 FIFA World Cup final",
+      "title": "Spain vs Argentina LIVE: FIFA World Cup 2026 final",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T15:00:00.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "5250c59b7326297c2f3d",
@@ -64,18 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:50:11.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "59df4375a86e2b44dc01",
-      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
-      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T14:50:05.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "c2668a48a283d5097d5d",
@@ -86,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:34:15.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "f6858750f14744c3a49c",
@@ -97,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:27:53.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "aec77c20009637ff9bbe",
@@ -108,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:27:02.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "128306d945f792426131",
@@ -119,18 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:17:39.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "ba5572ddc18d30084755",
-      "title": "US boxer Hannah Rapp dies after being struck by car while cycling in Texas",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T14:15:36.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "2b4b225d7ebfb8f02147",
@@ -141,18 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T14:12:10.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "ebfe26a514e7d76467e4",
-      "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+      "title": "North Pole hosts 'world's coolest marathon' on drifting sea ice",
       "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:06:08.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "31f2546a8179356aa8a8",
@@ -163,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:00:28.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "0bb48e316ea0e2590677",
@@ -174,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T14:00:03.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "3513cdfc4a009533bfaa",
@@ -185,18 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T13:56:18.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "ae319c58b7e17326499d",
-      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-      "url": "https://www.cortex.io/drive",
-      "source": "cortex.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T13:30:01.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "92ea8ba2792fd58a8c9f",
@@ -207,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T13:29:29.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "a7a364ff563e2800e7ba",
@@ -218,18 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T13:12:50.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "abb5eb3653d73a219805",
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T13:10:57.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "f086dcb3670ab530f21e",
@@ -240,18 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T13:00:29.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "17b53731d0436a89d564",
-      "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
-      "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T13:00:28.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "ea68b48428b4c45e2747",
@@ -262,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:53:20.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "a00bd517618666e6425e",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:45:07.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "1e7a193e3dffed909a9b",
@@ -284,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:38:24.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "ba2300c9d7da33f522da",
@@ -295,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T12:29:57.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "0bc5fd534fc0773c259d",
-      "title": "Nigel Farage admits George Cottrell paid for filming and let him use his home",
-      "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T12:21:32.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "a10449392e08ffad6f53",
@@ -317,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:27.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "f4a39feabaa610beac5b",
@@ -328,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T12:00:26.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "2feb04cfab1e39a9b6aa",
@@ -339,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:57:47.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "8e7ff08d008c12c1d76e",
@@ -350,18 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T11:48:18.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "7968d6802432da0ef3b1",
-      "title": "South East Water supply disruption hits thousands of properties in Kent",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/19/south-east-water-supply-disruption-tunbridge-wells-kent",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:46:19.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "34889b510350e138451b",
@@ -372,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:28:24.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "a69717bf1733cfc0edaa",
@@ -383,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:21:52.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "cd1adc0e361bbabf0cec",
@@ -394,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:18:17.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "4d572af03f72eddfa58a",
@@ -405,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T11:16:20.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "3dbe095878bcf64dd1dc",
@@ -416,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T11:14:38.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "9c5aad41d6fb948ff278",
@@ -427,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:26.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "850bbc1fb62f02bfb350",
@@ -438,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     },
     {
       "id": "4e01ad8292be2a834a16",
@@ -449,128 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T11:00:25.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "38f574f162644f0808e9",
-      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T11:00:00.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "8400f2a50ade91628483",
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-      "source": "sgt.hootr.club",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T10:44:31.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "0b787e121aeb2de50ac2",
-      "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
-      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T10:43:27.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "8d304728ca8f16db1c79",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "source": "chipweinberger.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T10:34:58.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "030d65f08d153c431fea",
-      "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
-      "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T10:09:25.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "bdf1a9017a80ba7b4496",
-      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T10:00:00.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "fe165d05d3015030c330",
-      "title": "Bad Bunny concert in Milan abandoned because of hailstorm",
-      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:57:53.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "415dff0482cfb1546891",
-      "title": "Messi on the brink of history - will it be his last World Cup game?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:55:22.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "783fa4a9f724d4553ee4",
-      "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:46:35.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "47ce4e35a39fb8220811",
-      "title": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:35:52.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
-    },
-    {
-      "id": "792ca7a7ebf80dd4baa0",
-      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-19T09:14:38.000Z",
-      "discoveredAt": "2026-07-19T15:07:35.076Z"
+      "discoveredAt": "2026-07-19T16:30:16.599Z"
     }
   ]
 }
