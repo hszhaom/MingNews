@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T23:01:46.130Z",
+  "generatedAt": "2026-07-19T00:02:44.502Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,72 @@
   ],
   "stories": [
     {
+      "id": "30902b5803526f3d466f",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-18T23:59:26.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "74de31f19bb838807160",
+      "title": "Australia news live: Liberal senator Andrew Bragg says he ‘strongly disagrees’ with Tony Abbott on multiculturalism",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-18T23:44:32.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "6cbf34037ed913b960da",
+      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-18T23:37:48.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "e4b958abbc0833ee9e58",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "source": "codex-resets.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-18T23:24:26.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "c0646f15b77cccfeaead",
+      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T23:22:12.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "63d0754abee114663a3d",
+      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-18T23:20:31.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
       "id": "e55b2ac278aff8689d05",
       "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
       "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb",
@@ -53,18 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T22:54:06.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "74de31f19bb838807160",
-      "title": "Australia news live: ski fields reach July temperature high; diesel prices surge",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T22:46:28.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "282cd150331b6821bb47",
@@ -75,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T22:41:47.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "2573a1f9c2ef440d21a7",
@@ -86,18 +141,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T22:17:51.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
-      "id": "739b01fe181fa01fe5b3",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-      "source": "hermit-tech.com",
+      "id": "c44b78e034acb12c3148",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "petapixel.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-18T22:10:54.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "publishedAt": "2026-07-18T22:13:39.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "f8a6a0875dcb0b730f7a",
@@ -108,7 +163,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T22:09:07.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "fa5c3679f54e27d19725",
@@ -119,7 +174,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T22:02:31.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "95d774cf512db68e81eb",
@@ -130,7 +185,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T21:55:27.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "f5773fd593cf22cc64ff",
@@ -141,7 +196,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T21:45:12.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "c3fa2f35a78cfa60641c",
@@ -152,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T21:25:14.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "7e95082b78b3a9a9fe56",
@@ -163,7 +218,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T21:12:28.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
+    },
+    {
+      "id": "7b26e9a1869dc22909cb",
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-18T21:09:01.000Z",
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "785018caaf06e09bb527",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T21:03:34.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "128ad322cda666036324",
@@ -185,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T21:02:44.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "98b9849f9d769a54e07c",
@@ -196,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T20:24:51.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "0776ac45d74722515505",
@@ -207,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T20:18:46.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "dfffc1638b4c88a462b9",
@@ -218,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-18T20:06:35.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "30d668bff674bf393cd5",
@@ -229,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T20:00:09.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "efe3c3973d0324584c29",
@@ -240,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T20:00:08.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "22f806b7a4a18036b4a7",
@@ -251,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T19:57:22.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "266b70e8d156cd2daed4",
@@ -262,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T19:55:16.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "37641f241c269ea771a7",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T19:42:27.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "cc29e76dc0ce4ef0d91f",
@@ -284,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T19:38:21.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "5497c1aa20f5ef1909c9",
@@ -295,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T19:34:16.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "64800be89e3a80a3ad3e",
@@ -306,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T19:30:30.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "d809d65cda5087835b07",
@@ -317,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T19:14:03.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "ec092e3ec471e89cc3a6",
@@ -328,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T19:11:13.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "59d3cf15f6a040784812",
@@ -339,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T18:55:05.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "af043c6634a85bb051d6",
@@ -350,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T18:45:49.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "dcbc7341099b979f3a49",
@@ -361,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T18:17:00.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "69164e86d01bc32e1530",
@@ -372,18 +438,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-18T18:15:42.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "dfdbc73edb043ee52714",
-      "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "title": "U.S. fires on Iran after attack in Jordan leaves 2 troops killed, 1 missing",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-18T18:14:11.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "0167128fe5e2a4438d1f",
@@ -394,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T18:09:15.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "ac3f16574316fd373fb2",
@@ -405,18 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T18:04:47.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "33a1803de433406420e9",
-      "title": "England vs France LIVE: FIFA World Cup 2026",
+      "title": "England 6-4 France LIVE: FIFA World Cup 2026",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T17:46:20.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "9a6b01face8d12a0237f",
@@ -427,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T17:35:21.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "7b7d65cba6ad054f8cfa",
@@ -438,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-18T17:29:50.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "e4ee144f81b10a1f5542",
@@ -449,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T17:29:23.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "b022a3302557509c6fef",
@@ -460,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T16:47:14.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "fa36579cfa61a0dcf6af",
@@ -471,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-18T16:24:29.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "a914dc7c46d2ad7861f4",
@@ -482,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T16:23:09.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "cbf50d89f855520c7ea6",
@@ -493,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-18T16:22:16.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     },
     {
       "id": "bbff2f3c36b5e00507da",
@@ -504,73 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-18T16:12:08.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "63eb74d935e926e159ca",
-      "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
-      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T16:06:06.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "53ad893ddb18c2e18d2e",
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "deepmind.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T16:02:45.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "3bbef4aea64688ac51e5",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "source": "tangled.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T15:44:04.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "187dd8dd7d8c17eab297",
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "source": "benlandautaylor.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T15:37:01.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "f9fe44634b53e32937ab",
-      "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
-      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T15:35:54.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
-    },
-    {
-      "id": "944768fee974a0e85d79",
-      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T15:35:23.000Z",
-      "discoveredAt": "2026-07-18T23:01:46.130Z"
+      "discoveredAt": "2026-07-19T00:02:44.502Z"
     }
   ]
 }
