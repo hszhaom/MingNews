@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T06:40:10.012Z",
+  "generatedAt": "2026-07-19T09:11:33.351Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,70 @@
   ],
   "stories": [
     {
-      "id": "2e6e84e4b43fb46624b5",
-      "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
+      "id": "edb5c08ed594070c9fa5",
+      "title": "5 clever design tricks to make a small home look bigger",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T09:01:00.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "59df4375a86e2b44dc01",
+      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
+      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T06:11:03.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "publishedAt": "2026-07-19T08:50:21.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "63ac48f137294c1d698e",
+      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:46:42.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "5ae030bf07aabbb3d5ed",
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T08:44:57.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "5fd7babfcc1b5dc02065",
+      "title": "Spain fans bring the party to New York before World Cup final",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:41:18.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "34889b510350e138451b",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:37:48.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "12c3f8fd166356f9fda8",
@@ -63,8 +118,140 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-19T05:49:10.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "publishedAt": "2026-07-19T08:35:16.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "64d1b33c6f5ad2e50822",
+      "title": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
+      "url": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:24:19.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "9e90cd8e54f1fe973644",
+      "title": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+      "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:20:41.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "6ae040b6cb2e0aefdd67",
+      "title": "Spain vs Argentina: Key factors that could decide World Cup 2026 final",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T08:12:54.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "74224814c30701e7dc7e",
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "source": "training.perforce.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-19T08:00:24.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "1981a020e8d41f97a511",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:47:02.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "d569d77a60ee011b7eef",
+      "title": "Israel demolishes Palestinian home in Masafer Yatta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:30:54.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "a0237767fe4257e66c08",
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:28:08.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "4c2b1d02863d56dee2d7",
+      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:27:59.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "2e6e84e4b43fb46624b5",
+      "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:22:01.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "afbd34cc50332c751781",
+      "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:15:31.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "c48d86e01cc306a18f0b",
+      "title": "The number one health issue in Palestine is the Israeli occupation",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:15:19.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
+    },
+    {
+      "id": "1b360837e6203c3e5121",
+      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-19T07:00:00.000Z",
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "74de31f19bb838807160",
@@ -75,18 +262,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:32:35.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "abb5eb3653d73a219805",
-      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:10:57.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "2abe7d9acff75c59ce39",
@@ -97,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T05:08:20.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "2e49f38dd9c7328e1550",
@@ -108,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T05:07:08.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "5e1eea8459116e792a54",
@@ -119,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:00:17.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "7b36578f8c3438f9e162",
@@ -130,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T05:00:17.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "22f806b7a4a18036b4a7",
@@ -141,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T04:41:49.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "b966a033c88e6c218de8",
@@ -152,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:36:47.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "3a0179b679b774f6542f",
@@ -163,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:32:28.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "cf846af738410ce5150e",
@@ -174,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T04:16:08.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "3a6862a78949102cca40",
@@ -185,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T04:00:16.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "26502d716af4c0eb264e",
@@ -196,7 +383,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T04:00:00.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "5c800aee509ea56bce0e",
@@ -207,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:38:03.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "1ca5f824b72eb5ecddba",
@@ -218,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:36:44.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "f46a547a747ff96e1a0a",
@@ -229,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:34:40.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "8619e6c45ca41cc9c56d",
@@ -240,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T03:02:22.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "aa9b2181e0394954cfcf",
@@ -251,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T02:57:31.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "59626d3a7eba1b540428",
@@ -262,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-19T02:46:04.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "78daf443eae8d9d35f7c",
-      "title": "FDA approves new kind of cholesterol pill",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
-      "source": "fda.gov",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T02:40:22.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "ea68b48428b4c45e2747",
@@ -284,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T02:17:07.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "f4b5e6ea36f818c989d8",
@@ -295,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T02:05:41.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "95b26c5997f6fdbe553b",
@@ -306,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T01:57:39.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "282a724e983a65fd3e93",
@@ -317,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T01:47:59.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "15363f7b1524fe28189c",
@@ -328,29 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T01:40:12.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "862d7d809904630a3a18",
-      "title": "Deepsec",
-      "url": "https://github.com/vercel-labs/deepsec",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T01:33:32.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "f1b8bb6a822245ea8411",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
-      "source": "ludic.mataroa.blog",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T01:29:19.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "ac3f968a5a445043fc51",
@@ -361,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T01:20:48.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "94254080a0bbfd35e55b",
@@ -372,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-19T01:11:23.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "0ad5fdc83ea29f7aa173",
@@ -383,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-19T00:59:55.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "8014e74f0e5b580638b4",
@@ -394,7 +548,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-19T00:57:08.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "fec603645eeac5489ed3",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T00:52:18.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     },
     {
       "id": "71bba2bf6960532975ff",
@@ -416,161 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-19T00:39:42.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "71d61e0fd00cea3ccbdb",
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "source": "workshop.cjpais.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-19T00:38:26.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "5123e11ccb36eade7a44",
-      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T00:33:31.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "7c77e0c19268b8afa34d",
-      "title": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-19T00:00:00.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "30902b5803526f3d466f",
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:59:26.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "6482b15538b9f341ee55",
-      "title": "Andrew and Tristan Tate arrested in Miami on UK charges of rape and sex trafficking",
-      "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:57:34.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "960ea3c1045e35678d33",
-      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:44:04.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "6cbf34037ed913b960da",
-      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:37:48.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "c0646f15b77cccfeaead",
-      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:22:12.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "63d0754abee114663a3d",
-      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T23:20:31.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "e55b2ac278aff8689d05",
-      "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T22:54:06.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "282cd150331b6821bb47",
-      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-18T22:41:47.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "2573a1f9c2ef440d21a7",
-      "title": "Hungary’s president agrees to stand down after law change ends his term",
-      "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-18T22:17:51.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "c44b78e034acb12c3148",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "source": "petapixel.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T22:13:39.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
-    },
-    {
-      "id": "95d774cf512db68e81eb",
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "source": "amigafreeware.downer.tech",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-18T21:55:27.000Z",
-      "discoveredAt": "2026-07-19T06:40:10.012Z"
+      "discoveredAt": "2026-07-19T09:11:33.351Z"
     }
   ]
 }
