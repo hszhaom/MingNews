@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T19:04:49.134Z",
+  "generatedAt": "2026-07-20T20:38:32.068Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 42,
+      "count": 43,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,169 @@
   ],
   "stories": [
     {
-      "id": "4b69113bfa77b55fb3a2",
-      "title": "Healey made chancellor, Miliband named foreign secretary and Mahmood remains home secretary as Burnham picks cabinet – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-      "source": "The Guardian",
+      "id": "c6bb14f8b6050822769c",
+      "title": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
+      "url": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-20T18:54:04.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "publishedAt": "2026-07-20T20:29:27.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
-      "id": "52be107678db79708f98",
-      "title": "Burnham promises ‘circuit breaker’ moment for UK as he becomes PM",
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
+      "id": "81014a5f452843039287",
+      "title": "Darline Graham says she will run for full Senate term in brother’s South Carolina seat – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-20T18:53:53.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "publishedAt": "2026-07-20T20:24:14.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "7ffa623439cc4c968cfb",
-      "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
+      "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-20T18:53:13.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "publishedAt": "2026-07-20T20:22:38.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "67ab6ed6926b77505bab",
+      "title": "Indian police attack Cockroach Janta Party’s parliament march",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T20:21:30.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "4b69113bfa77b55fb3a2",
+      "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T20:20:52.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "87f5e9bf9d4a65b520b9",
+      "title": "Iran says it is in ‘full-scale war’ as Trump vows retaliation over US soldier deaths",
+      "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T20:19:46.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "36de0d10ca795d190971",
+      "title": "Trump warns Iran will pay 'many times over' for deaths of US soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T20:14:57.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "6218978cce4063452d29",
+      "title": "Iran condemns US attacks on civilian infrastructure",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T20:02:20.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "14eb92dfd40f4d0079f0",
+      "title": "Andy Burnham’s first Labour cabinet: who’s in and who’s out?",
+      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:58:44.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "1758ad41b8713d80f68c",
+      "title": "Andy Burnham vows to ‘bring back hope’ as he unveils his cabinet",
+      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-vows-to-bring-back-hope-as-he-unveils-his-cabinet",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:51:02.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "142339c0fcdf6f857dc1",
+      "title": "Merger deal between Paramount and Warner Bros paused by judge",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:48:13.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "8d293fc9ead1bd312aa8",
+      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:43:02.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "aa25e91d41f8568e9710",
+      "title": "Suspect in custody named following explosion at FBI building in New York",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:37:45.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "d150317af56427749c84",
+      "title": "Yemeni women support families through enterprise as economic crisis bites",
+      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:36:37.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "42af2cc610890beafabe",
+      "title": "EU pauses methane penalties amid energy crisis, US pressure",
+      "url": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:29:37.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "3c0df5e31645b9bcf4d2",
@@ -85,30 +217,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-20T18:51:55.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "publishedAt": "2026-07-20T19:24:46.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
-      "id": "81014a5f452843039287",
-      "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
+      "id": "e8e57291a38892b4a374",
+      "title": "US judge orders pause on Paramount–Warner Bros merger",
+      "url": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:20:31.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "f56db2ed323a25275be1",
+      "title": "Nolan Wells remembered at memorial as community demands truth about his death",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/nolan-wells-memorial",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-20T18:48:37.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "publishedAt": "2026-07-20T19:16:39.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "8e43826ca57f2b6023fc",
+      "title": "A tournament of contradictions: What did we learn at World Cup 2026?",
+      "url": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:15:38.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "6c9831b9b3be02a1c16e",
+      "title": "‘One in 15 million’: Brisbane woman gives birth to identical quadruplets",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/one-in-15-million-brisbane-woman-gives-birth-to-identical-quadruplets",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:09:09.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "16f129eae4082037512b",
+      "title": "Tate brothers appear in US court for extradition proceedings",
+      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:05:50.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "d541c4c4cdf2637f2264",
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "source": "xenaproject.wordpress.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-20T19:03:37.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "2d8c72f6dcd76f307ae1",
+      "title": "Tate brothers fight extradition to UK over rape and sex-trafficking charges",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/andrew-tristan-tate-fight-charges-extradition",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-20T19:01:46.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "cb93fb325f2a220f302b",
+      "title": "Protests in Italy after Moroccan man dies during arrest",
+      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-20T18:53:13.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "8f81931e49eb9cd78db0",
-      "title": "Hungarian chess prodigy declines Péter Magyar’s offer of role as president",
+      "title": "Hungary’s chess queen declines Péter Magyar’s offer of role as president",
       "url": "https://www.theguardian.com/world/2026/jul/20/peter-magyar-judit-polgar-president-hungary-chess-prodigy-strategic-move",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T18:44:39.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "73a8b66f306dad370d9d",
@@ -119,18 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T18:32:05.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "14eb92dfd40f4d0079f0",
-      "title": "Andy Burnham’s first Labour cabinet: who’s in and who’s out?",
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T18:27:18.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "af2347096fdbe7d96542",
@@ -141,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T18:21:58.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "3eefc62a5b3acf2f696a",
@@ -152,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T18:21:39.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "5569dd99533f8bb5ed9f",
@@ -163,18 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-20T18:16:08.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "0aacc1d2e0099bd6c477",
-      "title": "Man, 28, charged with murder of former MP Ann Widdecombe",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/20/man-charged-with-murder-ann-widdecombe-joshua-kerry",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T18:10:04.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "b59e207bb24e9a4eabe5",
@@ -185,7 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T18:10:03.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
+    },
+    {
+      "id": "8b346f57130e76bf33b1",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "cursor.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-20T18:06:13.000Z",
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "fda1c3b503fe77ba088e",
@@ -196,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T18:01:01.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "b2fbfe6cb998a1b4b330",
@@ -207,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-20T18:01:00.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "53233020b66bd27734e5",
@@ -218,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-20T17:55:31.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "8751078478c5817dfab9",
@@ -229,18 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T17:53:28.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "aa25e91d41f8568e9710",
-      "title": "Suspect held after explosion at FBI building in New York City",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T17:46:33.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "fbd80a71ac216cb9711d",
@@ -251,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T17:40:29.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "48855838fa17d74d3713",
@@ -262,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-20T17:33:02.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "5bad7d35c9f778cc66a3",
@@ -273,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-20T17:31:57.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "3d29625475b555c8da7c",
@@ -284,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T17:31:43.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "3d1626429736c20513e2",
@@ -295,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T17:31:06.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "673e7e10be32e9036022",
@@ -306,18 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-20T17:21:27.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "36de0d10ca795d190971",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T17:20:37.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "1560deab574a901fb37a",
@@ -328,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-20T17:16:20.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "61100fda2c4035d84f2e",
@@ -339,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-20T17:13:23.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "3b37fc49daf4ccb9f528",
@@ -350,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-20T17:07:39.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "b2cbb350c7378dd9e644",
@@ -361,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T17:05:49.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "7beafdff722c7f6be347",
@@ -372,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-20T16:55:04.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "882ddc1fcb948dc7f828",
@@ -383,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T16:47:37.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     },
     {
       "id": "fc47c5461e7d620e950f",
@@ -394,183 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T16:45:23.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "961a61d9e589edbcb1c2",
-      "title": "Progressive frontrunner and Maine logger poised to replace Graham Platner in chaotic primary",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/troy-jackson-maine-senate-race-graham-platner",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:40:44.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "f7001613249d0c0feea8",
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "source": "unslop.run",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-20T16:36:36.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "ae5bd58ebe3ec4dc831c",
-      "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:36:04.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "b5d2f9ca5bc4d2f07ffd",
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-20T16:32:10.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "40e2619256cb66c22cd5",
-      "title": "Philippine sailor injured during clash with Chinese coast guard",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:31:23.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "981db3225a54bbcda032",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:26:40.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "87f5e9bf9d4a65b520b9",
-      "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
-      "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:17:20.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "6b737521b6493239b3fc",
-      "title": "At least 25 killed as floods and landslides hit northern India",
-      "url": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:17:12.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "1a9af0f5bc3239b5a262",
-      "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-      "url": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:13:42.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "29f0da35faf0907af6a0",
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:12:07.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "59eaaa2054a5180c8375",
-      "title": "Spain go back to the top of FIFA rankings, Morocco reach record high",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:11:22.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "00b768582b54a1ace7d7",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:10:38.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "d5b46a68feebf1cbfb79",
-      "title": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:09:32.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "ef45b8bd031520766bc5",
-      "title": "China, immigration, drugs: Behind US policy in Latin America",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:03:50.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "a43b4ef57765488bbbc0",
-      "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T16:00:45.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
-    },
-    {
-      "id": "278d814d2366fcfe098c",
-      "title": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/who-is-khalil-al-hayya-hamass-newly-elected-political-chief?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T15:59:30.000Z",
-      "discoveredAt": "2026-07-20T19:04:49.134Z"
+      "discoveredAt": "2026-07-20T20:38:32.068Z"
     }
   ]
 }
