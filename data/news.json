@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T04:25:35.641Z",
+  "generatedAt": "2026-07-21T07:15:38.621Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 44,
+      "count": 43,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,257 @@
   ],
   "stories": [
     {
+      "id": "c3cbac71d5e9bd36541d",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T07:12:14.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "ab60ca3ad3502cc40df9",
+      "title": "Spain's World Cup champions return home for parade in front of almost 2 million",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-21T07:09:22.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "18117010591cdaa95af1",
+      "title": "Why has Labour briefed against Ed Miliband – is it his success and popularity?",
+      "url": "https://www.theguardian.com/politics/2026/jul/21/labour-briefed-against-ed-miliband-success-popularity",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T07:00:03.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "b84005e42d1e40f288fc",
+      "title": "Burnham cuts VAT on household electricity bills; UK borrows less than expected in June – business live",
+      "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:59:38.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "ec081c97803bf51842ef",
+      "title": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:51:54.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "a013dc60885820792479",
+      "title": "Australia news live: Perth teenager arrested after allegedly stabbing mother to death; Victorian teachers to strike on Thursday",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:50:54.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "d9ea30839af6125a36e9",
+      "title": "UK borrows less than expected in June in boost for Burnham",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:46:06.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "1e1fa4191ae1c89b9473",
+      "title": "Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool",
+      "url": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:29:57.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "9787e730a01e52c94fb3",
+      "title": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs",
+      "url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:26:35.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "b34bebc4e164bbdba67f",
+      "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+      "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:18:42.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "c8022a5b0c6cc7802622",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:16:06.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "948acae2019acc83a5d9",
+      "title": "Gaza celebrates World Cup victory of Spanish team they took into their hearts",
+      "url": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:00:04.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "28d9c83862aa9dee6896",
+      "title": "UK military ‘eyes innovative electric flying taxi’ as 2029 launch planned",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T06:00:03.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "898679129db71a0c1006",
+      "title": "Holocaust survivors president says exclusion of Jews from public life has ‘disturbing parallels’ to Nazi Germany",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/holocaust-survivors-australia-exclusion-nazi-germany-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T05:57:55.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "b37da022b4ca220fcdd1",
+      "title": "Tuesday briefing: Inside Andy Burnham’s first day",
+      "url": "https://www.theguardian.com/world/2026/jul/21/tuesday-briefing-inside-andy-burnhams-first-day",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T05:45:21.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
       "id": "7ffa623439cc4c968cfb",
-      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live",
+      "title": "US issues ‘worldwide caution’ for American citizens – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T04:11:48.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "publishedAt": "2026-07-21T05:32:17.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "ea6e5c06d74f50d9100c",
+      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-21T05:28:53.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "f171b1cb516fcf5eb7f1",
+      "title": "Many Christian voters in the US see Trump as ‘chosen’ by God to lead",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_trump-as-chosen-by-god-to-lead-210726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T05:24:15.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "c4458c002a33218969ce",
+      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
+      "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T05:00:01.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "9b8ee73aded3f8c2c3cc",
+      "title": "Kumanjayi Little Baby’s mother was not supported to protect her children while escaping domestic violence, review finds",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T04:55:37.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "5d072a3a7956e60e1957",
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "source": "exsitu.app",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T04:48:32.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "74267bfc63f863417aa8",
+      "title": "Argentina players receive heroes’ welcome home despite World Cup defeat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/argentina-players-receive-heroes-welcome-home-despite-world-cup-defeat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T04:40:39.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
+    },
+    {
+      "id": "30374aeb629ae5a461df",
+      "title": "Climate and rock art advocates take on Woodside’s ‘carbon bomb’ WA gas project in federal court",
+      "url": "https://www.theguardian.com/environment/2026/jul/21/north-west-shelf-gas-project-woodside-wa-federal-court-challenge",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T04:18:09.000Z",
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "ebccfef528d0987d420a",
@@ -64,40 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T04:09:54.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "478f4cf9b8597b5e2c16",
-      "title": "NSW land-clearing up 16% in 2024 as conservation groups say Minns government failing to rein in habitat loss",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/nsw-land-clearing-increase-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T04:09:45.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "a013dc60885820792479",
-      "title": "Australia news live: ‘millions’ in cash being moved in unmarked, un-armoured Hyundais, union says; spare undies warning for Games athletes",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T04:08:55.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "253b6bb77a695da1b56c",
-      "title": "Not enough water for UK’s datacentre plans, trade body says",
-      "url": "https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T04:00:09.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "1222b74f46df46f0b84f",
@@ -108,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T03:56:03.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "04e2e55f91cc5821c5cf",
@@ -119,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T03:54:16.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "860c7f7df7e97fbb1909",
@@ -130,18 +339,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T03:52:05.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "89dbcb754705783c46bf",
-      "title": "Jane Street: Incremental",
+      "title": "Incremental – A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
       "source": "github.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T03:50:53.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "fea78e4a42d0b29450af",
@@ -152,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T03:49:57.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "7a351bb045de15bab327",
@@ -163,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T03:29:37.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "396c89f62fa6833b22de",
-      "title": "Is surveillance risk chilling your online speech?",
-      "url": "https://news.ycombinator.com/item?id=48987634",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T03:17:10.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "0c32dfb13dce7261cc0a",
@@ -185,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T03:16:56.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "10c9043da2b1468bf483",
@@ -196,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T03:15:23.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "c151f93fb31886205d32",
@@ -207,18 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T02:52:44.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "c8022a5b0c6cc7802622",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T02:41:28.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "dc0ad76e72f011d69b1e",
@@ -229,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T02:29:47.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "0bb48e316ea0e2590677",
@@ -240,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-21T02:07:48.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "7beafdff722c7f6be347",
@@ -251,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T02:05:29.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "81014a5f452843039287",
@@ -262,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T02:01:31.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "870c0d21dc2227d0362c",
@@ -273,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T01:47:30.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "3b20f148d82389ddf5fa",
@@ -284,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T01:27:56.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "52535ac178b6c42caeac",
@@ -295,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T00:58:10.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "58a7ce8ee4845e7dd099",
@@ -306,18 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-21T00:36:28.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "c3cbac71d5e9bd36541d",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T00:34:47.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "2b944882103f2a275fd8",
@@ -328,18 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T00:33:53.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "d92254fa88769fd01b0e",
-      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight ‘uncontrolled immigration’",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T00:17:26.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "71008cc86226392406df",
@@ -350,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T00:08:50.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "36fdc533fc1a05b9ffab",
@@ -361,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T00:06:33.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "6c8e8b6516ce48904acc",
@@ -372,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T00:00:00.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "f479658942e18fd69b52",
@@ -383,18 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T23:41:28.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "1758ad41b8713d80f68c",
-      "title": "Andy Burnham vows to ‘bring back hope’ as he unveils his cabinet",
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-vows-to-bring-back-hope-as-he-unveils-his-cabinet",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T23:32:03.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "5fa28dc2cb94bc8450ad",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T23:21:12.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     },
     {
       "id": "a017d9b5e7e32d644dd2",
@@ -416,161 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-20T23:16:06.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "43f0fc3b11b772efa64c",
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "source": "forum.jellyfin.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-20T23:15:41.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "14eb92dfd40f4d0079f0",
-      "title": "Andy Burnham’s first Labour cabinet: who’s in and who’s out?",
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T23:00:48.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "9c19d1af634d03df6723",
-      "title": "What are the new British Prime Minister’s biggest challenges?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:54:06.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "a8c5aff904cbc766caa4",
-      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
-      "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:50:46.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "075f0058dddee7a4205b",
-      "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:40:31.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "3c1e3113dcc13810bdf2",
-      "title": "United Airlines says it will ‘look into’ worker’s threat to call ICE in viral video",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/united-airlines-san-francisco-airport-ice-threat",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:40:07.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "12e1e7b208e33d2a0791",
-      "title": "Five people die in attempt to save struggling swimmer in Ohio river",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/ohio-scioto-river-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:31:53.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "a9e47a60903fc88693bd",
-      "title": "War on Iran: War resumes 30 days after MoU",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:26:49.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "4b69113bfa77b55fb3a2",
-      "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet – UK politics as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:23:47.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "511b00ec5ee1f683fe89",
-      "title": "Moroccan-born man dies while detained by police in Italy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T22:13:37.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "3fd6e5e9147c4dd1191b",
-      "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-20T21:52:02.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "dafaa2f42702a5bfb309",
-      "title": "‘It needs to end now’: Democrats urge Trump to halt Iran war after US troop deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/democrats-trump-iran-war",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T21:45:16.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "5571665cb3fe834f9301",
-      "title": "Nicaragua’s president says country will not hold any more elections",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T21:36:47.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
-    },
-    {
-      "id": "48855838fa17d74d3713",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-20T21:30:19.000Z",
-      "discoveredAt": "2026-07-21T04:25:35.641Z"
+      "discoveredAt": "2026-07-21T07:15:38.621Z"
     }
   ]
 }
