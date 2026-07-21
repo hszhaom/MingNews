@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T14:16:25.624Z",
+  "generatedAt": "2026-07-21T16:04:51.570Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 34,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "ea2afd6e1015d4dde053",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:03:22.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "930ee57e7a5698c82d99",
+      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:58:59.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
       "id": "2939ae708f8c7bf8cdb9",
       "title": "Andy Burnham says his will be a ‘cost-of-living government’ in first cabinet meeting as PM – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
@@ -52,19 +74,360 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T13:58:23.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "publishedAt": "2026-07-21T15:56:40.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "77d802c4220138ae56e4",
+      "title": "US eyes new tariffs as existing trade duties near expiration",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:54:13.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "b943ffbb70f6b013fbaf",
+      "title": "Israeli air strike in Gaza City kills family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:54:11.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "ec081c97803bf51842ef",
+      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:50:23.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "bc2a8b567ff51ae912dc",
+      "title": "NPM's release cooldown is security theater",
+      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+      "source": "blog.outv.im",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:46:18.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "fef466fdb1a5911ab52a",
+      "title": "Italy’s Meloni slams protesters following clashes in Bologna",
+      "url": "https://www.aljazeera.com/news/2026/7/21/italys-meloni-slams-protesters-following-clashes-in-bologna?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:44:59.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "492867901f90c039896b",
+      "title": "UK PM Burnham: ‘We need to be a cost-of-living government’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/uk-pm-burnham-we-need-to-be-a-cost-of-living?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:44:19.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "ab0b00aa97f0335598bc",
+      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "source": "e360.yale.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:41:51.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "cb7f1648e5addf653369",
+      "title": "Ann Widdecombe was hit on head repeatedly with hammer, court told",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/ann-widdecombe-was-hit-on-head-repeatedly-with-hammer-court-told",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:39:35.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "0de6b7856fa253a02c9c",
+      "title": "FIFA ‘destroying football’ for the World Cup, says Spanish football chief",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/fifa-destroying-football-for-the-world-cup-says-spanish-football-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:32:50.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "360db55376f8aecfffee",
+      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:23:31.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "491528a03a20e6ef4271",
+      "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
+      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
+      "source": "ft.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:22:33.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "f271354cc1232db93dce",
+      "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
+      "url": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
+      "source": "themarshallproject.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:21:02.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "74063e19cb869d83e87b",
+      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
+      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "source": "404media.co",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:19:44.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "09b59cb95c871d718795",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "source": "blog.google",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T15:17:16.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "f3ef597322988c665459",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:10:35.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "8fcb45feb81bbceb3596",
+      "title": "Abandoned monkey found in laundry bag on London bus",
+      "url": "https://www.theguardian.com/world/2026/jul/21/monkey-marmoset-abandoned-london-bus-primate-licences",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:05:31.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "d3a6ebf57eefb10fe482",
+      "title": "Zendaya faces backlash for wearing ancient Iranian jewellery at Odyssey event",
+      "url": "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:01:36.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "17fcd1f6496073c607ed",
+      "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:00:51.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "84963f4576f83cb96ce8",
+      "title": "The Queensland government promised to put victims first. Instead it buried a report from domestic violence survivors",
+      "url": "https://www.theguardian.com/society/2026/jul/21/the-queensland-government-promised-to-put-victims-first-instead-it-buried-a-report-from-domestic-violence-survivors",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:00:50.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "461174f5b90fa51cb255",
+      "title": "Milky Way flipped in collision with dwarf galaxy 10bn years ago, astronomers say",
+      "url": "https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:00:48.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "ef207189765a5ef7d3da",
+      "title": "Claude Is Not a Compiler",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "source": "blog.exe.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T14:49:18.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "6007b834be2ecc6ef5e2",
+      "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:42:21.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "566c1ac31f3cf6220891",
+      "title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+      "url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:37:47.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "b8777b356d34a5d4e1f1",
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "source": "blog.ericgoldman.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T14:31:41.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "edb4196dfb203f5dea71",
+      "title": "US identifies soldier killed destroying downed Iranian drone in Iraq",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/identity-soldiers-killed-iraq-iran-war",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:31:15.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "2f048674f5eb2e697b4c",
+      "title": "Searching for closure: Venezuela families refuse to give up after quakes",
+      "url": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:08:59.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "b84005e42d1e40f288fc",
-      "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - business live",
+      "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - as it happened",
       "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T13:55:22.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "publishedAt": "2026-07-21T14:07:21.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "6c8b91eb1ed6f971b1bf",
+      "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+      "url": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:06:44.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "386cbe47f69ad5ef0e35",
+      "title": "‘Sit down!’: Australian MP yells at dog then snaps at presenter in live interview",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/australia-one-nation-mp-barnaby-joyce-dog-interview-pauline-hanson",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:05:31.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "eb70174e3f4089cf7668",
+      "title": "Black lands, Mexican bands: how a southern rural family built a Latino cultural hub",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/north-carolina-mexican-music-latino-culture",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:00:48.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "3303ec7237f7e1cd46df",
+      "title": "Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/trumps-hiv-funding-cuts-having-severe-and-devastating-impact-around-the-world",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T14:00:47.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
+    },
+    {
+      "id": "433bd69f6c185ee20ded",
+      "title": "PCjs Machines",
+      "url": "https://www.pcjs.org/",
+      "source": "pcjs.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T13:48:35.000Z",
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "019923da2f3f712348f9",
@@ -75,29 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T13:46:28.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "930ee57e7a5698c82d99",
-      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:45:41.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "ec081c97803bf51842ef",
-      "title": "Lebanese army accuses Israelis of firing near troops as president prepares to meet Trump – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:45:29.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "1aaaa3aff3cdc083a2ed",
@@ -108,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T13:45:02.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "34e26087194e14e5c831",
@@ -119,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:43:48.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "a6dddd7407729999e7e5",
@@ -130,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:42:38.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "cb7f1648e5addf653369",
-      "title": "Ann Widdecombe was hit on head repeatedly with hammer, court told",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/21/ann-widdecombe-was-hit-on-head-repeatedly-with-hammer-court-told",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:39:33.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "8daef305f80826e51833",
@@ -152,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:36:46.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "7c5bcacd7e766030bc6f",
@@ -163,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T13:33:35.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "00a6ca1f4564620eb1fd",
@@ -174,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:32:04.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "1d09ba3408bffc032375",
@@ -185,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:26:40.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "1e6fe99c104916355529",
@@ -196,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:25:37.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "6192e37686dc89e164f1",
@@ -207,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T13:17:04.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "86aa9bbda4a17245a8db",
@@ -218,18 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T13:07:35.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "cc16f801dba53a1c4ac7",
-      "title": "Muslim leader speaks out after more than 80 days in ICE detention: ‘It brought back memories from Palestine’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/muslim-leader-ice-detention-wisconsin",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:07:17.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "c10dbfef15b375c0737d",
@@ -240,18 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-21T13:01:09.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "9dcd9af56d342e96f95d",
-      "title": "US immigration agents arrested a record number of people in June, data shows",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:00:47.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     },
     {
       "id": "b33331a860a6eaf46cc4",
@@ -262,315 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-21T13:00:00.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "e83b83d5fa3e394c2356",
-      "title": "Baby trafficking ringleader jailed for 7 years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:59:28.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "4067ca1693b8e6dad089",
-      "title": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:56:21.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "c6429cfd405bd4121a94",
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:48:37.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "2a38870f781f87a27939",
-      "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
-      "url": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:34:05.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "f50379b6242cd4b4526f",
-      "title": "Row escalates in Ukraine over army chief's future",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:33:15.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "fc5832577d2e3377347c",
-      "title": "Trump administration sought phone records of New York Times journalists and their relatives",
-      "url": "https://www.theguardian.com/media/2026/jul/21/trump-phone-records-new-york-times-journalists",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:31:41.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "e315e9e68dae311f5ec6",
-      "title": "How a 64-team World Cup could transform football’s economics",
-      "url": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:03:39.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "c07f4e2d25ff378443d8",
-      "title": "New US homeownership measure puts people first",
-      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-      "source": "minneapolisfed.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T12:03:14.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "00b1b3c36fb8b14bd917",
-      "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:02:47.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "ba46faf91c9abaca4ed8",
-      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T12:00:56.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "d96458b0ff30bc6305b2",
-      "title": "Thames Water investors offer ‘golden share’ in bid to head off nationalisation",
-      "url": "https://www.theguardian.com/business/2026/jul/21/thames-water-investors-golden-share-nationalisation-andy-burnham",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:55:45.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "acfd717ea24a79fb2616",
-      "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
-      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:51:37.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "1e20ee00db61b832eb7b",
-      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
-      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:45:30.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "c3cbac71d5e9bd36541d",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:42:41.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "9f0390255f624db660b2",
-      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
-      "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:40:53.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "eedb2d9ef42e950dc552",
-      "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:32:47.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "a31a43305a55e3b6cf9c",
-      "title": "What the EU wants from Andy Burnham",
-      "url": "https://www.theguardian.com/politics/2026/jul/21/eu-dilemmas-facing-burnham-food-exports-youth-mobility-starmer-europe",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:31:25.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "7dbfef5b40d71c6ce864",
-      "title": "Hamas’s new leader must bridge a movement divided over Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:24:05.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "1ae728e2558abdd14ae5",
-      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
-      "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:21:47.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "c0605f8529d77ced077e",
-      "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:12:41.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "0690bd67e24b1edcec6a",
-      "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
-      "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:11:59.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "733c64c4359fd9e5df81",
-      "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
-      "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:10:02.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "b1c4b8a2d9da3bba5593",
-      "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
-      "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:00:44.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "14eb92dfd40f4d0079f0",
-      "title": "Andy Burnham’s first Labour cabinet: who’s in and who’s out?",
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T11:00:28.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "ea2afd6e1015d4dde053",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T10:43:48.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "bcd10ce38cc4f4ec0bf3",
-      "title": "Trump imposes 50% tariffs on Canadian goods",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T10:31:34.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "d5ec39b75d506174712f",
-      "title": "How soccer brings a Bhutanese community together in Harrisburg, Pa.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T10:30:00.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
-    },
-    {
-      "id": "777cac1adc558f1e52c2",
-      "title": "The best economic ideas from around the world — Planet Money Summer School is back",
-      "url": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T10:30:00.000Z",
-      "discoveredAt": "2026-07-21T14:16:25.624Z"
+      "discoveredAt": "2026-07-21T16:04:51.570Z"
     }
   ]
 }
