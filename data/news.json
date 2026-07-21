@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T16:04:51.570Z",
+  "generatedAt": "2026-07-21T17:41:16.295Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,136 @@
   ],
   "stories": [
     {
-      "id": "ea2afd6e1015d4dde053",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "id": "c3cbac71d5e9bd36541d",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T16:03:22.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "publishedAt": "2026-07-21T17:33:22.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "6ef253c7bd3c6d758ec5",
+      "title": "Where will LeBron James go next? NBA star ‘not rushed’ to make a decision",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/where-will-lebron-james-go-next-nba-star-not-rushed-to-make-a-decision?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:31:57.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "e974250514e979106a25",
+      "title": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/lebanons-goal-to-end-hostilities-with-israel-forever-says-president?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:30:32.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "325d104d384dfadca4e0",
+      "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
+      "url": "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:27:45.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "f177221b71545cf91139",
+      "title": "Salah to Besiktas? Football’s transfer window centre stage after World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/salah-to-besiktas-footballs-transfer-window-centre-stage-after-world-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:23:04.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "690d7d247f17a076bc81",
+      "title": "Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf",
+      "url": "https://github.com/matheuzgomes/decoreba",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T17:22:17.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "ec081c97803bf51842ef",
+      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:21:51.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "930ee57e7a5698c82d99",
-      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+      "title": "‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T15:58:59.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "publishedAt": "2026-07-21T17:19:57.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "97f103daa15aeb9dd3db",
+      "title": "Greek-American tourists stabbed near the Acropolis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/greek-american-tourists-stabbed-near-the-acropolis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:14:53.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "993efc41679b6b41dbbd",
+      "title": "An embattled coal terminal could be a lifeline for US coal",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/an-embattled-coal-terminal-could-be-a-lifeline-for-us-coal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:06:36.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "362fb9905d9baca02009",
+      "title": "Convicted killer denies murdering two friends whose remains were found near his Cornwall cabin",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/convicted-killer-denies-murdering-two-friends-cornwall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:04:33.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "98acef3eb1cadab80e79",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "source": "ai.meta.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T17:03:18.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "2939ae708f8c7bf8cdb9",
@@ -74,8 +184,184 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-21T15:56:40.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "publishedAt": "2026-07-21T17:01:40.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "c0218ad74cf1934fe2db",
+      "title": "Millions face long-term coastal flooding risk in UK without climate action, scientists warn",
+      "url": "https://www.theguardian.com/environment/2026/jul/21/millions-long-term-coastal-flooding-risk-uk-climate-action",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T17:00:51.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "18ae872949db6043dada",
+      "title": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
+      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:58:59.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "028c961b963c75c93bea",
+      "title": "Police detain Indian opposition leader Gandhi as protests continue to grow",
+      "url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:54:09.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "aaeb7e23666246906189",
+      "title": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
+      "url": "https://www.aljazeera.com/news/2026/7/21/civilians-faced-attacks-abuse-in-joint-us-ecuador-operations-hrw-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:53:24.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "8af2fb8a5d64c613ed24",
+      "title": "External review finds no wrongdoing in Gates Foundation–Epstein links",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/external-review-finds-no-wrongdoing-in-gates-foundation-epstein?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:46:06.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "e34be3dfb7c37dac79e9",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:44:30.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "0477def7235f7424a709",
+      "title": "Former Met police chief admits force failed to properly control spycops unit",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/former-met-police-commissioner-paul-condon-spycops-inquiry",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:41:06.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "df6a18a467869837a427",
+      "title": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
+      "url": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:31:35.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "93cbc97ddb73d4d35ed9",
+      "title": "Godzilla v Kong actor Kaylee Hottle dies aged 18",
+      "url": "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:17:49.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "62637fd5d7559480058f",
+      "title": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-appeals-court-overturns-ruling-that-freed-columbia-activist-mahdawi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:16:40.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "a0dee7314c702ee77257",
+      "title": "India’s Cockroach movement protesters show no sign of backing down",
+      "url": "https://www.theguardian.com/world/2026/jul/21/india-cockroach-movement-protesters-delhi",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:13:04.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "c8022a5b0c6cc7802622",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:10:56.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "94ac362a6484d0de0f08",
+      "title": "The World's 2,400 Castles",
+      "url": "https://thecastlemap.com/",
+      "source": "thecastlemap.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T16:05:58.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "ea2afd6e1015d4dde053",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T16:03:22.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "6c128a25ae054fd215c8",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "source": "postquantum.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-21T16:02:04.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
+    },
+    {
+      "id": "2ef95e6de3826d0dc433",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-21T15:57:29.000Z",
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "77d802c4220138ae56e4",
@@ -86,40 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T15:54:13.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "b943ffbb70f6b013fbaf",
-      "title": "Israeli air strike in Gaza City kills family of six, medics say",
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
       "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:54:11.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "ec081c97803bf51842ef",
-      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T15:50:23.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "bc2a8b567ff51ae912dc",
-      "title": "NPM's release cooldown is security theater",
-      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
-      "source": "blog.outv.im",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T15:46:18.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "fef466fdb1a5911ab52a",
@@ -130,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T15:44:59.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "492867901f90c039896b",
@@ -141,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T15:44:19.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "ab0b00aa97f0335598bc",
@@ -152,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T15:41:51.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "cb7f1648e5addf653369",
@@ -163,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:39:35.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "0de6b7856fa253a02c9c",
@@ -174,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T15:32:50.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "360db55376f8aecfffee",
@@ -185,40 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:23:31.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "491528a03a20e6ef4271",
-      "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
-      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
-      "source": "ft.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T15:22:33.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "f271354cc1232db93dce",
-      "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
-      "url": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
-      "source": "themarshallproject.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T15:21:02.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "74063e19cb869d83e87b",
-      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
-      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-      "source": "404media.co",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T15:19:44.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "09b59cb95c871d718795",
@@ -229,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T15:17:16.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "f3ef597322988c665459",
@@ -240,18 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:10:35.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "8fcb45feb81bbceb3596",
-      "title": "Abandoned monkey found in laundry bag on London bus",
-      "url": "https://www.theguardian.com/world/2026/jul/21/monkey-marmoset-abandoned-london-bus-primate-licences",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T15:05:31.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "d3a6ebf57eefb10fe482",
@@ -262,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:01:36.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "17fcd1f6496073c607ed",
@@ -273,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:00:51.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "84963f4576f83cb96ce8",
@@ -284,29 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T15:00:50.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "461174f5b90fa51cb255",
-      "title": "Milky Way flipped in collision with dwarf galaxy 10bn years ago, astronomers say",
-      "url": "https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T15:00:48.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "ef207189765a5ef7d3da",
-      "title": "Claude Is Not a Compiler",
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "source": "blog.exe.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T14:49:18.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "6007b834be2ecc6ef5e2",
@@ -317,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T14:42:21.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "566c1ac31f3cf6220891",
@@ -328,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T14:37:47.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "b8777b356d34a5d4e1f1",
@@ -339,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-21T14:31:41.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "edb4196dfb203f5dea71",
@@ -350,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-21T14:31:15.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "2f048674f5eb2e697b4c",
@@ -361,18 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T14:08:59.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "b84005e42d1e40f288fc",
-      "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - as it happened",
-      "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T14:07:21.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     },
     {
       "id": "6c8b91eb1ed6f971b1bf",
@@ -383,194 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-21T14:06:44.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "386cbe47f69ad5ef0e35",
-      "title": "‘Sit down!’: Australian MP yells at dog then snaps at presenter in live interview",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/australia-one-nation-mp-barnaby-joyce-dog-interview-pauline-hanson",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T14:05:31.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "eb70174e3f4089cf7668",
-      "title": "Black lands, Mexican bands: how a southern rural family built a Latino cultural hub",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/north-carolina-mexican-music-latino-culture",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T14:00:48.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "3303ec7237f7e1cd46df",
-      "title": "Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/trumps-hiv-funding-cuts-having-severe-and-devastating-impact-around-the-world",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T14:00:47.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "433bd69f6c185ee20ded",
-      "title": "PCjs Machines",
-      "url": "https://www.pcjs.org/",
-      "source": "pcjs.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-21T13:48:35.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "019923da2f3f712348f9",
-      "title": "Fourth person dies in New York City legionnaires’ disease outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/deaths-legionnaires-outbreak-new-york",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:46:28.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "1aaaa3aff3cdc083a2ed",
-      "title": "Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter",
-      "url": "https://www.theguardian.com/world/2026/jul/21/denmark-advice-tourists-wolf-encounter",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:45:02.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "34e26087194e14e5c831",
-      "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-      "url": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:43:48.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "a6dddd7407729999e7e5",
-      "title": "What does a heatwave cost?",
-      "url": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:42:38.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "8daef305f80826e51833",
-      "title": "Clashes between police and people protesting Italy arrest death",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:36:46.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "7c5bcacd7e766030bc6f",
-      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:33:35.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "00a6ca1f4564620eb1fd",
-      "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
-      "url": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:32:04.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "1d09ba3408bffc032375",
-      "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:26:40.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "1e6fe99c104916355529",
-      "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:25:37.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "6192e37686dc89e164f1",
-      "title": "Bodycam shows Florida student tased and arrested by campus police",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:17:04.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "86aa9bbda4a17245a8db",
-      "title": "Tropical Storm Bertha strengthens as Gulf coast braces for flooding and surge",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/storm-bertha-gulf-mexico",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:07:35.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "c10dbfef15b375c0737d",
-      "title": "Watch Texas police officer pull man from burning car",
-      "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:01:09.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
-    },
-    {
-      "id": "b33331a860a6eaf46cc4",
-      "title": "The best games of 2026 so far, picked by NPR's staff",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "discoveredAt": "2026-07-21T16:04:51.570Z"
+      "discoveredAt": "2026-07-21T17:41:16.295Z"
     }
   ]
 }
