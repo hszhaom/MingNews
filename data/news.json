@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T04:28:20.548Z",
+  "generatedAt": "2026-07-22T07:16:32.866Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 36,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,300 @@
   "stories": [
     {
       "id": "34386d4c63c3a1198eed",
-      "title": "Australia news live: Brittany Higgins accuses Hanson of victim-blaming in ‘atrocious’ comments on domestic violence",
+      "title": "Australia news live: Origin Energy investigating potential data breach that could affect millions",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-22T04:07:32.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "publishedAt": "2026-07-22T06:59:43.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "cbbeba07edd4f6ae05ac",
+      "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:46:46.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "8cea86a5600a92b9a0b0",
+      "title": "Mamdani urges US government to arrest Netanyahu if Israeli PM visits US",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:41:51.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "3fa88c370754d265aa5f",
+      "title": "Burnham announces bus fares across England to be capped at £2",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/22/burnham-announces-bus-fares-across-england-to-be-capped-at-2",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:14:47.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "b215438ea6afbb40fc27",
+      "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
+      "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:13:11.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "071cfb77b48d2e76a073",
+      "title": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:04:29.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "c3dced00dca0c9361897",
+      "title": "UK inflation falls by more than expected to 2.6% in lift for Andy Burnham",
+      "url": "https://www.theguardian.com/business/2026/jul/22/uk-inflation-falls-andy-burnham-cost-of-living-plans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:01:49.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "7424b126a9b2cb812057",
+      "title": "Meat multinational faces legal challenge over green credentials of $6bn global expansion plan",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:00:09.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "8c1b7af22480a79f27a1",
+      "title": "How could Britain look under proportional representation? See the results for your area",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jul/22/how-britain-would-look-proportional-representation-local-mp",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T06:00:07.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "38050d5dc29c997d96ee",
+      "title": "People with secret ‘safe phones’ advised to turn off devices during national test of AusAlert emergency warning",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/people-with-secret-safe-phones-advised-to-turn-off-devices-during-national-test-of-ausalert-emergency-warning",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:54:00.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "59d998ea917fa98dc61a",
+      "title": "Brittany Higgins accuses Pauline Hanson of victim-blaming for calling domestic violence a ‘two-way street’",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/brittany-higgins-pauline-hanson-domestic-violence-comments-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:53:13.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "1fda5a58f9302aa87db4",
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "url": "https://www.readkinetic.com/app/",
+      "source": "readkinetic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T05:49:51.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "d1bef76b67e5af2c7055",
+      "title": "French lawmakers approve a sweeping social media ban for children under 15",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:46:50.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "809e940fb02710249542",
+      "title": "Wednesday briefing: How Trump’s Iran gamble has produced a crisis reshaping the global order",
+      "url": "https://www.theguardian.com/world/2026/jul/22/wednesday-briefing-how-trumps-iran-gamble-has-produced-a-crisis-reshaping-the-global-order",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:45:49.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "ea7940b70de06cc0399a",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:37:43.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "d82410dfa87f06900671",
+      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:33:04.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "1085becfd22b9f4decf6",
+      "title": "Goats of football: Indian village holds tournament with an indigenous twist",
+      "url": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:19:05.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "775092580f2ba7dd0286",
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T05:18:08.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "d2650f74b453ec90bba0",
+      "title": "Alleged rape victim ‘could have done a lot better’ if she had made up claims against well-connected Melbourne man, court told",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/well-connected-melbourne-man-alleged-rape-court-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:07:54.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "7696ad278c550924b7ff",
+      "title": "Meet the women breaking world records in lumberjack sports",
+      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:06:35.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "0f326cfa345681a88ebd",
+      "title": "US expands strikes on 11th straight night of attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:05:25.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "054a685b4733724da005",
+      "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:02:51.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "228b0a287acd07bd6621",
+      "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
+      "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:00:07.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "c8f9e22486a04850d24f",
+      "title": "Lack of defibrillators could put 16m at risk of death by cardiac arrest in England and Wales",
+      "url": "https://www.theguardian.com/society/2026/jul/22/lack-defibrillators-risk-dying-of-cardiac-arrest-england-wales",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T05:00:06.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "9fd8b483b0c8a2fd8e16",
+      "title": "Rebel Wilson wins defamation case brought by co-star after bitter dispute",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T04:50:03.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "d9a7f7dde7871e23ac10",
+      "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T04:47:35.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "94992b82c602b36217bc",
+      "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T04:07:58.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "63936aded0327d85b63b",
@@ -64,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T04:01:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "cdbe95a22cd40c52b580",
@@ -75,337 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T04:00:06.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "8019dd1a7bd5eefc4583",
-      "title": "Inside Chicago Criminal Investigation lab , IRS investigators helping catch culprits across the globe",
-      "url": "https://abc7chicago.com/post/inside-chicago-criminal-investigation-lab-irs-investigators-helping-catch-culprits-globe/19553628/",
-      "source": "abc7chicago.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "7331d12bcb02eb2b04c7",
-      "title": "SunLive - Record funds boost rescue chopper - The Bay News First",
-      "url": "https://www.sunlive.co.nz/news/383411-record-funds-boost-rescue-chopper.html",
-      "source": "sunlive.co.nz",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "149946ebd755b4af6ba8",
-      "title": "Fatal Shed Fire At Nambour",
-      "url": "https://www.miragenews.com/fatal-shed-fire-at-nambour-1714174/",
-      "source": "miragenews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "c45d9ee46790bf96299e",
-      "title": "Concerns cloud national emergency alert system rollout",
-      "url": "https://www.ulladullatimes.com.au/story/9315557/concerns-cloud-national-emergency-alert-system-rollout/",
-      "source": "ulladullatimes.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "3c0bc0767624bc8e7ba4",
-      "title": "How Many More Years Must I Wait ? | Asian Pacific Post | Chinese newspaper - Vancouver , Richmond , Calgary , Edmonton , Winnipeg , Toronto , North York , Montreal",
-      "url": "https://asianpacificpost.com/article/10670-%e2%80%9chow-many-more-years-must-i-wait%e2%80%9d.html",
-      "source": "asianpacificpost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "7a42ccd394f6505df5e5",
-      "title": "Dr . KB Chun & Sons Blood Drive",
-      "url": "https://1027dabomb.net/kb-chuns-sons-blood-drive/",
-      "source": "1027dabomb.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "42b83a60703aaed2cf0a",
-      "title": "Dixon Dern Dead : Attorney For CAA , TV Academy , CBS & Desilu , Was 97",
-      "url": "https://deadline.com/2026/07/dixon-dern-dead-entertainment-attorney-1236999762/",
-      "source": "deadline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "be1be65b5bab63f9c382",
-      "title": "Tornado and flash flood alerts",
-      "url": "https://www.wsaz.com/2026/07/22/tornado-flash-flood-alerts/",
-      "source": "wsaz.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "ed4de03160966c1d05ba",
-      "title": "Mamdani Thought Banning Sewer Repairs Worked UNTIL FLOODS WRECKED NYC",
-      "url": "https://www.alipac.us/f13/mamdani-thought-banning-sewer-repairs-worked-until-floods-wrecked-nyc-%7C-cash-jordan-440455/",
-      "source": "alipac.us",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "8287befd83f28b5aa697",
-      "title": "LOCUS - T Wins Four Honours at A+M Agency of the Year Awards 2026",
-      "url": "https://www.thailand-business-news.com/pr-news/locus-t-wins-four-honours-at-am-agency-of-the-year-awards-2026",
-      "source": "thailand-business-news.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "63e9d091fff0d595466c",
-      "title": "Christopher Luxon Calls Out NZ First Stuart Nash On Sexist Comment",
-      "url": "https://www.scoop.co.nz/stories/PO2607/S00143/cnmi-pushes-back-against-us-birthright-citizenship-bill.htm",
-      "source": "scoop.co.nz",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "24b6adddfa6457152472",
-      "title": "Australian Market Slightly Higher",
-      "url": "https://www.rttnews.com/story.aspx?Id=3669009",
-      "source": "rttnews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "842cbce4e6ba12d788d7",
-      "title": "Mountain View Elem Archives - Gilmer",
-      "url": "https://gilmer.fetchyournews.com/category/bobcats-corner/mountain-view-elem/",
-      "source": "gilmer.fetchyournews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "2a32db28a6a799c84e32",
-      "title": "OpenAI confirms AI models triggered hack at startup",
-      "url": "https://www.bendigoadvertiser.com.au/story/9315509/openai-confirms-ai-models-triggered-hack-at-startup/",
-      "source": "bendigoadvertiser.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "b281e3bd225bab20a2d5",
-      "title": "Not a chance in hell that B . C . is putting U . S . liquor back on shelves : Eby",
-      "url": "https://hopestandard.com/2026/07/21/not-a-chance-in-hell-that-b-c-is-putting-u-s-liquor-back-on-shelves-eby/",
-      "source": "hopestandard.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "b3d6a9c6c012c60deead",
-      "title": "MoS Jitendra Singh , Health Minister JP Nadda visit Medanta hospital in Gurugram to enquire about health of Sonam Wangchuk : Sources",
-      "url": "https://news.webindia123.com/news/Articles/India/20260722/4477639.html",
-      "source": "news.webindia123.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "b123bb4186cf7c9963f3",
-      "title": "New study : Up to 5 cups of coffee a day may lower risk of heart disease , Type 2 diabetes",
-      "url": "https://www.valleynewslive.com/2026/07/22/new-study-up-5-cups-coffee-day-may-lower-risk-heart-disease-type-2-diabetes/",
-      "source": "valleynewslive.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "a5c52828e84a5dc6a4da",
-      "title": "After 10 years of covering the trans madness , here what I learned",
-      "url": "https://news.crossmap.com/2026/07/21/after-10-years-of-covering-the-trans-madness-here-s-what-i-learned/",
-      "source": "news.crossmap.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "bc8dcb4e4ef0705ac59f",
-      "title": "The Lucky Link Charm Bar Launches Ready - to - Wear Website , Bringing Effortless Everyday Luxury Nationwide",
-      "url": "http://www.saltlakecitysun.com/news/279202359/the-lucky-link-charm-bar-launches-ready-to-wear-website-bringing-effortless-everyday-luxury-nationwide",
-      "source": "saltlakecitysun.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "e94d7b8ba0c18e748502",
-      "title": "2026 - 07 - 21 | Levi & Korsinsky Urges GRAIL ( GRAL ) Shareholders to Act Before Lead Plaintiff Deadline August 4 , 2026 | NDAQ : GRAL",
-      "url": "https://stockhouse.com/news/press-releases/2026/07/21/levi-korsinsky-urges-grail-gral-shareholders-to-act-before-lead-plaintiff",
-      "source": "stockhouse.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "e07e18ad5ad884882a0b",
-      "title": "PM hails Labor evolution as members push for change",
-      "url": "https://www.katherinetimes.com.au/story/9315251/pm-hails-labor-evolution-as-members-push-for-change/",
-      "source": "katherinetimes.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "f4ca534d9e16802288c8",
-      "title": "Guillermo Ochoa retires at 41 , closing a 22 - year career for club and country",
-      "url": "http://www.sitkasentinel.com/stories/guillermo-ochoa-retires-at-41-closing-a-22-year-career-for-club-and-country,157971",
-      "source": "sitkasentinel.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "c5f5fc80179bd323c378",
-      "title": "Man accused of setting off incendiary device at federal building denied bail",
-      "url": "https://abc7ny.com/post/man-accused-setting-off-incendiary-device-federal-building-denied-bail/19552995/",
-      "source": "abc7ny.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "cdf0a1cce535d546cdd3",
-      "title": "US Booze Boycott is Backfiring on Canada | Asian Pacific Post | Chinese newspaper - Vancouver , Richmond , Calgary , Edmonton , Winnipeg , Toronto , North York , Montreal",
-      "url": "https://asianpacificpost.com/article/10673-us-booze-boycott-backfiring-canada.html",
-      "source": "asianpacificpost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "baa7546f5e0eaec0072e",
-      "title": "WITN First Alert Investigates : What is Michael Whatley connection to sex offender Harvey West Jr .",
-      "url": "https://www.witn.com/2026/07/21/witn-first-alert-investigates-what-is-michael-whatleys-connection-sex-offender-harvey-west-jr/",
-      "source": "witn.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "16d137d5fa30c1377d94",
-      "title": "Mature woman says wrinkles are gone after buying Molly - Mae - approved £26 cream",
-      "url": "https://www.derbytelegraph.co.uk/whats-on/shopping/tatcha-dewy-skin-face-cream-11069904",
-      "source": "derbytelegraph.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "37c1e5d4fcd467b98ffe",
-      "title": "Model From Uzbekistan Says Epstein Sexually Abused Her While Wearing an Ankle Monitor and With an Officer Next Door",
-      "url": "https://jp.ibtimes.com/model-uzbekistan-says-epstein-sexually-abused-her-while-wearing-ankle-monitor-officer-next-102881",
-      "source": "jp.ibtimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "131486b5206add2b6e02",
-      "title": "Carl Sagan Schools Dennis Prager",
-      "url": "https://crooksandliars.com/2026/07/carl-sagan-schools-dennis-prager",
-      "source": "crooksandliars.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "bb29ef7eb300c7c3a8d1",
-      "title": "Japanese woman becomes country first mayor to take maternity leave",
-      "url": "http://www.japanherald.com/news/279199446/first-sitting-japanese-mayor-takes-maternity-leave-makes-history",
-      "source": "japanherald.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
-    },
-    {
-      "id": "b46a23f984ebf5b39849",
-      "title": "Disney cuts hundreds more jobs in cost - control efforts",
-      "url": "http://www.californiatelegraph.com/news/279202389/disney-cuts-hundreds-more-jobs-in-cost-control-efforts",
-      "source": "californiatelegraph.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-22T04:00:00.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "04707ec65c4a7940ed79",
@@ -416,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:50:55.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "09febe2d8cc708655cff",
@@ -427,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:48:04.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "ad5e63bf192d2b3593a3",
@@ -438,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T03:46:11.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "ca64ab59b61c07a2fd0f",
@@ -449,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T03:45:36.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "390d614034ccc23fac97",
@@ -460,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T03:34:11.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "2827ae80c99e501ff41c",
@@ -471,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:32:56.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "96625eeaa1db96364f4b",
@@ -482,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:17:10.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "ec081c97803bf51842ef",
@@ -493,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:09:47.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "1987bd9eac60c395f831",
@@ -504,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:05:34.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "580a55f080eb3be2152a",
@@ -515,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T03:05:08.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "1d541e4c1846404fe985",
@@ -526,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T02:39:13.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "7e90bb83adf33fe0ff93",
@@ -537,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T02:36:55.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "0cb444fa6f3586e15659",
@@ -548,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T02:33:11.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "8079455599c0f05b2220",
@@ -559,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-22T02:32:30.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     },
     {
       "id": "acbcf008badd929369c7",
@@ -570,7 +526,51 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T02:31:39.000Z",
-      "discoveredAt": "2026-07-22T04:28:20.548Z"
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "0b02d463da4d87e1aa7a",
+      "title": "US targets China in move to ban military-grade drone imports",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T02:21:57.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "0a795ee4ac740b4ec305",
+      "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T02:20:15.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "9c9c0cd7dcea309562b6",
+      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T02:15:05.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
+    },
+    {
+      "id": "401d620cacf837c47ae8",
+      "title": "US military identifies third service member killed in Iranian attack on Jordan base",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/us-military-third-service-member-jordan-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T02:10:30.000Z",
+      "discoveredAt": "2026-07-22T07:16:32.866Z"
     }
   ]
 }
