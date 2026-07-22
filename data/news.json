@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T19:39:37.287Z",
+  "generatedAt": "2026-07-22T21:18:16.964Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,213 @@
   ],
   "stories": [
     {
+      "id": "f70c19d3008e81f3fefb",
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "source": "yummymelon.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T21:15:26.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "608b2b5eb604fd8b365a",
+      "title": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:14:35.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
       "id": "cbbeba07edd4f6ae05ac",
-      "title": "Iran’s military reportedly warns of expanded war after Trump’s threats to destroy nation’s infrastructure – Middle East crisis live",
+      "title": "Iran warns of ‘eye for an eye’ response if US follows through on Trump’s threats to destroy infrastructure – Middle East crisis live",
       "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-22T19:24:48.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "publishedAt": "2026-07-22T21:12:22.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "5ee832406805c199cc86",
+      "title": "House Republicans to write $95bn bill to fund Iran war and aid farmers",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/iran-war-funding-bill",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:08:45.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "7d53fb46d11fa5888e3c",
+      "title": "Trump trade envoy grilled about ‘tariff spree’ and price rises for Americans in Senate hearing – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:05:19.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "c2da9c930eb507215516",
+      "title": "Three-year-old bitten by snake ‘hiding under’ Amazon package in California",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/california-toddler-snake-bite-amazon-package",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:01:48.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "9980e1de9b6567f378af",
+      "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:01:24.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "b965f8215405a0753b33",
+      "title": "House passes $1.5tn defense bill despite standoff over Israel and Trump’s voter agenda",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T21:00:28.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "bc571d12f546f3f31ef9",
+      "title": "Safari Technology Preview 248 Released",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "source": "webkit.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T21:00:26.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "24b0ff0e42f03f5435f9",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:56:26.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "4d4a2babbe9a49a37989",
+      "title": "US regulators to weigh controversial peptides backed by RFK Jr",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:39:14.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "ab306690ccc13954d981",
+      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:34:56.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "adff176fe2381d81c22f",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "source": "citizendot.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T20:33:44.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "125d71890da6993c810d",
+      "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:20:57.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "17d731a6822ffdf5a383",
+      "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
+      "url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:07:35.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "5508bf234a1d3d545e3d",
+      "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:06:31.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "5525408d35630b95b28b",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T20:05:31.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "7f114b821c0a7ff28187",
+      "title": "Gaza man returns home after family believed he was dead",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T19:59:42.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "2dca3e93e2d4693299ce",
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-22T19:22:19.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "b4bc06da9fbe2f51b466",
@@ -64,18 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T19:09:30.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "7d53fb46d11fa5888e3c",
-      "title": "Trump trade envoy grilled about ‘tariff spree’ and price rises for Americans in Senate hearing – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T19:03:55.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "34dfc16fe11108aa60e3",
@@ -86,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T19:03:08.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "6e1edc01f2f65fb41a3f",
@@ -97,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T19:02:27.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "580a55f080eb3be2152a",
@@ -108,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T18:57:46.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "956878dc389710ede442",
@@ -119,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T18:57:06.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "e29f6e557ce33965dc74",
@@ -130,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T18:43:51.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "7521a7a45841dc09fbd5",
@@ -141,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T18:40:49.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "4e95fe7304cfb22ce30c",
@@ -152,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T18:36:39.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "2adb9fd862b6a695a7f8",
@@ -163,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T18:31:16.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "64abb369357e38a6f3d8",
@@ -174,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T18:28:18.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "92a3a179a36b817b6bd0",
@@ -185,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T18:27:13.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "cb51e4c808b1ed13c32f",
@@ -196,18 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T18:21:55.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "d28426c0dce3ef263920",
-      "title": "Prosecutors argue D4vd had financial motivation to kill Celeste Rivas Hernandez",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/d4vd-murder-case-financial-motivation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T18:09:01.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "194831a8e1af76ea97bd",
@@ -218,7 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T18:01:18.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "9a84b1d452d5ee87a98a",
@@ -229,18 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T18:00:52.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "ee67a465e0e58cae0b34",
-      "title": "Charles Gaines, whose book Pumping Iron helped to popularize bodybuilding, dies at 84",
-      "url": "https://www.theguardian.com/books/2026/jul/22/charles-gaines-pumping-iron-author-arnold-schwarzenegger",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T17:58:19.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "97ab8fe9162eab812914",
@@ -251,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T17:54:58.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "ce6346a44ea1b6089055",
@@ -262,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T17:54:57.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "edb9884c0bcf8fecb5bf",
@@ -273,29 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-22T17:48:18.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "83e1d61a91ec3c1809ec",
-      "title": "Man killed in ICE ‘encounter’ was on vacation in US with tourist visa – reports",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/man-killed-ice-florida-tourist-visa",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T17:40:21.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "6bd64dd60dd16610dcaf",
-      "title": "Trump’s war on Iran is unpopular and expensive. He’s perfectly OK with that",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-iran-war-unpopular-expensive",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T17:37:32.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "73e3d0a549528c30d8fd",
@@ -306,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T17:35:37.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "27235bb17fc8c0138765",
@@ -317,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T17:33:15.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "3c187b67b93c075884c4",
@@ -328,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-22T17:30:40.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "520cf72deab7b47abea6",
@@ -339,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-22T17:20:38.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "b835098abfd8bc084160",
@@ -350,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T17:18:14.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "2f44a69f2a4903215985",
@@ -361,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-22T17:17:54.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "afb746b1c33acbb82446",
@@ -372,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T17:11:19.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "cf46beee6b8a12c9eba4",
@@ -383,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T17:07:36.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "225bffd4da2a25f3592b",
@@ -394,7 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T17:02:50.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
+    },
+    {
+      "id": "b815fe2f379fb941b6c9",
+      "title": "Watch: Louvre reopens gallery after jewellery heist",
+      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T16:54:33.000Z",
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "94389a26036c67a25227",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T16:35:33.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     },
     {
       "id": "eca5db6521010f1e910e",
@@ -416,161 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T16:35:02.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "88254002dceb025d5ca8",
-      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T16:34:35.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "f75201c11ce1b994dadb",
-      "title": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T16:34:24.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "a933ce96dc7c8d294b25",
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "url": "https://unlayer.com/",
-      "source": "unlayer.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T16:02:03.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "ee22676632fdb009456b",
-      "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:52:54.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "004598cb3a6748103a58",
-      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:50:17.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "94623d53a6e4cfd866a9",
-      "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:49:20.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "4437044ed67053ba1616",
-      "title": "Proposed US-Saudi nuclear energy deal: What we know so far",
-      "url": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:46:56.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "32e514f425621c058abc",
-      "title": "Does creatine make you smarter?",
-      "url": "https://dynomight.net/creatine/",
-      "source": "dynomight.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T15:45:18.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "bae4c08c414404ec736f",
-      "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:41:39.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "615e4b1c10d23f1ce2c5",
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "source": "cruciblebench.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T15:39:01.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "baa5f86a2656e35c385b",
-      "title": "Why are billionaires growing richer than ever?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/22/why-are-billionaires-growing-richer-than-ever?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:38:26.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "bfa4445cd127c14ad4aa",
-      "title": "From towns to zones: Why Israel gives military names to civilian areas",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/from-towns-to-zones-why-israel-gives-military-names-to-civilian-areas?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:36:51.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "e0247ad0502dc99cefa1",
-      "title": "France records more than 5,700 excess deaths during June heatwave",
-      "url": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T15:34:27.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
-    },
-    {
-      "id": "4b363fbff104372c4c12",
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "source": "beej.us",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T15:33:48.000Z",
-      "discoveredAt": "2026-07-22T19:39:37.287Z"
+      "discoveredAt": "2026-07-22T21:18:16.964Z"
     }
   ]
 }
