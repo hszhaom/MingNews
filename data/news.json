@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T10:04:16.214Z",
+  "generatedAt": "2026-07-22T12:00:15.372Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,270 @@
   ],
   "stories": [
     {
+      "id": "cbbeba07edd4f6ae05ac",
+      "title": "US renews strikes on Iran as Tehran claims no nuclear activity at site threatened by Trump – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:45:02.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "7d53fb46d11fa5888e3c",
+      "title": "Trump ally pledges to ‘work with people’ he disagrees with after Arizona primary win – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:44:03.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "16f44241e8d00218e4d9",
+      "title": "Burnham to review early prisoner release scheme amid anger over potential freeing of PC Harper’s killers – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/22/andy-burnham-labour-government-bus-fares-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:43:32.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "7b58ce6cea550887b07d",
+      "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:40:08.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "4760e8543bedcb94f956",
+      "title": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
+      "url": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:39:49.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "cb51e4c808b1ed13c32f",
+      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:38:21.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "94623d53a6e4cfd866a9",
+      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:36:14.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "001e9f69ac17647ae6a1",
+      "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:32:11.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "73613045cfb4de77bd31",
+      "title": "Why are thousands protesting for education reform in India?",
+      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:30:59.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "b892c02f3d4f44d43dc2",
+      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:24:22.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "f328133d8a80ab208867",
+      "title": "Syrian people must not be failed again",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:23:43.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "6ffe6815c28111eb3d8a",
+      "title": "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:20:01.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "b8887e771c4986eb052a",
+      "title": "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
+      "url": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:18:44.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "0a9745e138edcb445dcc",
+      "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:05:39.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "02931b13cfb60d55a7ed",
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:04:43.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "a244d2bc66d24f210248",
+      "title": "Austria turns Adolf Hitler’s birthplace into police station",
+      "url": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T11:02:42.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "c9d52e90bd14e28b019d",
+      "title": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:53:53.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "3c47b40297f43d3d708c",
+      "title": "Graphic evidence shown as D4vd murder hearing begins",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/graphic-evidence-shown-as-d4vd-murder-hearing-begins?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:51:41.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "cd3e7d7b5b7edb152850",
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:46:01.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "448b6695190fa54bd628",
+      "title": "Mahmood and Streeting accused of making ‘cheap jokes’ about prisoner early release scheme",
+      "url": "https://www.theguardian.com/law/2026/jul/22/streeting-mahmood-accused-cheap-jokes-prisoner-early-release-scheme",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:37:16.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "c70dbb7ead8afc11b92e",
+      "title": "Lloyd’s of London says ex-boss’s ‘close relationship’ breached compliance rules",
+      "url": "https://www.theguardian.com/business/2026/jul/22/lloyds-of-london-says-ex-boss-broke-compliance-rules-with-close-relationship",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:32:13.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "55d1fd2b5a1020a54644",
+      "title": "Ukraine hits more warehouses of top Russian online retailer",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:22:06.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "580a55f080eb3be2152a",
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:15:03.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
+      "id": "1987bd9eac60c395f831",
+      "title": "Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests",
+      "url": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-22T10:04:40.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
+    },
+    {
       "id": "9026f22e8151fe54a155",
       "title": "‘Our hearts are crushed’: Hannah Rapp’s violent death sparks outpouring of grief",
       "url": "https://www.theguardian.com/us-news/2026/jul/22/boxer-hannah-rapp-death-community-grief",
@@ -53,18 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T10:00:14.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "7b58ce6cea550887b07d",
-      "title": "Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and nuclear arsenal",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T10:00:13.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "601cbf5e7d75c4da1f9e",
@@ -75,51 +328,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T10:00:04.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
-      "id": "16f44241e8d00218e4d9",
-      "title": "Transport secretary ‘100% sure’ new cap on bus fares in England is fully funded – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/22/andy-burnham-labour-government-bus-fares-uk-politics-latest-news-updates",
-      "source": "The Guardian",
+      "id": "005ec246f7363760b3ff",
+      "title": "America’s decades-old bipartisan consensus on Israel has been shattered",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-22T09:57:26.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "7d53fb46d11fa5888e3c",
-      "title": "Trump ally pledges to ‘work with people’ he disagrees with after Arizona primary win – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T09:52:04.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "94623d53a6e4cfd866a9",
-      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T09:41:48.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "cbbeba07edd4f6ae05ac",
-      "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T09:39:32.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "publishedAt": "2026-07-22T09:45:35.000Z",
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "5a24050d133d64394cec",
@@ -130,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T09:30:59.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "58dd40c72b48087ae9f7",
@@ -141,29 +361,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T09:30:08.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "24195eba15d77c225f35",
-      "title": "Michelin-starred restaurant owner in South Korea faces jail for serving ants in dessert",
+      "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
       "url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T09:26:09.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "f93ed7a34717ab7d76ba",
-      "title": "Tropical Storm Bertha makes landfall but damage appears limited",
+      "title": "Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited",
       "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T09:15:35.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "d03fefb86093c628516f",
@@ -174,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T09:07:04.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "a65e9e370e2133b0b9f4",
@@ -185,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T09:00:12.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "489ae42c32dad206c0b2",
@@ -196,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T09:00:00.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "be44d8a89df527889e23",
@@ -207,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T09:00:00.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "7cb4e9d4c4114b83a830",
@@ -218,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T09:00:00.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "25b49a9158680c841182",
@@ -229,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T08:59:55.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "4b09d4878020558a9c3b",
@@ -240,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T08:43:26.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "e2ed6420ed89cdba862b",
@@ -251,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T08:39:12.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "32a9c8941dc9ab3750c5",
@@ -262,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T08:38:59.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "a42897ec76e89509012c",
@@ -273,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T08:38:21.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "bf78756cc83269ee5704",
@@ -284,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T08:37:47.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "90c1816f9e6d33050ffb",
@@ -295,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-22T08:33:21.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "34386d4c63c3a1198eed",
@@ -306,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-22T08:31:47.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "969d300b8106d6516002",
@@ -317,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T08:08:08.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "625b3ed2880a186e226f",
@@ -328,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-22T08:02:04.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "856daf19f0d9dbbe42c8",
@@ -339,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T08:01:29.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     },
     {
       "id": "dc983e701c95b32410ca",
@@ -350,227 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-22T07:56:15.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "3fa88c370754d265aa5f",
-      "title": "Burnham announces bus fares across England to be capped at £2",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/22/burnham-announces-bus-fares-across-england-to-be-capped-at-2",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:45:30.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "1987bd9eac60c395f831",
-      "title": "India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi",
-      "url": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:36:38.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "2be72643d46a7028fe94",
-      "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:35:26.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "d5f5b37ed25faac01671",
-      "title": "Air defences activate in Iran and flames rise from US attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:28:29.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "f897f7c62420faa5f14a",
-      "title": "Algeria: Toxic colonisation",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:23:42.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "006077e5f189f097f37c",
-      "title": "India opposition leader Gandhi freed after detention at student-led protest",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:20:38.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "06e5da12a121a1c81556",
-      "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:10:36.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "a2c4020349f35d138b6c",
-      "title": "Japan temperatures soar over 40C, marking first 'cruelly hot day'",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T07:00:24.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "8cea86a5600a92b9a0b0",
-      "title": "Mamdani urges US government to arrest Netanyahu if Israeli PM visits US",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:41:51.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "b215438ea6afbb40fc27",
-      "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
-      "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:13:11.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "071cfb77b48d2e76a073",
-      "title": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:04:29.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "c3dced00dca0c9361897",
-      "title": "UK inflation falls by more than expected to 2.6% in lift for Andy Burnham",
-      "url": "https://www.theguardian.com/business/2026/jul/22/uk-inflation-falls-andy-burnham-cost-of-living-plans",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:01:49.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "7424b126a9b2cb812057",
-      "title": "​World’s largest meat company faces legal challenge over green credentials of $6bn global expansion",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:00:09.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "8c1b7af22480a79f27a1",
-      "title": "How could Britain look under proportional representation? See the results for your area",
-      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jul/22/how-britain-would-look-proportional-representation-local-mp",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T06:00:07.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "38050d5dc29c997d96ee",
-      "title": "People with secret ‘safe phones’ advised to turn off devices during national test of AusAlert emergency warning",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/people-with-secret-safe-phones-advised-to-turn-off-devices-during-national-test-of-ausalert-emergency-warning",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T05:54:00.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "59d998ea917fa98dc61a",
-      "title": "Brittany Higgins accuses Pauline Hanson of victim-blaming for calling domestic violence a ‘two-way street’",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/brittany-higgins-pauline-hanson-domestic-violence-comments-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T05:53:13.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "1fda5a58f9302aa87db4",
-      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-      "url": "https://www.readkinetic.com/app/",
-      "source": "readkinetic.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T05:49:51.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "d1bef76b67e5af2c7055",
-      "title": "French lawmakers approve a sweeping social media ban for children under 15",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-22T05:46:50.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "809e940fb02710249542",
-      "title": "Wednesday briefing: How Trump’s Iran gamble has produced a crisis reshaping the global order",
-      "url": "https://www.theguardian.com/world/2026/jul/22/wednesday-briefing-how-trumps-iran-gamble-has-produced-a-crisis-reshaping-the-global-order",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-22T05:45:49.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
-    },
-    {
-      "id": "eef2cfa31772ca03dc92",
-      "title": "Show HN: A new kind of FPS aim trainer",
-      "url": "https://openaim.pramit.gg/",
-      "source": "openaim.pramit.gg",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-22T05:39:31.000Z",
-      "discoveredAt": "2026-07-22T10:04:16.214Z"
+      "discoveredAt": "2026-07-22T12:00:15.372Z"
     }
   ]
 }
