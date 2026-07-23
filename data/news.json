@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T17:03:12.952Z",
+  "generatedAt": "2026-07-23T18:20:37.844Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,270 @@
   ],
   "stories": [
     {
+      "id": "fd58b4b6f5570f78099d",
+      "title": "Kemi Badenoch ‘has to adapt’ her rhetoric to take on Andy Burnham",
+      "url": "https://www.theguardian.com/politics/2026/jul/23/kemi-badenoch-has-to-adapt-her-rhetoric-to-take-on-andy-burnham",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T18:14:51.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "ea8e6e730108f77f8b93",
+      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
+      "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T18:07:09.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "72f484e3da40885043e2",
+      "title": "White House says if Saudi Arabia does not join Abraham accords, nuclear deal ‘is off’ – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:59:52.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "df260d3fae7e3c7aa648",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:58:02.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "9ee4b43add236d71acc2",
+      "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
+      "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:52:11.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "a667c1ab6e0ae0433953",
+      "title": "Secret Service agent on Vance’s detail under investigation",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:52:02.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "952b31933eb3bca0b3b2",
+      "title": "Southport killer Axel Rudakubana moved to Broadmoor psychiatric hospital",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/southport-killer-moved-from-prison-to-psychiatric-hospital",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:51:41.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "e18b6e61f672d8f913ba",
+      "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:44:55.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "28a2451254126b10564d",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:37:59.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "4a3ba88e18788a8547c4",
+      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:35:02.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "3a9af066bb074444c616",
+      "title": "Minnesota man sentenced to life for killing Democratic lawmaker Melissa Hortman",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/melissa-hortman-killing-life-sentence-vance-boelter",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:32:21.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "7ede30c68a046a00b5d5",
+      "title": "What are the security implications of the US-Saudi nuclear deal?",
+      "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:27:57.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "4ff230f0fff0195c2b5f",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:25:10.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "3e7a3e6b685e79cbf2b6",
+      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:25:05.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "7feb902096cfc4361e26",
+      "title": "The Hegseth budget: defense secretary’s $1.5tn ask reveals military-industrial chaos",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/hegseth-us-military-budget",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:17:46.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "e0e6805b8a0d6f528c77",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:06:08.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "435e9f7403042e7ec30e",
+      "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:05:18.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "22752bc68e9d447c5352",
+      "title": "Business rates cut for pubs, clubs and music venues in England only ‘a small move’, say critics",
+      "url": "https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:02:35.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "490091e8756410e0ea69",
+      "title": "A Game of Double Standards",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T17:02:21.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "f55351b15cc26a9c64f6",
+      "title": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T16:58:58.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "49d35b36a874986ee6a2",
+      "title": "Trump says he is close to decision on largest-yet attack on Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T16:58:25.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "df3e02f8a53dc6547809",
+      "title": "Trump administration to unveil latest stage of aggressive trade policy",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-23T16:53:42.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "28a4a92e485ca565b2e9",
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "stephenfollows.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-23T16:53:33.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "ec93d9d8789d159fe17d",
+      "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-23T16:53:21.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
       "id": "8ddff3cf786102ecc3cd",
       "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
@@ -53,7 +317,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:50:59.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
+    },
+    {
+      "id": "288155c4fa17e1977e85",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "source": "tombedor.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-23T16:49:57.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "3f69097f6d0706214509",
@@ -64,18 +339,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-23T16:48:38.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
-      "id": "8b583dc036bc109d8ae9",
-      "title": "Burnham pauses early prisoner release scheme due to start in September – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates",
+      "id": "c27ddd78730a42aa95d5",
+      "title": "‘Customers prefer AI chatbots,’ says British Gas owner as 1,300 call centre jobs axed",
+      "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-23T16:43:09.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "publishedAt": "2026-07-23T16:45:56.000Z",
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "48341115cd021e32fa49",
@@ -86,18 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:41:52.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "e18b6e61f672d8f913ba",
-      "title": "Trump considering ‘massive attack’ on Iran, says report – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:40:48.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "b17c6d5f2c1462eee106",
@@ -108,18 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:36:51.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "72f484e3da40885043e2",
-      "title": "House passes war powers resolution again in pushback over Iran war as $1.15tn defense bill faces uphill Senate battle – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:34:06.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "e7620d6dfe290e602964",
@@ -130,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:32:53.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "235ebcf19ae13dc3a19a",
@@ -141,40 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:26:49.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "0abf0dab47fc3489c59f",
-      "title": "5.0-magnitude earthquake strikes Texas panhandle",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/earthquake-texas",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:25:31.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "873fce287c07928cd933",
-      "title": "Mission to ‘eradicate scourge of drowning’ after deaths surge across England",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/vanessa-absess-mother-joe-drowned-boy-naivety-open-water-swimming-england-drowning-strategy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:23:22.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "df260d3fae7e3c7aa648",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:17:44.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "e08f8f371de4ee98d6f2",
@@ -185,40 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T16:17:44.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "ef462b7a885a06077c06",
-      "title": "Teacher and daughter die after trying to help boy, seven, on Essex beach",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/teenage-girl-and-woman-die-essex-west-mersea-beach",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:15:10.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "4dd86e9388ba81bbcc60",
-      "title": "Tropical Storm Bertha heads for Texas after Louisiana landfall",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/tropical-storm-bertha-texas-louisiana",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:14:35.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "9ee4b43add236d71acc2",
-      "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
-      "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:13:24.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "2d80d05097bb3b5a7a3a",
@@ -229,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:13:00.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "94b9ccc11fe3edfd6bca",
@@ -240,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T16:12:43.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "c8a3f8b9a6ba8adbaf02",
@@ -251,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T16:08:54.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "82c7e1113d0ce2350564",
@@ -262,18 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T16:07:24.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "e91ae4e168302a33404e",
-      "title": "At least two people missing in West Virginia after torrential rain caused flash floods",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/national-guard-west-virginia-flash-floods",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T16:06:19.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "c3fed3ff8044b95239c7",
@@ -284,29 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-23T16:01:02.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "a147527c9e358a5b8bc2",
-      "title": "Trump seizes on New Jersey election error to boost misleading fraud claims",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/new-jersey-noncitizen-republicans-election-fraud",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T15:59:37.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "f9e0520b4d3236f20531",
-      "title": "Ex-BBC journalist awarded £20,000 after MI5 and PSNI unlawfully accessed phone data",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/journalist-mi5-psni-unlawful-access-phone-data",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T15:56:51.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "7c810fc46bad2525a325",
@@ -317,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T15:54:41.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "99ba3b58b382022f885b",
@@ -328,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T15:53:45.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "47fdd3559c821ce5091d",
@@ -339,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T15:52:58.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "060adbe5be256c11b4b4",
@@ -350,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-23T15:45:51.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "aca7847db12030b3da7a",
@@ -361,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-23T15:42:40.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "959e529d47f71fdcc945",
@@ -372,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T15:36:58.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "ac464b19d889d0d66b5d",
@@ -383,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T15:31:00.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "b55af0c17a6df5e0f26a",
@@ -394,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-23T15:28:17.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "ee5ec1f3c2134e5c51a4",
@@ -405,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-23T15:28:10.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     },
     {
       "id": "79d36a405546e58b7707",
@@ -416,161 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-23T15:22:06.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "5b3b2271e75b1abb2155",
-      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "source": "politico.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T15:18:40.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "a2a7e4d4b5b6397e0c33",
-      "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T15:11:37.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "25b6a02b96a5884f010a",
-      "title": "Pauline Hanson blames ‘fake news’ media for her bad press. But serious leaders have to own their actions",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T15:00:47.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "07e1c2c55e9163d80f64",
-      "title": "Murdoch and Musk in the crosshairs at Venice film festival",
-      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T14:58:18.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "44831ece540fce3aaf4c",
-      "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
-      "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-23T14:57:42.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "24a812f88dc4a9731332",
-      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-23T14:56:47.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "8012c32a9ba98c19446c",
-      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-      "source": "papers.ssrn.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:55:45.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "89ff16ffa9c8131a7ced",
-      "title": "Learn WebGPU for C++",
-      "url": "https://eliemichel.github.io/LearnWebGPU/",
-      "source": "eliemichel.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:55:32.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "ed5083ceebbf84f4387a",
-      "title": "Kuwait-Iraq border crossing hit in drone attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-23T14:53:56.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "97cafa1a61399e38e024",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "source": "learnopengl.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:53:34.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "06f782202860fd40d7ab",
-      "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
-      "url": "https://yamafaktory.github.io/whetuu/",
-      "source": "yamafaktory.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:37:54.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "535cd8b10bb26abbfd79",
-      "title": "Israeli security minister joins Jewish extremists as they storm al-Aqsa mosque compound",
-      "url": "https://www.theguardian.com/world/2026/jul/23/israel-security-minister-itamar-ben-gvir-jewish-extremists-storm-al-aqsa-mosque-compound-jerusalem",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-23T14:33:12.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "d42f10020f969a4d25e6",
-      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
-      "url": "https://github.com/h3nock/remux",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:31:26.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
-    },
-    {
-      "id": "529f64350b431b354df9",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "source": "nealstephenson.substack.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-23T14:24:43.000Z",
-      "discoveredAt": "2026-07-23T17:03:12.952Z"
+      "discoveredAt": "2026-07-23T18:20:37.844Z"
     }
   ]
 }
