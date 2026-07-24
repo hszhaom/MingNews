@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T15:41:46.835Z",
+  "generatedAt": "2026-07-24T17:46:45.161Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 37,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,193 @@
   ],
   "stories": [
     {
+      "id": "48b016e475ab72d7f75f",
+      "title": "Five officers injured as police boat strikes Westminster Bridge",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/24/five-police-officers-injured-boat-strikes-westminster-bridge",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:29:23.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "5adeeae589cac9124a52",
+      "title": "Woman charged in Ireland after police intercept ‘highly sophisticated’ bomb",
+      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:28:32.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "a16f35f2d2aacb60b9a2",
+      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:20:09.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "f2187161ecdd49c903c1",
+      "title": "11 people indicted over deaths of six people in cargo container in Texas",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/texas-migrant-deaths-indictment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:16:22.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "6ca2df88f73d86ff18c5",
+      "title": "Iran’s much improved missile systems pose a real threat to the US",
+      "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:13:36.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "f456c6779d55e0844fe5",
+      "title": "Reform councillors told to call donations inquiry ‘establishment stitch-up’",
+      "url": "https://www.theguardian.com/politics/2026/jul/24/reform-councillors-told-to-describe-donations-inquiry-as-establishment-stitch-up",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:12:59.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "f79c9322d6f548b96d75",
+      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:10:19.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "03dbebaf986713e66086",
+      "title": "Water bosses’ pay rises despite bonus ban and public fury over bills and pollution",
+      "url": "https://www.theguardian.com/business/2026/jul/24/water-bosses-pay-rises-bonus-ban-sewage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:09:50.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "094634b85b8d6f56756e",
+      "title": "Trump’s new tariffs ‘a sales tax that will make life harder for Americans’, say Democrats – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T17:07:03.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "e961e540833434aff6fc",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/claude-opus-5-system-card",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:57:41.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "795c19bdad54a94b9e04",
+      "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
+      "url": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:54:02.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "61c12ab922247686b6a4",
+      "title": "Romanian jet fighter shoots down suspected Russian drone",
+      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:53:55.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "b528cf10ba2a27343965",
+      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "url": "https://openjdk.org/jeps/541",
+      "source": "openjdk.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:52:33.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "bf685ead4bbc0c58dc20",
+      "title": "Parts of England under heat alert with 30C temperatures possible",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/24/parts-of-england-under-heat-alert-with-30c-possible",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:52:31.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "0bc727769697403479fd",
+      "title": "US records 2,318 measles cases, already surpassing 2025 total",
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:52:21.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "ffe6efaac93429d0db7f",
+      "title": "Online Historical Encyclopaedia of Programming Languages",
+      "url": "https://hopl.info/",
+      "source": "hopl.info",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:47:23.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "fd7e73ce7b8e430a067c",
+      "title": "The rise and fall of language diversity through the Holocene",
+      "url": "https://www.science.org/doi/10.1126/science.adx4343",
+      "source": "science.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:40:49.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
       "id": "89d97ede1c62ef4393c6",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
@@ -52,19 +239,173 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-24T15:36:18.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "publishedAt": "2026-07-24T16:37:17.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
-      "id": "0107619168ab74e8d60f",
-      "title": "You need to let the AI cook",
-      "url": "https://www.ivan.codes/blog/let-it-cook",
-      "source": "ivan.codes",
+      "id": "d90ac5ab01e065ba2c6e",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "theguardian.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-07-24T15:30:18.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "publishedAt": "2026-07-24T16:33:31.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "0d1dd6cea893cec3eac8",
+      "title": "Proving a Human Wrote Something",
+      "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
+      "source": "gjtorikian.online",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:33:26.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "7170884ecc012a7c6c48",
+      "title": "Unitree As2-W",
+      "url": "https://www.unitree.com/As2-W/",
+      "source": "unitree.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:32:52.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "cf7d434d51ed4d8f571b",
+      "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:32:35.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "b6445422e8e07ce66814",
+      "title": "Plus-size models and £5 tickets: Sinéad O’Dwyer’s runway show puts inclusivity first",
+      "url": "https://www.theguardian.com/fashion/2026/jul/24/plus-size-models-sinead-odwyer-runway-show-inclusive-fashion",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:31:42.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "0cf3c4ea0025c374634a",
+      "title": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs",
+      "url": "https://www.aljazeera.com/news/2026/7/24/extremely-disappointing-us-trade-partners-respond-to-trumps-new-tariffs?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:30:20.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "c9803fab0c3a9b0412ff",
+      "title": "Micro-SaaS Is Dead. Service With A Software Replaces It",
+      "url": "https://adriengonin.com/writing/service-with-a-software/",
+      "source": "adriengonin.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T16:27:58.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "cafac68b260c4c8df9aa",
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:12:34.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "535fbbac1663c853211d",
+      "title": "Yemen’s valleys and farms are full of dangerous plastic waste",
+      "url": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:10:27.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "f5333ca276472de7270b",
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:08:51.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "30f6483cf80d94a4d64f",
+      "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+      "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:07:17.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "c84cb4c95b54b72398f7",
+      "title": "Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:04:38.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "5fcf6f74614cbef9d105",
+      "title": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:04:17.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "ca1f795e303cf0cd75b3",
+      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T16:01:18.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "0e1af6057fd1d49a11f8",
+      "title": "More than 80,000 people flee as wildfires spread in south-west France and Spain",
+      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T15:33:03.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "8b7fd495b3b7696e7fb3",
@@ -75,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:28:37.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "5fa1be3616f72da8be66",
@@ -86,29 +427,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T15:27:35.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
-      "id": "a16f35f2d2aacb60b9a2",
-      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:27:14.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "094634b85b8d6f56756e",
-      "title": "Trump’s new tariffs ‘a sales tax that will make life harder for Americans’, say Democrats – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:24:08.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "id": "0333909c1d9ae2eb21de",
+      "title": "The front end framework for correctness: built on Effect, architected like Elm",
+      "url": "https://foldkit.dev/",
+      "source": "foldkit.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T15:24:00.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "99ac2af4f315094aefbc",
@@ -119,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:22:56.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "9a8a1f7bd82d227a52de",
@@ -130,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:22:40.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "7e16141b9391f392de94",
@@ -141,326 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T15:16:33.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "25a4169a42bc876f53b8",
-      "title": "Aaron Dessner Explains the Story Behind Gracie Abram Death Wish | ALWAYS Q98",
-      "url": "https://www.q98fm.com/2026/07/24/aaron-dessner-explains-the-story-behind-gracie-abrams-death-wish/",
-      "source": "q98fm.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "a2684366429eafb9fbeb",
-      "title": "Christopher Nolan Just Broke an IMDb Record",
-      "url": "https://khak.com/ixp/442/p/christopher-nolan-imdb-record/",
-      "source": "khak.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "cd2d719b0f6254a22843",
-      "title": "Shannons Big 3 : Police pursuit ends as man dives off bridge into Table Rock Lake",
-      "url": "https://www.koamnewsnow.com/news/local-news/shannons-big-3-police-pursuit-ends-as-man-dives-off-bridge-into-table-rock-lake/article_1ea0e82d-b24e-45db-b89a-a35e7c4c3913.html",
-      "source": "koamnewsnow.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "2b285968f4fdea9e50e5",
-      "title": "Manchester Airport passengers issued Turkey travel warning",
-      "url": "https://www.theboltonnews.co.uk/news/26406832.manchester-airport-passengers-issued-turkey-travel-warning/",
-      "source": "theboltonnews.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "5c61b152fddba430a6ee",
-      "title": "HDB resale price growth to remain muted in months ahead : Analysts",
-      "url": "https://www.channelnewsasia.com/watch/hdb-resale-price-growth-remain-muted-in-months-ahead-analysts-6276661",
-      "source": "channelnewsasia.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "397a93e1228c7840f725",
-      "title": "Parliamentary panel recommends phased expansion of national food security act coverage , SMART - PDS rollout",
-      "url": "http://www.oklahomastar.com/news/279207343/parliamentary-panel-recommends-phased-expansion-of-national-food-security-act-coverage-smart-pds-rollout",
-      "source": "oklahomastar.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "ce2821977e03b4446866",
-      "title": "No body camera footage after fatal Madison police shooting reignites debate",
-      "url": "https://abc3340.com/news/nation-world/no-body-camera-footage-after-fatal-madison-wisconsin-police-shooting-corey-ruiz-reignites-debate-evidence-chief-john-patterson-mayor-satya-rhodes-conway",
-      "source": "abc3340.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "f776c88d0af50e129f4c",
-      "title": "House once marked for flames now protected as NOTL heritage",
-      "url": "https://www.niagarafallsreview.ca/news/canada/house-once-marked-for-flames-now-protected-as-notl-heritage/article_2af5cf7b-4d9d-5123-8bbf-20f53c47ce98.html",
-      "source": "niagarafallsreview.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "31a1b0c4e5a1e50ab0a4",
-      "title": "Lucid Air Grand Touring has impressive speed and range | Automotive Car Reviews #",
-      "url": "https://communitynewspapers.com/kendallgazette/lucid-air-grand-touring-has-impressive-speed-and-range-2/",
-      "source": "communitynewspapers.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "5eaab123018c3cb8a54a",
-      "title": "Manhattan subway rider , 19 , attacked by stranger in argument over cellphone recording",
-      "url": "https://www.nydailynews.com/2026/07/24/manhattan-subway-rider-19-attacked-by-stranger-in-argument-over-cellphone-recording/",
-      "source": "nydailynews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "3879390d96ecd7f2a08d",
-      "title": "Around the Room : Is Overeating Really Treating Yourself ? | 93 . 9 KISS FM",
-      "url": "https://kisslima.iheart.com/featured/elvis-duran/content/2026-07-24-1014-elvis-duran-and-the-morni-around-the-room-is-overeating-really-treatin/",
-      "source": "kisslima.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "780659474281a09c148f",
-      "title": "Smoke from Cairngorms wildfire drifts as far as Aberdeen",
-      "url": "https://www.yourlocalguardian.co.uk/news/national/26407973.smoke-cairngorms-wildfire-drifts-far-aberdeen/",
-      "source": "yourlocalguardian.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "9f25d326915384a4ee41",
-      "title": "Tottenham give green light for wantaway star to leave after Roberto De Zerbi decision",
-      "url": "https://www.aol.co.uk/articles/tottenham-green-light-wantaway-star-142723000.html",
-      "source": "aol.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "539fc0eca2ac78c799c3",
-      "title": "Southport killer manipulating the system – lawyer for bereaved families",
-      "url": "https://www.theargus.co.uk/news/national/26406303.southport-killer-manipulating-system---lawyer-bereaved-families/",
-      "source": "theargus.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "19a4611139e2b404d51a",
-      "title": "Trump to Attend Rescheduled White House Correspondent Dinner ; US Imposes Forced Labor Tariffs",
-      "url": "https://www.theepochtimes.com/epochtv/trump-to-attend-rescheduled-white-house-correspondents-dinner-u-s-imposes-forced-labor-tariffs-6066923",
-      "source": "theepochtimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "8d2a3c01c9a08adbead9",
-      "title": "Sainsbury says fresh herbs will last longer if stored with 1 common ingredient",
-      "url": "https://www.aol.co.uk/articles/sainsburys-says-fresh-herbs-last-142100000.html",
-      "source": "aol.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "4636a3e196621f3db7ac",
-      "title": "14 New Rock + Metal Tours Announced This Past Week",
-      "url": "https://987jack.com/ixp/366/p/new-rock-metal-tours-announced-july-17-23-2026/",
-      "source": "987jack.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "063d772a862868c3aa0a",
-      "title": "Abovyan says Armenia enters political persecution era",
-      "url": "https://www.panarmenian.net/eng/news/335348/",
-      "source": "panarmenian.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "4f1788fb1e53b381749e",
-      "title": "How Much Could a $5 , 000 Investment in SpaceX Be Worth By 2030 ? Here Why This Industrial Stock May Be a Better Buy Today .",
-      "url": "https://www.fool.com/investing/2026/07/24/how-much-could-a-5000-investment-in-spacex-be-wort/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "37363619687b69386224",
-      "title": "Higher Images Helps Pittsburgh Businesses Connect Digital Marketing Channels to Drive Measurable Growth",
-      "url": "https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/higher-images-helps-pittsburgh-businesses-connect-digital-marketing-channels-to-drive-measurable-growth/2391156",
-      "source": "manilatimes.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "4fa00b3fda95c8a46b82",
-      "title": "Dragon Den star vitamins business bought by US firm Bain",
-      "url": "https://www.kilburntimes.co.uk/news/national/26408100.dragons-den-stars-vitamins-business-bought-us-firm-bain/",
-      "source": "kilburntimes.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "553e12b13e0012b47c28",
-      "title": "Billie J . ( Cottle ) Cooper Obituary | 1930 - 2026",
-      "url": "https://obituaries.niagara-gazette.com/obituary/billie-cottle-cooper-1093924551",
-      "source": "obituaries.niagara-gazette.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "6386ea5c4be0205f1a52",
-      "title": "Thailand finance ministry upgrades 2026 growth outlook to 2 . 5 pct",
-      "url": "http://www.nepalnational.com/news/279207246/thailand-finance-ministry-upgrades-2026-growth-outlook-to-25-pct",
-      "source": "nepalnational.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "26dc40cb8835e8790254",
-      "title": "Tesla Per - Car Profit Fell Another 8 % Last Quarter , and I Fear This May Be the New Norm",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-per-car-profit-fell-142500122.html",
-      "source": "finance.yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "39398171c21fc6d1b0c4",
-      "title": "Canandaigua votes to issue $18 . 8 million in bonds for wastewater plant work",
-      "url": "https://www.fltimes.com/news/canandaigua-votes-to-issue-18-8-million-in-bonds-for-wastewater-plant-work/article_344b5746-867a-4807-a334-51e0f47ab8c0.html",
-      "source": "fltimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "0e50d9c00a393a63d17b",
-      "title": "Two Crashes Shut Down I - 94 In Racine County",
-      "url": "https://www.wlip.com/two-crashes-shut-down-i-94-in-racine-county/",
-      "source": "wlip.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "85da388299418d33b2b4",
-      "title": "Gianni Infantino private thoughts World Cup final player behaviour revealed",
-      "url": "https://www.aol.co.uk/articles/gianni-infantinos-private-thoughts-world-143847000.html",
-      "source": "aol.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "7ff07da63c99204854e4",
-      "title": "DC Singh develops new super app that combines 10 different functions",
-      "url": "https://www.heraldscotland.com/life_style/26407821.dc-singhs-develops-new-super-app-combines-10-different-functions/",
-      "source": "heraldscotland.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "be63c2bfac7e05dc4e9d",
-      "title": "Alabama leaders join thousands mourning Will Roberts",
-      "url": "https://yellowhammernews.com/alabama-leaders-join-thousands-mourning-will-roberts/",
-      "source": "yellowhammernews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:15:00.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "429e5a4288164ee30930",
@@ -471,29 +482,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:13:46.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "95a1ac134810481218c6",
-      "title": "From high heels to ‘Zara death pants’: how fashion falls foul of women’s safety",
-      "url": "https://www.theguardian.com/society/2026/jul/24/from-high-heels-to-zara-death-pants-how-fashion-falls-foul-of-womens-safety",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T15:12:16.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "0abb29a02d77ae46b2c9",
-      "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
+      "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:09:33.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "14ba0c0a7714c16c4f13",
@@ -504,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:06:55.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "7c73fd0b23c181f70655",
@@ -515,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:03:20.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "77e11ab99853e82c6bce",
@@ -526,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:02:19.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "1aeae14198262707015a",
@@ -537,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:00:19.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
       "id": "6a47c0de452a9973ef0d",
@@ -548,29 +548,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T15:00:16.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     },
     {
-      "id": "dfc37fb319c016aec4b4",
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T14:59:24.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
-    },
-    {
-      "id": "f56b1c29fdc3d8856f8b",
-      "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
-      "url": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
+      "id": "befd9e209f7bb9dddb8d",
+      "title": "How dangerous are wildfires and how can we stop them from getting worse?",
+      "url": "https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-24T14:51:39.000Z",
-      "discoveredAt": "2026-07-24T15:41:46.835Z"
+      "publishedAt": "2026-07-24T14:47:43.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
+    },
+    {
+      "id": "b421806248eeab679d48",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "source": "thehindu.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T14:41:59.000Z",
+      "discoveredAt": "2026-07-24T17:46:45.161Z"
     }
   ]
 }
