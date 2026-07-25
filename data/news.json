@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T16:28:29.613Z",
+  "generatedAt": "2026-07-25T17:35:58.094Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,94 @@
   ],
   "stories": [
     {
+      "id": "91748d9393172a659eaa",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-25T17:25:11.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "835c3ca8b1e484841102",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-25T17:13:40.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "6cc557c022f0d7d1c44d",
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-25T17:07:36.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "32a028df4d103abad75b",
+      "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
+      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-25T16:50:14.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "67d5f4c1949713c83450",
+      "title": "Rauno's Field Notes #2",
+      "url": "https://rauno.me/notes/2",
+      "source": "rauno.me",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-25T16:39:55.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "7a0bca31b021a995d0bc",
+      "title": "Iran’s government spars with state TV as mediators push talks with US",
+      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-25T16:39:16.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "23e13e51e1afee2e995b",
+      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-25T16:36:48.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "6296ea1cffbbcf987e58",
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-25T16:23:17.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
       "id": "e3e58fbf205c2e697f14",
       "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
       "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
@@ -53,7 +141,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-25T16:09:58.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "a858a96bf67fc2d5f2f5",
+      "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-25T16:02:40.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "e6d6adeb246c0c60ff0f",
@@ -64,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T16:00:46.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "ed66361db66589eddd78",
@@ -75,18 +174,29 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-25T15:55:27.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
-      "id": "6cc557c022f0d7d1c44d",
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "source": "The Guardian",
+      "id": "8d94cc4091b87bd9b6de",
+      "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
+      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-25T15:50:48.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "publishedAt": "2026-07-25T15:53:53.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "c604037b6e5a4e3e81fc",
+      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-25T15:52:19.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "2199caba780db4fa9476",
@@ -97,18 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T15:49:53.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "3f74a223ed4ebe7c01a3",
-      "title": "The whole premise of checking for human writing is daft",
-      "url": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
-      "source": "mohammedshehu.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-25T15:46:11.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "0560022cdc3778364506",
@@ -119,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T15:44:09.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "f68624df57dde7df1d08",
@@ -130,29 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T15:18:33.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "dc4312034b3527a0bdd7",
-      "title": "Engineering management after the cost of code collapsed",
-      "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-      "source": "karimjedda.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-25T15:10:51.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "6296ea1cffbbcf987e58",
-      "title": "More than 250,000 people flee wildfires in France and Spain",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T14:50:23.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "2ab711a0f92f16cd0b5e",
@@ -163,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-25T14:49:49.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "30e78720f3a25628ecd2",
@@ -174,7 +251,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-25T14:48:22.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "8b46831a149a41823dcc",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T14:45:58.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "74a08ba19f76d7fdd815",
@@ -196,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T14:33:23.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "b938f3bd603cfcda3301",
@@ -207,7 +284,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T14:20:21.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
+    },
+    {
+      "id": "f7e9936feb4b6ee29b92",
+      "title": "Scanwheel is a drum style mechanical television you can build yourself",
+      "url": "https://github.com/AncientJames/Scanwheel/",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-25T14:10:43.000Z",
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "28730ebf166b5be0f782",
@@ -218,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T14:04:43.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "5866894cb60683c6a018",
@@ -229,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:54:33.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "4f9af5527eb17f1b0520",
@@ -240,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:51:07.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "f4ceb7b0270a7e770932",
@@ -251,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T13:49:12.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "e8927857d97587140be2",
@@ -262,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:44:01.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "131010c57e2efb9fab7f",
@@ -273,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:26:04.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "c6558d789370b19c2e59",
@@ -284,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:22:13.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "8efbc95d8012b9e67471",
@@ -295,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-25T13:18:49.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "8d59d4d757d7a07fe816",
@@ -306,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T13:03:52.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "b8403ce195ecaa9594ba",
@@ -317,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T13:00:43.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "e711bbda8211f92d7675",
@@ -328,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:53:41.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "bf20d4a9467f88c5e248",
@@ -339,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:49:06.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "804722ca69a752f41379",
@@ -350,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:41:14.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "9493c9a36cda8340590a",
@@ -361,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:41:02.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "2ca8430241fa7f1823f1",
@@ -372,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:11:33.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "68cd3259e336672f2073",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T12:11:30.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "ee5769917a0c4dccdee4",
@@ -394,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-25T12:05:34.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "7d82030caa9530dabd5c",
@@ -405,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-25T12:00:00.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "b144d5299b4e78ce0629",
@@ -416,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-25T11:59:19.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "eb4e491353cf22d0d11e",
@@ -427,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-25T11:51:44.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "e7dc9bd0dfdb07ed5106",
@@ -438,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T11:30:00.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "541ed57970a23fcccb78",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T11:14:14.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "63f902467810595a3ff5",
@@ -460,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-25T11:09:05.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "235a8763bc79822d461f",
@@ -471,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-25T11:04:57.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     },
     {
       "id": "02b6b9c9f5304f9c0967",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-25T11:00:40.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "eac49c982343cef90dfe",
-      "title": "Southport killer ‘trying to retraumatise families from cell’, says lawyer",
-      "url": "https://www.theguardian.com/law/2026/jul/25/southport-killer-axel-rudakubana-trying-to-retraumatise-families-from-cell-says-lawyer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T10:18:20.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "43368e7ff9d3125bfdae",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T10:14:41.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "0e35015c6143eee54948",
-      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T10:00:40.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "8210539ebe12d7c6dee6",
-      "title": "Lucy Harrison’s father was holding the gun that killed her but was never arrested. Now her mother wants Andy Burnham to take up the case",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T10:00:40.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "97ecd771dedaf752431a",
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-25T09:54:44.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "32a028df4d103abad75b",
-      "title": "Entire Cairngorms village evacuated as raging wildfire nears",
-      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T09:45:38.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "9e142f08fc66704cd0d2",
-      "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
-      "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-25T09:25:48.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
-    },
-    {
-      "id": "200c1584fb06eed8c612",
-      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-25T09:10:01.000Z",
-      "discoveredAt": "2026-07-25T16:28:29.613Z"
+      "discoveredAt": "2026-07-25T17:35:58.094Z"
     }
   ]
 }
