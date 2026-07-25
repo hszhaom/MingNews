@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T22:38:37.099Z",
+  "generatedAt": "2026-07-25T00:12:30.162Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "060bd7786efc8230bff6",
-      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
-      "source": "NPR News",
+      "id": "63572c6c73eb364989a1",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "npr-news",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-24T22:26:21.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "publishedAt": "2026-07-25T00:06:53.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "094634b85b8d6f56756e",
@@ -63,19 +63,151 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-24T22:24:36.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "publishedAt": "2026-07-24T23:57:43.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "71bc6c6656d8dceaf887",
+      "title": "White House says Trump to give ‘unifying yet vicious’ speech at rescheduled press gala",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:28:45.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "e0dc894f193b77c4e6f0",
+      "title": "Which matches and tournaments can football fans watch after the World Cup?",
+      "url": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:25:15.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "b28419e40a2c9212ad7b",
+      "title": "Singer D4vd had impregnated teenager he is accused of fatally stabbing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/celeste-rivas-hernandez-autopsy-d4vd",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:25:05.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "f1d38b5b39e0e7ecd318",
+      "title": "IOC rejects human rights group’s complaint against Trump ally Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/7/24/ioc-rejects-human-rights-groups-complaint-against-trump-ally-infantino?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:24:26.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "43368e7ff9d3125bfdae",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:11:13.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "6d5e2f53e963badfbf54",
+      "title": "Trump escalates Smithsonian attack with order for signs outside history museum",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:09:17.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "7d234f211f2921a99f7b",
+      "title": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:01:10.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "a81de5e0e47b98f5aded",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T23:01:06.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "89d97ede1c62ef4393c6",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-24T22:49:59.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "3ca07b9ffa5afa948c0c",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "url": "https://www.spacex.com/launches/starship-flight-13",
+      "source": "spacex.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T22:44:38.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "060bd7786efc8230bff6",
+      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-24T22:26:21.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
+    },
+    {
+      "id": "0cdc6113fbae11593610",
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org/",
+      "source": "rewardhacking.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-24T22:24:08.000Z",
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "0e1af6057fd1d49a11f8",
-      "title": "More than 180,000 people flee or lock down as wildfires sweep France and Spain",
+      "title": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
       "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T22:18:51.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "5adeeae589cac9124a52",
@@ -86,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T22:18:49.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "f2483e45145ebaf27b38",
@@ -97,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T21:50:56.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "b4cd856362e64ffa851e",
@@ -108,7 +240,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-24T21:50:41.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "de720e5f3a35aad2ca82",
@@ -119,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T21:47:16.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "495c7f2e430595a59a43",
@@ -130,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-24T21:37:37.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "ace0602c931a2019a7b0",
@@ -141,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T21:29:10.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "03a58882325ff6920d93",
@@ -152,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T21:27:45.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "1c25951e78b4ec9e6ce5",
@@ -163,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T21:26:05.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "8b8bb560611391dbf7a2",
@@ -174,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T21:24:38.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "8c334ea326184fb8bc86",
@@ -185,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T21:22:39.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "4296620dec9b0d65c339",
@@ -196,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T21:19:49.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "6c79f9bf93c26b16519f",
@@ -207,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T21:02:30.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "9774a8fe831542687ce9",
@@ -218,18 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:51:52.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "5fa1af67b94e04bc0e4a",
-      "title": "Chuck Russell, director of The Mask and The Blob, dies aged 74",
-      "url": "https://www.theguardian.com/film/2026/jul/24/chuck-russell-director-dead",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T20:51:21.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "23d6e23ac5caaaf3db5e",
@@ -240,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:51:13.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "0b97bc39ffbb18550bfb",
@@ -251,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:49:17.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "c1e60c672a09bf500499",
@@ -262,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:40:27.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "d9fd0333515479389c61",
@@ -273,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:32:12.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "052c21edef18e6c7e56c",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:27:16.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "58c30720e8f6077c54b9",
@@ -295,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T20:23:58.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "6aa5d82df55fa7facb34",
@@ -306,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:22:04.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "a5a6a9d8d319f55de52b",
@@ -317,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:18:03.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "b28419e40a2c9212ad7b",
-      "title": "Doctor details condition of Celeste Rivas Hernandez’s body in D4vd hearing",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/celeste-rivas-hernandez-autopsy-d4vd",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T20:10:26.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "69ff8a0232650c21418a",
@@ -339,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T20:03:04.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "010b7d7a4903728382b9",
@@ -350,18 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-24T20:00:00.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "4f8e4b8b4acdd1d3e561",
-      "title": "Georgia school shooter handed victims’ families ‘life sentence of trauma’, court hears",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/apalachee-school-shooter-sentencing-hearing",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T19:52:46.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "ca4de0894ddcdc56527b",
@@ -372,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-24T19:45:10.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "3c7a7ffebd8ae40ab831",
@@ -383,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T19:16:18.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "88f0de8f2d97e636efa8",
@@ -394,18 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-24T19:05:53.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "63572c6c73eb364989a1",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T18:51:17.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "2478ac0cc395697a34cc",
@@ -416,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T18:43:41.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "b6584e41821e53b3c8b4",
@@ -427,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T18:38:02.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "97901005c54de9dd4ecf",
@@ -438,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-24T18:37:10.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "f5f03db438d27c3577c2",
@@ -449,18 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T18:31:22.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "89d97ede1c62ef4393c6",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T18:19:23.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "ac29df7aa97c9f4daefe",
@@ -471,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T18:15:01.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "9a8a1f7bd82d227a52de",
@@ -482,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-24T18:13:02.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     },
     {
       "id": "cc77a512b698b02f225f",
@@ -493,84 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-24T18:11:26.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "7b2719ecbd0953e8b53b",
-      "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-24T18:01:18.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "7a0def7fc1380ab1b946",
-      "title": "Israel raids hospital, shuts off Nablus following deadly settler attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-24T17:59:43.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "d99bf1c0816853a59157",
-      "title": "Gsxui – Shadcn-style components for Go",
-      "url": "https://ui.gsxhq.dev/",
-      "source": "ui.gsxhq.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-24T17:59:08.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "f79c9322d6f548b96d75",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T17:58:22.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "41807496121498688aed",
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T17:58:00.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "48b016e475ab72d7f75f",
-      "title": "Five officers injured as police boat strikes Westminster Bridge",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/24/five-police-officers-injured-boat-strikes-westminster-bridge",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T17:29:23.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
-    },
-    {
-      "id": "a16f35f2d2aacb60b9a2",
-      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-24T17:20:09.000Z",
-      "discoveredAt": "2026-07-24T22:38:37.099Z"
+      "discoveredAt": "2026-07-25T00:12:30.162Z"
     }
   ]
 }
