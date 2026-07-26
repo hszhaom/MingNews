@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-26T19:24:27.583Z",
+  "generatedAt": "2026-07-26T20:32:31.039Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,94 @@
   ],
   "stories": [
     {
+      "id": "32a25dfb5ef2b7025763",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T20:23:18.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "e093374ddaad99f2c632",
+      "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T20:01:42.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "e34817d840af3062bcb7",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:31:58.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "77e21b48e605ec86c5df",
+      "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:27:57.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "f26c5fd52e683f302834",
+      "title": "46 people rescued from sunken ship in South China Sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:22:45.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "77176196f7cac664dedc",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:21:26.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "2810340861080776d362",
+      "title": "Cuban president accuses US of genocide, seeking takeover",
+      "url": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:16:29.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "8d9590827c179fb2f1a4",
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T19:13:02.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
       "id": "c145bc2c2530738e288e",
       "title": "Israeli settlers burn two mosques in occupied West Bank",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
@@ -53,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:51:34.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "a319aa82a5bf0b0497b1",
@@ -64,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:45:41.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "c230139366ea332d0b07",
@@ -75,18 +163,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:40:08.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "6b8f71f504680a58d425",
-      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "url": "https://github.com/hertz-ai/HARTOS",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T18:40:08.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "c305774920bf80665b80",
@@ -97,7 +174,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:35:36.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "4c1b6ef7face44a53c07",
@@ -108,18 +185,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:32:46.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "122c0228a48eab93ff92",
-      "title": "Decker",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
       "source": "beyondloom.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:23:06.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "bbdb86b46eb5bb62afca",
@@ -130,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:17:22.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "2d4be5a5b76578e2c8fc",
@@ -141,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-26T18:13:30.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "998127663a214307ad04",
@@ -152,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:11:16.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "491ebdc70d446ceb0165",
@@ -163,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:08:48.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "412ea85774adff38f544",
@@ -174,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:02:23.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "206dcc9496cb9b21008a",
@@ -185,29 +262,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:53:50.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "16a79b6dceedec3eac02",
-      "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
+      "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
       "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:51:37.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "32a25dfb5ef2b7025763",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T17:45:30.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "345bc5314eb1633e0b9c",
@@ -218,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:40:15.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "d3404bbf062bcf285272",
@@ -229,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T17:29:35.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "6f300d758004effd59de",
@@ -240,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:27:21.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "5f2f7ce7e444fddd1087",
@@ -251,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:19:10.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "83b344267650e9854c24",
@@ -262,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-26T17:16:06.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "27da16d3f211d6ccbbcb",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:13:55.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "0dbb12019f1c8c263823",
@@ -284,7 +350,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:00:16.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "baaca6b0543abb6622ba",
+      "title": "Using ThinkPad T480 as a mobile phone",
+      "url": "https://grego.site/blog/thinkphone",
+      "source": "grego.site",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-26T16:56:06.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "60900b3935990ef9f846",
@@ -295,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:49:59.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "fd9de283fcc1c9a31684",
@@ -306,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T16:42:31.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "336e51412164ea2d5898",
@@ -317,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:39:06.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "47faba85e3483395530c",
@@ -328,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:20:27.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "a978b6fa9cc2a00c2af2",
@@ -339,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:19:07.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "a6cbf18c9a3cfd47db01",
@@ -350,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:18:03.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "24353e064df5c8d55bd6",
@@ -361,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:59:29.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "bf3b46fe2b93430c7c0b",
@@ -372,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T15:53:55.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "4ea62b2d7046cab73354",
@@ -383,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T15:51:12.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "211c1f4da0b31d64eceb",
@@ -394,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:39:20.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "b2415b925db322a344df",
@@ -405,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T15:26:57.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "045aa32a42b9a011f408",
@@ -416,7 +493,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:22:17.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
+    },
+    {
+      "id": "cf99f0a3ecdb18542e9f",
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "source": "vectoral.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-26T15:17:06.000Z",
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "c42dff2a0fb76fac2326",
@@ -427,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:08:40.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "edbedd546904aec58033",
@@ -438,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T15:04:12.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "d7af9b94adac46efedc8",
@@ -449,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:00:17.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "e66c15addc69f2d67ca6",
@@ -460,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:00:16.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "f883107dae6e1d27323c",
@@ -471,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T15:00:15.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     },
     {
       "id": "ab339d04e0409fe6afa4",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T14:53:09.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "86e454408d495cb8c2df",
-      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:52:13.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "79bca310c55b543fb781",
-      "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
-      "url": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:49:41.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "ec05cd52dc442fadf7dc",
-      "title": "Israel carries out double tap strike in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:47:02.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "9f57c7c442f0e28c8a74",
-      "title": "Romania summons Russia’s ambassador after downing third drone since Friday",
-      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:44:25.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "1d40912d8c22afc4b364",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "source": "aerospaceglobalnews.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T14:40:27.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "9401d6f9b2eac5bfaa68",
-      "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-      "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:39:30.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "7f68cc717d2aad729cdb",
-      "title": "Oklahoma influencer killed in apparent murder-suicide by husband, police say",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:38:46.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
-    },
-    {
-      "id": "18d9286ab701fbc11a4f",
-      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T14:22:03.000Z",
-      "discoveredAt": "2026-07-26T19:24:27.583Z"
+      "discoveredAt": "2026-07-26T20:32:31.039Z"
     }
   ]
 }
