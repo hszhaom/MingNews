@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-26T21:31:23.840Z",
+  "generatedAt": "2026-07-26T22:35:40.584Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "0224184d81ec12820d80",
+      "title": "Australia news live: Jacinta Allan loses majority caucus support after meeting of state Labor factions; national AusAlert test to blare siren",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T22:18:51.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "54ec7585b9b6af3e50d0",
+      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T22:06:46.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "24353e064df5c8d55bd6",
+      "title": "Water supply restored to Gatwick airport after hours without working toilets",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T22:01:06.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "21f4216ceb568f92fcc5",
+      "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+      "url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T21:59:53.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "34947da6aa1280a8c790",
+      "title": "Teaching Kids Forth – Anna Liberty",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "source": "gracefulliberty.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-26T21:39:17.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "cf9390ff754d96e8522d",
+      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
+      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T21:30:22.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "be6e0c0fdb6722550ef5",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-26T21:30:20.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
       "id": "41b707c27f485b8799d4",
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
@@ -53,18 +130,40 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-26T21:23:53.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
-      "id": "0224184d81ec12820d80",
-      "title": "Australia news live: new Sydney Harbour pool slated to open in summer; AusAlert warning test to blare siren across phones nationally",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "source": "The Guardian",
+      "id": "6d6fafcc6c8053f6d919",
+      "title": "What’s causing the unprecedented wildfires in Europe?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-26T21:18:15.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "publishedAt": "2026-07-26T21:17:57.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "f06f3c3771c9e685c376",
+      "title": "Israeli government nods to international stabilisation force in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T21:10:07.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "f9ca0fab1e3c10bde4c8",
+      "title": "Palestinians hope international peace force can rebuild Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-26T21:01:18.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "268bb3a3d65f84b12e50",
@@ -75,7 +174,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T20:55:52.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "f239ab868495ac190573",
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "source": "imperialviolet.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-26T20:53:26.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
+    },
+    {
+      "id": "0f399996333457305db3",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "source": "bulletins.wolframphysics.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-26T20:49:43.000Z",
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "ce6d2caefee9e6232cef",
@@ -86,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T20:43:20.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "0900a14d848b230eb09d",
@@ -97,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T20:35:38.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "32a25dfb5ef2b7025763",
@@ -108,7 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-26T20:34:23.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "b0f04bd2f68be928386a",
@@ -119,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T20:31:57.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "48e59f6e8d8c0296700c",
@@ -130,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T20:19:34.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "67ff7ebad39a37552fa6",
@@ -141,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T20:02:15.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "e093374ddaad99f2c632",
@@ -152,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T20:01:42.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "e34817d840af3062bcb7",
@@ -163,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T19:31:58.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "77e21b48e605ec86c5df",
@@ -174,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T19:27:57.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "f26c5fd52e683f302834",
@@ -185,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T19:22:45.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "77176196f7cac664dedc",
@@ -196,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-26T19:21:26.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "2810340861080776d362",
@@ -207,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T19:16:29.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "8d9590827c179fb2f1a4",
@@ -218,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T19:13:02.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "c145bc2c2530738e288e",
@@ -229,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:51:34.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "a319aa82a5bf0b0497b1",
@@ -240,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:45:41.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "c230139366ea332d0b07",
@@ -251,18 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:40:08.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "4c1b6ef7face44a53c07",
-      "title": "How to Block Some of the Bots",
-      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "source": "nochan.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T18:32:46.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "122c0228a48eab93ff92",
@@ -273,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:23:06.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "bbdb86b46eb5bb62afca",
@@ -284,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:17:22.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "2d4be5a5b76578e2c8fc",
@@ -295,7 +405,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-26T18:13:30.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "998127663a214307ad04",
@@ -306,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T18:11:16.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "491ebdc70d446ceb0165",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T18:08:48.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "412ea85774adff38f544",
@@ -328,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T18:02:23.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "95db3ea7e48350667294",
@@ -339,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T17:58:02.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "206dcc9496cb9b21008a",
@@ -350,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:53:50.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "16a79b6dceedec3eac02",
@@ -361,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:51:37.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "345bc5314eb1633e0b9c",
@@ -372,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:40:15.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "d3404bbf062bcf285272",
@@ -383,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T17:29:35.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "6f300d758004effd59de",
@@ -394,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:27:21.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "5f2f7ce7e444fddd1087",
@@ -405,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:19:10.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "83b344267650e9854c24",
@@ -416,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-26T17:16:06.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "27da16d3f211d6ccbbcb",
@@ -427,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T17:13:55.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "0dbb12019f1c8c263823",
@@ -438,18 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T17:00:16.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "baaca6b0543abb6622ba",
-      "title": "Using ThinkPad T480 as a mobile phone",
-      "url": "https://grego.site/blog/thinkphone",
-      "source": "grego.site",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T16:56:06.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "60900b3935990ef9f846",
@@ -460,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T16:49:59.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     },
     {
       "id": "fd9de283fcc1c9a31684",
@@ -471,106 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T16:42:31.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "336e51412164ea2d5898",
-      "title": "Heatwave drives major wildfires across North Africa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T16:39:06.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "47faba85e3483395530c",
-      "title": "Darfur: Weaponising Identity",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T16:20:27.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "a978b6fa9cc2a00c2af2",
-      "title": "Typhoon Noul batters Southeast China",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T16:19:07.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "a6cbf18c9a3cfd47db01",
-      "title": "Who is India’s new education minister Pralhad Joshi?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T16:18:03.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "24353e064df5c8d55bd6",
-      "title": "Water supply failure leaves Gatwick airport without working toilets",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T15:59:29.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "bf3b46fe2b93430c7c0b",
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T15:53:55.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "4ea62b2d7046cab73354",
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "source": "stephango.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T15:51:12.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "211c1f4da0b31d64eceb",
-      "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
-      "url": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T15:39:20.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
-    },
-    {
-      "id": "b2415b925db322a344df",
-      "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T15:26:57.000Z",
-      "discoveredAt": "2026-07-26T21:31:23.840Z"
+      "discoveredAt": "2026-07-26T22:35:40.584Z"
     }
   ]
 }
