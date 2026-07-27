@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T21:43:49.859Z",
+  "generatedAt": "2026-07-27T23:15:15.525Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 36,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,191 @@
   ],
   "stories": [
     {
+      "id": "f1ce603eeda69e971f02",
+      "title": "US diplomats walk out as France addresses UN Security Council",
+      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T23:07:55.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "51e9d596442003568df6",
+      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T23:04:41.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
       "id": "1905111b0071916057db",
-      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
       "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-27T21:37:59.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "publishedAt": "2026-07-27T22:58:49.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "5e0cce4c38e7859a59ac",
+      "title": "Australia news live: Labor MPs gather before Victorian leadership challenge; PM praises outgoing ACTU ‘giants’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:55:27.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "1f0881f35a9e0ba6af60",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:46:09.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "1e34f39b517fd869f918",
+      "title": "DNC chair faces growing scrutiny amid financial pressure and internal turmoil",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/dnc-chair-ken-martin-scrutiny",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:43:13.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "bf4b0ebedca4398203cf",
+      "title": "Shot fired outside US consulate in Canada for second time this year",
+      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:34:38.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "669126e8fcbddca7777b",
+      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:25:39.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "2c78b11945730007d21a",
+      "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
+      "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:14:33.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "262c6f404ce0d7219ce7",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "source": "arstechnica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T22:10:15.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "7445c1bcbb3da7a93a2b",
+      "title": "A Japanese town wrestles with identity after protests over its first mosque",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:08:21.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "ffbf5fbfbc5fd38795e1",
+      "title": "Trump administration’s revision of Iran war casualties ‘huge disrespect’, say veterans",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/trump-administration-iran-war-casualties-veterans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T22:06:44.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "688b06fb84f51f177c70",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T22:03:49.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "d34db22b2b4b91a07791",
+      "title": "Wisconsin tornado causes extensive damage and cuts power to thousands",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/wisconsin-tornado",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T21:57:29.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "e65f28f354f3fc54fb96",
+      "title": "Judge rules singer D4vd must stand trial in killing of 14-year-old girl",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T21:51:46.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "167dfbf4d5e39dadf5a5",
+      "title": "Burnham to tell schools in England to adapt teaching to local business needs",
+      "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T21:30:20.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "0cd0a6cb5a42607a69ca",
+      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-27T21:29:27.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "d91982337a52f66f54e3",
@@ -64,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T21:27:08.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "c00955a4d73e13e645f9",
@@ -75,29 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T21:24:31.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "5e0cce4c38e7859a59ac",
-      "title": "Australia news live: Anthony Albanese praises Sally McManus and Michele O’Neil as ‘giants’ as they step down from ACTU",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T21:24:29.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "1f0881f35a9e0ba6af60",
-      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T21:22:57.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "e5601ef24cb813287b18",
@@ -108,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T21:17:15.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "3565288fe08621fdeabf",
@@ -119,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T21:10:56.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "54a0169945d58af6547e",
@@ -130,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T21:08:21.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "a835a8b9f858bf9cb3b0",
@@ -141,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T21:06:42.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "6b46aeb6abfb81fe6781",
@@ -152,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T21:04:09.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "30fab3e4a7f83b0f0574",
@@ -163,18 +317,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T21:01:19.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
-      "id": "037519e5f30062c19690",
-      "title": "Authors wary of content ownership despite court ruling on Anthropic case",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
+      "id": "302928be792ef738d1c4",
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-27T20:49:57.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "fe2a79ab90b5952247bb",
@@ -185,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:47:26.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "99d785a07c58d1a0268e",
-      "title": "Man convicted in Idaho college student killings seeks to withdraw guilty plea",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/idaho-college-student-killings-bryan-kohberger",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T20:37:25.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "d96ed8356c3d87dc26e6",
@@ -207,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T20:34:55.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "8c14a3ffa67fc60c7070",
@@ -218,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:32:59.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "3bff6506430947fc4948",
@@ -229,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:27:29.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "a10ae9431c2e49f9715c",
@@ -240,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:23:12.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "509e0c05f23b9f993a1d",
@@ -251,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T20:13:23.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "3547236ac32eafdc6916",
@@ -262,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:12:45.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "87cafc79fcfe3671d5f4",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T20:09:16.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "976a4de5f1cdb7ed95f7",
@@ -284,18 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T20:06:16.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "e0da0ac320d950cfd2de",
-      "title": "DoJ urges supreme court to allow Trump order targeting mail-in voting",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/trump-doj-supreme-court-voting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T20:02:48.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "57a1b235526ba66347d3",
@@ -306,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T20:01:03.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "25fef77033b744cd8b6f",
@@ -317,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-27T19:58:22.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "8e6720a2c8187cefc53f",
@@ -328,7 +460,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-27T19:55:05.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
+    },
+    {
+      "id": "55e6c59a01cf99f3f0ca",
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T19:54:24.000Z",
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "3f8f5159d8b8ef171487",
@@ -339,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T19:50:55.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "f2db0475d34002fe0e33",
@@ -350,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T19:50:35.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "6bb24f391ad02bf84f8c",
@@ -361,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T19:32:53.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "69493b320b589f436b09",
-      "title": "US justice department dismisses charges against California union leader",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/doj-charges-california-union-leader-david-huerta",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T19:31:58.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "067f8c7b3f6bd167d21e",
@@ -383,29 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T19:24:21.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "51e9d596442003568df6",
-      "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T19:23:08.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "1d43e0ddb16af4a8431a",
-      "title": "Savannah Guthrie renews plea for answers in mother’s disappearance: ‘Do the right thing’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/savannah-guthrie-mother-nancy-disappearance-video",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T19:09:20.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "a2dd9ad55b8c62b2f26b",
@@ -416,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T18:53:10.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "650ade3611f8051fa52d",
@@ -427,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-27T18:43:31.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "eae0712e54dfe2858d40",
@@ -438,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T18:40:34.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "c66ec07b7ee3ea9839cf",
@@ -449,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T18:32:00.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     },
     {
       "id": "045ae6727723501d029a",
@@ -460,117 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T18:28:06.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "d8790a693ebcfcea5e03",
-      "title": "Bytecode-to-Source Mapping",
-      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "source": "tidefield.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T18:25:21.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "f37839a72ca1cd87a2db",
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "source": "techdirt.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T18:15:35.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "6d595e94eccab99ca4bf",
-      "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:58:27.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "0c8febdfd13ddd364daf",
-      "title": "War on Iran: Phase II: Day 16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:57:43.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "42b3cdaa92a5cea49521",
-      "title": "Burnham welcomes Zelenskyy as first international guest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:55:38.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "952aaca6963b809e0a95",
-      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
-      "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:41:46.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "c50f66efad6bdb138d14",
-      "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
-      "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:36:12.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "05957c67a881756e6229",
-      "title": "What drove Venezuela’s decision to leave the ICC?",
-      "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:34:38.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "cd920ba3d6b784a9b3d5",
-      "title": "Hull funeral director broke families’ trust on ‘almost industrial scale’, court hears",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/hull-funeral-director-robert-bush-legacy-broke-families-trust-court-hears",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:30:24.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
-    },
-    {
-      "id": "520b6b012ee5944fc384",
-      "title": "India suspends police officer for firing AK-47 at student protesters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T17:21:02.000Z",
-      "discoveredAt": "2026-07-27T21:43:49.859Z"
+      "discoveredAt": "2026-07-27T23:15:15.525Z"
     }
   ]
 }
