@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T16:30:09.350Z",
+  "generatedAt": "2026-07-27T18:09:19.870Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,281 @@
   ],
   "stories": [
     {
+      "id": "1f0881f35a9e0ba6af60",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:59:49.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "25cb3753ac011939649d",
+      "title": "Canceling \"Hey\"",
+      "url": "https://chadnauseam.com/random/cancelling-my-hey",
+      "source": "chadnauseam.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T17:37:02.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "c50f66efad6bdb138d14",
+      "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+      "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:36:12.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "05957c67a881756e6229",
+      "title": "What drove Venezuela’s decision to leave the ICC?",
+      "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:34:38.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "cd920ba3d6b784a9b3d5",
+      "title": "Hull funeral director broke families’ trust on ‘almost industrial scale’, court hears",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/27/hull-funeral-director-robert-bush-legacy-broke-families-trust-court-hears",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:30:24.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "3036033c5712ced5b3e8",
+      "title": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
+      "url": "https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:28:12.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "ca24fad575bac833502d",
+      "title": "Andy Burnham seeks cross-party agreement on future of social care",
+      "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-cross-party-agreement-social-care",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:27:18.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "e8f987410e53dac45ec4",
+      "title": "Ronnie Le Drew, puppeteer behind Zippy and David Bowie’s goblins, dies aged 78",
+      "url": "https://www.theguardian.com/stage/2026/jul/27/ronnie-le-drew-puppeteer-zippy-sweep-and-david-bowie-goblins-dies-aged-78",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:21:11.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "520b6b012ee5944fc384",
+      "title": "India suspends police officer for firing AK-47 at student protesters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:21:02.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "714ee2d46fe71d49be63",
+      "title": "What you need to know if you're travelling to France or Spain",
+      "url": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:20:27.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "8c318a230b119572c53e",
+      "title": "Chad to join raft of withdrawals from International Criminal Court",
+      "url": "https://www.aljazeera.com/news/2026/7/27/chad-to-join-raft-of-withdrawals-from-international-criminal-court?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:20:26.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "1647638b6a626a43d0a2",
+      "title": "Spurs’ plans for new training facility in London park blocked by high court",
+      "url": "https://www.theguardian.com/football/2026/jul/27/tottenham-hotspur-plans-for-new-footbal-training-facility-london-park-blocked-by-high-court",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:13:37.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "ba988b2e0fca51b94cc8",
+      "title": "Burnham brings members of Socialist Campaign Group into government",
+      "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-brings-members-of-socialist-campaign-group-into-government",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:04:37.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "6afceb6eedb5671a2acd",
+      "title": "New York school district halts plan to use humanoid robot amid backlash",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:03:51.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "2c78b11945730007d21a",
+      "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
+      "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T17:02:56.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "ff4b380751db52efaac3",
+      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
+      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:59:39.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "246a1ad1b2620a06cb3e",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "source": "usefeyn.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T16:59:08.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "b3386a418a39ba49309e",
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:56:57.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "f66d3daee0894a0c71ed",
+      "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:54:28.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "341a7200330d493e443d",
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "source": "microsoft.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T16:52:22.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "b168d5d594c264faa250",
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "source": "sgieurope.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T16:49:08.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "669126e8fcbddca7777b",
+      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:36:30.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "248b2874f51a85ec8193",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:33:05.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "3e52cbcd531abe28cc53",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:27:44.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "0e54068d754c84ddfb34",
+      "title": "Shots fired near US consulate in Canada for second time in four months",
+      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:20:56.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
       "id": "bdeef95e9f819a515319",
       "title": "A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?",
       "url": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +328,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T16:19:50.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "c19924c12e555375dd0e",
+      "title": "‘It felt like being in a disaster movie’: uncertainty after evacuation from France’s Gironde wildfire",
+      "url": "https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T16:13:56.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "4dd797b90671b4190979",
@@ -64,29 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T16:08:27.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "8bac1a577b705b90aa7a",
-      "title": "Swathes of Cairngorms unrecognisable after 12 days of ‘cataclysmic’ wildfires",
-      "url": "https://www.theguardian.com/world/2026/jul/27/swathes-of-cairngorms-scotland-unrecognisable-after-12-days-of-cataclysmic-wildfires",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T16:00:14.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "856546d657408734401b",
-      "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T15:59:56.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "be2d7f67b6b1bbc3493f",
@@ -97,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:59:27.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "be6e0c0fdb6722550ef5",
@@ -108,29 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:58:27.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "1f0881f35a9e0ba6af60",
-      "title": "Senate to begin voting on Trump intelligence nominee Jay Clayton – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T15:54:20.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "b7af849aa4dbeb172d37",
-      "title": "GB News pundit Matthew Torbitt pleads guilty to fraud while Labour aide",
-      "url": "https://www.theguardian.com/media/2026/jul/27/gb-news-pundit-matthew-torbitt-admits-committing-while-labour-aide",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T15:54:19.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "7a5aa7c420ee62b4045e",
@@ -141,18 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:54:15.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "2295defd6db8f158d20c",
-      "title": "Homeless families in London temporary housing told not to use air conditioning",
-      "url": "https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T15:52:44.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "64c41227c6c087505285",
@@ -163,18 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:49:45.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "d44faddc47934518a671",
-      "title": "Britain braces for fourth heatwave of year as fire chiefs issue public appeal",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/uk-weather-fourth-heatwave-of-year",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T15:47:22.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "e707c33170938186fd87",
@@ -185,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T15:39:58.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "51e9d596442003568df6",
@@ -196,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:39:54.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "a8855b16491ec422811c",
@@ -207,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T15:27:22.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "15f79d94c537fab9cba0",
@@ -218,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T15:27:09.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "cef037952ba599c281e2",
@@ -229,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-27T15:23:45.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "a603067cc99293c94b32",
@@ -240,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T15:22:45.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "08c2026e0aa5ea66136d",
@@ -251,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T15:20:32.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "efa9b4968f106e75c14f",
-      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-      "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
-      "source": "videocardz.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T15:11:51.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "90a57f45a1f5109b6fbe",
@@ -273,7 +482,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:08:37.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
+    },
+    {
+      "id": "a6d3f27ee7a244a8ddcc",
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "source": "eaton-works.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T15:08:16.000Z",
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "7bd63e3eac8258170bca",
@@ -284,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:04:28.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "86104ae13aeac2054919",
@@ -295,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:00:13.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "882ed2efbcc10da63f12",
@@ -306,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T15:00:13.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "040fbac58e1d7f2a2012",
@@ -317,18 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T14:52:31.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "5f50972c0bf66696c611",
-      "title": "Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win",
-      "url": "https://www.bbc.co.uk/news/articles/cqx74qw9ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:51:57.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "591bdf6e07bed3a8bd53",
@@ -339,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T14:34:54.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "96944aa9ba191fa5b13b",
@@ -350,18 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T14:31:12.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "ff4b380751db52efaac3",
-      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:29:49.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     },
     {
       "id": "bb1516d577c1e9b31f97",
@@ -372,205 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T14:26:50.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "c5037d79d97d160963be",
-      "title": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
-      "url": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:24:50.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "28d60bb41a72a8e61003",
-      "title": "First Kenyan to play in NFL deported under Trump immigration crackdown",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/daniel-adongo-deported-kenya-nfl",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:16:48.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "4b9d3c8fce9c5e251bd5",
-      "title": "Mayo beat 75-year-old ‘curse’ to become Gaelic football champions",
-      "url": "https://www.theguardian.com/world/2026/jul/27/mayo-beat-curse-become-gaelic-football-champions-ireland",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:15:29.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "c60f3865d0456499ccc9",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "source": "ft.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T14:07:48.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "9a496841931ede622518",
-      "title": "US officials investigate after video appears to show person kicking sea lion",
-      "url": "https://www.theguardian.com/us-news/2026/jul/27/person-kicks-sea-lion-video-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:06:00.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "cb76b83c6000f40cac3b",
-      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:04:43.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "8840149d55747fdf254e",
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:04:01.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "741afad80e56743eab53",
-      "title": "Baby missing after mother and toddler found dead off coast of South Australia",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/baby-missing-after-mother-and-toddler-found-dead-off-coast-of-south-australia-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:03:51.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "90585e396186e936118a",
-      "title": "Five years after Saied’s power grab, Tunisians are no better off",
-      "url": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T14:03:09.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "ac1d8986e57413921e0a",
-      "title": "Australian court rejects racial discrimination appeal by Pauline Hanson",
-      "url": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T13:46:06.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "83eba77160ed7c06e560",
-      "title": "Former Honduras president returns home after Trump pardon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T13:32:15.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "fa4875e42cf1e6078e3e",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T13:31:57.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "fba3fc89060aa93142e1",
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "source": "incoherency.co.uk",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T13:04:11.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "d37022ea958c74c9d6f1",
-      "title": "German officials call for tighter extremism laws after Berlin Pride attack",
-      "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T12:58:51.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "0902d4a24b370c440681",
-      "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T12:58:20.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "359d4f34dfb81fa8eb17",
-      "title": "Dutch pair banned from Bali after run club ‘excludes locals’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T12:56:14.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "96803fadd5095c89ae1b",
-      "title": "Three killed in suspected shootout in US city of Seattle, police say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T12:49:37.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
-    },
-    {
-      "id": "a66e5a92a1956e2161df",
-      "title": "Gaza student tops national exams despite war and displacement",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T12:41:27.000Z",
-      "discoveredAt": "2026-07-27T16:30:09.350Z"
+      "discoveredAt": "2026-07-27T18:09:19.870Z"
     }
   ]
 }
