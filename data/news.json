@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T03:56:45.519Z",
+  "generatedAt": "2026-07-27T07:44:15.085Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 24,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,356 @@
   ],
   "stories": [
     {
+      "id": "958562fda71b8c105c44",
+      "title": "Oil price slides as US and Iran pause fire; cancer treatments help AstraZeneca beat profit forecasts – business live",
+      "url": "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T07:31:53.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
       "id": "0224184d81ec12820d80",
-      "title": "Australia news live: seven new suspected bird flu cases in SA as conservation charity warns ‘this is evidence of spread’",
+      "title": "Australia news live: comedian who hosted Albanese’s ‘shag, marry, date’ interview says it was ‘moment taken out of context’",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-27T03:39:34.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "publishedAt": "2026-07-27T07:21:35.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
-      "id": "c0c956f4e4fa77fc8325",
-      "title": "‘A new trajectory’: EVs now almost quarter of Australia’s new car sales as fuel crisis bites",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids",
+      "id": "4789771f99a39bc6c7da",
+      "title": "Weather tracker: Why Europe’s wildfires are proving so fierce and difficult to stop",
+      "url": "https://www.theguardian.com/environment/2026/jul/27/weather-tracker-europe-wildfires-difficult-stop-france-spain",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-27T03:37:41.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "publishedAt": "2026-07-27T07:21:09.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "ce4dc443cb053601c2e3",
+      "title": "German arms export licences for Israel surge with focus on sub project",
+      "url": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T07:20:07.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "c5a16f87020ab3036ce1",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T07:00:34.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "48007091e7bab6abb958",
+      "title": "‘They’re anxious about everything’: life for young people seeking work in Dudley and Lewisham",
+      "url": "https://www.theguardian.com/society/2026/jul/27/theyre-anxious-about-everything-life-for-young-people-seeking-work-in-dudley-and-lewisham",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T07:00:33.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "74d38c1c125caa8e989b",
+      "title": "Protesters launch high court challenge to Queensland ban on ‘from the river to the sea’",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/protesters-launch-high-court-challenge-to-queensland-ban-on-from-the-river-to-the-sea-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:57:05.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "96971032a6e27e74f505",
+      "title": "Andy Burnham vows to use his ‘political capital’ to fix social care system",
+      "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:50:18.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "9f19d3e482b62c0f5a3e",
+      "title": "For a few seconds, AusAlert blared around parks, libraries and cinemas – but some didn’t get the alert at all",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/why-didnt-i-get-the-ausalert-sound-national-emergency-alert-test",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:49:42.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "be6e0c0fdb6722550ef5",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:48:02.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "a319aa82a5bf0b0497b1",
+      "title": "US pauses Iran attacks after Trump advised to halt bombing",
+      "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:33:40.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "01cd6730bf46a9135a37",
+      "title": "Paddleboarder who rescued woman from Coogee shark attack wins world title in record time",
+      "url": "https://www.theguardian.com/sport/2026/jul/27/paddleboarder-who-rescued-woman-from-coogee-shark-attack-wins-world-title-in-record-time",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:25:09.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "e7129e9021b63e3a72dd",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "huggingface.co",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T06:18:10.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "ec8b3bcd49331fc888c9",
+      "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:15:01.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "8f1f6254ea6ba23a814e",
+      "title": "Senior politicians supported young NSW Liberal power brokers trying to shift party to right, corruption watchdog hears",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/icac-operation-rosny-nsw-liberals-corruption-investigation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:08:17.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "bfa5546996d5c8820eae",
+      "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T06:00:34.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "cae354dfbe0ab8691918",
+      "title": "Can the U.S. and Iran take the off-ramp?",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:57:59.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "75e21f80c35215d9d94b",
+      "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
+      "url": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:47:46.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "8b081d97bd3b30352bfd",
+      "title": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government",
+      "url": "https://www.theguardian.com/world/2026/jul/27/monday-briefing-how-the-cockroach-protests-have-exposed-the-cracks-in-indias-government",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:47:17.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "2d681ebf690fe7abbe63",
+      "title": "Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats",
+      "url": "https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:38:06.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "6599402986596d9547d5",
+      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+      "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+      "source": "wsj.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-27T05:31:33.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "a7be013d90fdc7a7faed",
+      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:13:24.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "804cf2b3e172c53d0860",
+      "title": "Palestine Action activists face being sentenced as terrorists over bank damage",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T05:00:32.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "7d8c62b48db2404f3292",
+      "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+      "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:49:22.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "b28d1068aa74183d43bf",
+      "title": "Firefighters battle wildfires in Spain’s eastern Castellon province",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-wildfires-in-spains-eastern-castellon-province?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:48:05.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "6d064487345ef37ca860",
+      "title": "Thousands march in Pakistan-administered Kashmir amid election unrest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_26-07-sv-pakistan-kashmir-march-km-270726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:40:27.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "7ba8101f5598a1218506",
+      "title": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+      "url": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:21:37.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "1abb1f5be03aa7c6e17f",
+      "title": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:07:57.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "5fdb7d15be02a74a657f",
+      "title": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T04:00:09.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "284498c0bbda7d45d76f",
+      "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-27T03:58:52.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "fcad2157d6de84e58b30",
-      "title": "Shootings at Bite of Seattle food festival leave several injured",
+      "title": "Two dead in shootings at Bite of Seattle food festival, say authorities",
       "url": "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-27T03:33:40.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "publishedAt": "2026-07-27T03:56:55.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
+    },
+    {
+      "id": "6d282cd9308d32928c48",
+      "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-27T03:34:06.000Z",
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "97892a87a153de90d9d7",
@@ -86,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T02:50:05.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "97719df171c03b2fea0a",
@@ -97,18 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T02:49:45.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "07d65afce05f5e7ffcfe",
-      "title": "Jacinta Allan leadership challenge: Ben Carroll confirms he will stand against Victorian premier",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T02:36:49.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "7e6b815ad27471595326",
@@ -119,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T02:15:46.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "f920a356054899f9f1f7",
@@ -130,18 +438,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T01:59:02.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "7fdc3e76f644992af4ca",
-      "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+      "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
       "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T01:54:30.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "fe35c2830c956642648e",
@@ -152,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T01:40:16.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "aa8b9b3e8da5a47dbc06",
@@ -163,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T01:35:51.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "474f1ba1a2f050a4175e",
@@ -174,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T00:48:06.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "62fe7dccba71785a7110",
@@ -185,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-27T00:27:58.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "16797b055e4ecccfccc0",
@@ -196,18 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-27T00:19:04.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "e3e92bd2af4773460c81",
-      "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here’s what to know",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T00:06:47.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "2667184fd40964fbf8a4",
@@ -218,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-27T00:04:47.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "a300bd191c49d3a40145",
@@ -229,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-27T00:00:00.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "7cea10086deaf296e9cc",
@@ -240,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T23:45:09.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "fa42a6ee0214b3275534",
@@ -251,29 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-26T23:44:29.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "47928fb9eeb705399a74",
-      "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T23:01:24.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "7cd85b2096399a030dc6",
-      "title": "Rising oil prices could force up UK interest rates, say economists",
-      "url": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T23:01:23.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "3550687a6dd5cb48b423",
@@ -284,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-26T22:55:06.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     },
     {
       "id": "0dadaefdea9260e51108",
@@ -295,282 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-26T22:46:10.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "03fc82e6f3369d4bda9f",
-      "title": "Boy, 16, charged with murder of teenager stabbed in Luton park",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/26/boy-16-charged-with-of-teenager-stabbed-in-luton-park",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T22:26:08.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "a7e75aaa8fc2886b17d3",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "source": "techspot.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T22:21:41.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "54ec7585b9b6af3e50d0",
-      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T22:06:46.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "24353e064df5c8d55bd6",
-      "title": "Water supply restored to Gatwick airport after hours without working toilets",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T22:01:06.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "21f4216ceb568f92fcc5",
-      "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
-      "url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:59:53.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "34947da6aa1280a8c790",
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "source": "gracefulliberty.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T21:39:17.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "cf9390ff754d96e8522d",
-      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
-      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:30:22.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "be6e0c0fdb6722550ef5",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:30:20.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "41b707c27f485b8799d4",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:23:53.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "6d6fafcc6c8053f6d919",
-      "title": "What’s causing the unprecedented wildfires in Europe?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:17:57.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "f06f3c3771c9e685c376",
-      "title": "Israeli government nods to international stabilisation force in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:10:07.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "f9ca0fab1e3c10bde4c8",
-      "title": "Palestinians hope international peace force can rebuild Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T21:01:18.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "268bb3a3d65f84b12e50",
-      "title": "US and Iran hit pause on strikes for second day",
-      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:55:52.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "f239ab868495ac190573",
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "source": "imperialviolet.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T20:53:26.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "ce6d2caefee9e6232cef",
-      "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ in calls for PM’s arrest",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:43:20.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "0900a14d848b230eb09d",
-      "title": "Former President Hernandez returns to Honduras after Trump pardon",
-      "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:35:38.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "32a25dfb5ef2b7025763",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:34:23.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "48e59f6e8d8c0296700c",
-      "title": "Houthis claim Saudi drone downed over northwestern Yemen",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:19:34.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "67ff7ebad39a37552fa6",
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-26T20:02:15.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "e093374ddaad99f2c632",
-      "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T20:01:42.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "e34817d840af3062bcb7",
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T19:31:58.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "77e21b48e605ec86c5df",
-      "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T19:27:57.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "f26c5fd52e683f302834",
-      "title": "46 people rescued from sunken ship in South China Sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T19:22:45.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "77176196f7cac664dedc",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-26T19:21:26.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
-    },
-    {
-      "id": "2810340861080776d362",
-      "title": "Cuban president accuses US of genocide, seeking takeover",
-      "url": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-26T19:16:29.000Z",
-      "discoveredAt": "2026-07-27T03:56:45.519Z"
+      "discoveredAt": "2026-07-27T07:44:15.085Z"
     }
   ]
 }
