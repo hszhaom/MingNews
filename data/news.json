@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T04:19:37.156Z",
+  "generatedAt": "2026-07-28T07:20:04.221Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,234 @@
   "stories": [
     {
       "id": "5e0cce4c38e7859a59ac",
-      "title": "Australia news live:New Victorian premier Ben Carroll says ‘change starts today’ and pledges construction sector royal commission",
+      "title": "Australia news live: new Victorian premier Ben Carroll says ‘I will do things differently’; two pedestrians in critical condition after Sydney crash",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-28T04:04:46.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "publishedAt": "2026-07-28T07:13:05.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "d7df3be147afab2fc4e0",
+      "title": "Barclays increases bonus pool by nearly 30% as calls grow for UK bank tax",
+      "url": "https://www.theguardian.com/business/2026/jul/28/barclays-increases-bonus-pool-uk-bank-tax",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T07:10:41.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "60b22638eb3913f71158",
+      "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-28T06:25:18.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "16610a49f33118d0dc55",
+      "title": "Palestine weekly: West Bank in flames after Tal killings",
+      "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:58:22.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "2373c7ea5a04a234d5f2",
+      "title": "‘Shake down Angus’: Taylor named as potential donor to NSW Liberal ‘Reformers’ being investigated by Icac",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:47:10.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "a10610a0cdd143b79a2d",
+      "title": "About 900,000 Origin Energy customers affected by hack as company admits it was warned weeks before public told",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/about-900000-origin-energy-customers-affected-by-hack-as-company-admits-it-was-warned-weeks-before-public-told",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:41:39.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "33d1bfea6f83baa8b463",
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "source": "arsastronomica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-28T05:25:34.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "62d63d30e878266c7cac",
+      "title": "Ben Carroll announces royal commission into construction sector as first act as new premier of Victoria",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:11:15.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "2d61d092fa0bc5841ec3",
+      "title": "Confronting gang members at the heart of Ecuador's drug battle",
+      "url": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:01:35.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "dc5e605ac35e1fe2248b",
+      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:01:19.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "cce5655df0fc75071295",
+      "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
+      "url": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:00:30.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "15552aa81b8e2b5cfffc",
+      "title": "World-class Jodrell Bank is under threat and UK risks a physics brain drain",
+      "url": "https://www.theguardian.com/science/2026/jul/28/world-class-jodrell-bank-threat-uk-physics",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:00:30.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "8f2a5245f43fe249bf9c",
+      "title": "US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:00:30.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "385d210dd93e204e36c5",
+      "title": "Cottage pie and glass of red, anyone? Britons shun salad despite heat in ‘reverse comfort eating’",
+      "url": "https://www.theguardian.com/food/2026/jul/28/britons-shun-salad-despite-heat-reverse-comfort-eating",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:00:29.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "684f8cb9f6149d2e9407",
+      "title": "Mamdani tackles cost of living crisis in New York with 30% discounts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-28T05:00:05.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "b44f8161da8d31baff53",
+      "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-28T04:51:42.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "9f036d6f758848406f1e",
+      "title": "Neutrino-1 8B",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "source": "fermionresearch.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-28T04:49:54.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "569844cc4c6cab714861",
+      "title": "Trump calls protester ‘communist’ after Michigan speech interruption",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-28T04:48:01.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "be7e601182188408604c",
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "source": "docs.pytorch.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-28T04:46:00.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "204e63cb738f04508246",
+      "title": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+      "url": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-28T04:43:53.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "d99e3c56a9e1a910157b",
+      "title": "Why do we think we understand the world more than we actually do?",
+      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "source": "thedecisionlab.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-28T04:00:41.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "982f7c20734fd6c850e9",
@@ -64,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T04:00:28.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "900a71b19aa3aa45719c",
@@ -75,29 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T04:00:28.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "672e97bc01b46f119ef8",
-      "title": "Train drivers in Great Britain consider strike action over lack of toilets",
-      "url": "https://www.theguardian.com/business/2026/jul/28/train-drivers-consider-strike-action-lack-of-toilets",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T04:00:28.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "2373c7ea5a04a234d5f2",
-      "title": "Hotelier stopped funding NSW Liberal ‘Reformers’ after deciding Morrison and Perrottet had ‘gone woke’, Icac hears",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T03:31:07.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "8b180824a2d05e8e860d",
@@ -108,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T03:20:36.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "01f5d2d7c366a6110f23",
@@ -119,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T03:16:30.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "4d36192ee1f4973c38fb",
@@ -130,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T02:54:18.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "8352558bdd60143c1dd9",
@@ -141,29 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T02:47:55.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "b6145d8c206f32f3c920",
-      "title": "It’s the vibe: Australian comedy classic The Castle set to become a stage play",
-      "url": "https://www.theguardian.com/stage/2026/jul/28/the-castle-stage-play-working-dog-film-rob-sitch-tom-gleisner-santo-cilauro-jane-kennedy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T02:40:16.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "62d63d30e878266c7cac",
-      "title": "Ben Carroll becomes new premier of Victoria after Jacinta Allan resigns",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T02:37:49.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "669126e8fcbddca7777b",
@@ -174,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T02:37:27.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "3244ea52a54780d43d1b",
@@ -185,18 +361,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-28T02:37:14.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "152a17e5c7c20c461cab",
-      "title": "An Uncomplicated Man",
+      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
       "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
       "source": "lrb.co.uk",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-28T02:35:28.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "2082485481cb33bb6799",
@@ -207,18 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T02:33:05.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "03cb608712de84bd5cad",
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "source": "crowdhailer.me",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-28T02:21:37.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "4f7e6c449255c2ef7706",
@@ -229,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-28T02:18:53.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "83ce49f73c8dc7cb72dd",
@@ -240,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T02:08:54.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "1f0881f35a9e0ba6af60",
@@ -251,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T02:00:18.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "1f26250e17a00987772a",
@@ -262,18 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:53:58.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "a2239716dd1348068770",
-      "title": "Residential Proxies Are a National Security Threat",
-      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-      "source": "jacob.gold",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-28T01:51:18.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "fc017cbdf7d921585860",
@@ -284,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:43:55.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "1905111b0071916057db",
@@ -295,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:39:50.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "12594a2e352032e23934",
@@ -306,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:37:05.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "0464472897f76e4a6aa3",
@@ -317,7 +471,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:33:45.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
+    },
+    {
+      "id": "bc440746a215ead4c718",
+      "title": "BBC outside court as judge rules singer D4vd will face murder trial",
+      "url": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-28T01:29:25.000Z",
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "a18ac4ffcb61aec928bd",
@@ -328,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T01:18:24.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "fcad2157d6de84e58b30",
@@ -339,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T01:17:02.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "c592dc3f7df356e15060",
@@ -350,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-28T01:13:26.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "e28ddaa21c0180a8ff3d",
@@ -361,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T01:07:09.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "f91f3cc86bada2cff525",
@@ -372,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T00:54:46.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "3061ee38e7ad2b6eef70",
@@ -383,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-28T00:51:50.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "b3386a418a39ba49309e",
@@ -394,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-28T00:36:16.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     },
     {
       "id": "0c08eaa32922164839bb",
@@ -405,172 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-28T00:30:11.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "ee30eb1422d767e40afe",
-      "title": "Savannah Guthrie pleads for help to find missing mother",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T00:22:36.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "b87398ebbbad913aa1de",
-      "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-28T00:05:31.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "1179d7723158d856445f",
-      "title": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T00:00:42.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "4db85288c50a5f659536",
-      "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "848388786d6c8d9e8802",
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T23:46:15.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "51e9d596442003568df6",
-      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T23:36:31.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "52ea1f5604f3f0160f36",
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "source": "spacedaily.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T23:19:19.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "77657b4ef20aa028044b",
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "source": "dconf.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T23:14:19.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "16d4c933e015d757489d",
-      "title": "C/C++ projects packaged for Zig",
-      "url": "https://github.com/allyourcodebase",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T23:09:50.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "f1ce603eeda69e971f02",
-      "title": "US diplomats walk out as France addresses UN Security Council",
-      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T23:07:55.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "6a454934fcba31af28da",
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-27T22:37:52.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "bf4b0ebedca4398203cf",
-      "title": "Shot fired outside US consulate in Toronto for second time this year",
-      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-27T22:34:38.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "2c78b11945730007d21a",
-      "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
-      "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T22:14:33.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "7445c1bcbb3da7a93a2b",
-      "title": "A Japanese town wrestles with identity after protests over its first mosque",
-      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T22:08:21.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
-    },
-    {
-      "id": "6b181e22964c3ab1b944",
-      "title": "China's new challenge as natural disasters strike - fake AI videos",
-      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-27T22:07:23.000Z",
-      "discoveredAt": "2026-07-28T04:19:37.156Z"
+      "discoveredAt": "2026-07-28T07:20:04.221Z"
     }
   ]
 }
