@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T09:24:24.263Z",
+  "generatedAt": "2026-07-29T11:47:47.179Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 23,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,334 @@
   ],
   "stories": [
     {
+      "id": "4976b68b11976f9e3b37",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:47:05.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "86fca7c3020b6bd2990e",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:44:40.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "36028fb82ccffc072122",
+      "title": "Fifa offers $40m if nations back controversial plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:33:45.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
       "id": "1e9b36b4bf86dca98ff7",
-      "title": "Burnham to give speech on social care as Louise Casey plays down cost concerns saying many families ‘already paying’ – UK politics live",
+      "title": "Burnham does not rule out tax rises for social care reform as he fast-tracks Louise Casey’s review – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T09:12:56.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "publishedAt": "2026-07-29T11:28:52.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "1d5bbe40781b99e76d2f",
+      "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:26:18.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "e598ca60e693410e9347",
+      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:23:57.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "53976d38beb3f93bd7d9",
+      "title": "Heatwaves putting hydrangeas at risk in south of England, RHS warns",
+      "url": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:22:05.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "e0f9a37a6bf6274e9a0a",
+      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:19:58.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "640c286136eba891114e",
+      "title": "‘Iran attacks now to send message as US assets build up in Israel’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:19:46.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "94b3bbac56722c520238",
+      "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:01:20.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "a492d88d899570acb63c",
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:00:47.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "ca45b17041f7155b636e",
+      "title": "US schools are struggling to keep the yellow bus running amid shortages and cuts",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/us-school-bus-cuts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:00:31.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "f6424fd7a1be95560bfa",
+      "title": "Married couple deported by ICE killed in Guatemala",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:55:38.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "140b670d368ae02c8236",
+      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+      "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+      "source": "fcc.gov",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T10:47:57.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "be2d7f67b6b1bbc3493f",
+      "title": "European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:42:17.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "0e5ed000423ddbdf36ab",
+      "title": "SpecForge – A Platform for Authoring Formal Specifications",
+      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+      "source": "docs.imiron.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T10:35:19.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "b54311920935670ccec6",
+      "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:35:13.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "6948194b05b833341e63",
+      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:30:19.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "e1699c3c11aa0ecaeaf7",
+      "title": "US blocks Iranian missile barrage as pause in fighting falters | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/first-thing-us-blocks-iranian-missile-barrage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:27:41.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "0f9a03e329572e98e156",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:23:29.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "39addf2c1cf54085650e",
+      "title": "Amiga Graphics Archive",
+      "url": "https://amiga.lychesis.net/index.html",
+      "source": "amiga.lychesis.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T10:19:44.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "f81444d99c879bc7c3d9",
+      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+      "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:19:28.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "d306649cb1b512b3be81",
+      "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+      "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:18:49.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "3804ed703a7c04f306d4",
+      "title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
+      "url": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T10:10:25.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "2a450aea33b1e463f60f",
+      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
+      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:52:44.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "847ce836f753e3238a5c",
+      "title": "How has the Indian government responded to ‘Cockroach’ protests?",
+      "url": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:52:16.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "64b3c1b3e72fd89105c6",
+      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+      "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:51:52.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "02aae1799e44f38dc447",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:39:56.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "61c9c223f02893c952e4",
+      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://vimgolf.ai/",
+      "source": "vimgolf.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T09:26:52.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "afec1737dd99ae084f7b",
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:24:52.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "fc78e34ef83a339ac319",
@@ -64,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:09:27.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "8e29933bdf4944f9e686",
@@ -75,18 +394,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:08:57.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "eeb664c9fa25bc776423",
-      "title": "Trump's new spy chief confirmed by US Senate",
+      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
       "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:07:40.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "8dfcb54ce1590e17d766",
@@ -97,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:07:03.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "5e3890335a32b775095c",
@@ -108,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:02:48.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "4603e97e9f0f07fc416d",
@@ -119,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:28.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "646722b0a0ce30dc2ecf",
@@ -130,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:28.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "a73d47fe1dcf11e2a673",
-      "title": "To win over working class voters, Democrats need to stop talking about democracy",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "ad528fa8f81be137feda",
@@ -152,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "ca8b84dc1b4ac8133b2e",
@@ -163,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "6c3c7d6a09f9aeb122dd",
@@ -174,7 +482,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
+    },
+    {
+      "id": "a73d47fe1dcf11e2a673",
+      "title": "To win over working class voters, Democrats need to stop talking about democracy",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "367ef2baeb156d106698",
@@ -185,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "3492a4c3901d54ce11d8",
@@ -196,18 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "e598ca60e693410e9347",
-      "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:53:06.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "e8c2bf152f9c40ce0db1",
@@ -218,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T08:50:26.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "e539e697d70aeaabdd76",
@@ -229,29 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T08:46:26.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "6948194b05b833341e63",
-      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:44:10.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "02aae1799e44f38dc447",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:43:46.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "9aa0bdfbec594f3c569f",
@@ -262,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T08:33:39.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "9c2b8444c467496ab24e",
@@ -273,18 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T08:27:31.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "967d8179d0dc712830b3",
-      "title": "Zack Polanski will not say sorry to Farage for sharing guillotine image",
-      "url": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:16:26.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     },
     {
       "id": "5a7032088018a52ec744",
@@ -295,282 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T08:16:08.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "a34d4902cab679a54b32",
-      "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:16:06.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "f895addf14c58602b552",
-      "title": "Victorian cults inquiry accidentally shares email address of anonymous survivors with group members",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/victorian-cults-inquiry-accidentally-shares-email-address-of-anonymous-survivors-with-group-members-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:09:11.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "ac8e58c120be984ec6a8",
-      "title": "Will Germany bring back mandatory military conscription next year?",
-      "url": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:07:19.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "cc489ccc1b86d21217f6",
-      "title": "Why is Uganda experiencing a food crisis?",
-      "url": "https://www.aljazeera.com/news/2026/7/29/why-is-uganda-experiencing-a-food-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:04:25.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "33fe35c0de5194afdc6f",
-      "title": "Russian industrial sites on fire after Ukrainian drone attacks",
-      "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:57:04.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "1356f499164607e53db4",
-      "title": "IPL’s business value rockets to $20bn as India cricket league soars",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:51:56.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "2d584a860343f3cfb1d4",
-      "title": "Datacentre projects could face fees for grid access to ease connection queue, Ofgem says",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:42:01.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "6db6fda4d151b62d9fd3",
-      "title": "Petrol back above $2 a litre in some areas – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:36:19.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "c75b4f19c7cc7b4976ee",
-      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:34:38.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "66c35b883cb94f671960",
-      "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:22:44.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "6cd11be217ff419d3b1b",
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "source": "micrologics.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T07:18:24.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "2a8da4ebac781bcafe53",
-      "title": "India’s youth have broken Modi’s spell",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T07:15:14.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "232c3cc753cba9327a98",
-      "title": "Haitian TPS holders in South Florida brace for end of their legal status",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910837/haiti-tps-florida-trump-immigration",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T06:56:37.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "1d074b3dac875c415b3f",
-      "title": "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T06:37:25.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "3a582cddc623fc790205",
-      "title": "Young Liberal power brokers created ‘shit sheet’ on NSW minister accusing him of extramarital affair",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-operation-rosny-young-liberals-shit-sheet-nsw-minister-david-elliott-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T06:30:45.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "e51d26e2c22299dbaf6f",
-      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T06:10:19.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "94b3bbac56722c520238",
-      "title": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T06:07:26.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "c61730817d2eccfe9710",
-      "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
-      "url": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:46:19.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "a45cf0a79eade0835b90",
-      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:43:03.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "0f91635a4ebee6415049",
-      "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
-      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:22:18.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "bd2c4da2f8e15114055f",
-      "title": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:18:36.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "9f2513829972a9b9b221",
-      "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:07:33.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "10bc667355d7e8b9b02e",
-      "title": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:01:46.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "d869b8d4c818498751cd",
-      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:01:12.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
-    },
-    {
-      "id": "a361521960df4ff3edc3",
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T05:00:07.000Z",
-      "discoveredAt": "2026-07-29T09:24:24.263Z"
+      "discoveredAt": "2026-07-29T11:47:47.179Z"
     }
   ]
 }
