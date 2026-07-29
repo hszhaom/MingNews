@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T03:33:32.209Z",
+  "generatedAt": "2026-07-29T06:17:09.034Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 34,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,257 @@
   ],
   "stories": [
     {
+      "id": "9d24a5bb72f2edf2e2d6",
+      "title": "Judge allows use of police interview in Tupac Shakur murder trial",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T06:04:35.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
       "id": "6db6fda4d151b62d9fd3",
-      "title": "Australia news live: Icac hears of ‘shit sheet’ on former NSW Liberal minister’s alleged affair; police treating mother and child’s deaths as murder-suicide",
+      "title": "Australia news live: Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T03:29:54.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "publishedAt": "2026-07-29T05:58:42.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
-      "id": "74131869f8f080562a77",
-      "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
+      "id": "c75b4f19c7cc7b4976ee",
+      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T03:19:17.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "publishedAt": "2026-07-29T05:52:02.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "c61730817d2eccfe9710",
+      "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
+      "url": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:46:19.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "a45cf0a79eade0835b90",
+      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:43:03.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "51958427daab30e534ff",
+      "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:34:42.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "4c81ea535cc4daaf023d",
+      "title": "Angus Taylor insists he made no payments to conservative Liberal group amid Icac investigation",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/angus-taylor-nsw-icac-inquiry-liberal-party-reformers-donation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:24:20.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "0f91635a4ebee6415049",
+      "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:22:18.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "9c2b8444c467496ab24e",
+      "title": "Mother and toddler’s deaths in South Australia investigated as murder-suicide as hopes for missing baby fade",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/sa-police-helena-wright-toddler-death-missing-baby-port-macdonnell-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:21:17.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "bd2c4da2f8e15114055f",
+      "title": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:18:36.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "9f2513829972a9b9b221",
+      "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T05:07:33.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "bb4b8229845240e0a2fc",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "source": "tailscale.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T04:58:46.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "0a0ab1007eaef5cf31bf",
+      "title": "Trump meets Netanyahu for a record seventh White House visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:47:25.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "7ea20dd099db3e167b1a",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:43:36.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "7999e3b0f338bf11e289",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "source": "collabora.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T04:30:47.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "37c255bb17719dd1bf35",
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "source": "datagubbe.se",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T04:30:36.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "02aae1799e44f38dc447",
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:30:08.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "62f02d520ad302dfe5ed",
+      "title": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
+      "url": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:21:32.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "6d67d765bf705b3fd9df",
+      "title": "Organic eggs have worse impact on climate than eggs from caged chickens",
+      "url": "https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:00:24.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "c960f777e34843174007",
+      "title": "Magic circle: Stonehenge offers lucky visitors 20 minutes alone in monument",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/stonehenge-offers-visitors-20-minutes-alone-in-monument",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:00:23.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "2984e849e70ee1729e43",
+      "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+      "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T04:00:22.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "dccd1f126a7733f5370b",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "source": "transformer-transformer.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T03:52:29.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
+    },
+    {
+      "id": "2a450aea33b1e463f60f",
+      "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T03:36:14.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "640a424ac20cc4eb1749",
@@ -75,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T03:09:15.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "f74e3fd6117446a1b3c8",
@@ -86,29 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T02:54:45.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "c75b4f19c7cc7b4976ee",
-      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T02:48:11.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "02aae1799e44f38dc447",
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T02:47:28.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "66638f15550d5f06da67",
@@ -119,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-29T02:47:08.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "8a1c36a611ac91dcbc97",
@@ -130,29 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T02:45:59.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "62f02d520ad302dfe5ed",
-      "title": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
-      "url": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T02:45:51.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "3a7992a232faae6fbbe2",
-      "title": "‘Prioritising profit’: Australians regularly prescribed medicinal cannabis with very high THC levels",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/cannabis-prescription-australia-doctors",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T02:45:20.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "dfdf28232b4c9fe7dba8",
@@ -163,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T02:40:23.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "a95450017437ac5e4653",
@@ -174,29 +361,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-29T02:30:50.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
-      "id": "0724711810c55efeb3da",
-      "title": "Does every question mark deserve a Betteridge?",
-      "url": "https://dynomight.net/betteridge/",
-      "source": "dynomight.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T02:29:12.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "108478140e95dd70860f",
-      "title": "Hooray for the Sockets Interface",
-      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-      "source": "blog.apnic.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T02:25:29.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "id": "f780d8750024d0690ef3",
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T02:24:03.000Z",
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "b3ac3e8519df7e60a6e4",
@@ -207,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T02:05:41.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "1f76db9a28295e61dde4",
@@ -218,18 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T02:01:58.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "c0ce71bde7fbb4c4abb0",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T01:56:00.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "ea153b4bd6bbf07ea694",
@@ -240,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-29T01:49:19.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "caf40bf2ca4ea5c20f79",
@@ -251,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T01:37:23.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "8007a2cdddbe033db7c1",
@@ -262,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T01:30:14.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "45396440444bb2d039c3",
@@ -273,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T01:19:55.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "b8402af32e3a758b83cb",
@@ -284,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T01:09:51.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "380d42d67dcb595f0fb6",
@@ -295,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T01:07:09.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "7600919e014f45a1d4c2",
@@ -306,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T01:03:49.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "2e7252f1501b8008c993",
@@ -317,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-29T00:59:37.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "92f81f8e881283e11805",
@@ -328,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T00:48:07.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "2bf262af31d809d18924",
@@ -339,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T00:27:49.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "205ae4493843006b8ffe",
@@ -350,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T00:25:29.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "2a450aea33b1e463f60f",
-      "title": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T00:12:56.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "00f7b1dab50cebeece5d",
@@ -372,18 +526,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-29T00:11:23.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "b800e2499ab101143fab",
-      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "a58f19c4c9109162bfac",
@@ -394,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T23:42:32.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "0876cce25acbe47f63a0",
@@ -405,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-28T23:34:39.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     },
     {
       "id": "5b40522251cbb306d505",
@@ -416,161 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-28T23:27:09.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "91bc1f0c6751448367e9",
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:25:53.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "378d082f408a675788ed",
-      "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:24:15.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "7ce8fd58749fa9c78eb7",
-      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:16:44.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "e3c763507489f6b6a084",
-      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:12:09.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "3dd30fcb0e1c4771522f",
-      "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:04:59.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "5172a190a1c93b3b4cc9",
-      "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
-      "url": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T23:01:15.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "8eea61fb97b072130e51",
-      "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
-      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T22:14:45.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "b84c1990e8a515b814c1",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-28T22:09:06.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "f22b740284087dd55c32",
-      "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-      "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:59:40.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "f51fe8a9dc9dbf814275",
-      "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
-      "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:43:30.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "c697b1fd6b73b7a98b0b",
-      "title": "Burnham to seek cross-party consensus over urgent reforms to social care",
-      "url": "https://www.theguardian.com/society/2026/jul/28/andy-burnham-cross-party-consensus-reforms-social-care",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:30:13.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "1d1188d2a86bfb3219c1",
-      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:24:20.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "93969fb755af61d96b00",
-      "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:09:21.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
-    },
-    {
-      "id": "1b34406932358380ba57",
-      "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-      "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-28T21:07:39.000Z",
-      "discoveredAt": "2026-07-29T03:33:32.209Z"
+      "discoveredAt": "2026-07-29T06:17:09.034Z"
     }
   ]
 }
