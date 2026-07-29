@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T11:47:47.179Z",
+  "generatedAt": "2026-07-29T14:27:47.978Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "4976b68b11976f9e3b37",
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "id": "94b13cdd1b3f703856e5",
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:47:05.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T14:27:13.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "86fca7c3020b6bd2990e",
@@ -63,19 +63,30 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:44:40.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T14:26:56.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
-      "id": "36028fb82ccffc072122",
-      "title": "Fifa offers $40m if nations back controversial plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+      "id": "bda2ef7d269a1b11e4da",
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-07-29T14:21:07.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "ee8bd97f8ea94993251c",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:33:45.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T14:17:12.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "1e9b36b4bf86dca98ff7",
@@ -85,52 +96,404 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:28:52.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T14:15:12.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "1d5bbe40781b99e76d2f",
-      "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
+      "title": "Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:26:18.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T14:13:43.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "1cfc674b6d1a761ddd4f",
+      "title": "Triple killer who dismembered bodies of two friends given whole-life jail sentence",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/triple-killer-who-dismembered-bodies-of-two-friends-given-whole-life-jail-sentence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T14:12:34.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "710abcb3b8c0f595a2b4",
+      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T14:09:09.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "c270b4b71a772c3ba023",
+      "title": "Choose DuckDB rather than SQLite",
+      "url": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+      "source": "tracewayapp.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T14:05:40.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "df96f4f2c708270990e9",
+      "title": "How a seaweed bloom is affecting tourism in Mexico",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T14:04:42.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "8a7b36939a08fb15a497",
+      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
+      "url": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:58:28.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "6948194b05b833341e63",
+      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:57:46.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "e598ca60e693410e9347",
-      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:23:57.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T13:56:52.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
-      "id": "53976d38beb3f93bd7d9",
-      "title": "Heatwaves putting hydrangeas at risk in south of England, RHS warns",
-      "url": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+      "id": "d830a5dc35180d005b14",
+      "title": "Flash floods and storms batter north-east US as deadly weather threatens millions",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/flash-floods-storms-us-weather",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-29T11:22:05.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "publishedAt": "2026-07-29T13:54:12.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "02aae1799e44f38dc447",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:48:41.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "646722b0a0ce30dc2ecf",
+      "title": "Fauci invokes fifth amendment and declines to testify in Senate Covid hearing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:28:55.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "427705c2a46c12f7e577",
+      "title": "How are AI models able to autonomously hack others?",
+      "url": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:19:04.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "1a2cd13c4dec1bcd99f5",
+      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:15:22.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "48916097cfffdc59aa88",
+      "title": "US bans imports of new Chinese robots over security concerns",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:12:43.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "632974626df44b830151",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "url": "https://www.theguardian.com/media/2026/jul/29/four-women-accuse-jared-leto-criminal-sexual-conduct-teenagers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:12:34.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "7ad373d3a5af11801e71",
+      "title": "Half of England officially in ‘exceptionally serious’ drought",
+      "url": "https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T13:02:09.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "49b6b58de5f0d268b5b6",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T13:01:57.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "48173adbcf82b75bc561",
+      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T12:58:27.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "a37a025862c3c3527eff",
+      "title": "Assisted dying debate should come after end-of-life care reform, says Burnham",
+      "url": "https://www.theguardian.com/society/2026/jul/29/assisted-dying-debate-end-of-life-care-reform-andy-burnham",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:55:31.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "0ac0eae862af6e696a24",
+      "title": "BJP politician’s daughter explains why she supports India’s youth protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:50:52.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "cc564787a710790ef1fe",
+      "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+      "url": "https://jcgt.org/published/0015/02/01/",
+      "source": "jcgt.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T12:40:13.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "bc380ca6f0ec2dc5e036",
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+      "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:38:38.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "80792a742c6f85083756",
+      "title": "Tunisia’s body politic is in crisis",
+      "url": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:38:14.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "d513c00c05a13e6f1019",
+      "title": "Darktable",
+      "url": "https://www.darktable.org/",
+      "source": "darktable.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T12:33:02.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "4ef8c32ca84f8d090138",
+      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:27:19.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "f780d8750024d0690ef3",
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:17:42.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "4df08dafbca922d113b0",
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "source": "github.blog",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T12:11:18.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "76fac238079f7550889d",
+      "title": "Ghana hit by nationwide blackout as power plants fail",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:10:40.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "20606f30e7f9e55dbb97",
+      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T12:02:20.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "e5f56a681ba710d5b68e",
+      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
+      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:55:17.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "be2d7f67b6b1bbc3493f",
+      "title": "European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:53:40.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "4976b68b11976f9e3b37",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:47:05.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "5ae789bc01759c13cfa0",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "source": "enklypesalt.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T11:44:33.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "2b0f0be5da0bd16c0b12",
+      "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:41:58.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "4700539d6f14dbc9f19d",
+      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-29T11:34:58.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "e0f9a37a6bf6274e9a0a",
-      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "title": "Infantino and FIFA want to sell off stakes in the World Cup: What we know",
       "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T11:19:58.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "640c286136eba891114e",
@@ -141,7 +504,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T11:19:46.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
+    },
+    {
+      "id": "4c713565f80bf1afda1c",
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "source": "koreader.rocks",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-29T11:05:08.000Z",
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "94b3bbac56722c520238",
@@ -152,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-29T11:01:20.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "a492d88d899570acb63c",
@@ -163,7 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-29T11:00:47.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "ca45b17041f7155b636e",
@@ -174,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-29T11:00:31.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "f6424fd7a1be95560bfa",
@@ -185,29 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-29T10:55:38.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "140b670d368ae02c8236",
-      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-      "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-      "source": "fcc.gov",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T10:47:57.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "be2d7f67b6b1bbc3493f",
-      "title": "European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:42:17.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     },
     {
       "id": "0e5ed000423ddbdf36ab",
@@ -218,359 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-29T10:35:19.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "b54311920935670ccec6",
-      "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
-      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:35:13.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "6948194b05b833341e63",
-      "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:30:19.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "e1699c3c11aa0ecaeaf7",
-      "title": "US blocks Iranian missile barrage as pause in fighting falters | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/first-thing-us-blocks-iranian-missile-barrage",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:27:41.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "0f9a03e329572e98e156",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:23:29.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "39addf2c1cf54085650e",
-      "title": "Amiga Graphics Archive",
-      "url": "https://amiga.lychesis.net/index.html",
-      "source": "amiga.lychesis.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T10:19:44.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "f81444d99c879bc7c3d9",
-      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-      "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:19:28.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "d306649cb1b512b3be81",
-      "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-      "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:18:49.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "3804ed703a7c04f306d4",
-      "title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
-      "url": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T10:10:25.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "2a450aea33b1e463f60f",
-      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:52:44.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "847ce836f753e3238a5c",
-      "title": "How has the Indian government responded to ‘Cockroach’ protests?",
-      "url": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:52:16.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "64b3c1b3e72fd89105c6",
-      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-      "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:51:52.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "02aae1799e44f38dc447",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:39:56.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "61c9c223f02893c952e4",
-      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-      "url": "https://vimgolf.ai/",
-      "source": "vimgolf.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-29T09:26:52.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "afec1737dd99ae084f7b",
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:24:52.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "fc78e34ef83a339ac319",
-      "title": "Heathrow passengers face higher fares as airport can recover early expansion plan costs",
-      "url": "https://www.theguardian.com/business/2026/jul/29/heathrow-passengers-higher-fares-expansion-plan-costs",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:09:27.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "8e29933bdf4944f9e686",
-      "title": "‘The shaking was terrifying’: stories of survival and loss emerge after Japan earthquake",
-      "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:08:57.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "eeb664c9fa25bc776423",
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:07:40.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "8dfcb54ce1590e17d766",
-      "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:07:03.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "5e3890335a32b775095c",
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:02:48.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "4603e97e9f0f07fc416d",
-      "title": "Why US military prosecutes alleged rapes of women in UK as ‘sexual assaults’",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/29/why-us-military-prosecutes-alleged-rapes-of-women-in-uk-as-sexual-assaults",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:28.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "646722b0a0ce30dc2ecf",
-      "title": "Anthony Fauci to face grilling from Senate Republicans on Covid pandemic",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:28.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "ad528fa8f81be137feda",
-      "title": "More Americans are going bankrupt. What does that mean?",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "ca8b84dc1b4ac8133b2e",
-      "title": "The Federal Reserve faces a critical decision on interest rates",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "6c3c7d6a09f9aeb122dd",
-      "title": "'Machines are collaborators' at this new museum of AI art",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "a73d47fe1dcf11e2a673",
-      "title": "To win over working class voters, Democrats need to stop talking about democracy",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "367ef2baeb156d106698",
-      "title": "As extreme heat grips the South and West, here's how to stay safe",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "3492a4c3901d54ce11d8",
-      "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "e8c2bf152f9c40ce0db1",
-      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-      "url": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:50:26.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "e539e697d70aeaabdd76",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:46:26.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "9aa0bdfbec594f3c569f",
-      "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:33:39.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "9c2b8444c467496ab24e",
-      "title": "Mother went to South Australia police station day before suspected murder-suicide",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/sa-police-helena-wright-toddler-death-missing-baby-port-macdonnell-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:27:31.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
-    },
-    {
-      "id": "5a7032088018a52ec744",
-      "title": "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-29T08:16:08.000Z",
-      "discoveredAt": "2026-07-29T11:47:47.179Z"
+      "discoveredAt": "2026-07-29T14:27:47.978Z"
     }
   ]
 }
