@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T18:42:31.326Z",
+  "generatedAt": "2026-07-30T20:22:34.167Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,37 @@
   ],
   "stories": [
     {
-      "id": "963fd7f6f4b69200dd8f",
-      "title": "Spain’s Ceuta declares emergency over surge in migrant arrivals",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+      "id": "6c3cd05b5450d9f14240",
+      "title": "Senate’s latest effort to halt Trump’s Iran hostilities fails in 49-50 vote as some Republicans side with Democrats – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/30/donald-trump-todd-blanche-irs-justice-immigration-iran-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T20:09:51.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "0ec53c082b9df60faf03",
+      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+      "url": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-07-30T18:27:54.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "publishedAt": "2026-07-30T19:57:43.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "0033256e803d24e43d09",
+      "title": "Hundreds evacuated after ‘apocalyptic’ wildfire near Suffolk nuclear power station",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:46:13.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "7a088614d9ce5d6f3428",
@@ -63,8 +85,129 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-07-30T18:17:22.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "publishedAt": "2026-07-30T19:41:12.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "d45751f9b1b6194a10f9",
+      "title": "Netflix sued for $105m over stolen Nicolas Cage war thriller",
+      "url": "https://www.theguardian.com/film/2026/jul/30/netflix-sued-nicolas-cage-war-thriller",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:37:20.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "8412c2064f17f5756ab8",
+      "title": "US Senate rejects bid to rein in Trump’s authority over Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/donald-trump-senate-iran-war-power",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:29:15.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "a5af2bffb786791c266f",
+      "title": "French riot police used teargas on people trying to board small boat, charity claims",
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:20:16.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "d96f6ce31b2d12a68b9b",
+      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:16:18.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "c4dfec3e4e5ce48df13f",
+      "title": "Congo’s Ebola death toll passes 1,500 as it struggles to halt spread",
+      "url": "https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T19:02:57.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "2c2b76abb207f3f1d460",
+      "title": "UN demands end of Ugandan clampdown on dissent",
+      "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T18:52:34.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "212adfb4a964b5f9152f",
+      "title": "ABC News says FCC is carrying out intimidation campaign to shape coverage",
+      "url": "https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T18:51:35.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "090c7c831e70d7300ad7",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "source": "uefa.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T18:40:52.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "4c0b63a3cb0b06e5f9e5",
+      "title": "Making Postgres queues scale",
+      "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+      "source": "dbos.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T18:39:32.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "efc3790543667ac37865",
+      "title": "So you want to use plants to reduce CO₂",
+      "url": "https://dynomight.net/plants/",
+      "source": "dynomight.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T18:31:02.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "963fd7f6f4b69200dd8f",
+      "title": "Spain’s Ceuta declares emergency over surge in migrant arrivals",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T18:27:54.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "f42ec89dfb62bbb456d3",
@@ -75,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T18:16:08.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "25b02d15c22c4b7d9312",
@@ -86,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:15:11.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "43f5be03f0cb7d8cfb76",
@@ -97,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T18:14:19.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "7b54805e99a39c006ebc",
@@ -108,29 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:12:02.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "0033256e803d24e43d09",
-      "title": "Hundreds evacuated after ‘apocalyptic’ wildfire near Suffolk nuclear power station",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T18:08:00.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "6c3cd05b5450d9f14240",
-      "title": "Senate’s latest effort to halt Trump’s Iran hostilities fails in 49-50 vote as some Republicans side with Democrats – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/30/donald-trump-todd-blanche-irs-justice-immigration-iran-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:58:33.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "38445df85a54d02a7328",
@@ -141,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T17:58:14.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "7608d2fecb0065dab225",
@@ -152,7 +273,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:55:24.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
+    },
+    {
+      "id": "92ca892e0c7dbb9ec74b",
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "source": "chriscoyier.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T17:52:51.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "64308c0fff8a0001fa6b",
@@ -163,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:50:21.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "851e97fbccceba391b05",
@@ -174,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T17:47:57.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "bda87ffbb086c7214293",
@@ -185,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T17:47:44.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "553441a31f8c36580d96",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:45:26.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "e2a5a7889e7744557701",
@@ -207,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:40:29.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "1555c3588e48455ff360",
@@ -218,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T17:38:38.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "096b3ebd11acb2f5e11a",
@@ -229,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:33:41.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "33d6cd47824ef032471c",
@@ -240,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:33:09.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "0688993bfb00106de531",
@@ -251,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T17:31:07.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "2ae14840c4616dd3e3c7",
@@ -262,18 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:26:01.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "ba34d67715b3f97e86e7",
-      "title": "Fifa could draw US Congress inquiry over ‘smash-and-grab scam’, top Democrat warns",
-      "url": "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:24:09.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "8915bd772776205e27fa",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T17:23:21.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "c5e3ca847ab02841942b",
@@ -295,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:22:31.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "5ef245ea82843cfc4d41",
@@ -306,18 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:19:27.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "f3121588faa1de162fb1",
-      "title": "American Red Cross declares second-ever national blood supply crisis",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/american-red-cross-blood-supply-crisis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:16:13.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "857d7c4ab2ba13046996",
@@ -328,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T17:15:51.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "d235948c34609802859f",
@@ -339,18 +449,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:05:11.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "f62495d0751849763ca6",
-      "title": "Read This Before You Buy That TV Streaming Stick",
+      "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "source": "krebsonsecurity.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T17:04:53.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "c14fb2917d4ffbbef8bf",
@@ -361,18 +471,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T16:59:20.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
-      "id": "2f4084e76e7685481646",
-      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
-      "url": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
-      "source": "spectrum.ieee.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-30T16:36:47.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "id": "29f93a7d66035d6cfccd",
+      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T16:47:40.000Z",
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "4a874749df6e5ff6a033",
@@ -383,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T16:34:12.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "96cfe8e9f936ef9c442a",
-      "title": "Toot.community is shutting down",
-      "url": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
-      "source": "social.jorijn.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-30T16:33:41.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "7436e36d1b050cb0048e",
@@ -405,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T16:31:07.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "d87937c188ecdd1ef23f",
@@ -416,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T16:30:58.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "2e63bd7503ea21180e7d",
@@ -427,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T16:30:00.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "27348615c6e820337bf9",
@@ -438,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T16:28:51.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "b1d7747418b9f2daa72a",
@@ -449,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T16:26:16.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "3905c888de65c657c6aa",
@@ -460,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T16:21:41.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     },
     {
       "id": "e9ee4d29ac28d0739af5",
@@ -471,106 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T16:06:08.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "9cffee12ea2bb3f2d207",
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T16:04:53.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "e69add015cff3946341a",
-      "title": "US GDP growth dips as inflation and trade deficits pressure economy",
-      "url": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:52:47.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "6ac6922c1d13bb107b98",
-      "title": "Man impaled by a hiking pole treks 10 miles down mountain",
-      "url": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:47:09.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "b3348af7469731464b02",
-      "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
-      "url": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:36:56.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "7765208d45be6fbb2f22",
-      "title": "Republicans delay vote on Trump’s US attorney general pick amid concerns",
-      "url": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:36:35.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "7abbf173a2b72cd6eb1a",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:35:50.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "afa3334e98cc32fbab86",
-      "title": "UEFA members vote to boycott FIFA if Infantino’s World Cup plans pursued",
-      "url": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:30:40.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "6e502624dac637dab7fd",
-      "title": "US hits dozens of targets in Iran overnight as peace efforts under threat",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:30:33.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
-    },
-    {
-      "id": "33214b264844ad016b82",
-      "title": "Iran’s war with the US is not its only conflict as internal crises mount",
-      "url": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T15:24:31.000Z",
-      "discoveredAt": "2026-07-30T18:42:31.326Z"
+      "discoveredAt": "2026-07-30T20:22:34.167Z"
     }
   ]
 }
