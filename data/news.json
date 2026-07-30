@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T21:46:06.604Z",
+  "generatedAt": "2026-07-30T23:15:39.299Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
@@ -45,6 +45,160 @@
   ],
   "stories": [
     {
+      "id": "49470c822154e7d8ae8a",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T23:08:51.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "7a088614d9ce5d6f3428",
+      "title": "Middle East crisis live: Iraq says it had ‘no prior knowledge’ of US-Saudi attacks",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T23:04:30.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "3990217070577f64ca4f",
+      "title": "Seattle police chief resigns after deadly food festival shooting",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T23:02:21.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "8b96329aed14643e23bf",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T23:00:51.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "a72569f1761e01b24208",
+      "title": "Australia news live: Australia sends firefighters to France as blazes rage; leaders gather for Garma festival",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:55:48.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "e21a5bce04de2ca1268f",
+      "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:54:36.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "c5c05b6ee3af68394089",
+      "title": "US government map of Africa mislabels every country at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:48:02.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "4a2e6030507e6a221b79",
+      "title": "Mandela Barnes drops out of high-stakes Wisconsin governor’s race",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:45:28.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "7c2d1bd1dcfd70b7da74",
+      "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:34:19.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "b67b1e27aefc02a3669d",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "source": "geospatialml.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T22:33:11.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "6c3cd05b5450d9f14240",
+      "title": "Senate’s latest effort to halt Trump’s Iran hostilities fails in 49-50 vote as some Republicans side with Democrats – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/30/donald-trump-todd-blanche-irs-justice-immigration-iran-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:15:32.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "11a290ed830b182cba6f",
+      "title": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
+      "url": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T22:14:12.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "4d7bef17cf6e8e88f998",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "source": "rune.build",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-07-30T21:47:31.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
+      "id": "39ca394a4e1c0b8f286c",
+      "title": "Why is US GDP growth slowing, and how can it be reversed?",
+      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-07-30T21:39:37.000Z",
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
+    },
+    {
       "id": "44582fefb05558deea1e",
       "title": "French teen fined in Singapore over ‘straw licking’ stunt",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
@@ -53,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T21:34:39.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "3ee36e2e65647854e96d",
@@ -64,51 +218,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T21:34:11.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "6c3cd05b5450d9f14240",
-      "title": "Senate’s latest effort to halt Trump’s Iran hostilities fails in 49-50 vote as some Republicans side with Democrats – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/30/donald-trump-todd-blanche-irs-justice-immigration-iran-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T21:32:37.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "fc3600dba4ecbadefc53",
-      "title": "Burnham’s tax power shift aims to free England’s mayors from ‘Treasury death grip’",
+      "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
       "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T21:30:55.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "02aba966fe140bc975f0",
-      "title": "Australian Rose Davies wins gold in 5,000m in second Commonwealth Games triumph",
-      "url": "https://www.theguardian.com/sport/2026/jul/31/australian-rose-davies-wins-gold-in-5000m-in-second-commonwealth-games-triumph",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T21:30:50.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "a72569f1761e01b24208",
-      "title": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T21:30:44.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "5ef245ea82843cfc4d41",
@@ -119,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T21:24:31.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "43f5be03f0cb7d8cfb76",
@@ -130,18 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T21:22:52.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "7a088614d9ce5d6f3428",
-      "title": "Middle East crisis live: Iraq says it had ‘no prior knowledge’ of US-Saudi attacks",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T21:21:52.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "9b9fea79365a7140406d",
@@ -152,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T21:00:28.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "441c936f9ff6340c20ee",
@@ -163,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T21:00:11.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "5411f0ccc04348a983c5",
@@ -174,29 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:54:48.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "e21a5bce04de2ca1268f",
-      "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
-      "url": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T20:45:51.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "fcde56034665dd5978d3",
-      "title": "Man seeks millions after being shot by police in game-related swatting incident",
-      "url": "https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/",
-      "source": "tucsonsentinel.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-30T20:44:13.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "b705c6703a833c95be09",
@@ -207,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:39:38.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "af11c8cb9ad6b7f43af3",
@@ -218,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T20:37:59.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "9a0fa560817832b09eed",
@@ -229,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-07-30T20:37:48.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "8dc4c9eafde6ad53b623",
@@ -240,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:35:18.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "953ba00e981c7ee07fd0",
@@ -251,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T20:33:15.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "0f2bdbfe7d580c82a10c",
@@ -262,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:32:13.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "0a25d1124634e5974a84",
@@ -273,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:11:07.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "2b8181d1d09085067572",
@@ -284,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T20:07:56.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "0ec53c082b9df60faf03",
@@ -295,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T19:57:43.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "0033256e803d24e43d09",
@@ -306,29 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T19:46:13.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "5caf6db84ee938bf3025",
-      "title": "New survey reveals fears of US farm workers amid Trump’s immigration raids",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/farm-workers-survey-trump-immigration",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T19:46:05.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "d45751f9b1b6194a10f9",
-      "title": "Netflix sued for $105m over stolen Nicolas Cage war thriller",
-      "url": "https://www.theguardian.com/film/2026/jul/30/netflix-sued-nicolas-cage-war-thriller",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T19:37:20.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "3c5c702b79553bd950f7",
@@ -339,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T19:34:27.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "a5af2bffb786791c266f",
@@ -350,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T19:20:16.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "d96f6ce31b2d12a68b9b",
@@ -361,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T19:16:18.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "c4dfec3e4e5ce48df13f",
@@ -372,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T19:02:57.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "2c2b76abb207f3f1d460",
@@ -383,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:52:34.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "212adfb4a964b5f9152f",
@@ -394,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:51:35.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "090c7c831e70d7300ad7",
@@ -405,18 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T18:40:52.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "4c0b63a3cb0b06e5f9e5",
-      "title": "Making Postgres queues scale",
-      "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-      "source": "dbos.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-07-30T18:39:32.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "963fd7f6f4b69200dd8f",
@@ -427,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:27:54.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "f42ec89dfb62bbb456d3",
@@ -438,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T18:16:08.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "25b02d15c22c4b7d9312",
@@ -449,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:15:11.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "363aaf17512187a755ff",
@@ -460,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T18:13:06.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "7b54805e99a39c006ebc",
@@ -471,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T18:12:02.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "38445df85a54d02a7328",
@@ -482,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-07-30T17:58:14.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "7608d2fecb0065dab225",
@@ -493,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:55:24.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "92ca892e0c7dbb9ec74b",
@@ -504,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-07-30T17:52:51.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     },
     {
       "id": "64308c0fff8a0001fa6b",
@@ -515,62 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-07-30T17:50:21.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "851e97fbccceba391b05",
-      "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:47:57.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "bda87ffbb086c7214293",
-      "title": "Are you choosing to stay single? We want to hear from you",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:47:44.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "e2a5a7889e7744557701",
-      "title": "Russian missile destroys US firm’s Kyiv drone factory",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:40:29.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "1555c3588e48455ff360",
-      "title": "European soccer leaders to boycott the World Cup in an unprecedented step",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:38:38.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
-    },
-    {
-      "id": "096b3ebd11acb2f5e11a",
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
-      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-07-30T17:33:41.000Z",
-      "discoveredAt": "2026-07-30T21:46:06.604Z"
+      "discoveredAt": "2026-07-30T23:15:39.299Z"
     }
   ]
 }
