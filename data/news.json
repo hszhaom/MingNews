@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T17:10:45.490Z",
+  "generatedAt": "2026-08-01T18:33:50.134Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "a232e170decfe497c411",
+      "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:57:18.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "ca741c1b46d0615e7fa4",
+      "title": "NetBSD 11.0 Released",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "source": "blog.netbsd.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-01T17:56:41.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "c912f5e7127f2a2280a1",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:51:46.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "1896c37b7123905ef47f",
+      "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+      "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:48:41.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "0c654cb569d16371f587",
+      "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:45:26.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "2a8494c6210e14d702da",
+      "title": "Care for a dirty soda? How this drink trend became a US obsession",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:37:34.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "80dc58937f35b3b5fef0",
+      "title": "Trump offering early access to online posts in move seen as corruption",
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:29:00.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "173246bbc12f1f9e6f0f",
+      "title": "Israeli forces detain residents and demolish homes in southern Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:28:52.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
+      "id": "fe9b14fd0d77cca682d5",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-01T17:16:51.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
+    },
+    {
       "id": "cd5da5260c1f83f9bb68",
       "title": "Call for 'full review' as pressure grows on Infantino",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
@@ -53,7 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T17:07:46.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "bd8ae6bd6ebbd09c852f",
@@ -64,18 +163,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T16:59:07.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "8fd5aecba5c63873806f",
-      "title": "I ♥ RSS – A directory of people who love RSS",
+      "title": "A directory of people who love RSS",
       "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
       "source": "andrewshell.org",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T16:52:41.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "cb44b635f12c6aab6d6e",
@@ -86,18 +185,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T16:45:40.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
-      "id": "3725636c218d89336d12",
-      "title": "I Fired My AI Assitant",
-      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-      "source": "chreke.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-01T16:38:28.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "id": "aad419d8840e63380c6f",
+      "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+      "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T16:43:34.000Z",
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "de9e0bf7690e5b3e6f2b",
@@ -108,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T16:16:16.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "8fb68d3291a28a08c384",
@@ -119,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T16:15:24.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "31c4c8f2de4ff08353b7",
@@ -130,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T16:07:10.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "78ccada4d5587e289f7c",
@@ -141,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T16:01:22.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "6eb47d77a0c3b37b870b",
@@ -152,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T15:48:39.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "f0817c6d89b23dd8d4ea",
@@ -163,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T15:46:08.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "45192ff15c89a276d7d1",
@@ -174,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T15:34:15.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "23d9cb880d67747088c8",
@@ -185,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T15:25:30.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "ab2119482637f75b055c",
@@ -196,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T15:25:21.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "1516c3cd15e2595d1a5f",
@@ -207,18 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T15:23:15.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "ffe1cbec1047fbd902ea",
-      "title": "US reporter fighting back after border patrol seized his cell phones",
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/border-patrol-reporter-laura-loomer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T15:00:55.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "a8375fa55518d1843e9b",
@@ -229,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T15:00:07.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "a77cd0cf1cc952b81a4b",
@@ -240,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T14:59:10.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "f6a6b3e65adb7a164898",
@@ -251,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T14:58:54.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "f082be6b45e19210919f",
@@ -262,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T14:31:35.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "b314db723fbf8688efe5",
@@ -273,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T14:28:20.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "e31ce1ac04815613866a",
@@ -284,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T14:19:51.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "4b545b2b5757aaf1c936",
@@ -295,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T14:09:00.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "43ac0cf521846de69553",
@@ -306,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T14:07:36.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "3111f28a25ce0bcbdd3d",
@@ -317,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T13:59:19.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "46549f71248398d01790",
@@ -328,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T13:50:36.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "32af2a17190eadb9d317",
@@ -339,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T13:49:15.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "dce6ae86fc6401ca6449",
@@ -350,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T13:46:33.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "8b072750a66763d584c7",
@@ -361,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T13:41:44.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "b10c1d5f941c2423b491",
@@ -372,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T13:35:39.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "7b2f4468470275d4538f",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T13:10:47.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "dddb1588c93260835dcf",
@@ -394,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T13:00:52.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "97fd6b883008b681af1e",
@@ -405,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T12:57:13.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "6efa38d001d18e6e399f",
-      "title": "Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "antipope.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-01T12:56:54.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "12aa74ee7ac857d8827f",
@@ -427,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T12:44:54.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "a65d6c9e2d730f7e34e8",
@@ -438,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T12:40:36.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "9e9238cf0bbd920f9137",
@@ -449,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T12:34:25.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "d96f6ce31b2d12a68b9b",
@@ -460,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T12:04:46.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "e6c434669eba4a019ec2",
@@ -471,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T12:00:53.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "0701a58ed41aa405d559",
@@ -482,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T12:00:52.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     },
     {
       "id": "869c4fa30ece49ff1fe2",
@@ -493,84 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-01T12:00:00.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "e792fab25f17fab11d07",
-      "title": "Infantino’s FIFA World Cup crisis: Who could replace president?",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:58:23.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "eda30c8bdd85ebff8535",
-      "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
-      "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:30:00.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "22d346700b23236e0aed",
-      "title": "Spain says migrants in Ceuta have returned to Morocco",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:29:41.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "99887900bb3f09ff31d9",
-      "title": "Trump mimics sound of Patriot missile interceptions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:21:32.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "777d482a057e3ff4bc72",
-      "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-      "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:14:58.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "0752af7341e7afb04bd3",
-      "title": "India’s Modi says he forgives students who abused him in Cockroach protests",
-      "url": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:08:17.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
-    },
-    {
-      "id": "e58b46a175bb1b77af9f",
-      "title": "On the ground in the English seaside town rightwing influencers say is being ‘invaded’",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T11:00:51.000Z",
-      "discoveredAt": "2026-08-01T17:10:45.490Z"
+      "discoveredAt": "2026-08-01T18:33:50.134Z"
     }
   ]
 }
