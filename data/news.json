@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T14:41:35.033Z",
+  "generatedAt": "2026-08-02T16:09:34.701Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 23,
+      "count": 24,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,204 @@
   ],
   "stories": [
     {
+      "id": "1372ef6906c2e6fc8f51",
+      "title": "Britain could face food shortages as drought continues, farmers warn",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:54:05.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "6ce9d1acb68192314e9f",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:50:59.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "77f6de25f623c26c545d",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:48:00.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "0c5865de4ae1b4e389cc",
+      "title": "Solar powers record share of Britain’s electricity mix in July",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/solar-powers-record-share-britain-electricity-july",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:46:27.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "4f7f0a562dddabdc5abb",
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "source": "pudding.cool",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-02T15:41:08.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "18f690ad689d906e47fb",
+      "title": "Israeli settlers shoot Palestinian child during farm raid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:36:28.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "8523d78a73abb9887014",
+      "title": "How to end the ‘Hormuz war’",
+      "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:33:20.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "beafc3134ff3d24fb09c",
+      "title": "Burnham to focus on keeping child rapists in prison as release scheme talks enter final day",
+      "url": "https://www.theguardian.com/society/2026/aug/02/andy-burnham-child-rapists-prison-release-scheme-talks",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:31:19.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "bfb6b58bfc3c22e3dd15",
+      "title": "Helicopters fighting Greece wildfires collide in mid-air",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:21:56.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "b517b0160c57d826fe51",
+      "title": "Ukrainian farmers use temporary storage to revive grain exports",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:14:26.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "e1cdf43dcf727a7e9232",
+      "title": "National Gallery security staff segregated like ‘second-class citizens’, curator claims",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/02/national-gallery-security-staff-segregated",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:10:17.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "dc017d515d5929d27f59",
+      "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
+      "url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:00:27.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "9c2f0f3934355f862f6a",
+      "title": "A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T15:00:24.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "36d6bcf1e78d5909bb38",
+      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T14:56:41.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "b4f26d4e133e76a4dc8b",
+      "title": "A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "source": "ursulakleguin.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-02T14:51:18.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "856c279d02939619a35c",
+      "title": "Heatwave forces nuclear shutdown in Hungary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T14:44:34.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "5762383b189e1bb04a09",
+      "title": "‘Stench of sleaze’: Farage struck deal over political return months before 2024 election, reports say",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/nigel-farage-deal-political-return-reform-2024-election-reports",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T14:42:01.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
+      "id": "c11d4a9d6c3051c42384",
+      "title": "Tanks, troops and space",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T14:34:21.000Z",
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
+    },
+    {
       "id": "edcc104c111d53931a57",
       "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
       "url": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
@@ -53,18 +251,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T14:20:36.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "9de59880db43b095f1ec",
-      "title": "Firefighting helicopters collide near Athens as Greece battles wildfires",
+      "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
       "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T14:15:34.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "8b833e6573c5dcfd3b87",
@@ -75,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T14:14:25.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "0a876d8269423c496e0d",
@@ -86,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T14:11:54.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "bb719555fbb9bce8664a",
@@ -97,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T14:01:23.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "9c5630be4c5e860414f5",
@@ -108,18 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T13:59:49.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "c496bab9660e68b9b143",
-      "title": "‘Tiger mum’ Lucy Powell on Labour’s vocational skills drive: ‘It’s about ambition for everybody’",
-      "url": "https://www.theguardian.com/politics/2026/aug/02/lucy-powell-tiger-mum-vocational-skills-labour-education",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T13:58:43.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "76fadedb33d6f8af1ff0",
@@ -130,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T13:55:07.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "2209e743a321ae6eb988",
@@ -141,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T13:52:53.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "9da2e2b7125f642940a6",
@@ -152,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T13:51:41.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "69e4062abd4cddd47142",
@@ -163,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T13:46:23.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "098f1624796b32775466",
@@ -174,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T13:40:55.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "be48fcd8bc400cc8a827",
@@ -185,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-02T13:35:43.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "cb81d52dc53ac1b85483",
@@ -196,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T13:11:56.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "853dba23da452be5bc48",
@@ -207,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T13:08:25.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "68dd0e6417e23f7f9288",
-      "title": "‘There’s no nurdle fairy’: thousands mobilise to clean up plastic spillage in north-east England",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/02/nurdles-clean-up-plastic-spillage-beaches-north-east-england",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T13:00:23.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "444a578393be815798e6",
@@ -229,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T12:42:40.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "5d3b40996d9db16616f0",
@@ -240,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-02T12:36:07.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "fc23b145b006cf8df047",
@@ -251,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:34:35.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "f4a1e1721c5fbc448e9b",
@@ -262,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:33:29.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "95127b27ef9aa8d81e9d",
@@ -273,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:32:51.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "50a41de829a5f964908b",
@@ -284,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-02T12:31:16.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "b46d9d69771c44d1d4ca",
@@ -295,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T12:25:01.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "1887fde843de7e8e5c37",
@@ -306,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:07:11.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "9e5be3a3df55f85bc213",
@@ -317,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:06:31.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "c425b53336a31c3da1b3",
@@ -328,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-02T12:02:04.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "f29c4cfbc195221d5716",
@@ -339,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T12:00:22.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "f9e5672bca02912d55b8",
@@ -350,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T12:00:22.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "f4533ccafc60c57e510d",
@@ -361,18 +537,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-02T12:00:21.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
-      "id": "3c719906851a4cf894a9",
-      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-      "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "id": "ca5d367dfd1e24654c1e",
+      "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+      "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-02T12:00:00.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "5de587695429051b4b84",
@@ -383,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-02T11:49:40.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     },
     {
       "id": "a513210dec1776dc2fab",
@@ -394,183 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-02T11:34:41.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "808a2c0efc34cee95fe5",
-      "title": "Show HN: Fuse – statically typed functional programming language",
-      "url": "https://fuselang.org/",
-      "source": "fuselang.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-02T11:23:56.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "5ea70117ce96e2bca74f",
-      "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:22:04.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "b1dbe2b7430b37fd8e86",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:12:00.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "37b5966d8be8be1fe309",
-      "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:09:25.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "72749fb625e011baa5de",
-      "title": "Ben-Gvir mocks Palestinian detainee over prison conditions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:09:03.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "7ce4963614b92a0b9177",
-      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
-      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:07:13.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "6c0c190a92a07f2f76f8",
-      "title": "Why is the rate of premature births so high in this community?",
-      "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:03:47.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "0607e6ab6e439316a02e",
-      "title": "US officials focus on identification and rapid action as measles cases rise",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/us-measles-cases-outbreak",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T11:00:20.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "65cb2d9e1f5b7fdd8b3b",
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:59:55.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "48aefec82fe54e27c56c",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:54:44.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "f978f7bdb2e1193d8ed7",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:32:28.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "564cc5d043f9be497af3",
-      "title": "Israeli soldiers jailed over Sde Teiman walkout",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:31:32.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "711ad017c769cc36b20b",
-      "title": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
-      "url": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:31:25.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "26e6c89b14432174f71e",
-      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:20:10.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "4aaa826d3d820def0711",
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "source": "publicdomainreview.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-02T10:18:24.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
-    },
-    {
-      "id": "adeeff7d993b8b4787d9",
-      "title": "Relentless UK heatwaves turn ‘green and pleasant land’ brown",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/july-set-to-be-driest-on-record-for-england-and-wales-after-relentless-heatwaves",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-02T10:12:54.000Z",
-      "discoveredAt": "2026-08-02T14:41:35.033Z"
+      "discoveredAt": "2026-08-02T16:09:34.701Z"
     }
   ]
 }
