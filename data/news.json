@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T23:32:59.987Z",
+  "generatedAt": "2026-08-02T01:10:19.401Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -46,25 +46,135 @@
   "stories": [
     {
       "id": "4c2061d90006aa2666aa",
-      "title": "Australia news live: aged care nurses get pay rise; fuel excise cut due to end at midnight",
+      "title": "Australia news live: Hume sidesteps question over Taylor’s Icac mention saying ‘this is so distant from him’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-01T23:29:11.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "publishedAt": "2026-08-02T00:58:04.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
-      "id": "dfffc47ecc6cc9860c3f",
-      "title": "Stop fucking around with database commits and transactions",
-      "url": "https://www.droppedasbaby.com/posts/db-commits/",
-      "source": "droppedasbaby.com",
+      "id": "f978f7bdb2e1193d8ed7",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:55:16.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "685536ce0ef8120d1e9f",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:29:55.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "9da2e2b7125f642940a6",
+      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
+      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:22:48.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "4cd882f3f32fa22d66cc",
+      "title": "Capital One says it closed Trump Organization’s accounts after anti-money-laundering review",
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:04:24.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "48aefec82fe54e27c56c",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:02:18.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "4a381cce1fdbde697117",
+      "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "612e87ccf291b1eeeb1c",
+      "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T23:57:30.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "4a18007c2018dbf28d4c",
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-01T23:56:19.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "78a27feea234b38f09bc",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "source": "rfc-editor.org",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-01T23:19:23.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "publishedAt": "2026-08-01T23:44:55.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "46d8569666b1545ef6ee",
+      "title": "New York Times reveals Trump administration subpoena over North Korea story",
+      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-01T23:42:44.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "a48ab97d2683c50cd16f",
+      "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-01T23:39:52.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "a886adb35db8d2240f00",
@@ -75,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T23:15:40.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "4c09fc42eed1298e904a",
@@ -86,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T23:03:35.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "e1570ae96491ad3b5bd9",
@@ -97,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T23:03:23.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "2c112f3db26d1b9ca549",
@@ -108,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T23:03:15.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "934cb6732eb4860c6be2",
@@ -119,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T23:01:04.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "4cb5b98e0732d8b81d3f",
@@ -130,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T22:57:55.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "1c6e94ae7ba10cfc4395",
@@ -141,7 +251,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T22:55:52.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
+    },
+    {
+      "id": "732e20fe6af784f2819a",
+      "title": "Anime User Interfaces",
+      "url": "https://animeuserinterface.tumblr.com/",
+      "source": "animeuserinterface.tumblr.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-01T22:47:24.000Z",
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "3eb1bb0d0967fa430128",
@@ -152,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T22:36:23.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "0cf7ce5764501ad09b72",
@@ -163,18 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T22:34:36.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "685536ce0ef8120d1e9f",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T22:34:20.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "0c1795b4639e858fee3b",
@@ -185,7 +295,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-01T22:32:44.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "8de29277cae14df12315",
@@ -196,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T22:31:52.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "a435b167b03d8459c28e",
@@ -207,18 +317,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T22:31:13.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "0d78e02a307de63f7fdd",
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "source": "mitsloan.mit.edu",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T22:25:12.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "f26a74e135c5d6fa1e9d",
@@ -229,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-01T22:23:39.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "132ec0df01b034f9175c",
@@ -240,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T22:06:18.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "f082bf01d8ca2099a05b",
@@ -251,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T21:42:26.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "bb805db75fe571bf3158",
@@ -262,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T21:15:50.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "48aefec82fe54e27c56c",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T21:13:17.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "b28a41beffd10199b5e9",
@@ -284,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T21:03:42.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "f10bc1fd854b4214268d",
@@ -295,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T20:57:04.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "78d1ddb7f4572678bec5",
@@ -306,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T20:45:12.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "39ed2972572cf5c747db",
@@ -317,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T20:39:20.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "d7ebba307d67f4091bae",
@@ -328,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T20:38:41.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "308b4e638e9ec0ff2dd4",
@@ -339,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T20:33:27.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "ba237d483c3a8ab3c3af",
@@ -350,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-01T20:27:32.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "c4dbf8f329afc3a66fe2",
@@ -361,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T20:24:19.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "96269420f5496c528bc3",
@@ -372,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T20:10:01.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "053e8d29019fc2417c86",
@@ -383,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T20:09:27.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "b679a885b964e9898a0d",
@@ -394,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T19:44:48.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "37c89c82bede69f8dfa9",
@@ -405,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-01T19:39:48.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "28a1ef27170d5cd3fd97",
@@ -416,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T19:08:12.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "bd8ae6bd6ebbd09c852f",
@@ -427,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-01T19:03:39.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "f5dfac90accdd205a54d",
@@ -438,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-01T18:51:14.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "8d9d7f877ddb5b355deb",
@@ -449,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T18:50:17.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "ca95222d7fafa76866ea",
@@ -460,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-01T18:33:27.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     },
     {
       "id": "74a7b47d91787f581d64",
@@ -471,106 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-01T18:32:20.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "96fa8ef5b388dae01967",
-      "title": "At least three killed in explosion near cafe in Russia’s Moscow",
-      "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T18:22:35.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "38813d91760aee987da6",
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "source": "openrss.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-01T18:07:07.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "a232e170decfe497c411",
-      "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:57:18.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "ca741c1b46d0615e7fa4",
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "source": "blog.netbsd.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-01T17:56:41.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "c912f5e7127f2a2280a1",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:51:46.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "1896c37b7123905ef47f",
-      "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:48:41.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "0c654cb569d16371f587",
-      "title": "At least 9 people killed in Russian missile attacks on Kyiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:45:26.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "2a8494c6210e14d702da",
-      "title": "Care for a dirty soda? How this drink trend became a US obsession",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:37:34.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
-    },
-    {
-      "id": "80dc58937f35b3b5fef0",
-      "title": "Trump offering early access to online posts in move seen as corruption",
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-01T17:29:00.000Z",
-      "discoveredAt": "2026-08-01T23:32:59.987Z"
+      "discoveredAt": "2026-08-02T01:10:19.401Z"
     }
   ]
 }
