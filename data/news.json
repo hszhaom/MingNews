@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T19:09:06.102Z",
+  "generatedAt": "2026-08-03T20:45:49.689Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,191 @@
   ],
   "stories": [
     {
+      "id": "f8cb53b5ba532ec6277e",
+      "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T20:06:49.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "191b239e660c22e47b37",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T20:05:46.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
       "id": "3bfffe52848362d851a5",
-      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – US politics live",
+      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-03T18:53:51.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "publishedAt": "2026-08-03T19:59:21.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "bfc4d597770658075a2b",
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "source": "status.digdir.no",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-03T19:56:27.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "bfdb63010a9443acc1c1",
+      "title": "Survivors reach port after deadly Indonesia ferry fire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:55:36.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "764b699a96ecef1dbbe6",
+      "title": "Clergy members arrested while protesting at Senate office",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:53:59.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "0507689d311258bef57b",
+      "title": "Nolan Wells death: at least two people charged over alleged threats to officials",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/nolan-wells-death-threats-officials",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:49:52.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "13caec7217d3a7969a09",
+      "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:45:30.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "33bd81e489fba2b95d75",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:42:55.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "c76e6ce00f7f5ff42bc1",
+      "title": "The Dunning-Kruger effect is probably not real",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "source": "mcgill.ca",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-03T19:39:34.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "1861f7a7a6817fb8c78f",
+      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
+      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:36:44.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "a2e06f80c257c61613a8",
+      "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
+      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:36:44.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "0baebe6140ea1c014e5a",
+      "title": "ICE detainee reveals video of drinking water apparently contaminated with worm-like creatures",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:35:20.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "c2a470d76795ed8826d5",
+      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:33:05.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "2437171831f80a363fb0",
+      "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:05:41.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "c9e4e7573f9de5e674b7",
+      "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T19:05:35.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "eb0094d6202beff9be74",
+      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-03T18:55:25.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "3c4d10e89ad3e764dfa0",
@@ -64,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:49:24.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "f8cb53b5ba532ec6277e",
-      "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T18:46:26.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "e7751dd190d2c976101d",
@@ -86,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:45:20.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "fff086ca6a03ad34d245",
@@ -97,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-03T18:45:00.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "96b9cf1a1147bafa8f06",
@@ -108,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:37:55.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "9f36fe89f52f37618149",
@@ -119,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T18:35:09.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "580542add1eb01b6291d",
@@ -130,18 +295,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:27:41.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "93e2fffbe8100b4be7b8",
-      "title": "Raging Washington state wildfires destroy homes and force 60,000 people to evacuate",
+      "title": "Wildfires rage across Washington as drought and heat fuel painful summer: ‘It’s not normal’",
       "url": "https://www.theguardian.com/us-news/2026/aug/03/washington-state-fires-spokane",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:23:03.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "1e0fbba01db3da6ff9fb",
@@ -152,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T18:16:00.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "7021e2d4303e5e0aa2fa",
@@ -163,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T18:13:43.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "fa02188b6e8b7bbdca14",
@@ -174,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T18:05:23.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "9fb9163e7454f50efbab",
@@ -185,18 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-03T18:04:30.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "cd8a629dfb5cc4515bfb",
-      "title": "Republican holdouts say they will back Todd Blanche for attorney general",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/todd-blanche-attorney-general-nomination",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T18:01:46.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "ffaa7554406560c85056",
@@ -207,7 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T17:52:12.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
+    },
+    {
+      "id": "118d1f7ef19b2de3facc",
+      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+      "url": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-03T17:46:16.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "f4de601db0805e87d6b4",
@@ -218,18 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T17:44:01.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "33bd81e489fba2b95d75",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T17:41:27.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "7db8f9610a92bb44c5ff",
@@ -240,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T17:39:38.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "8061cfc59432e07454b3",
@@ -251,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T17:38:01.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "771084f959b983d5a1e6",
@@ -262,18 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T17:35:44.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "4b93d4479bf621d4f6e6",
-      "title": "Author of Democrats’ 2024 election autopsy report says chapter was left out",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/democrats-2024-election-autopsy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T17:33:11.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "22642ed52da373aea34c",
@@ -284,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T17:28:10.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "9546411ce5bafb1fe2d1",
@@ -295,18 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T17:18:06.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "ba76a9fc1a59379a4aeb",
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T17:18:04.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "820105ee00779c748548",
@@ -317,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T17:08:46.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "c9cdb7cbd85e7e832415",
@@ -328,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T17:07:37.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "d9432c0689e6667e8206",
@@ -339,18 +471,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T17:02:10.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
-      "id": "04464a442e4801045a0a",
-      "title": "Use Task Runners for Common Coding Tasks",
-      "url": "https://hamvocke.com/blog/task-runners/",
-      "source": "hamvocke.com",
+      "id": "e52e768952f8a5ae114d",
+      "title": "SearXNG in Rust",
+      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "source": "github.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-03T16:51:51.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "publishedAt": "2026-08-03T16:41:40.000Z",
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "5d348e72a792873720d0",
@@ -361,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T16:33:08.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "5ef213ba49116f411f3a",
@@ -372,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T16:32:06.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "a92e275a1860d276e08b",
@@ -383,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T16:30:56.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "a86068009a53a8cf8e2e",
@@ -394,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-03T16:27:43.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "9337088aa5bc28bbffb2",
@@ -405,18 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T16:27:12.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "b75f4a65695568ddedef",
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "url": "https://armature.tech/",
-      "source": "armature.tech",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-03T16:17:59.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "fedbca34063027fe3690",
@@ -427,18 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T16:12:55.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "d5574f3a2f74548d4e11",
-      "title": "Kay Granger, first Texas Republican woman elected to House, dies aged 83",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/kay-granger-dead-texas-congress",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T16:06:59.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "70c09f3cbc77646a0726",
@@ -449,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T16:05:20.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     },
     {
       "id": "078eb0109c6054456096",
@@ -460,117 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T16:01:43.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "e801921c8ce524da5b65",
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:57:27.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "aebcb095bb1185645c6f",
-      "title": "Indian court acquits ex-wrestling chief in sexual harassment case",
-      "url": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:56:01.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "3337e099e14fda9a5b15",
-      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:49:50.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "b78340de5897a205737f",
-      "title": "How Israel and the European far right tried to exploit Ceuta",
-      "url": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:41:20.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "c4f9fe433783bfa29cbc",
-      "title": "Russian anti-war politician says he has fled the country",
-      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:41:08.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "915333ab93c01cfca432",
-      "title": "Australia’s under-16 social media ban failing, study shows: What it means",
-      "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:21:55.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "03e4de70dc5a7f491de3",
-      "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
-      "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:19:32.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "3419c98bd5c153ad5e27",
-      "title": "Paris prosecutor investigates alleged bullying in government departments after suicide attempt",
-      "url": "https://www.theguardian.com/world/2026/aug/03/paris-prosecutor-investigates-alleged-bullying-government-departments-suicide-attempt",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:06:48.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "7644d1303dadd660fc42",
-      "title": "Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:00:22.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
-    },
-    {
-      "id": "0dacbed515b74d2d4aa3",
-      "title": "Most Sydney road tolls to keep rising after Transurban accused of blocking reforms",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/most-sydney-road-tolls-to-keep-rising-after-transurban-accused-of-blocking-reforms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T15:00:21.000Z",
-      "discoveredAt": "2026-08-03T19:09:06.102Z"
+      "discoveredAt": "2026-08-03T20:45:49.689Z"
     }
   ]
 }
