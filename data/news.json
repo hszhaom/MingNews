@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T03:30:40.060Z",
+  "generatedAt": "2026-08-04T06:13:13.909Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,15 @@
   ],
   "stories": [
     {
-      "id": "38960896a5a6083b51dc",
-      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
-      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T03:14:29.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
       "id": "3f7646cf9ef4a1db8b79",
-      "title": "Australia news live: St Kilda may lose hundreds of little penguins to bird flu; corruption inquiry told of $50,000 branch stacking scheme",
+      "title": "Australia news live: NSW will not implement recommendation of long-awaited hate speech report; Victorian doctors to go on strike",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T03:14:26.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "publishedAt": "2026-08-04T05:55:29.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "fe0276edaf493d05d36a",
@@ -74,8 +63,217 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T03:07:57.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "publishedAt": "2026-08-04T05:51:59.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "1b3c51249a9e0c924752",
+      "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+      "url": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:46:06.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "61639cd9bcfd07c127b1",
+      "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+      "url": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:45:57.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "b7f30c436aaf44deefb3",
+      "title": "‘Scott and Damien are afraid’: senior Liberal quizzed at Icac about former staffer’s message",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/scott-and-damien-are-afraid-senior-liberal-quizzed-about-former-staffers-message-at-icac-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:45:53.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "3414569467aaa600ed15",
+      "title": "Tuesday briefing: Inside the right’s heated climate-denial debate",
+      "url": "https://www.theguardian.com/world/2026/aug/04/tuesday-briefing-inside-the-rights-heated-climate-denial-debate",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:45:05.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "fa624a057389c3abb970",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "source": "openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-04T05:32:13.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "89f2a5c081a7d6b08fcf",
+      "title": "Public urged to avoid hospital unless ‘life might be in danger’ after record day for Sydney emergency departments",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/sydney-hospitals-nsw-emergency-department-busy-record-winter",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:08:54.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "36ef3bfa6822dae87f48",
+      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:03:44.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "28aadbedaa132ba14347",
+      "title": "Cancer survivors need protection from future discrimination, say German politicians",
+      "url": "https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:00:14.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "73b46da8eb7ad07f0a85",
+      "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:00:14.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "59ef3960c7589249b395",
+      "title": "GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease",
+      "url": "https://www.theguardian.com/society/2026/aug/04/gps-breast-cancer-guidelines-miss-95-of-women-who-will-develop-disease",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:00:13.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "24df747c62a07dc7148e",
+      "title": "UK plastic manufacturer could face legal action over toxic emissions",
+      "url": "https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T05:00:12.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "347eab17a974eba0089b",
+      "title": "What Ben Carroll’s cabinet cuts say about his ‘new direction’ for Victoria",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/ben-carroll-new-cabinet-reshuffle-victoria-ministers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T04:43:08.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "882f04e79f7e68359f22",
+      "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T04:22:28.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "e1ba86553041e4c184df",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T04:22:12.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "72ebd8549bc21b20aff1",
+      "title": "Price of olive oil expected to rise again as European crops feel the heat",
+      "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T04:00:13.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "8eba5bb0ce895562388f",
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T03:58:09.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "9fb9163e7454f50efbab",
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T03:37:14.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "aa101842d5bb2875d9b5",
+      "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T03:32:48.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "38960896a5a6083b51dc",
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T03:14:29.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "606840ca5f6cbad8e02d",
@@ -86,18 +284,40 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T02:56:26.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
-      "id": "8b4ba9520a8b6fe4c208",
-      "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
-      "source": "The Guardian",
+      "id": "9f7ffaf57ac93f2def3a",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T02:55:00.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "publishedAt": "2026-08-04T02:53:00.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "ee720a6cdde75c113067",
+      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T02:47:26.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "43e510f3ebe3550862ca",
+      "title": "Did Iran hack water systems in seven US states?",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T02:29:03.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "6fd53a426d59afb5c6cf",
@@ -108,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T02:15:32.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "197e5bf4927f84642191",
@@ -119,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T02:08:47.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "3bfffe52848362d851a5",
@@ -130,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T01:59:51.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "1b91fac1459900d1d135",
@@ -141,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T01:58:17.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "7888e566db74ac441835",
@@ -152,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T01:43:51.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "934916e1bc16de1f672f",
@@ -163,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T01:25:42.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "63787720e3649aeb71d7",
@@ -174,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T00:59:38.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "464471655fe7e338aba5",
@@ -185,7 +405,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T00:29:48.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "7c64f8156983e70d850a",
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T00:17:48.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "01c01831f69c92640e25",
@@ -196,18 +427,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T00:05:43.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "52e3b01dcb8cded3cac1",
+      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T00:02:40.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "ef354704d676ac747a5e",
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T00:00:00.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "dc67e51039da16bdc290",
@@ -218,7 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T23:52:02.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "4062b93ec632f80a52c9",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:25:14.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "caef918c5f66fff1794f",
@@ -229,7 +482,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-03T23:24:53.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "7d0a0d5e012319259103",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:21:10.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "d5e7d816cfff49b9166d",
@@ -240,7 +504,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-03T23:20:37.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "e48e988c2ed10e7f6db7",
+      "title": "What heatwaves mean for summer weddings – and how to plan for one",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:20:15.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "1e409e86d0244f5836bf",
@@ -251,7 +526,40 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T23:19:00.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "ba1582acbe155e64259e",
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:14:12.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "7d4ea0d935214b678898",
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:13:03.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
+    },
+    {
+      "id": "9995810c7d9af4900e3d",
+      "title": "There's a reason child vaccination rates are falling - and it's not social media",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-03T23:10:05.000Z",
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     },
     {
       "id": "81ac03438da8c3226f81",
@@ -262,315 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-03T23:09:20.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "4f59030066d1cc5f2209",
-      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:02:07.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "1156b6f76bea1629ec23",
-      "title": "NHS radiographers report rise in overt racist abuse by patients",
-      "url": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:01:05.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "d5d364ce1bf47ec115b7",
-      "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-03T22:53:15.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "236cbc1d3c895ff11fa3",
-      "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
-      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T22:35:47.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "d05fd5b691f67d6b7180",
-      "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
-      "url": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T22:31:08.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "5c167758a3da89e33567",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "source": "virtuallyfun.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-03T22:04:49.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "9d09501f33472a217a1b",
-      "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
-      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T22:04:10.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "f8cb53b5ba532ec6277e",
-      "title": "Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T22:03:21.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "5b54867ccf8e01b879cd",
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T21:43:10.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "221c69ff5b100e932b2d",
-      "title": "Rapists, child abusers and groomers will not leave prison early, says PM",
-      "url": "https://www.theguardian.com/society/2026/aug/03/rapists-child-abusers-and-groomers-will-not-leave-prison-early-says-pm",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T21:30:03.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "cb060dfd07e0a1890e57",
-      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-03T21:17:49.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "542397bd43366066f5b1",
-      "title": "Migrants await asylum in Ceuta amid hunger and thirst",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T21:17:21.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "87da4fd2d88c70151b98",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "source": "seangoedecke.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-03T21:13:53.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "0f6aeea54f98ace9de5f",
-      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T21:05:11.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "86f5ab3bb020a9d7bff9",
-      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T20:58:19.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "8d4b1508e02f42dfa164",
-      "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
-      "url": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T20:24:02.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "191b239e660c22e47b37",
-      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T20:05:46.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "bfdb63010a9443acc1c1",
-      "title": "Survivors reach port after deadly Indonesia ferry fire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:55:36.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "764b699a96ecef1dbbe6",
-      "title": "Clergy members arrested while protesting at Senate office",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:53:59.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "13caec7217d3a7969a09",
-      "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:45:30.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "33bd81e489fba2b95d75",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:42:55.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "1861f7a7a6817fb8c78f",
-      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
-      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:36:44.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "a2e06f80c257c61613a8",
-      "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
-      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:36:44.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "c2a470d76795ed8826d5",
-      "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:33:05.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "2437171831f80a363fb0",
-      "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-03T19:05:41.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "eb0094d6202beff9be74",
-      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T18:55:25.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "e7751dd190d2c976101d",
-      "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-      "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T18:45:20.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
-    },
-    {
-      "id": "fff086ca6a03ad34d245",
-      "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-03T18:45:00.000Z",
-      "discoveredAt": "2026-08-04T03:30:40.060Z"
+      "discoveredAt": "2026-08-04T06:13:13.909Z"
     }
   ]
 }
