@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:11:13.441Z",
+  "generatedAt": "2026-08-04T21:51:35.849Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,17 @@
   ],
   "stories": [
     {
+      "id": "7c45e9d2fea76e35d7dd",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:45:20.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
       "id": "9dcf6a6e0a8a9cbd67db",
       "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
@@ -52,19 +63,96 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T19:56:45.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "publishedAt": "2026-08-04T21:42:58.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
-      "id": "0ba4087b93c299037581",
-      "title": "New York deputy police commissioner fired after attempted murder arrest",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/new-york-police-official-fired-attempted-murder-arrest",
+      "id": "89433cc05d54c01461c8",
+      "title": "Jetstar to charge passengers up to $52 to put baggage in overhead lockers",
+      "url": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T19:51:16.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "publishedAt": "2026-08-04T21:42:15.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "a0de2f2721f8d8cbe283",
+      "title": "Australia news live: Jetstar to charge passengers for overhead baggage; Labor drops so-called ‘widow tax’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:39:32.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "f99f76495fd73fdd21c0",
+      "title": "Government contracts to require job creation instead of green targets under new rules",
+      "url": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:30:00.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "8230a34f020bcbe3132d",
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:24:50.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "0c7d0e60aad926f75c84",
+      "title": "Judge grants DoJ bid to dismiss January 6 cases against rightwing Oath Keepers",
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/jan-6-oath-keepers-cases-dismissed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:24:09.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "79914391bad8b64b7c61",
+      "title": "SpaceX beats expectations by posting revenue of $7.81bn in second quarter",
+      "url": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:18:14.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "30c4eaa4383babfb729e",
+      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:11:50.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "24b3d969465ac39d4546",
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "source": "troyhunt.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-04T21:09:39.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "e982875f28e54631274f",
@@ -74,8 +162,173 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T19:48:39.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "publishedAt": "2026-08-04T21:03:32.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "0c53f068445959e9a27c",
+      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:03:17.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "beb188f2af5955708003",
+      "title": "Six years on, Beirut blast families still await justice",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T21:03:15.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "6a802c3a7f62bbda3825",
+      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "url": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:59:33.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "255674e976c931c1215c",
+      "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:59:32.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "8c1cc32b4c72910e3aa6",
+      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:56:59.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "4119ca5c29c70d2c8983",
+      "title": "Man charged in Washington state with starting largest wildfire in the area",
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:52:04.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "6bc86042d6077d7b0797",
+      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:35:56.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "fabe31435e3fd49d0171",
+      "title": "How much of a challenge are wildfires to Europe?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:34:38.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "42d740e4851da6ebcf3c",
+      "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+      "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:32:51.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "b8a52895692b7277dbb2",
+      "title": "Kosovo finds third wartime mass grave site as officials widen search",
+      "url": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:29:02.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "3175af73927b4790ac33",
+      "title": "Shop owners dismantle businesses after Israeli demolition orders",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/shop-owners-dismantle-businesses-after-israeli-demolition-orders?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:26:56.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "f27863e13f607bc494fe",
+      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+      "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:20:11.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "f0d9c12a36ee6834d3fd",
+      "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:16:43.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "1dc17b5befec788db3f3",
+      "title": "One Maine community's fight to save a birthing center",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T20:16:26.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
+    },
+    {
+      "id": "bffb46e427c95801c39e",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "source": "sec.gov",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-04T20:13:40.000Z",
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "60d6ca93c7c764da5f25",
@@ -86,18 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T19:45:58.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "79914391bad8b64b7c61",
-      "title": "After share price crash following IPO, SpaceX to report first earnings as a public company",
-      "url": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T19:45:27.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "9a4a099143b963a89e22",
@@ -108,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T19:41:17.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "9b25b3c57f2fef0acbe3",
@@ -119,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T19:39:58.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "50cdb6c68c27265c8301",
@@ -130,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T19:35:12.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "7c45e9d2fea76e35d7dd",
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T19:30:43.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "098e9ec7f0819cac4634",
@@ -152,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T19:25:00.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "7643af6e5bf71121f7d8",
@@ -163,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T19:21:16.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "1b48ccede1d7df6a54a2",
-      "title": "Washington state Democrat who flipped pro-Trump district faces tough primary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-primary-election",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T19:21:06.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "f41d566d4f8f98b47454",
@@ -185,18 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T19:18:45.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "f86cf52a1fc789689222",
-      "title": "Devastating LA wildfire sparked by utility company tower, long-awaited report finds",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/eaton-wildfire-cause-los-angeles",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T19:13:06.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "1cc5a149bb6120fc5ffb",
@@ -207,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T19:07:19.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "faa47023e0762f160ec5",
@@ -218,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T19:04:18.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "1053d1823d05f6d07c63",
@@ -229,18 +438,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T19:00:43.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "e0c34ef06dec25d5fdf3",
-      "title": "Stephen Wolfram's Wife Has Died",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
       "source": "writings.stephenwolfram.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-04T18:51:38.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "59b482ac6875392b415c",
@@ -251,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:50:29.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "5d7c2abc4031828c8dcb",
@@ -262,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-04T18:36:02.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "a0219cd4495cdb8379b2",
@@ -273,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:35:35.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "4db7b1119f7336d7b756",
@@ -284,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:34:48.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "b714c9981f8fdc7a6557",
@@ -295,18 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-04T18:29:41.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "8907fe309d74c20f9792",
-      "title": "Web security is too hard",
-      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "source": "textslashplain.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T18:29:32.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "219be82a138e1fb80f85",
@@ -317,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:27:15.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "47d5ea9124b19c022371",
@@ -328,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T18:24:35.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "f7d8a4fde3995e228fee",
@@ -339,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T18:21:00.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "1cd9a87268762a3adf60",
@@ -350,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:17:58.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "7e71977e0cce9329024f",
@@ -361,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T18:08:08.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     },
     {
       "id": "490ffaa3196752ff9b0a",
@@ -372,205 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-04T18:06:12.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "68f2dde23f0373cc9aa2",
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-04T18:01:04.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "ca5489c05afa409d4e8c",
-      "title": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
-      "url": "https://www.theguardian.com/world/2026/aug/04/india-bjp-rare-byelection-loss-cockroach-student-protests",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:59:46.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "32ecc3e95e881432ddeb",
-      "title": "Hop.earth – OpenStreetMap based car racing game",
-      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "source": "hop.earth",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T17:55:19.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "1d1ba507c35d4b76a97d",
-      "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
-      "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:55:09.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "a4de905a349ef619f7f7",
-      "title": "Dinghy carrying 173 people capsizes in Channel after engine catches fire",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/dinghy-capsizes-channel-engine-catches-fire-rescue-operation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:52:33.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "f215d81575938136dc4c",
-      "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
-      "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:50:06.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "ebd9dd471f6b21037224",
-      "title": "Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:49:32.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "ea58b27ff08483ff875a",
-      "title": "Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:47:04.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "9358b784e9c679792e07",
-      "title": "Calls to ban disposable barbecues in England and Wales over wildfire risk",
-      "url": "https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:46:24.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "a0810e309ae03e11d353",
-      "title": "Electronic tagging system failing to alert authorities of probation breaches, watchdog warns",
-      "url": "https://www.theguardian.com/society/2026/aug/04/electronic-tagging-unprepared-offenders-prisoners-watchdog",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:45:40.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "5ff65c1e6652842cbf38",
-      "title": "Vlt 1.0 and Hosted Package Registries",
-      "url": "https://www.vlt.io/blog/1-0",
-      "source": "vlt.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T17:43:55.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "53e39a3dd768d251fa28",
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:43:06.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "b1525788259313cb2258",
-      "title": "Republicans clear Todd Blanche for top US Justice Department role",
-      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:38:46.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "ea57ebd78a66a2e679c2",
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:31:37.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "f33cd690202c99bc01af",
-      "title": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:27:26.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "b561d6a5e49b7237bc56",
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:26:06.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "862b64dc229933ca4ec0",
-      "title": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
-      "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:24:41.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
-    },
-    {
-      "id": "f17e1f181ab5eef583c9",
-      "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
-      "url": "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T17:19:58.000Z",
-      "discoveredAt": "2026-08-04T20:11:13.441Z"
+      "discoveredAt": "2026-08-04T21:51:35.849Z"
     }
   ]
 }
