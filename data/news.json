@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T06:13:13.909Z",
+  "generatedAt": "2026-08-04T09:23:48.564Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,312 @@
   ],
   "stories": [
     {
+      "id": "ecfb9124e681e4c60862",
+      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:18:03.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "399553d1b78acd5c0ebf",
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:13:37.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "52e3b01dcb8cded3cac1",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:11:39.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "5886f96c3276317ef9cf",
+      "title": "Calls for UK bank tax to fund cost of living help as HSBC profits hit £7.5bn",
+      "url": "https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:10:36.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "9f7ffaf57ac93f2def3a",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:08:40.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "80bff37ee3e91a086006",
+      "title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:08:04.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "f159d3f17fda1a323686",
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:04:49.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "aaa72e2eda7becaf91f5",
+      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
+      "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:18.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "2df9d265e4864cfe53c3",
+      "title": "Five states hold polls on Tuesday. Here's what to know.",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "5b689c673b3e8b0379e9",
+      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "ae44a0e90ca20a774647",
+      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "766712d16f59dde907f4",
+      "title": "Medicaid work rule leaves homeless people in the cold",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "940c521fbc57154c533b",
+      "title": "A veteran was detained by the National Guard in her front yard. Now she's suing",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "79c2766d17d836f0a413",
+      "title": "Mother of PC Harper ‘bitterly disappointed’ that son’s killers remain eligible for early release – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:58:38.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "4266603a09e3e559bed6",
+      "title": "Trump slams oil companies for ‘making too much money’ from his war on Iran",
+      "url": "https://www.theguardian.com/business/2026/aug/04/donald-trump-oil-companies-war-iran-us-exxonmobil-chevron",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:54:33.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "71b10b5b30c5745fe937",
+      "title": "Cars burn in reported settler attack in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:51:47.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "fd8e33ef0f365f1a10a4",
+      "title": "We demand accountability for the Beirut blast",
+      "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:51:46.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "2a14a98f02026d31d257",
+      "title": "UEFA confirm legal letter served to FIFA after Infantino World Cup plan",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:37:44.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "2127aa8854e66666c559",
+      "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:32:49.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "ba5d29fceed9e6fe6e21",
+      "title": "About 1,000 fewer prisoners to get early release as Burnham tightens rules",
+      "url": "https://www.theguardian.com/society/2026/aug/04/fewer-prisoners-early-release-burnham-tightens-rules",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T08:16:11.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
       "id": "3f7646cf9ef4a1db8b79",
-      "title": "Australia news live: NSW will not implement recommendation of long-awaited hate speech report; Victorian doctors to go on strike",
+      "title": "NSW will not implement recommendation of long-awaited hate speech report – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T05:55:29.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "publishedAt": "2026-08-04T07:36:58.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "b7f30c436aaf44deefb3",
+      "title": "NSW Liberal admits to leaking confidential report to young conservative powerbrokers, inquiry hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/scott-and-damien-are-afraid-senior-liberal-quizzed-about-former-staffers-message-at-icac-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T07:22:33.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "ef6bb43202de319c36f5",
+      "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T07:19:29.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "27b1ded3f3f2502e4e64",
+      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T07:13:40.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "14796ab7b615cf8c3c40",
+      "title": "Trump wants ‘fair treatment’ in fight over Labor’s levy on tech giants to pay for news, US trade group warns",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/australia-news-bargaining-incentive-us-trade-trump-albanese",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T07:06:24.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "67f1019ee5f2336ffb03",
+      "title": "Daphne Caruana Galizia was investigating suspected corruption when killed, jury told",
+      "url": "https://www.theguardian.com/world/2026/aug/04/daphne-caruana-galizia-investigating-suspected-corruption-when-killed-jury-told",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T07:00:16.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "86bf463e9f2e369a76a4",
+      "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-04T06:59:01.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "1d1ba507c35d4b76a97d",
+      "title": "BP profits more than double as Iran war sends oil prices soaring",
+      "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T06:54:30.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "fe0276edaf493d05d36a",
@@ -63,8 +360,41 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T05:51:59.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "publishedAt": "2026-08-04T06:33:37.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "221c69ff5b100e932b2d",
+      "title": "PM to tighten early release rules but men jailed over PC Harper’s death can be freed",
+      "url": "https://www.theguardian.com/society/2026/aug/03/rapists-child-abusers-and-groomers-will-not-leave-prison-early-says-pm",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-04T06:19:21.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "bc65587780a40f677f2a",
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "source": "lilianweng.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-04T06:17:54.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
+    },
+    {
+      "id": "828386286f4a1897b7d2",
+      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-04T06:00:10.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "1b3c51249a9e0c924752",
@@ -75,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T05:46:06.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "61639cd9bcfd07c127b1",
@@ -86,51 +416,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T05:45:57.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
-      "id": "b7f30c436aaf44deefb3",
-      "title": "‘Scott and Damien are afraid’: senior Liberal quizzed at Icac about former staffer’s message",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/scott-and-damien-are-afraid-senior-liberal-quizzed-about-former-staffers-message-at-icac-ntwnfb",
+      "id": "a42c1c49e0be9711e437",
+      "title": "Charity cyclist Bob Montgomery, 82, dies one day after 5,200km ride across Australia",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/04/bob-montgomery-mnd-cyclist-dies-aged-82-death-after-one-last-ride-charity",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-04T05:45:53.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "3414569467aaa600ed15",
-      "title": "Tuesday briefing: Inside the right’s heated climate-denial debate",
-      "url": "https://www.theguardian.com/world/2026/aug/04/tuesday-briefing-inside-the-rights-heated-climate-denial-debate",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T05:45:05.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "fa624a057389c3abb970",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "source": "openai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T05:32:13.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "89f2a5c081a7d6b08fcf",
-      "title": "Public urged to avoid hospital unless ‘life might be in danger’ after record day for Sydney emergency departments",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/sydney-hospitals-nsw-emergency-department-busy-record-winter",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T05:08:54.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "publishedAt": "2026-08-04T05:32:58.000Z",
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "36ef3bfa6822dae87f48",
@@ -141,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T05:03:44.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "28aadbedaa132ba14347",
@@ -152,51 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T05:00:14.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "73b46da8eb7ad07f0a85",
-      "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T05:00:14.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "59ef3960c7589249b395",
-      "title": "GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease",
-      "url": "https://www.theguardian.com/society/2026/aug/04/gps-breast-cancer-guidelines-miss-95-of-women-who-will-develop-disease",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T05:00:13.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "24df747c62a07dc7148e",
-      "title": "UK plastic manufacturer could face legal action over toxic emissions",
-      "url": "https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T05:00:12.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "347eab17a974eba0089b",
-      "title": "What Ben Carroll’s cabinet cuts say about his ‘new direction’ for Victoria",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/ben-carroll-new-cabinet-reshuffle-victoria-ministers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T04:43:08.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "882f04e79f7e68359f22",
@@ -207,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T04:22:28.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "e1ba86553041e4c184df",
@@ -218,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T04:22:12.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "72ebd8549bc21b20aff1",
@@ -229,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-04T04:00:13.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "8eba5bb0ce895562388f",
@@ -240,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T03:58:09.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "9fb9163e7454f50efbab",
@@ -251,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T03:37:14.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "aa101842d5bb2875d9b5",
@@ -262,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T03:32:48.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "38960896a5a6083b51dc",
@@ -273,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T03:14:29.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "606840ca5f6cbad8e02d",
@@ -284,18 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T02:56:26.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "9f7ffaf57ac93f2def3a",
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T02:53:00.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "ee720a6cdde75c113067",
@@ -306,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T02:47:26.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "43e510f3ebe3550862ca",
@@ -317,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-04T02:29:03.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     },
     {
       "id": "6fd53a426d59afb5c6cf",
@@ -328,249 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-04T02:15:32.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "197e5bf4927f84642191",
-      "title": "Immigrant being held at Delaney Hall dies, marking 22nd death in ICE custody",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T02:08:47.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "3bfffe52848362d851a5",
-      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T01:59:51.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "1b91fac1459900d1d135",
-      "title": "Does the US blockade on Cuba make America safer?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T01:58:17.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "7888e566db74ac441835",
-      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-      "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T01:43:51.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "934916e1bc16de1f672f",
-      "title": "Crews building Trump border wall in drought-hit New Mexico ordered to stop drilling wells",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T01:25:42.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "63787720e3649aeb71d7",
-      "title": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures",
-      "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:59:38.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "464471655fe7e338aba5",
-      "title": "Trump administration sued by 25 states over new tariffs on trading partners",
-      "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:29:48.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "7c64f8156983e70d850a",
-      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:17:48.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "01c01831f69c92640e25",
-      "title": "Far-right Republican accused of stiffing student debate champion of $8,000",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/republican-james-fishback-sued-student-debate-money",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:05:43.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "52e3b01dcb8cded3cac1",
-      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
-      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:02:40.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "ef354704d676ac747a5e",
-      "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "dc67e51039da16bdc290",
-      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:52:02.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "4062b93ec632f80a52c9",
-      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:25:14.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "caef918c5f66fff1794f",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "source": "users.wpi.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-03T23:24:53.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "7d0a0d5e012319259103",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:21:10.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "d5e7d816cfff49b9166d",
-      "title": "Death toll from Venezuela earthquakes passes 6,000",
-      "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:20:37.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "e48e988c2ed10e7f6db7",
-      "title": "What heatwaves mean for summer weddings – and how to plan for one",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:20:15.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "1e409e86d0244f5836bf",
-      "title": "‘Completely hollow’: critics denounce Blanche deal to halt Trump slush fund",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/todd-blanche-donald-trump-deal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:19:00.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "ba1582acbe155e64259e",
-      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:14:12.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "7d4ea0d935214b678898",
-      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:13:03.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "9995810c7d9af4900e3d",
-      "title": "There's a reason child vaccination rates are falling - and it's not social media",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:10:05.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
-    },
-    {
-      "id": "81ac03438da8c3226f81",
-      "title": "‘This quarter was otherworldly’: Palantir earnings surge past expectations",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-03T23:09:20.000Z",
-      "discoveredAt": "2026-08-04T06:13:13.909Z"
+      "discoveredAt": "2026-08-04T09:23:48.564Z"
     }
   ]
 }
