@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T10:13:11.078Z",
+  "generatedAt": "2026-08-05T12:25:12.644Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 35,
+      "count": 36,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
-      "id": "7fa599c358295ee71cb0",
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-      "source": "NPR News",
+      "id": "7b7722d0fc89c9ac0efb",
+      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "source": "The Guardian",
       "sourceType": "rsshub",
-      "sourceId": "npr-news",
+      "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-05T10:08:28.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "publishedAt": "2026-08-05T12:13:46.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "df335def116e54aad1ca",
+      "title": "Jewish leaders turn down meeting with Conservative council candidate jailed for antisemitism – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T12:11:58.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "44a483db3e10c555c1c4",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T12:10:21.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "b722bf3c4c438856bc53",
+      "title": "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
+      "url": "https://divingintheshallowend.com/three-six-mafia/",
+      "source": "divingintheshallowend.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-05T12:06:14.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "f3f8b23cc4909870bfe3",
+      "title": "OpenAI and Anthropic models went rogue during UK cybersecurity test",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T12:04:21.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "a2ffc76d7022d0a37faa",
+      "title": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T12:03:34.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "07d4651d2f3d02dba9b1",
+      "title": "Italy to place all 27 of its major cities on highest heat alert",
+      "url": "https://www.theguardian.com/environment/2026/aug/05/italy-heatwave-major-cities-highest-heat-alert",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T12:01:02.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "6df54431597277050c38",
+      "title": "Middle East crisis live: US and Iran signal hope for Hormuz deal but terms unclear",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:58:57.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "e0462d33a0c3c34b6667",
@@ -63,19 +140,140 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-05T09:59:07.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "publishedAt": "2026-08-05T11:55:29.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
-      "id": "df335def116e54aad1ca",
-      "title": "Justice minister defends early release of PC Andrew Harper’s killers amid possible legal challenge – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+      "id": "7baf081d5fb3227d0774",
+      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:54:57.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "2377011e9e1b8c89f098",
+      "title": "Sweltering summer lifts Next sales as profit outlook upgraded again",
+      "url": "https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-05T09:56:43.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "publishedAt": "2026-08-05T11:54:12.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "d0f7ce722c702e648986",
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:49:25.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "eace809bdbe51650a6d8",
+      "title": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:48:55.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "83cb35fcca6c70c85ac3",
+      "title": "Waste workers help find binned €1m lottery ticket in Italy",
+      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:43:09.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "98bf805d9b1fa04b79e4",
+      "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:38:51.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "4094ca11d330de39b4be",
+      "title": "Michigan Democratic race to close to call with El-Sayed in narrow lead | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/first-thing-michigan-democratic-primary-too-close-to-call-el-sayed-narrow-lead",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:38:14.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "0243f01999428fabd01e",
+      "title": "Drone found at German airport after cargo plane collides with object mid-air",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:37:05.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "4290329d9a372e36e93f",
+      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:31:32.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "5beee664873d744d146b",
+      "title": "Former Pakistani minister arrested over alleged child rape in 1990s Manchester",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/05/former-pakistani-minister-arrested-alleged-child-rape-1990s-manchester",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:30:48.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "16714ffa5e2946fb9e50",
+      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:30:39.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "144be21088142c23e635",
+      "title": "Pakistan restricts international media reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:19:42.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "b3aee12a6e956890fec5",
@@ -85,8 +283,206 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-05T09:54:20.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "publishedAt": "2026-08-05T11:19:37.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "1d8c15d8bad528591775",
+      "title": "Man charged in connection with death of girl on camping trip in Scotland",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/05/man-charged-girl-death-arbroath-scotland",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:06:22.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "a5109bd2fe9e08033ed4",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "source": "wired.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-05T11:03:13.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "7d703edcfc16cd09ee95",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "source": "openreview.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-05T11:01:37.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "89f8fb39fcb226c04aef",
+      "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+      "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:01:32.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "db5ace73dfee1162eee9",
+      "title": "Mexican influencer shot dead during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:00:47.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "e2606b8aaa335b431239",
+      "title": "‘They’re selling the safety of the traveling public’: TSA workers decry Trump privatization push",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T11:00:18.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "83a0e92f33a57255adec",
+      "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:50:34.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "bc374a12f51720c360c5",
+      "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:43:44.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "e9a15d377e2f89b691eb",
+      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:40:03.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "ac981d67474b1faaae9a",
+      "title": "Israeli raid deepens fears across West Bank refugee camps",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:30:17.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "171f87057648f7cea706",
+      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:15:44.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "c55f3d35142b56920463",
+      "title": "India’s severe monsoon season causes more than 100 deaths since July",
+      "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:10:07.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "978dc4ddfd04be85cec2",
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:09:27.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "202e2964c173a8d59ecc",
+      "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+      "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:09:22.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "7fa599c358295ee71cb0",
+      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:08:28.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "ac850ef6da942fb128ac",
+      "title": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
+      "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:07:20.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "2a7467dd115f4439e9ff",
+      "title": "Football star Mohamed Salah sends first message to Trabzonspor fans",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-mo-salah-trabzon-clip?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:07:04.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "52f5bc56832580c39fe3",
+      "title": "‘What they’re doing qualifies as torture’: new details of ICE force-feeding revealed",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T10:00:17.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "9744fb92e34210b0d517",
@@ -97,370 +493,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T09:53:33.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
-      "id": "816f5c3163a3c68c8366",
-      "title": "GrAudio edizione delle 09 : 30 del 5 agosto",
-      "url": "https://www.savonanews.it/2026/08/05/leggi-notizia/argomenti/graudio/articolo/graudio-edizione-delle-0930-del-5-agosto-1.html",
-      "source": "savonanews.it",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "4ba879b822e7f83e3901",
-      "title": "Concern that rogue campervans are taking up Cork scenic parking spaces",
-      "url": "https://www.echolive.ie/corknews/arid-41890939.html",
-      "source": "echolive.ie",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "e0518f7b7fc9b5582550",
-      "title": "GrAudio Flash delle 09 : 50 del 5 agosto",
-      "url": "https://www.savonanews.it/2026/08/05/leggi-notizia/argomenti/graudio/articolo/graudio-flash-delle-0950-del-5-agosto-1.html",
-      "source": "savonanews.it",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "1bef97e930b44a34caa8",
-      "title": "Tomorrow Gen Alpha , Beta Will Come : Petitioner Urges Supreme Court To Not Withdraw Cases Against Student Protesters",
-      "url": "https://www.livelaw.in/top-stories/tomorrow-gen-alpha-beta-will-come-petitioner-urges-supreme-court-to-not-withdraw-cases-against-student-protesters-544394",
-      "source": "livelaw.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "49a2d591fd36665903f9",
-      "title": "Surat Demolitions : Gujarat High Court Closes Resident Plea After Municipal Corporation Assures No Immediate Action Planned",
-      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-surat-apprehension-demolition-action-corporation-544413",
-      "source": "livelaw.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "21aaf11bf37cac109b5b",
-      "title": "Threlkeld mountain biker injured during steep ride | The Westmorland Gazette",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/26437455.threlkeld-mountain-biker-injured-steep-ride/",
-      "source": "thewestmorlandgazette.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "bbf4c380d3425796ec55",
-      "title": "Quantinno Capital Management LP Buys 184 , 238 Shares of Ryan Specialty Holdings Inc . $RYAN",
-      "url": "https://www.themarketsdaily.com/2026/08/05/quantinno-capital-management-lp-buys-184238-shares-of-ryan-specialty-holdings-inc-ryan.html",
-      "source": "themarketsdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "b147aba513c636761cc3",
-      "title": "Why Big Tech AI Data Centers Are Turning to Bloom Energy for Power",
-      "url": "https://www.fool.com/investing/2026/08/05/why-big-techs-ai-data-centers-are-turning-to-bloom/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "ef1966a8c9e2c9974c21",
-      "title": "Six years , 21 drafts earn hip - hop poet top book prize",
-      "url": "https://www.wellingtontimes.com.au/story/9324844/six-years-21-drafts-earn-hip-hop-poet-top-book-prize/",
-      "source": "wellingtontimes.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "45bf7604e4d9234e47fc",
-      "title": "How Deadheads became rock and roll greatest renewable resource",
-      "url": "https://www.wvik.org/npr-top-stories/2026-08-05/how-deadheads-became-rock-and-rolls-greatest-renewable-resource",
-      "source": "wvik.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "6deae401ac63f170c6b1",
-      "title": "Goa child rights panel directs ban on minor entry into casino vessels",
-      "url": "https://www.hindustantimes.com/india-news/child-rights-panel-directs-goa-govt-to-ban-entry-of-children-into-casino-vessels-101785921526518.html",
-      "source": "hindustantimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "a82955ceb57a7f4d1c82",
-      "title": "Pacer Advisors Inc . Buys 460 , 887 Shares of GitLab Inc . $GTLB",
-      "url": "https://www.dailypolitical.com/2026/08/05/pacer-advisors-inc-buys-460887-shares-of-gitlab-inc-gtlb.html",
-      "source": "dailypolitical.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "bc1de505ff557bae8e42",
-      "title": "Disposable BBQs removed from united kingdom supermarket shelves",
-      "url": "https://www.basingstokegazette.co.uk/news/26437842.disposable-bbqs-removed-uk-supermarket-shelves/",
-      "source": "basingstokegazette.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "25069c67f15af3e39948",
-      "title": "Strong El Niño could push 49 million more people into acute hunger , UN agency says",
-      "url": "https://wiky.com/2026/08/05/strong-el-nino-could-push-49-million-more-people-into-acute-hunger-un-agency-says/",
-      "source": "wiky.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "f7d31034923a5084fcac",
-      "title": "Perez Hilton in hospital after reports of livestreamed self - harm , police say",
-      "url": "https://www.kmfm.co.uk/news/entertainment/perez-hilton-in-hospital-after-reports-of-livestreamed-self-harm-police-say/",
-      "source": "kmfm.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "85783b93904338f23156",
-      "title": "UK July final services PMI 52 . 1 vs 51 . 8 prelim",
-      "url": "https://investinglive.com/news/uk-july-final-services-pmi-xx-vs-51-8-prelim/",
-      "source": "investinglive.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "25f29cd1c4a15e57fb25",
-      "title": "Best Beats deal : Save $70 on Beats Studio Buds+",
-      "url": "https://mashable.com/tech/aug-5-beats-studio-buds-deal",
-      "source": "mashable.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "1d0fdd03138e1ec9498f",
-      "title": "Australian airline Jetstar will charge passengers to use the overhead lockers for their bags",
-      "url": "https://www.clickorlando.com/business/2026/08/05/australian-airline-jetstar-will-charge-passengers-to-use-the-overhead-lockers-for-their-bags/",
-      "source": "clickorlando.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "91ccea1a2389ccc04492",
-      "title": "Demand for EVs drives new car market to eighth consecutive month of growth",
-      "url": "https://www.stratford-herald.com/national/demand-for-evs-drives-new-car-market-to-eighth-consecutive-month-of-growth-170202/",
-      "source": "stratford-herald.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "49fcd8e3a02a298a3725",
-      "title": "Trump : Strait of Hormuz to reopen soon or Iran will face very strong strike",
-      "url": "https://www.azernews.az/region/262012.html",
-      "source": "azernews.az",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "8363f95a97e0b86b29df",
-      "title": "Germany July final services PMI 49 . 8 vs 49 . 6 prelim",
-      "url": "https://investinglive.com/news/germany-july-final-services-pmi-xx-vs-49-6-prelim/",
-      "source": "investinglive.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "cca14c68d38f03a9defb",
-      "title": "Cockroach Janta Party to Function as Pressure Group : Abhijeet Dipke",
-      "url": "https://www.deccanchronicle.com/nation/cockroach-janta-party-to-function-as-pressure-group-abhijeet-dipke-1976743",
-      "source": "deccanchronicle.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "5065da0bc7bff3900eec",
-      "title": "VeriSign ( NASDAQ : VRSN ) EVP Thomas Indelicarto Sells 500 Shares of Stock",
-      "url": "https://www.dailypolitical.com/2026/08/05/verisign-nasdaqvrsn-evp-thomas-indelicarto-sells-500-shares-of-stock.html",
-      "source": "dailypolitical.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "0f9aee593f3768813d1d",
-      "title": "14 million people in Afghanistan face acute food insecurity : World Food Programme",
-      "url": "https://ianslive.in/14-million-people-in-afghanistan-face-severe-food-insecurity-world-food-programme--20260805133706",
-      "source": "ianslive.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "5f8b78ee006904cde1d1",
-      "title": "AegisClear Aligns Strategy with Taiwan Asian Asset Management Center Initiative",
-      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/aegisclear-aligns-strategy-with-taiwans-asian-asset-management-center-initiative/2398697",
-      "source": "manilatimes.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "1c9f0660517d08dd951f",
-      "title": "Notcutts unveils transformation of Woodbridge Garden Centre | East Anglian Daily Times",
-      "url": "https://www.eadt.co.uk/news/26430154.notcutts-unveils-transformation-woodbridge-garden-centre/",
-      "source": "eadt.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "a70c58d8adc1e81b01a0",
-      "title": "TONGWEI Secures Fourth Consecutive Fortune Global 500 Listing",
-      "url": "https://www.thehindu.com/brandhub/pr-release/tongwei-secures-fourth-consecutive-fortune-global-500-listing/article71308804.ece",
-      "source": "thehindu.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "b385428f2b2b27f70289",
-      "title": "Telugu Film Chamber Forms New Panel , Percentage System Looks doubtful ?",
-      "url": "https://www.deccanchronicle.com/entertainment/tollywood/telugu-film-chamber-forms-new-panel-percentage-system-looks-doubtful-1976767",
-      "source": "deccanchronicle.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "716b3fe47da4139c2336",
-      "title": "New owners announced at St Nicholas Sandwich Shop in Ipswich",
-      "url": "https://www.eadt.co.uk/news/26437451.new-owners-announced-st-nicholas-sandwich-shop-ipswich/",
-      "source": "eadt.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "844d4a24f0357584afcb",
-      "title": "Kerala Expat Killed in Gas Cylinder Blast at Dubai Car Showroom",
-      "url": "https://www.deccanchronicle.com/southern-states/kerala/kerala-expat-killed-in-gas-cylinder-blast-at-dubai-car-showroom-1976777",
-      "source": "deccanchronicle.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:45:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "7b7722d0fc89c9ac0efb",
-      "title": "Zelenskyy rails at lack of anti-missile defences amid deadly Russian attack on Kyiv – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-      "source": "The Guardian",
+      "id": "5fcebf878fbc108fa9f5",
+      "title": "Government is ‘for the people’ says Michigan primary candidate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/government-is-for-the-people-says-michigan-primary-candidate?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-05T09:42:17.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "54461f72caf407914d2f",
-      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
-      "source": "theguardian.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T09:36:17.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "bc374a12f51720c360c5",
-      "title": "Trump administration has refunded 60% of $165bn taken in illegal tariffs",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:34:16.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "publishedAt": "2026-08-05T09:25:31.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "c8dde13c5ad9e88ed4f7",
@@ -471,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-05T09:22:52.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "1b647aef38f868df2bc6",
@@ -482,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T09:16:39.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "18f1ba7674cc8db40cb3",
@@ -493,7 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T09:16:06.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
+    },
+    {
+      "id": "50b510d1a8faddc109b8",
+      "title": "Helsinki Hacker News Meetup",
+      "url": "https://calpaterson.com/helsinki-hn.html",
+      "source": "calpaterson.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-05T09:15:33.000Z",
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "d19ed2cc93f3a037fd07",
@@ -504,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T09:14:41.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     },
     {
       "id": "640699cc3104a1be5f54",
@@ -515,62 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T09:05:46.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "39c1ac6c2a281e2a92d1",
-      "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
-      "url": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:03:42.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "8430d2dc266e1cd9df88",
-      "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:00:15.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "6b694ca4e3ff31af0174",
-      "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "12a0ac7e245781b143f4",
-      "title": "Burnham considering public inquiry into UK activities of Jeffrey Epstein",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/burnham-considering-public-inquiry-jeffrey-epstein-mohamed-al-fayed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T08:42:21.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
-    },
-    {
-      "id": "3b9ed54c962c5ddc68e5",
-      "title": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T08:41:36.000Z",
-      "discoveredAt": "2026-08-05T10:13:11.078Z"
+      "discoveredAt": "2026-08-05T12:25:12.644Z"
     }
   ]
 }
