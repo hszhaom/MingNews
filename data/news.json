@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T04:21:06.750Z",
+  "generatedAt": "2026-08-05T07:19:38.255Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,300 @@
   "stories": [
     {
       "id": "a0de2f2721f8d8cbe283",
-      "title": "Australia news live: Bowen says nuclear advocates living in ‘fantasy world’; Leeser says funding won’t improve Naplan results",
+      "title": "Australia news live: NSW police charge woman with 62 counts over alleged threatening letters to politicians, media and place of worship",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-05T04:09:09.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "publishedAt": "2026-08-05T07:13:53.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "325a23a64d6edfd76cfc",
+      "title": "Why the Trump administration is helping support Japan’s weakening yen",
+      "url": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T07:06:05.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "4956d248bd96127a319b",
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T07:04:45.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "fd6ed9860c6a598377db",
+      "title": "NSW Liberal leader says ‘leaking is never good’ but defers call on Tudehope’s fate until after Icac",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/nsw-liberal-leader-kellie-sloane-call-damien-tudehope-icac-leak-revelations-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T07:04:22.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "b3aee12a6e956890fec5",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 17",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:54:29.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "b5384d0801c0bb08728c",
+      "title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:54:14.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "6f4062271465edc1dcb0",
+      "title": "Nigeria cannot build safe schools in unsafe communities",
+      "url": "https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:44:23.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "fc1a34fe628dd2254c3f",
+      "title": "Alcaraz withdraws from Cincinnati event as doubts grow over US Open defence",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/alcaraz-withdraws-from-cincinnati-event-as-doubts-grow-over-us-open-defence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:42:23.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "596b0bc3ac15cd86ee0e",
+      "title": "Video game maker EA bought by Saudi-led group for $55bn",
+      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:34:18.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "58db9df974dcb9e0b224",
+      "title": "Perez Hilton hospitalised after livestreaming self-harm on Tiktok",
+      "url": "https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:15:38.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "0323d70bf07ffd5fec28",
+      "title": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
+      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:10:20.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "ac6a8d13e19b3b90984d",
+      "title": "Right turn on green: is the Telegraph changing its tune on the climate?",
+      "url": "https://www.theguardian.com/media/2026/aug/05/telegraph-climate-tories-kemi-badenoch-net-zero",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T06:00:11.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "613b076effeb1db9854e",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:54:54.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "978dc4ddfd04be85cec2",
+      "title": "Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:53:38.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "0d4d1bcb36c8dd5aae1d",
+      "title": "The yearly mild weather spell that brings Yemen’s coast back to life",
+      "url": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:48:42.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "6c5df8a314bd025367c0",
+      "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
+      "url": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:46:13.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "51a7093889b75f89e67b",
+      "title": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/salah-in-with-trabzonspor-as-egypt-forward-set-for-turkiye-move?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:40:27.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "d086fc236eb15301530e",
+      "title": "Daniel Andrews defends actions as opposition labels Labor ‘a gangster government’ after Ibac report released",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:30:44.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "f29a6867879a967f143e",
+      "title": "El-Sayed holds narrow lead in Michigan Senate primary but race too close to call",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:06:45.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "0e114327016dac4939b5",
+      "title": "Women must not feel pressure to have ‘ideal birth’, says Yvette Cooper",
+      "url": "https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:00:11.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "54461f72caf407914d2f",
+      "title": "Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:00:09.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "ce7a7b9a97d2a9774a5c",
+      "title": "Calls to ban ‘toxic’ pet flea treatments that harm UK wildlife and environment",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/calls-ban-toxic-pet-flea-treatments-harm-uk-wildlife-environment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:00:09.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "0714b81f0239ae35146d",
+      "title": "Bangladesh Truth Seeker",
+      "url": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T05:00:00.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "89433cc05d54c01461c8",
+      "title": "Jetstar to charge fees to put carry-on luggage in overhead lockers",
+      "url": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T04:58:31.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "e801d2a629d9639498b3",
+      "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T04:38:00.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "c8b02869b60a61e4787d",
+      "title": "Has a US court just set the grounds for another January 6 insurrection?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-05T04:37:43.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
+    },
+    {
+      "id": "de3bb4f64d5259fcc925",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-05T04:36:44.000Z",
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "b83443ef5741076dd146",
@@ -64,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T04:00:10.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "5296703fc33bea2c3082",
@@ -75,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T04:00:10.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "d070ce6cac097a600100",
@@ -86,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T04:00:08.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "771efbf5010ddb10b45b",
@@ -97,7 +383,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-05T04:00:00.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "79cb109a9e7eccfe0872",
@@ -108,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T03:58:12.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "256e8edc07fbda805b6b",
@@ -119,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T03:48:21.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "1053d1823d05f6d07c63",
@@ -130,18 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-05T03:44:30.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "b3aee12a6e956890fec5",
-      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T03:37:50.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "bebe6c6c419b21837326",
@@ -152,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T03:33:21.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "c98d4dd05d60d29a7333",
@@ -163,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T03:32:32.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "9eab41797983652e6e4f",
@@ -174,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T03:32:07.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "0a27af9747498e58be42",
@@ -185,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T03:27:37.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "0d19088eca888034753b",
@@ -196,40 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T03:19:59.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "79290d90d59434d8e76a",
-      "title": "‘Won’t happen’: One Nation Victoria leader’s comments raise questions about Hanson’s mass deportations policy",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/one-nation-victoria-warren-pickering-comments-mass-deportations-policy-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T03:00:07.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "d086fc236eb15301530e",
-      "title": "Daniel Andrews’ government engaged in ‘concerning’ conduct but no evidence of firefighter union blackmail: Ibac report",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T02:33:00.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "7f42e81d6c56eec5ddb4",
-      "title": "Labor plans migration cuts as Tony Burke pulls out of major speech",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/labor-plans-migration-cuts-as-tony-burke-pulls-out-of-major-speech",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T02:29:21.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "3470819891e32918d93e",
@@ -240,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T02:10:17.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "5524b55a1b676a73152c",
@@ -251,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T02:09:06.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "6dc130b9247792f1474f",
@@ -262,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T02:02:08.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "314608bf169688aef6d1",
@@ -273,18 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T01:48:42.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "8f1d1a06634c4e9e9f7c",
-      "title": "Missouri rejects citizens’ bid for vote on Trump-backed redistricting plan",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/missouri-redistricting-plan-vote",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T01:47:33.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "61fcd3efd4e605c6b872",
@@ -295,29 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T01:41:07.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "76b9f465d15e5265acf8",
-      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
-      "source": "asiae.co.kr",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T01:34:26.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "4261a0fd965281a10f4f",
-      "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T01:29:10.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "754bd431bd58cdf32ffc",
@@ -328,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T01:29:01.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "7df7debc26f931949696",
@@ -339,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T01:21:16.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "22bd978d1905a38cf919",
@@ -350,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T00:56:23.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     },
     {
       "id": "f41d566d4f8f98b47454",
@@ -361,216 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-05T00:40:23.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "a0549d64ab6c4283cc84",
-      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-05T00:30:48.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "0011cbc96369d6addb00",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T00:19:04.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "1e47c2a2a7e0107c083a",
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "url": "https://arxiv.org/abs/2603.04221",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T00:10:37.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "dac560b664447c5cd4a8",
-      "title": "Bugtraq Is Back",
-      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "source": "lists.securityfocus.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T00:05:49.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "64929a9f8ea0c4e78423",
-      "title": "Flowise Is Shutting Down",
-      "url": "https://flowiseai.com/sunset",
-      "source": "flowiseai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T00:02:40.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "01016a9242c287648268",
-      "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "ecbfdd470b71831b8297",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "source": "queue.acm.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T23:50:52.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "7900fd82953a9e805763",
-      "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:41:27.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "a10f7abdb029ec2404c4",
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "source": "mysk.blog",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T23:31:46.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "4511b1ebbe4d46c9934e",
-      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
-      "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:27:13.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "d3aa90387dac614ff904",
-      "title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
-      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:24:43.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "e762e41d1a2ba1ad16c8",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "source": "blog.hartwork.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T23:18:12.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "492df9603bfc4a5ae022",
-      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:13:04.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "d4d054e9bb85cbe450a7",
-      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:13:01.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "690470dc34a337210513",
-      "title": "Campaign warns of perils UK waters can pose for dogs and owners",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/campaign-warns-perils-uk-waters-dogs-trust",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:01:03.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "54b4735c7aac36a90068",
-      "title": "Charity Commission to investigate donations to illegal Israeli settlements",
-      "url": "https://www.theguardian.com/society/2026/aug/05/charity-commission-investigate-donations-israeli-settlements-palestine",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T23:01:02.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "9fee4cb34dab2e3923d2",
-      "title": "MI6 is top European foreign intelligence service, peer review finds",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T22:40:53.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "8c5efc2e52006fc91893",
-      "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-      "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-04T22:28:30.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
-    },
-    {
-      "id": "ffbe90d5ea594eb1419f",
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "source": "earendil.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-04T22:22:12.000Z",
-      "discoveredAt": "2026-08-05T04:21:06.750Z"
+      "discoveredAt": "2026-08-05T07:19:38.255Z"
     }
   ]
 }
