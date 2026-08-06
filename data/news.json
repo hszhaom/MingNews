@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T10:14:21.653Z",
+  "generatedAt": "2026-08-06T12:28:48.070Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,26 +45,301 @@
   ],
   "stories": [
     {
+      "id": "bf903bc6b9d9cde3d969",
+      "title": "Man charged with killing Scottish aid worker in Greece",
+      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:25:05.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "461ddbb8891590bd278f",
+      "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:24:18.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
       "id": "723479a7087b0dde8994",
-      "title": "Reform to unveil controversial plan to fine firms and jail bosses who employ illegal workers – UK politics live",
+      "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-06T10:05:45.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "publishedAt": "2026-08-06T12:22:56.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
-      "id": "d848f14fb01e13890f88",
-      "title": "All bodies of water in England polluted with toxic chemicals, official data shows",
-      "url": "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals",
+      "id": "3bb27df14b9bd4cd4726",
+      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-06T10:03:50.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "publishedAt": "2026-08-06T12:22:48.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "cb9f603b3d6b72f4af8b",
+      "title": "Senate committee set to vote on holding Anthony Fauci in contempt of Congress – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:07:28.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "f6738f776588ccdb54bb",
+      "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+      "url": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:04:36.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "257208d7b1b41b62ff10",
+      "title": "Firefighters start to contain Washington state wildfires as tens of thousands remain displaced",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:00:57.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "dc7bd8787e1142d15024",
+      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T12:00:47.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "40bcab84b53d488ce209",
+      "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:59:30.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "74ee761c3d523ece0a19",
+      "title": "Students using AI to cheat will face stricter rules, says Danish government",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:58:15.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "efa7e3e3a615e805c9eb",
+      "title": "Extreme rightwing referrals to Prevent rise 20% amid record anti-terror reporting",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/record-high-referrals-prevent-anti-terror-scheme-rise-rightwing-extremism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:53:54.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "67e78346a55438cfa83b",
+      "title": "High-profile Indian journalist jailed for 10 years for raping colleague",
+      "url": "https://www.theguardian.com/world/2026/aug/06/indian-journalist-tarun-tejpal-convicted-raping-colleague",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:47:41.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "d8ab029058f50b80c6a7",
+      "title": "Can the US slow China’s robotics and tech rise?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:35:47.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "335322f359bec7d09a96",
+      "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:30:59.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "29a29d5c58eb95035c6d",
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "source": "mayerowitz.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-06T11:24:53.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "8add04806eadb970929f",
+      "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:20:41.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "b238641155f9aa1a65e2",
+      "title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:11:46.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "9e8febfd6cbc1fad3dfc",
+      "title": "‘Do we really need huge cruise ships here?’: fears £150m Falmouth Docks plan threatens habitats – and town itself",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/falmouth-150m-redevelopment-docks-threatens-habitats-town-cruise-ships",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:05:35.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "9e6080f9bd219e72ff88",
+      "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
+      "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:00:50.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "40d09ed5c4f173f4f7b9",
+      "title": "US senators urge crackdown on wildfire betting amid warnings of arson risk",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/wildfire-betting-prediction-markets",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:00:46.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "251a48c33ced0f7e8183",
+      "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+      "url": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T11:00:07.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "5a366195915a3e0ef311",
+      "title": "Diageo shares bounce back as new CEO Dave Lewis lifts spirits with $1bn savings plan",
+      "url": "https://www.theguardian.com/business/2026/aug/06/diageo-strategy-cost-cuts-dave-lewis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:56:22.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "a60a6932437aa9766c60",
+      "title": "What the CJP protests reveal about India’s next generation",
+      "url": "https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:55:54.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "4e0d4eb13e94c9d9bd8b",
+      "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
+      "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:44:06.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "d941d8d37e2438568b42",
+      "title": "Cambridge professor Jason Arday quits amid plagiarism allegations",
+      "url": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:24:59.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "fb010931760cc6c0cbbd",
+      "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+      "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:20:57.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "bec38286f68cfb3cddc5",
+      "title": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T10:13:26.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "1910282f18589fbd7ac4",
@@ -75,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-06T10:00:46.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "607903d7d3eeaff87c5a",
@@ -86,29 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-06T10:00:45.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "90843313799faba2c2aa",
-      "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
       "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-06T09:52:45.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "461ddbb8891590bd278f",
-      "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:49:58.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "2c6e1f510f3b992f660a",
@@ -119,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T09:49:24.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "f5a5c67512b49b776f85",
@@ -130,337 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-06T09:45:54.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "4f2764aeba9ee74d3f86",
-      "title": "IFI Techsolutions achieves Microsoft Azure Cloud Security Specialization",
-      "url": "http://www.irishsun.com/news/279224400/ifi-techsolutions-achieves-microsoft-azure-cloud-security-specialization",
-      "source": "irishsun.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "f7f272a19c42d6c1c6ec",
-      "title": "E . ON Romania exceeds 10 , 500 residential solar systems , market grows 30 %",
-      "url": "https://actmedia.eu/energy-and-environment/e.on-romania-exceeds-10-500-residential-solar-systems-market-grows-30/121075",
-      "source": "actmedia.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "43a4c70fbc9f68709687",
-      "title": "WWNN Weekends Bring Wall Street to Washington WTOP",
-      "url": "https://radioink.com/2026/08/06/wwnn-weekends-bring-wall-street-to-washingtons-wtop/",
-      "source": "radioink.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "53e94663f690976cf89a",
-      "title": "Horror highway inferno probe after rescuers forced back",
-      "url": "https://www.standard.net.au/story/9325575/horror-highway-inferno-probe-after-rescuers-forced-back/",
-      "source": "standard.net.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "fbf48172027c15f8a452",
-      "title": "British Kashmiri Diaspora Protests in Bradford Support People of PoJK – Chennaionline",
-      "url": "https://www.chennaionline.com/news/british-kashmiri-diaspora-protests-in-bradford-support-people-of-pojk/",
-      "source": "chennaionline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "e75949b2473e63f2732d",
-      "title": "Two killed , woman critical as SUV goes out of control in Kapurthala",
-      "url": "https://www.tribuneindia.com/news/jalandhar/two-killed-woman-critical-as-suv-goes-out-of-control-in-kapurthala/",
-      "source": "tribuneindia.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "51b83cbbd7efdcaa7ecd",
-      "title": "Chapin Davis Inc . Has $2 . 25 Million Position in Cisco Systems , Inc . $CSCO",
-      "url": "https://www.tickerreport.com/banking-finance/13532012/chapin-davis-inc-has-2-25-million-position-in-cisco-systems-inc-csco.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "1c0f420528e8b4fe3d74",
-      "title": "OMV Petrom announces 13 % increase in investments to 3 . 7 bln . euro , company has crude oil for August and September",
-      "url": "https://actmedia.eu/energy-and-environment/omv-petrom-announces-13-increase-in-investments-to-3.7-bln.-euro-company-has-crude-oil-for-august-and-september/121079",
-      "source": "actmedia.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "93195a6ba6eed3694515",
-      "title": "S . Korea Conducts Defense Drills in Dokdo Waters for the 1st Time This Year",
-      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203417",
-      "source": "world.kbs.co.kr",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "215a86736464ee1932e4",
-      "title": "Fears for Australian sea lions as bird flu cases grow",
-      "url": "https://www.nynganobserver.com.au/story/9325226/fears-for-australian-sea-lions-as-bird-flu-cases-grow/",
-      "source": "nynganobserver.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "88530f88207f3a4f9254",
-      "title": "Royal Bank of Canada Purchases 409 , 653 Shares of Rocket Companies , Inc . $RKT",
-      "url": "https://www.themarketsdaily.com/2026/08/06/royal-bank-of-canada-purchases-409653-shares-of-rocket-companies-inc-rkt.html",
-      "source": "themarketsdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "967da5e28a952c445449",
-      "title": "Suspects In Lake Mattoon Dismemberment Case Plead Not Guilty",
-      "url": "https://www.vandaliaradio.com/2026/08/06/suspects-in-lake-mattoon-dismemberment-case-plead-not-guilty/",
-      "source": "vandaliaradio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "3c8ca8f21e054abae4f6",
-      "title": "RBI schedules underwriting auction for Rs 32 , 000 crore government securities on August 7",
-      "url": "https://aninews.in/news/business/rbi-schedules-underwriting-auction-for-rs-32000-crore-government-securities-on-august-720260806141635/",
-      "source": "aninews.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "ad26f0821667dfca82f2",
-      "title": "AGFiQ U . S . Market Neutral Momentum Fund ( NYSEARCA : MOM ) Shares Pass Below 200 Day Moving Average – What Next ?",
-      "url": "https://www.tickerreport.com/banking-finance/13531994/agfiq-u-s-market-neutral-momentum-fund-nysearcamom-shares-pass-below-200-day-moving-average-whats-next.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "f780b00dd5b6b70ca221",
-      "title": "CADIVI Recognized for Workforce Empowerment and Sustainable People Development at Asia Responsible Enterprise Awards 2026",
-      "url": "http://www.vietnamtribune.com/news/279224443/cadivi-recognized-for-workforce-empowerment-and-sustainable-people-development-at-asia-responsible-enterprise-awards-2026",
-      "source": "vietnamtribune.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "501dfbd1446078f55bb4",
-      "title": "What if patients die ? Can you bring them back to life ?: Bombay HC orders resident doctors to call off strike",
-      "url": "https://timesofindia.indiatimes.com/india/what-if-patients-die-can-you-bring-them-back-to-life-bombay-hc-orders-resident-doctors-to-call-off-strike/articleshow/132994454.cms",
-      "source": "timesofindia.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "ca09a51d29dfb9a3d4e4",
-      "title": "Tarun Tejpal sentenced to 10 year rigorous imprisonment in 2013 rape case ; gets two weeks to surrender",
-      "url": "https://timesofindia.indiatimes.com/india/tarun-tejpal-sentenced-to-10-years-rigorous-imprisonment-in-2013-rape-case-gets-two-weeks-to-surrender/articleshow/132995064.cms",
-      "source": "timesofindia.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "ef847452bbe723f5943e",
-      "title": "Persimmon improves completion guidance despite challenging housing market",
-      "url": "https://www.clydebankpost.co.uk/news/national/26440796.persimmon-improves-completion-guidance-despite-challenging-housing-market/",
-      "source": "clydebankpost.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "d27ef0c13d206a7a667a",
-      "title": "Michelle Yeoh named Asian Filmmaker of the Year at 31st Busan International Film Festival",
-      "url": "https://aninews.in/news/entertainment/hollywood/michelle-yeoh-named-asian-filmmaker-of-the-year-at-31st-busan-international-film-festival20260806143332/",
-      "source": "aninews.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "c92571ef413fb83d9390",
-      "title": "Royal Bank of Canada Has $23 . 15 Million Holdings in Kraft Heinz Company $KHC",
-      "url": "https://www.themarketsdaily.com/2026/08/06/royal-bank-of-canada-has-23-15-million-holdings-in-kraft-heinz-company-khc.html",
-      "source": "themarketsdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "b6066f49c4f46dd109f6",
-      "title": "Sybil Wilkes Covers Today What We Need to Know : Tupac Murder Trial , Wildfires , and More",
-      "url": "https://92q.com/5911718/sybil-wilkes-tupacs-murder-trial-wildfires/",
-      "source": "92q.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "8611f65a4fc0fb97f907",
-      "title": "India Digest : Piper Serica raises capital for new fund ; Ex - KKR execs to anchor buyout fund",
-      "url": "https://www.dealstreetasia.com/stories/piper-serica-arjav-capital-491408",
-      "source": "dealstreetasia.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "969ad3e33a5a63613da9",
-      "title": "Fraport Reports Higher Revenue and EBITDA in First Half Despite Frankfurt Traffic Challenges – TravelWires",
-      "url": "https://www.travelwires.com/fraport-reports-higher-revenue-and-ebitda-in-first-half-despite-frankfurt-traffic-challenges/",
-      "source": "travelwires.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "60b57b4155460d92b97f",
-      "title": "New plot twist in the race for Rodri Hernández , who now has to choose between Barça or Real Madrid -",
-      "url": "https://www.gamereactor.eu/new-plot-twist-in-the-race-for-rodri-hernandez-who-now-has-to-choose-between-barca-or-real-madrid-1756973/",
-      "source": "gamereactor.eu",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "c7fc385f159759add1c4",
-      "title": "How to turn one weirdly specific skill into a $200 - a - week side hustle",
-      "url": "https://www.komando.com/tips/money/how-to-turn-one-weirdly-specific-skill-into-a-200-a-week-side-hustle/",
-      "source": "komando.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "73c1776562490b3d315a",
-      "title": "Hiroshima Day Honors Atomic Bombing Victims – Chennaionline",
-      "url": "https://www.chennaionline.com/news/hiroshima-day-honors-atomic-bombing-victims/",
-      "source": "chennaionline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "96558c681eefa0b156fd",
-      "title": "Iran : U . S . Ready To Return To Commitments | KOA 850 AM & 94 . 1 FM",
-      "url": "https://koacolorado.iheart.com/content/2026-08-06-iran-us-ready-to-return-to-commitments/",
-      "source": "koacolorado.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "1bbb0c656e6d7b86d085",
-      "title": "Neural Noise May Hinder Communication in Autistic Children",
-      "url": "https://powertalk1360.iheart.com/content/2026-08-06-neural-noise-may-hinder-communication-in-autistic-children/",
-      "source": "powertalk1360.iheart.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "b3cdaebe560bebc9a48b",
-      "title": "India , South Africa discuss early conclusion of trade pacts , deepen cooperation in critical minerals : Piyush Goyal",
-      "url": "https://aninews.in/news/business/india-south-africa-discuss-early-conclusion-of-trade-pacts-deepen-cooperation-in-critical-minerals-piyush-goyal20260806141334/",
-      "source": "aninews.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-06T09:45:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "3bb27df14b9bd4cd4726",
-      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:35:28.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "382c76d356635dc78814",
@@ -471,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T09:34:04.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "63a1378cf21e38e453de",
@@ -482,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T09:28:30.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "8a7f5bd8152cc3d0090e",
@@ -493,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T09:17:56.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "bf903bc6b9d9cde3d969",
-      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
-      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:12:39.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "1b9a8e1ced0e3d0a800f",
@@ -515,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T09:06:25.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "f1c6973adc5fa993cf44",
@@ -526,40 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T09:04:17.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "c0df2d0e603f85b6f842",
-      "title": "Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:00:44.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "7905ed945f0aa1ed23fa",
-      "title": "Blue Note to bring world-famous jazz club to London",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/blue-note-jazz-club-london",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:00:43.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
-    },
-    {
-      "id": "f88dbeeb14f306c0d9ee",
-      "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T09:00:38.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     },
     {
       "id": "9c83d6f7620d6f3a6860",
@@ -570,7 +460,117 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-06T09:00:00.000Z",
-      "discoveredAt": "2026-08-06T10:14:21.653Z"
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "3cc7824ba1f2c711d2f8",
+      "title": "What to know about this week’s US primary elections in Tennessee and Hawaii",
+      "url": "https://www.aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:58:12.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "27b74cafc04eb26be35d",
+      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:52:16.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "9c7e569713af145d5c0e",
+      "title": "Texts suggest Angus Taylor ‘paid money to the Reformers … or was refusing to’, Icac inquiry hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/jean-claude-perrottet-icac-angus-taylor-reformers-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:51:57.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "edcbcc99434ac7f0384d",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:43:07.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "05ad2842194e282b4dcd",
+      "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:37:44.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "0c9bfaa667578a006ffd",
+      "title": "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:27:20.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "79be032af72a7dc4b720",
+      "title": "Shifting US politics offers opportunity for Palestinian self-determination",
+      "url": "https://www.aljazeera.com/opinions/2026/8/6/shifting-us-politics-offers-opportunity-for-palestinian-self-determination?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:25:52.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "20ae2abb38c38ff0d080",
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "url": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:18:02.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "d65c3fc832033fb78e3f",
+      "title": "Why is France developing a new nuclear strategy?",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:17:26.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
+    },
+    {
+      "id": "9dfbc8edcc99d63e7594",
+      "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T08:15:37.000Z",
+      "discoveredAt": "2026-08-06T12:28:48.070Z"
     }
   ]
 }
