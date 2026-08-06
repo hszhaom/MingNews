@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T00:58:49.197Z",
+  "generatedAt": "2026-08-06T04:23:13.161Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,202 @@
   ],
   "stories": [
     {
-      "id": "4414ad3057df8a41f4f1",
-      "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
-      "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T00:40:28.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
       "id": "6809e91da558b31aaecc",
-      "title": "Australia news live: new national standards for ebikes; man dies after trying to protect Sunshine shop from alleged thieves",
+      "title": "Australia news live: Jean-Claude Perrottet tells Icac inquiry he can’t recall why lobbying company sent him $5,000 a month; ABC apologises to Gina Rinehart",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-06T00:40:10.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "publishedAt": "2026-08-06T04:06:00.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "cb3160c0a520f804a901",
+      "title": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T04:02:29.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "e9b51abf185491c6cca0",
+      "title": "Could the Iran war derail Donald Trump’s legacy?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T03:43:14.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "299b9defe2c1efe3177e",
+      "title": "Governments are making a dangerous bet on the AI boom",
+      "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+      "source": "economist.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-06T03:40:51.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "43c19074d81fa1a30697",
+      "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+      "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T03:34:09.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "514e25b81bbd6cc7ab6f",
+      "title": "Lightning strike kills Thai footballer during match",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:39:39.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "f7bcf293acc827a86d9a",
+      "title": "How Gambian women are restoring the mangroves protecting Banjul",
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:34:00.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "fb4f616b4e9f3a7217d9",
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:33:33.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "d8bc4b457f12e5d0b6dd",
+      "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:28:56.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "566235ea8e87199a94be",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "source": "costar.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-06T02:15:14.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "52a44b32d09a9eb569ec",
+      "title": "Pregnant woman dead and toddler found unharmed after outback Queensland siege ends in apparent murder-suicide",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:10:35.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "82aa75db7609d8791c53",
+      "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
+      "url": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:06:03.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "790cc5ec79f4629091cb",
+      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T02:00:35.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "e0462d33a0c3c34b6667",
-      "title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
+      "title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-06T00:37:44.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "publishedAt": "2026-08-06T01:59:09.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "46d3e3c3e3aa9011b7da",
+      "title": "Man arrested at Trump’s California golf course wore earpiece and took photos, police say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T01:56:41.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "838e9c0a460141c9c3ba",
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "source": "bfswa.blog",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-06T01:39:06.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "97228ce983f45427fe0d",
+      "title": "Mexican influencer shot dead during livestream",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T01:28:53.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "52f9653af8f6dc10913c",
+      "title": "Meta says its AI model hacked into another company during testing",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-06T01:27:44.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "f4390f6de32bbb88dc7c",
@@ -85,8 +250,19 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-06T00:32:42.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "publishedAt": "2026-08-06T01:19:59.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "4414ad3057df8a41f4f1",
+      "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+      "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-06T00:40:28.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "55e8fa72ceb13d349d20",
@@ -97,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T00:31:07.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "cc16b438c5aa8e284b2e",
@@ -108,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T00:01:24.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "dc529fae48ff5fe6ac6d",
@@ -119,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T00:00:00.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "bdbe72d279f5f8586f7a",
@@ -130,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T23:51:31.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "7afd0287d4406a0f9b57",
@@ -141,18 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T23:50:36.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "52a44b32d09a9eb569ec",
-      "title": "Man and pregnant woman found dead in outback Queensland home in apparent murder-suicide after long siege",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T23:41:44.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "9055cd2af7c3948e94b7",
@@ -163,7 +328,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T23:34:47.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "516fbb76911d20f9d510",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T23:28:06.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "32499c08726ada090fa1",
@@ -174,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T23:27:38.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "bab4e6481c35989491e8",
@@ -185,18 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T23:24:14.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "46d3e3c3e3aa9011b7da",
-      "title": "Man arrested at Trump’s California golf course faces more charges",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T23:02:25.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "8793ab63d9ccd718910a",
@@ -207,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T22:59:28.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "278f395d4002916202f8",
@@ -218,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T22:52:51.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "616b1b7ad7c32b8adc29",
@@ -229,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T22:46:03.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "788c9038aacc92e43cf7",
@@ -240,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T22:16:20.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "1c0e279b230449d71a3f",
@@ -251,7 +416,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T22:01:33.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
+    },
+    {
+      "id": "b9617763ee98deca749c",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-05T22:00:32.000Z",
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "8cfaad76922aa6728a24",
@@ -262,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T22:00:00.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "be6eaf9b101f5ac83fb9",
@@ -273,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-05T21:37:08.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "6ab81f97c046ca50e574",
@@ -284,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T21:35:13.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "1a7f8bb6aafeb886d393",
@@ -295,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T21:31:55.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "f3df8f30832218f88d3b",
@@ -306,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-05T21:29:23.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "4f69ddb7dd2a0899752e",
@@ -317,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T21:28:14.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "3c14a390ff326eb2b041",
-      "title": "White House confirms new helipad for supersized Marine One helicopter",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/white-house-helipad-marine-one-chopper",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T21:25:05.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "6301d1d85bd3c2282908",
@@ -339,18 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-05T21:24:45.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "56c36fd7e344b01fad03",
-      "title": "I'll be stepping back from leading product for X",
-      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
-      "source": "twitter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T21:15:40.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "cc08faa8939c7a631fc4",
@@ -361,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T21:15:35.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "2c19ce14b791f26cc4f0",
@@ -372,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-05T21:11:57.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "5e65f8efb14fa5aefe4a",
@@ -383,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T21:07:03.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "0243f01999428fabd01e",
@@ -394,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-05T20:56:06.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "9c9ad014f8fb9ae902a8",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T20:55:52.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     },
     {
       "id": "09fa9849f1c827ccaacb",
@@ -416,161 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-05T20:55:12.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "ab40b1475d7324b5e59a",
-      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:43:29.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "7f1e3f1d8b5341ca1018",
-      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:23:02.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "1a42232032d85197778e",
-      "title": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
-      "url": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:08:47.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "91a5aed35ee176ac36d4",
-      "title": "SpaceX shares slide on the heels of first quarterly report",
-      "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:06:08.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "363e775ef600ddfcf19e",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:03:36.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "8581fee96865aadc06e8",
-      "title": "Sheikh Hasina says she will return to Bangladesh in December",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:03:10.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "ce64c2584a9ef0ec5df6",
-      "title": "Drone carrying explosives found at German airport, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:01:51.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "21b3339fe6f829d2c429",
-      "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-      "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:00:28.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "11f26d8fab53885139ca",
-      "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/global-heating-public-services-struggling-heatwaves",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:00:27.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "5c7e1e25dd5416b75412",
-      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-05T20:00:24.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "e59cc9c9b4d677a052f7",
-      "title": "New Mexico sues US Justice Department for impeding Epstein probe",
-      "url": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T19:51:12.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "f5fdafc595a750204bb6",
-      "title": "Chief constable considers joining legal action if PC’s killers are released early",
-      "url": "https://www.theguardian.com/law/2026/aug/05/threat-of-legal-action-if-pc-andrew-harpers-killers-are-released-early",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-05T19:51:04.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "637a17d6b23c835e0a03",
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
-      "source": "runarcn.no",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-05T19:50:13.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
-    },
-    {
-      "id": "859d614914164b6d0f31",
-      "title": "Young pilot makes daring emergency landing on Florida interstate",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-05T19:46:33.000Z",
-      "discoveredAt": "2026-08-06T00:58:49.197Z"
+      "discoveredAt": "2026-08-06T04:23:13.161Z"
     }
   ]
 }
