@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T21:19:01.582Z",
+  "generatedAt": "2026-08-07T22:08:52.631Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "5be0e4dc96f933db5b61",
-      "title": "US police officer accused of killing three people in Mexico arrested at border",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "id": "2704d98f21cc59a03ccf",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T22:07:00.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "d52f21a4519d665cc578",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T20:49:24.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "publishedAt": "2026-08-07T21:44:38.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "32f6ac84ca926bc76517",
@@ -63,8 +74,129 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T20:45:45.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "publishedAt": "2026-08-07T21:43:43.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "307f905161f6cfd0840c",
+      "title": "Idaho police release video of In-N-Out Burger mass shooting that killed three",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:41:31.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "ff8381739be1b2602e9b",
+      "title": "Prosecutor fired over blogposts critical of Trump sues US justice department",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:24:58.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "2a4eb1ca5f92e50257c8",
+      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:24:17.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "276c8ef8fa8694406be5",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "source": "theregister.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T21:19:57.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "c2f74a7e853b565ae7d7",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:19:27.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "04ee606821e85b0ee463",
+      "title": "US appeals court halts White House ballroom construction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:18:20.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "951450dac6e166a856eb",
+      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:12:45.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "0c5cbe90a49b0bbae825",
+      "title": "What is birthright citizenship and how common is birth tourism in the US?",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:09:51.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "dd43b5527615cf23cf17",
+      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:05:45.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "746a4e1c100122e9c53a",
+      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T21:02:31.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "5be0e4dc96f933db5b61",
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:49:24.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "45ad6654319c1dbceb2e",
@@ -75,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T20:41:46.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "24386eb1479379a8846b",
@@ -86,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T20:40:56.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "a893a2fa85850d63fb9d",
@@ -97,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T20:39:26.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "36341fda2f2b4ebc4ec0",
@@ -108,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T20:33:23.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "7a20e4a5c51564da62e2",
@@ -119,18 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T20:27:56.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "05530dc46004e03a05fd",
-      "title": "Chasa",
-      "url": "https://chasa.io/",
-      "source": "chasa.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T20:23:26.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "ddeccfc19eb96926d183",
@@ -141,18 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T20:22:18.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "2a4eb1ca5f92e50257c8",
-      "title": "Watch: BBC questions Infantino over backing as Fifa president",
-      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:12:26.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "b1c3c4a9c90eab2f1309",
@@ -163,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T19:47:42.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "60f68e69ac9fcfd28a72",
@@ -174,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T19:35:35.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "e7cc16f29120046bbd64",
@@ -185,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T19:25:09.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "8634df66640b4a08fd04",
@@ -196,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T19:21:01.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "add75333ec2cb364f045",
@@ -207,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T19:04:48.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "8e88f94d8072960642fa",
@@ -218,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:59:08.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "f04e26b17551ca72480f",
@@ -229,18 +339,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T18:54:55.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "4137a77d606ae453c229",
-      "title": "Psychological Warfare in Reverse Engineering",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
       "url": "https://github.com/xoreaxeaxeax/repsych",
       "source": "github.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "9a630ca45e2cd4958c20",
@@ -251,29 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:51:14.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "280be7671d9ee67f1b77",
-      "title": "Trump renews bid to fire Fed governor Lisa Cook despite supreme court ruling",
-      "url": "https://www.theguardian.com/business/2026/aug/07/trump-lisa-cook-fed-firing-scotus-ruling",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T18:47:25.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "bf52fc01db547f52d6d0",
-      "title": "California woman who admitted to stabbing wife had also killed husband",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/yolanda-olejniczak-marodi-wife-husband-murder",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T18:36:38.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "8db88b4ecdf964972c16",
@@ -284,18 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:34:34.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "d30bef288e2bc7b06868",
-      "title": "Databricks drove down AI coding spend 70%",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source": "databricks.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T18:25:17.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "343ab339a0bae7172732",
@@ -306,7 +383,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T18:10:37.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "1d5cf36718f6e92c255f",
@@ -317,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:01:30.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "0a65d8b396f3ce608bc1",
@@ -328,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:00:23.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "ce561704df38187a549f",
@@ -339,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T18:00:05.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "2eff008df14346071cb7",
@@ -350,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T17:56:20.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "ccdafceb97524dc72611",
@@ -361,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T17:48:17.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "bc4b7ca78435973d2fc9",
@@ -372,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:46:20.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "9449ee6317e1ce7bcc9b",
@@ -383,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:42:54.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "2d6f80266abe70dbe486",
@@ -394,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:40:53.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "5c970cc4af2cfed09d2d",
@@ -405,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T17:36:30.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "3a2af61444963e1d1948",
@@ -416,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T17:33:40.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "03e5bb40e5e339308e3d",
@@ -427,7 +504,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T17:19:06.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
+    },
+    {
+      "id": "7a450c7a0615e35feccb",
+      "title": "What we know so far about the deadly Thailand shooting",
+      "url": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T17:17:36.000Z",
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "2924efb2f72e911224f6",
@@ -438,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T17:07:29.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "583640ad73d8e9228e08",
@@ -449,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T16:49:15.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "8931036525d6e7cf5e2e",
@@ -460,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:47:33.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "7afe3802408537129bbd",
@@ -471,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:42:35.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     },
     {
       "id": "605b54423210186e8fcd",
@@ -482,95 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T16:39:36.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "de6e1e2bde184f658269",
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T16:35:26.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "e33c6d9334c7f78116c1",
-      "title": "US labour market sheds jobs in July as labour force participation slumps",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T16:25:35.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "f44d09a6f7daf6692822",
-      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T16:23:33.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "9a09932c196ed588689f",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T16:13:45.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "46a8f45f280d3710286e",
-      "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
-      "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T16:10:51.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "09ebd3f66f2781b77688",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T15:51:16.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "633b88b65d7f6863a123",
-      "title": "Police and prosecution errors left proven sex offender free to murder two women in London",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/simon-levy-murder-trial-women-london-police-prosecution-errors",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T15:41:48.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
-    },
-    {
-      "id": "58e9e7f54a3390bd4630",
-      "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-07T15:41:45.000Z",
-      "discoveredAt": "2026-08-07T21:19:01.582Z"
+      "discoveredAt": "2026-08-07T22:08:52.631Z"
     }
   ]
 }
