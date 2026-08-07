@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T16:05:35.422Z",
+  "generatedAt": "2026-08-07T17:04:12.652Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,61 @@
   ],
   "stories": [
     {
+      "id": "583640ad73d8e9228e08",
+      "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:49:15.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "baac03a3f3f734e3b1a3",
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "source": "lse.ac.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T16:44:28.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "7afe3802408537129bbd",
+      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:42:35.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "605b54423210186e8fcd",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "source": "openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T16:39:36.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "de6e1e2bde184f658269",
+      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:35:26.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
       "id": "36341fda2f2b4ebc4ec0",
       "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -52,8 +107,8 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T15:59:01.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "publishedAt": "2026-08-07T16:33:50.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "32f6ac84ca926bc76517",
@@ -63,8 +118,52 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T15:53:33.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "publishedAt": "2026-08-07T16:27:40.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "e33c6d9334c7f78116c1",
+      "title": "US labour market sheds jobs in July as labour force participation slumps",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:25:35.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "f44d09a6f7daf6692822",
+      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:23:33.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "9a09932c196ed588689f",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:13:45.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "46a8f45f280d3710286e",
+      "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
+      "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T16:10:51.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "09ebd3f66f2781b77688",
@@ -75,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:51:16.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "9449ee6317e1ce7bcc9b",
@@ -86,7 +185,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:48:49.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "633b88b65d7f6863a123",
@@ -97,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:41:48.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "58e9e7f54a3390bd4630",
@@ -108,7 +207,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T15:41:45.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "a4c330163139339886a3",
@@ -119,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:38:28.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "4c6aa5e4724abbb370ad",
@@ -130,7 +229,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:36:43.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
+    },
+    {
+      "id": "97b18a011af99603bb55",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "source": "sdss.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T15:24:53.000Z",
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "a7ba2da2291d031d1309",
@@ -141,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:18:27.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "eae53f7713b5dd4cc7b9",
@@ -152,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T15:10:22.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "07dc8cee61a3554112cc",
@@ -163,18 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:08:26.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "252d922a05913ac35c59",
-      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-      "source": "youtube.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T14:55:08.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "1e8ed8f629377c9b14a6",
@@ -185,18 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T14:51:57.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "de6e1e2bde184f658269",
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T14:48:03.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "26f2c5742fec176331d2",
@@ -207,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T14:35:54.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "89ae317df78ce2d7cf46",
@@ -218,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T14:31:06.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "e1481e86c71b604030b8",
@@ -229,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T14:22:24.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "c93ec51b2279ea19ff86",
@@ -240,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T14:18:53.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "b32983e194c578c62217",
@@ -251,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T14:16:01.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "96ccb95a01b4b8bd2070",
@@ -262,18 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T14:12:59.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "07a8bc0137eb120dffd2",
-      "title": "Simon Levy murders: has anything changed in policing since Sarah Everard’s killing?",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/simon-levy-murders-has-anything-changed-in-policing-since-sarah-everard-killing",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T14:07:53.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "db82944db21524176afb",
@@ -284,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T14:02:15.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "89c1bc9605e0d148e0da",
@@ -295,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T14:00:32.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "a34e43d7a1fe9d11a2b2",
@@ -306,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T13:49:18.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "51987fc7b010e20c48d0",
@@ -317,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T13:32:41.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "d1bec9372ff147b6e5e5",
@@ -328,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T13:30:43.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "65b4c6e7416b0161f07f",
@@ -339,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T13:28:40.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "4bcb2d1c93324d405791",
@@ -350,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T13:12:52.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "4af93d53d373147397df",
@@ -361,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T13:10:10.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "646456b9d1473df27079",
@@ -372,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T13:03:54.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "ad653906e3e7380d388f",
@@ -383,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T13:00:18.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "647617ecf76e2b2a572b",
@@ -394,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T13:00:18.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "ea9fb63ca713e961e3ae",
@@ -405,18 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T12:44:41.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "7708182891f7251f6f4a",
-      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "source": "nbcnews.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T12:42:58.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "d2a2b9fd0477cbbef436",
@@ -427,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T12:35:40.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "ffd1ce1a1b1c12f46b40",
@@ -438,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T12:34:13.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "5d4a40a5913456e4bde7",
@@ -449,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T12:28:55.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "4c498aa3d108b0de1f38",
@@ -460,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T12:28:52.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "26a109eb2dac7ce9c52f",
@@ -471,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T12:23:03.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "50cb78688d62ff34a24f",
@@ -482,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T11:59:05.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "e5977bc56b358be0b40e",
@@ -493,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T11:47:24.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     },
     {
       "id": "a860e8bd6da16163ea59",
@@ -504,73 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T11:36:33.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "85081d01d2d880ab344a",
-      "title": "First school for robots opens in China",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:33:28.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "5e35214e3f4aa756ad5e",
-      "title": "Bangladesh cricket’s Shakib, an Hasina ally, will face trial if he is safe",
-      "url": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:27:54.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "5cc760b9d091a72a47b1",
-      "title": "Northern Ethiopia’s shifting alliances explained",
-      "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:19:01.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "966e1d1518a54d34234a",
-      "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:15:44.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "c79d53e3071e88c71973",
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:11:10.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
-    },
-    {
-      "id": "7c2d5139aad49dbaccdc",
-      "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T11:03:07.000Z",
-      "discoveredAt": "2026-08-07T16:05:35.422Z"
+      "discoveredAt": "2026-08-07T17:04:12.652Z"
     }
   ]
 }
