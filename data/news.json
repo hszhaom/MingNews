@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T20:09:54.734Z",
+  "generatedAt": "2026-08-07T21:19:01.582Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "36341fda2f2b4ebc4ec0",
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "5be0e4dc96f933db5b61",
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian",
       "sourceType": "rsshub",
-      "sourceId": "bbc-world",
+      "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T19:51:16.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "publishedAt": "2026-08-07T20:49:24.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "32f6ac84ca926bc76517",
@@ -63,8 +63,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T19:39:29.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "publishedAt": "2026-08-07T20:45:45.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "45ad6654319c1dbceb2e",
+      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+      "url": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:41:46.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "24386eb1479379a8846b",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:40:56.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "a893a2fa85850d63fb9d",
+      "title": "Can diplomacy end the conflict in Libya?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:39:26.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "36341fda2f2b4ebc4ec0",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:33:23.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "7a20e4a5c51564da62e2",
+      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:27:56.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "05530dc46004e03a05fd",
+      "title": "Chasa",
+      "url": "https://chasa.io/",
+      "source": "chasa.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T20:23:26.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "ddeccfc19eb96926d183",
+      "title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:22:18.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "2a4eb1ca5f92e50257c8",
+      "title": "Watch: BBC questions Infantino over backing as Fifa president",
+      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T20:12:26.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
+    },
+    {
+      "id": "b1c3c4a9c90eab2f1309",
+      "title": "Contaminated water putting Gaza families at risk",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T19:47:42.000Z",
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "60f68e69ac9fcfd28a72",
@@ -75,7 +174,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T19:35:35.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "e7cc16f29120046bbd64",
@@ -86,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T19:25:09.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "8634df66640b4a08fd04",
@@ -97,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T19:21:01.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "add75333ec2cb364f045",
@@ -108,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T19:04:48.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "8e88f94d8072960642fa",
@@ -119,7 +218,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:59:08.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "f04e26b17551ca72480f",
@@ -130,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T18:54:55.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "4137a77d606ae453c229",
@@ -141,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "9a630ca45e2cd4958c20",
@@ -152,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:51:14.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "280be7671d9ee67f1b77",
@@ -163,18 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:47:25.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "ddeccfc19eb96926d183",
-      "title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T18:46:22.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "bf52fc01db547f52d6d0",
@@ -185,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:36:38.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "8db88b4ecdf964972c16",
@@ -196,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:34:34.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "d30bef288e2bc7b06868",
@@ -207,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:25:17.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "343ab339a0bae7172732",
@@ -218,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T18:10:37.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "1d5cf36718f6e92c255f",
@@ -229,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T18:01:30.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "0a65d8b396f3ce608bc1",
@@ -240,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T18:00:23.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "ce561704df38187a549f",
@@ -251,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T18:00:05.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "2eff008df14346071cb7",
@@ -262,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T17:56:20.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "ccdafceb97524dc72611",
@@ -273,7 +361,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T17:48:17.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "bc4b7ca78435973d2fc9",
@@ -284,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:46:20.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "9449ee6317e1ce7bcc9b",
@@ -295,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:42:54.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "2d6f80266abe70dbe486",
@@ -306,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T17:40:53.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "5c970cc4af2cfed09d2d",
@@ -317,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T17:36:30.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "3a2af61444963e1d1948",
@@ -328,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T17:33:40.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "03e5bb40e5e339308e3d",
@@ -339,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T17:19:06.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "2924efb2f72e911224f6",
@@ -350,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T17:07:29.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "583640ad73d8e9228e08",
@@ -361,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T16:49:15.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "8931036525d6e7cf5e2e",
@@ -372,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:47:33.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "7afe3802408537129bbd",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:42:35.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "605b54423210186e8fcd",
@@ -394,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T16:39:36.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "de6e1e2bde184f658269",
@@ -405,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T16:35:26.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "e33c6d9334c7f78116c1",
@@ -416,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:25:35.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "f44d09a6f7daf6692822",
@@ -427,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:23:33.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "9a09932c196ed588689f",
@@ -438,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T16:13:45.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "46a8f45f280d3710286e",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T16:10:51.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "09ebd3f66f2781b77688",
@@ -460,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:51:16.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "633b88b65d7f6863a123",
@@ -471,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T15:41:48.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     },
     {
       "id": "58e9e7f54a3390bd4630",
@@ -482,95 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T15:41:45.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "a4c330163139339886a3",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T15:38:28.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "97b18a011af99603bb55",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "source": "sdss.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T15:24:53.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "95f75968a819ac72d15f",
-      "title": "Möbius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "source": "quuxplusone.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T15:10:34.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "eae53f7713b5dd4cc7b9",
-      "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-      "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T15:10:22.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "1e8ed8f629377c9b14a6",
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "source": "patronview.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T14:51:57.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "e1481e86c71b604030b8",
-      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T14:22:24.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "c93ec51b2279ea19ff86",
-      "title": "Imade",
-      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T14:18:53.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
-    },
-    {
-      "id": "b32983e194c578c62217",
-      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
-      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T14:16:01.000Z",
-      "discoveredAt": "2026-08-07T20:09:54.734Z"
+      "discoveredAt": "2026-08-07T21:19:01.582Z"
     }
   ]
 }
