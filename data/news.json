@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T08:38:11.690Z",
+  "generatedAt": "2026-08-07T10:07:48.241Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 39,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,59 @@
   ],
   "stories": [
     {
-      "id": "223c3e2e39629bfc19c4",
-      "title": "Rail passengers face second day of disruption across north-west England",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/rail-passengers-trains-power-failure-second-day-disruption-north-west-england",
+      "id": "f428fd39ed973d9fb406",
+      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "3dccaaaea77f74d16466",
+      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "89ae317df78ce2d7cf46",
+      "title": "Labour government says more people working illegally are being arrested and deported – UK politics live",
+      "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T08:07:35.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "publishedAt": "2026-08-07T09:51:01.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "bbb494f024cd8d699ea4",
+      "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:40:14.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "75093c87bbba9d1cba80",
+      "title": "UK house prices flat in July, says Lloyds, as buyers struggle with affordability",
+      "url": "https://www.theguardian.com/business/2026/aug/07/uk-house-prices-flat-july-lloyds-affordability",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:32:59.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "55ffdfe3b16efaa7a7f2",
@@ -63,30 +107,195 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T08:06:40.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "publishedAt": "2026-08-07T09:22:03.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "4668968b4f32e226d954",
+      "title": "Several killed after student opens fire inside Thailand school",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:13:48.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "af8a2686f201214a6a78",
+      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:11:36.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "f2c7685bdc869ed32033",
+      "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-windfall-tax-big-oil-iran-war",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:00:13.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "fb9e734283ebdbf80cbf",
+      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "8c844c9b0405915a7d79",
+      "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "b6d074a276d43b3776db",
+      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "94e82c25378b5cccf5f8",
+      "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "a9089a040d7a35d0c249",
+      "title": "Buried for not being Brueghel: overlooked masterpiece by still-life pioneer discovered in storage area",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/clara-peeters-painting-oslo-national-mueum-norway",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:51:26.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "00721688b3c1f1ff5323",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:48:16.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "ab8a73b0ca237e3ee919",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:41:55.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "12d7bfb43380fd8e8ebb",
+      "title": "The other classroom: Returning to sacred knowledge",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:41:06.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "7b229069537ee567ace4",
+      "title": "Dogs to be euthanised after man dies following suspected animal attack at rural Sydney property",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:40:57.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "82874196b895d701137c",
+      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:38:56.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "a61e5a1ab8f644f3b5c8",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:32:57.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "223c3e2e39629bfc19c4",
+      "title": "Rail passengers face second day of disruption across north-west England",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/07/rail-passengers-trains-power-failure-second-day-disruption-north-west-england",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T08:07:35.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
+    },
+    {
+      "id": "91d9115cb2760018f46a",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "source": "ign.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T07:58:24.000Z",
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "b32983e194c578c62217",
-      "title": "Thailand school shooting: seven killed including suspected attacker, police say",
+      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
       "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T07:51:24.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "161111cfaf73a2164c76",
-      "title": "I won't read LLM authored fiction",
-      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-      "source": "mccormick.cx",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T07:45:56.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "3367bcc822b33805089a",
@@ -97,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T07:44:06.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "dd15c24103b274e2ea66",
@@ -108,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T07:43:05.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "ca1125e20a9482265c53",
@@ -119,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T07:12:11.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "89c1bc9605e0d148e0da",
@@ -130,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T07:00:11.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "0f50e249740a28749534",
@@ -141,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T06:46:34.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "6a45d93dc976dfac8914",
@@ -152,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T06:29:40.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "4bd110e236f13b844e4d",
@@ -163,18 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T06:00:11.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "1999d4b92c85c069d3ab",
-      "title": "Meet the offenders cleaning canals in the West Midlands as an alternative to prison",
-      "url": "https://www.theguardian.com/society/2026/aug/07/offenders-cleaning-canals-west-midlands-prison-overcrowding",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T06:00:10.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "ffe63b5a19abd48d0bb7",
@@ -185,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T05:49:22.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "fb4a3745f8e6ba564019",
@@ -196,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T05:44:29.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "5fd37a2666a0b5543067",
@@ -207,18 +405,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T05:34:15.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "82874196b895d701137c",
-      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T05:30:51.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "42877152fdc3845800a8",
@@ -229,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-07T05:26:31.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "ba9005dc2496aa90e927",
@@ -240,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T05:25:56.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "3ebc7db580fdb81068a7",
-      "title": "Framework discloses data breach via Metabase 0-day",
-      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-      "source": "community.frame.work",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T05:17:57.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "6d896e8c3e856922ade7",
@@ -262,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T05:00:48.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "b919bc6a01adb7eb58d8",
@@ -273,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T05:00:08.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "531d8fd62f84f3a37bb7",
-      "title": "July’s heatwaves kept UK shoppers away from high street",
-      "url": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T05:00:07.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "249e7156278eb9d8435f",
@@ -295,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T04:52:19.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "7d922f106692677e7e10",
@@ -306,18 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T04:43:43.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "8d39fd69eab214902aa7",
-      "title": "At least six killed, 15 wounded in Thailand school shooting, police say",
+      "title": "At least five killed in Thailand school shooting, police say",
       "url": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T04:23:52.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "4827895cc2aeb4027526",
@@ -328,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T04:04:45.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "c3383299ff2a78ebcc85",
@@ -339,18 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T04:00:06.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "7b229069537ee567ace4",
-      "title": "Man dies after suspected dog attack at rural property in outer Sydney",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T03:53:52.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "d85d2c443324256c4fc9",
@@ -361,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T03:48:22.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "1772eabcf221fa41248f",
@@ -372,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T02:53:19.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "759ecebc18c1903f4656",
@@ -383,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T02:44:29.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "6e84cd09cd42e45da7b4",
@@ -394,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T02:30:23.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "65d21fe82c94a243e516",
@@ -405,29 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T02:24:50.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "cb9f603b3d6b72f4af8b",
-      "title": "ACLU blasts Trump’s new orders on birthright citizenship, saying they are doomed to fail in court– as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T02:01:07.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "8e60ee8cfda378fea222",
-      "title": "Trump’s birthright citizenship attack the latest effort in obsessive campaign",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-attack",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:57:42.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     },
     {
       "id": "68c68f7c039df489321c",
@@ -438,139 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T01:57:02.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "4b97ccf89d0123e74025",
-      "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-      "url": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:51:50.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "489c493e529bb07be3ba",
-      "title": "New Mexico court orders Meta to pay $567m over harm to youths",
-      "url": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:51:03.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "1d70ac87f474bc82849e",
-      "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
-      "url": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:17:13.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "8f1de7be5cc0ec33027c",
-      "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
-      "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:10:58.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "dd6ba3d9719e82f30103",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:03:35.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "58b7648504062b7281e6",
-      "title": "Police in Argentina use tear gas to stop protesters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T01:02:56.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "304158bbcd3b6f10813e",
-      "title": "Two people convicted in relation to death of French streamer",
-      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:51:40.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "86596478bd13c9836cae",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:34:14.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "d027af93fc8f6e202703",
-      "title": "Do you know who owns the media you watch?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:28:50.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "48a9109565d37936ce0d",
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:26:52.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "613f19ac3db9caac2d6b",
-      "title": "After the floods, hunger: Mozambique’s second disaster",
-      "url": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:12:16.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
-    },
-    {
-      "id": "c2e43a07cdcf9c405a2f",
-      "title": "Iran war live: Trump expects war to end ‘pretty soon’; Hormuz deal close",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "discoveredAt": "2026-08-07T08:38:11.690Z"
+      "discoveredAt": "2026-08-07T10:07:48.241Z"
     }
   ]
 }
