@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T03:58:34.711Z",
+  "generatedAt": "2026-08-07T05:47:33.029Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 40,
+      "count": 39,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,191 @@
   ],
   "stories": [
     {
+      "id": "fb4a3745f8e6ba564019",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:44:29.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "5fd37a2666a0b5543067",
+      "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:34:15.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "82874196b895d701137c",
+      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:30:51.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
       "id": "ca1125e20a9482265c53",
-      "title": "Australia news live: airlines blame lack of traffic controllers for morning of cancellations and long delays at Sydney Airport",
+      "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-07T03:54:23.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "publishedAt": "2026-08-07T05:28:15.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "42877152fdc3845800a8",
+      "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:26:31.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "ba9005dc2496aa90e927",
+      "title": "Mexico deploys troops to secure avocado region after US halts imports",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:25:56.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "a28e6f2121649a9cc471",
+      "title": "Anthropic CEO reportedly worried new hires only care about money",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
+      "source": "finance.yahoo.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-07T05:15:27.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "6d896e8c3e856922ade7",
+      "title": "Record-high heat soars through South Korea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:00:48.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "b919bc6a01adb7eb58d8",
+      "title": "Extreme heat breaks temperature records in central and eastern Europe",
+      "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:00:08.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "531d8fd62f84f3a37bb7",
+      "title": "July’s heatwaves kept UK shoppers away from high street",
+      "url": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T05:00:07.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "249e7156278eb9d8435f",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T04:52:19.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "7d922f106692677e7e10",
+      "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T04:43:43.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "8d39fd69eab214902aa7",
+      "title": "One killed, four injured in Thailand school shooting, officials say",
+      "url": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T04:23:52.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "4827895cc2aeb4027526",
+      "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+      "url": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T04:04:45.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "c3383299ff2a78ebcc85",
+      "title": "Trump unbound: the making of an imperial presidency – podcast",
+      "url": "https://www.theguardian.com/politics/audio/2026/aug/07/trump-unbound-the-making-of-an-imperial-presidency-podcast",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T04:00:06.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "7b229069537ee567ace4",
-      "title": "Man dies after suspected dog attack at rural property in Sydney suburb",
+      "title": "Man dies after suspected dog attack at rural property in outer Sydney",
       "url": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T03:53:52.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
+    },
+    {
+      "id": "d85d2c443324256c4fc9",
+      "title": "AI used to create viruses not found in nature for first time",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-07T03:48:22.000Z",
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "1772eabcf221fa41248f",
@@ -75,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T02:53:19.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "759ecebc18c1903f4656",
@@ -86,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T02:44:29.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "6e84cd09cd42e45da7b4",
@@ -97,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T02:30:23.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "65d21fe82c94a243e516",
@@ -108,18 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T02:24:50.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "fb4a3745f8e6ba564019",
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T02:07:46.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "cb9f603b3d6b72f4af8b",
@@ -130,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T02:01:07.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "8e60ee8cfda378fea222",
@@ -141,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T01:57:42.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "68c68f7c039df489321c",
@@ -152,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T01:57:02.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "4b97ccf89d0123e74025",
@@ -163,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T01:51:50.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "489c493e529bb07be3ba",
@@ -174,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T01:51:03.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "1d70ac87f474bc82849e",
@@ -185,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T01:17:13.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "8f1de7be5cc0ec33027c",
@@ -196,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T01:10:58.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "dd6ba3d9719e82f30103",
@@ -207,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T01:03:35.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "58b7648504062b7281e6",
@@ -218,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T01:02:56.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "55ffdfe3b16efaa7a7f2",
@@ -229,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T00:54:03.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "304158bbcd3b6f10813e",
@@ -240,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T00:51:40.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "86596478bd13c9836cae",
@@ -251,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T00:34:14.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "d027af93fc8f6e202703",
@@ -262,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T00:28:50.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "48a9109565d37936ce0d",
@@ -273,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T00:26:52.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "613f19ac3db9caac2d6b",
@@ -284,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T00:12:16.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "0d79a1cd7581169149a6",
-      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "source": "wsj.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T00:06:28.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "c2e43a07cdcf9c405a2f",
@@ -306,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T00:00:00.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "72f25c4d49c5dd42e8f0",
@@ -317,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T23:55:35.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "3259b148437e82200e03",
@@ -328,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T23:49:21.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "25accf6dd2943126ba27",
@@ -339,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T23:46:37.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "2b1d52f6653f961449c6",
@@ -350,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T23:42:47.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "03dc7c3c2f338ecb7f01",
@@ -361,29 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T23:34:47.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "691f0d17e70112324d5e",
-      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-      "source": "wired.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T23:30:03.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "883964d23ed4e7440b3c",
-      "title": "Trump administration plans overhaul of antipoverty program for children",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T23:27:43.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "73b681ecac7913e4f7dd",
@@ -394,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-06T22:59:29.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "5a3488ba1a4008209fab",
@@ -405,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T22:41:09.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "e33cfbc503b45f9d4207",
@@ -416,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T22:39:46.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "092eb1d479dfc22125bb",
@@ -427,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T22:31:18.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "458971bc20af668870a0",
@@ -438,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-06T22:07:11.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     },
     {
       "id": "ac9264fedf6f5fb610e6",
@@ -449,128 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-06T22:06:35.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "360ed794c1138e7910fb",
-      "title": "Far-right fitness clubs mask extremist recruitment, experts warn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_nationalism-3-0-nils-adler-060826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T22:00:43.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "e1c7bd53489331ba9191",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "source": "troyhunt.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T21:52:16.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "9d8c2e952a4b671c6117",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "source": "aleksagordic.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T21:30:21.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "f67adb9f34bda2f008f0",
-      "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
-      "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T21:27:19.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "0f166a48748f7347a8fb",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "source": "sciencedaily.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-06T21:18:32.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "cced4b0be4d20bf69e71",
-      "title": "Toronto police arrest two in US Consulate shooting investigation",
-      "url": "https://www.aljazeera.com/news/2026/8/6/toronto-police-arrest-two-in-us-consulate-shooting-investigation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T21:11:36.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "185e3e4bb0b787d987f9",
-      "title": "‘It is British life’: No 10 vows to stop councils trying to limit standing in pubs",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/downing-street-stop-councils-restricting-standing-in-pubs",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-06T21:07:15.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "2ec7abe5fbf112724e8e",
-      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T20:59:29.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "7e323c93812cf3a9a694",
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-06T20:58:56.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "1fb34073fe2bb68ad954",
-      "title": "Fire engulfs earthquake housing site in Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T20:55:22.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
-    },
-    {
-      "id": "53a370a656342610df91",
-      "title": "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-06T20:52:53.000Z",
-      "discoveredAt": "2026-08-07T03:58:34.711Z"
+      "discoveredAt": "2026-08-07T05:47:33.029Z"
     }
   ]
 }
