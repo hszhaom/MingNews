@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:52:53.842Z",
+  "generatedAt": "2026-08-08T19:38:17.304Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "94f5f09a5945de905eae",
+      "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:21:14.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "bc535b981e9c06a6d802",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:18:57.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "349ade7faa74ed06ee54",
+      "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:17:01.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "a93d71380a85d50d7b97",
+      "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:13:03.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "fe4c9759188a335879ec",
+      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:00:43.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "28ff02d1b87639423b2d",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T19:00:22.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "548a6b36058e9e3bcf02",
+      "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+      "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T18:57:53.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "6b8d58ca24508f74d15d",
+      "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+      "url": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T18:55:20.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "f4c92ecdb951f5b45d5c",
+      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T18:43:20.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
       "id": "ef07dd28d3dbb858b2c5",
       "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -53,7 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T18:13:49.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "60c70a9603ec723004ff",
@@ -64,7 +163,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T18:09:31.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "0a79905e7acf97097c83",
@@ -75,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T18:06:25.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "659a6c78e876ec84a113",
@@ -86,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T18:05:44.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "7ce544aaccbb5bc02ead",
@@ -97,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T17:58:42.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "391fb1535611267abb9f",
@@ -108,7 +207,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-08T17:46:05.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "d9d7b81d1509bda1367c",
@@ -119,7 +218,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T17:42:40.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
+    },
+    {
+      "id": "617b6a6e59cf299c05ba",
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "source": "newrepublic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T17:27:52.000Z",
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "e22fa5c5995e1c649021",
@@ -130,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T17:26:59.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "fb43c1a336ab28b9d5f6",
@@ -141,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T17:23:31.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "9557a7abf99e82a0296c",
@@ -152,18 +262,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T17:14:09.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "b180513ac48dd80940ce",
-      "title": "Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – US politics live",
+      "title": "Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T17:05:58.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "bb008c199434ffee5997",
@@ -174,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T17:05:17.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "fe5ca6d9e02c334f50ec",
@@ -185,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T17:00:41.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "c19bcc4209086f999f2a",
@@ -196,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T16:52:11.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "687b67e6ffabc76a2b9d",
@@ -207,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T16:49:07.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "bf7e073ff90c5dbec826",
@@ -218,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T16:26:36.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "70f1c84f8bfe1f35c5f5",
@@ -229,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T16:09:06.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "38077166ea4c865752a0",
@@ -240,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T16:04:51.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "b6b034454b0e2f04919e",
@@ -251,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T16:04:36.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "fe65a77122ad0a0e27a2",
@@ -262,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T16:00:02.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "c20e102b4b4451095608",
@@ -273,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T15:59:37.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "1daa6d6090fd39c756fb",
@@ -284,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T15:56:39.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "bd5b9bc7efb4fcb41138",
@@ -295,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T15:52:49.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "7e4c6b547bc02624c367",
@@ -306,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T15:51:11.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "a7e2bb9551bd7365e52e",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T15:42:03.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "7ef84614386a0edfcc94",
@@ -328,18 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T15:15:17.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "349ade7faa74ed06ee54",
-      "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T15:14:56.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "3eed6a4173078d002469",
@@ -350,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T15:08:31.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "d1f2f8f6dbb790e8e002",
@@ -361,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T15:01:29.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "52b42ccfc796b3497aa5",
@@ -372,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T14:58:42.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "d15942072756ed1364a6",
@@ -383,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T14:50:25.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "fabda0a665d08b24fb68",
@@ -394,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T14:32:33.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "a66be3b6408b0cf562f2",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T14:25:38.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "36341fda2f2b4ebc4ec0",
@@ -416,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T14:25:19.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "618d54cca46a48b1f69f",
@@ -427,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T14:20:19.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "46da1393f6866ae0f1e9",
@@ -438,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T14:09:02.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "e7876cb43b7a83bc5d36",
@@ -449,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T13:59:21.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "92df8b1fddd3d4ca63a1",
@@ -460,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T13:52:40.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     },
     {
       "id": "5565aacee058d2e64a6e",
@@ -471,106 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T13:42:06.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "2c6b1ab9e717b8c43077",
-      "title": "K-pop's global wave inspires Chile's next pop stars",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T13:34:45.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "c9de1039f1b16c0522b2",
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "source": "blog.getutm.app",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T13:33:06.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "b28aa9c417ab324d88b9",
-      "title": "Voyager 1 FDS Computer Emulator",
-      "url": "https://zaneham.github.io/voyager-fds-emulator/",
-      "source": "zaneham.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T13:28:38.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "2e1723421e0ae3a2cb2e",
-      "title": "A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "source": "specification.website",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T13:26:51.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "a655d5166d27e3363208",
-      "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T13:00:46.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "2499b90c5155ace52b79",
-      "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:52:04.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "2fdeec7b7d85eb65d850",
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "source": "buttondown.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T12:31:11.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "70a43fd532a8f78afa7f",
-      "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-      "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:30:52.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
-    },
-    {
-      "id": "bc7d93685552d6406d07",
-      "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:07:23.000Z",
-      "discoveredAt": "2026-08-08T18:52:53.842Z"
+      "discoveredAt": "2026-08-08T19:38:17.304Z"
     }
   ]
 }
