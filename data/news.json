@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T03:53:51.819Z",
+  "generatedAt": "2026-08-08T05:07:06.234Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 35,
+      "count": 37,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "73c016d581ef126b5aaf",
+      "title": "Norway Football Federation calls for FIFA president to resign",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:37:56.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "b7670bce8d4792a10b23",
+      "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:31:42.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "145adfd26383d0ef54e5",
+      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+      "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:29:46.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "0a79905e7acf97097c83",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:23:33.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "b8ba004007188ec258aa",
+      "title": "Russian strikes near Ukrainian capital kill three, including child",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:18:45.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "3176d0a3b7987eb086d1",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:08:18.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "70523247e782d7ea3fa8",
+      "title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
+      "url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T04:00:35.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "c0f804a1b8ec0546ad3c",
+      "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+      "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T03:42:43.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "e0b7dbd9000445d0f3a3",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "source": "web.archive.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T03:41:56.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
       "id": "787482d97b4c1d3f6c5f",
       "title": "US Senate passes Russia sanctions that could hurt India and China",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
@@ -53,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T03:20:41.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "d875d697b87cfa721720",
@@ -64,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T02:54:02.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "d5eff9b1958294d89af6",
@@ -75,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T02:08:28.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "32f6ac84ca926bc76517",
@@ -86,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T02:01:31.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "3aa7e99d23550e64d5bb",
@@ -97,7 +196,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T01:49:11.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "d275dce569203c1f33fe",
@@ -108,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T01:29:14.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "ac96100278f21318788c",
@@ -119,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T01:28:39.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "f1edb53a0e4ef7f31858",
@@ -130,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T01:18:12.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "c2c30d5bddcb8dd9f126",
@@ -141,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T01:15:53.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "f23daaf278f0e688d62b",
@@ -152,7 +251,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T01:12:45.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "be3e55c6c4004b291b01",
+      "title": "Scale of devastation shocks US city's fire-seasoned residents",
+      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T00:51:16.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "16f56866fb3732551b37",
@@ -163,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T00:31:52.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "ef93657bcb61893627c1",
@@ -174,7 +284,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T00:31:06.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "4f800d1969761f69afc1",
+      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T00:29:27.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "d17cd6068d731ff0096f",
@@ -185,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T00:24:42.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "2701f94e8057f7045c1c",
@@ -196,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T00:13:53.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "6fe385da9523331b63cd",
@@ -207,7 +328,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T00:06:22.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "790541e4e1e5e714fdbe",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T00:02:49.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "42febb701e728c6dd65e",
@@ -218,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T00:00:30.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "51df4795dee30fe03a89",
@@ -229,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T00:00:00.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "8ae8bd921b17391c4127",
@@ -240,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T23:50:39.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "78d2b1c7a98a3f9f4a21",
@@ -251,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T23:40:16.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "82edbcea46a7d5e55817",
@@ -262,7 +394,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T23:34:50.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
+    },
+    {
+      "id": "e053d7298790b477046f",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-07T23:23:12.000Z",
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "f575f5f0237830be7182",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T23:18:14.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "fe1a7c600e0f16cb79d2",
@@ -284,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T23:15:01.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "0abb2f7299f1cb1675a8",
@@ -295,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T23:01:29.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "aebc10199f1406eef45a",
@@ -306,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T22:58:47.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "74aa63caee4580f64f27",
@@ -317,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-07T22:24:27.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "36341fda2f2b4ebc4ec0",
@@ -328,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T22:13:55.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "af0caf34a470f30393f6",
@@ -339,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T22:08:49.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "2704d98f21cc59a03ccf",
@@ -350,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T22:07:00.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "d52f21a4519d665cc578",
@@ -361,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T21:44:38.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "307f905161f6cfd0840c",
@@ -372,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T21:41:31.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "ff8381739be1b2602e9b",
@@ -383,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-07T21:24:58.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "2a4eb1ca5f92e50257c8",
@@ -394,18 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T21:24:17.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "276c8ef8fa8694406be5",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "source": "theregister.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-07T21:19:57.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "c2f74a7e853b565ae7d7",
@@ -416,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-07T21:19:27.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "04ee606821e85b0ee463",
@@ -427,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T21:18:20.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     },
     {
       "id": "951450dac6e166a856eb",
@@ -438,139 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-07T21:12:45.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "0c5cbe90a49b0bbae825",
-      "title": "What is birthright citizenship and how common is birth tourism in the US?",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T21:09:51.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "dd43b5527615cf23cf17",
-      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T21:05:45.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "746a4e1c100122e9c53a",
-      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T21:02:31.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "5be0e4dc96f933db5b61",
-      "title": "US police officer accused of killing three people in Mexico arrested at border",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:49:24.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "45ad6654319c1dbceb2e",
-      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
-      "url": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:41:46.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "24386eb1479379a8846b",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:40:56.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "a893a2fa85850d63fb9d",
-      "title": "Can diplomacy end the conflict in Libya?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:39:26.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "7a20e4a5c51564da62e2",
-      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:27:56.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "aa1cce303624a0ec415e",
-      "title": "Women in Maine may choose the victor in this year's Senate race",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-07T20:24:38.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "b1c3c4a9c90eab2f1309",
-      "title": "Contaminated water putting Gaza families at risk",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T19:47:42.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "60f68e69ac9fcfd28a72",
-      "title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-07T19:35:35.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
-    },
-    {
-      "id": "8634df66640b4a08fd04",
-      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-      "url": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-07T19:21:01.000Z",
-      "discoveredAt": "2026-08-08T03:53:51.819Z"
+      "discoveredAt": "2026-08-08T05:07:06.234Z"
     }
   ]
 }
