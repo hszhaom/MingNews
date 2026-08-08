@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T10:04:21.840Z",
+  "generatedAt": "2026-08-08T10:46:59.518Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 37,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,116 @@
   ],
   "stories": [
     {
+      "id": "b180513ac48dd80940ce",
+      "title": "Blanche ‘honored’ after Senate confirms him as US attorney general in narrow vote – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:31:47.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "31af6925f2bb2730d8cc",
+      "title": "The Women's Professional Baseball League makes its historic debut",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:30:00.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "1daa6d6090fd39c756fb",
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:19:46.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "1a9c3c5b7705ebd0f624",
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "source": "nytimes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T10:16:01.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "900882174f6b9bb7a98b",
+      "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:13:30.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "2d23957e1de0a33b6610",
+      "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
+      "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:10:13.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "d47512c451e4158dee3a",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "source": "nytimes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T10:07:06.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "b3872814eb2a4df98af7",
+      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "94ccb40a5ede672e9e41",
+      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
+      "id": "8f0f42fa28d82de9e453",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "source": "arstechnica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T09:58:41.000Z",
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
+    },
+    {
       "id": "2cb7dc92734c73ac8d58",
       "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
       "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
@@ -53,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T09:38:58.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "f287cb484b54d8e3d9ba",
@@ -64,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T09:30:12.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "b72a54552298d0267fc3",
@@ -75,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T09:00:44.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "8a9b547e9603547e3f6c",
@@ -86,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T09:00:43.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "468be3492ebde77d6557",
@@ -97,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T09:00:43.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "9f4b50a833f80e498c2c",
@@ -108,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-08T09:00:00.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "cb28a77648781fe5df35",
@@ -119,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T08:59:28.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "aebc10199f1406eef45a",
@@ -130,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T08:59:07.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "f994be555e0805c8f758",
@@ -141,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T08:50:49.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "5ead03ad3e7017fb4df6",
@@ -152,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T08:47:19.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "cf0032b76128cef2157b",
@@ -163,7 +273,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-08T08:46:39.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "5539ef05fe40137fdb84",
@@ -174,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T08:06:35.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "68ff05fd501e5dc9886f",
@@ -185,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T08:00:40.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "31e58626d3b96ead8a19",
@@ -196,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T08:00:40.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "45996e4bd6dd78af5e36",
@@ -207,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T07:49:21.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "2e5b68b0bd69a0c01e30",
@@ -218,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T07:04:51.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "e09e698f9a6514c71cd4",
@@ -229,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T07:00:41.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "ada01b6110fd8ebec989",
@@ -240,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T07:00:40.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "0a79905e7acf97097c83",
@@ -251,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T06:12:56.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "5fcdb6e23458fa034146",
@@ -262,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T06:03:42.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "1ed3fa253770ae45c4f4",
@@ -273,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T05:45:58.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "0be83cbaa75287632ff5",
@@ -284,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T05:30:53.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "332d953246749287ceb1",
@@ -295,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T05:28:45.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "545e532b7469f53a6fd4",
@@ -306,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T05:10:27.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "e0f5379c00ede547c67d",
@@ -317,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T05:00:37.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "73c016d581ef126b5aaf",
@@ -328,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T04:37:56.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "b7670bce8d4792a10b23",
@@ -339,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T04:31:42.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "145adfd26383d0ef54e5",
@@ -350,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T04:29:46.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "b8ba004007188ec258aa",
@@ -361,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T04:18:45.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "3176d0a3b7987eb086d1",
@@ -372,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T04:08:18.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "70523247e782d7ea3fa8",
@@ -383,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T04:00:35.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "c0f804a1b8ec0546ad3c",
@@ -394,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T03:42:43.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "787482d97b4c1d3f6c5f",
@@ -405,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T03:20:41.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "d875d697b87cfa721720",
@@ -416,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T02:54:02.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "d5eff9b1958294d89af6",
@@ -427,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T02:08:28.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "32f6ac84ca926bc76517",
@@ -438,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T02:01:31.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "3aa7e99d23550e64d5bb",
@@ -449,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-08T01:49:11.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     },
     {
       "id": "d275dce569203c1f33fe",
@@ -460,117 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T01:29:14.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "ac96100278f21318788c",
-      "title": "Trump shifts blame to Republicans for waning support from public",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T01:28:39.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "f1edb53a0e4ef7f31858",
-      "title": "Helicopter fighting Utah wildfire crashes with two people onboard, officials say",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T01:18:12.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "c2c30d5bddcb8dd9f126",
-      "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T01:15:53.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "f23daaf278f0e688d62b",
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "source": "discourse.nixos.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T01:12:45.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "be3e55c6c4004b291b01",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:51:16.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "16f56866fb3732551b37",
-      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:31:52.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "ef93657bcb61893627c1",
-      "title": "Remains of 56 people found decomposing at Chicago funeral home",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:31:06.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "4f800d1969761f69afc1",
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:29:27.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "d17cd6068d731ff0096f",
-      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-      "url": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:24:42.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
-    },
-    {
-      "id": "2701f94e8057f7045c1c",
-      "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T00:13:53.000Z",
-      "discoveredAt": "2026-08-08T10:04:21.840Z"
+      "discoveredAt": "2026-08-08T10:46:59.518Z"
     }
   ]
 }
