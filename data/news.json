@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T13:54:29.837Z",
+  "generatedAt": "2026-08-08T14:42:52.805Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "failed",
-      "count": 0
+      "status": "ok",
+      "count": 30
     },
     {
       "id": "hacker-news",
@@ -45,6 +45,402 @@
   ],
   "stories": [
     {
+      "id": "36341fda2f2b4ebc4ec0",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:25:19.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "618d54cca46a48b1f69f",
+      "title": "New York authorities warn about gold bar scam targeting seniors",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-gold-bar-scam-seniors",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:20:19.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "bc76ba715f29e62cec01",
+      "title": "Arsenal : England icon tells Mikel Arteta to make sensible Man Utd signing after Vinicius Jr snub",
+      "url": "https://www.teamtalk.com/arsenal/mikel-arteta-urged-sign-man-utd-star-vinicius-junior-snubs-arsenal-transfer",
+      "source": "teamtalk.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "culture",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "80de71d1e06112349e82",
+      "title": "Delhivery rejigs top deck : COO Ajith Pai to exit , Vani Venkatesh elevated to deputy CEO",
+      "url": "https://www.moneycontrol.com/news/business/startup/delhivery-rejigs-top-deck-coo-ajith-pai-to-exit-vani-venkatesh-elevated-to-deputy-ceo-13998787.html",
+      "source": "moneycontrol.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "222bd1b0cba5836e090f",
+      "title": "How JATAN and AI are transforming India cultural heritage",
+      "url": "https://organiser.org/2026/08/08/373775/bharat/vikas-bhi-virasat-bhi-how-jatan-ai-and-digital-archives-are-revolutionising-indias-cultural-heritage-preservation/",
+      "source": "organiser.org",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "b9a23b4dc02d7d86861d",
+      "title": "JK Rowling seems to be obsessed with me , says Nicola Sturgeon",
+      "url": "https://www.cotswoldjournal.co.uk/news/national/26447887.jk-rowling-seems-obsessed-says-nicola-sturgeon/",
+      "source": "cotswoldjournal.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "66c4623fe8dd4e17e4dc",
+      "title": "Michelle Branch Announces 25th Anniversary EP Everywhere and Back Again",
+      "url": "https://www.kyis.com/2026/08/08/michelle-branch-announces-25th-anniversary-ep-everywhere-and-back-again/",
+      "source": "kyis.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "b1363b3c32c2c5a45539",
+      "title": "Port : What the why of Burgum boot licking ?",
+      "url": "https://www.wahpetondailynews.com/opinion/columns/port-whats-the-why-of-burgums-boot-licking",
+      "source": "wahpetondailynews.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "b1555468c8299f3c8fc0",
+      "title": "Op - Ed | Accessibility takes priority for the MTA",
+      "url": "https://www.amny.com/opinion/accessibility-takes-priority-for-the-mta/",
+      "source": "amny.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "27cccdc9ebcafae1e276",
+      "title": "Morgan Wallen Misses Out On A New No . 1 As His Duet Partner Blocks Him",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/08/morgan-wallen-misses-out-on-a-new-no-1-as-his-duet-partner-blocks-him/",
+      "source": "forbes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "culture",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "08f8254af6f63de300f9",
+      "title": "How Madonna favourite pint became united kingdom best beer - tragic beginning to closely - guarded ingredient",
+      "url": "https://www.mirror.co.uk/news/uk-news/timothy-taylor-bitter-beer-history-37522892",
+      "source": "mirror.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "f06ce16beb0571b555e8",
+      "title": "Swans stand up on record - breaking night against Port",
+      "url": "https://www.juneesoutherncross.com.au/story/9326431/swans-stand-up-on-record-breaking-night-against-port/",
+      "source": "juneesoutherncross.com.au",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "df4c808aa9fedfb287ff",
+      "title": "Fire breaks out in Banjara Hills building cellar , none hurt",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/fire-breaks-out-in-banjara-hills-building-cellar-none-hurt/articleshow/133053872.cms",
+      "source": "timesofindia.indiatimes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "7764b9e22f81b55208fb",
+      "title": "Rochester Man Pleads Guilty Just Before Shooting Trial Begins",
+      "url": "https://kfilradio.com/ixp/669/p/rochester-man-pleads-guilty-shooting/",
+      "source": "kfilradio.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "48185e305f3816ec0da6",
+      "title": "Nepal rescuers find bodies of five climbers killed last year",
+      "url": "https://www.bssnews.net/international/412792",
+      "source": "bssnews.net",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "d553ecc2d41a5da46b75",
+      "title": "Paul Flavin Build , Scale , Sell",
+      "url": "https://www.newstalk.com/podcasts/down-to-business/paul-flavins-build-scale-sell",
+      "source": "newstalk.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "3f4c7c466d50ba85d695",
+      "title": "Kansas Expands Fall 2026 Headliner Tour With Eight More Dates",
+      "url": "https://wzozfm.com/ixp/295/p/kansas-expands-2026-tour/",
+      "source": "wzozfm.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "e2a365009d5f3434ba06",
+      "title": "NHAI Installs Speed Cameras on NH - 33 Chutupalu Valley to Curb Accidents",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/nhai-installs-speed-cameras-on-nh-33-chutupalu-valley-to-curb-accidents/articleshow/133052777.cms",
+      "source": "timesofindia.indiatimes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "dbd5f7f71d1394e5ea92",
+      "title": "Fartcoin Trading 0 . 3 % Lower Over Last Week ( FARTCOIN )",
+      "url": "https://www.themarketsdaily.com/2026/08/08/fartcoin-trading-0-3-lower-over-last-week-fartcoin.html",
+      "source": "themarketsdaily.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "culture",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "2deda9897e96925681d1",
+      "title": "UK travel company ceases trading after entering administration",
+      "url": "https://www.wirralglobe.co.uk/news/national/uk-today/26447691.uk-travel-company-ceases-trading-entering-administration/",
+      "source": "wirralglobe.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "business",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "2a4f1837a6a589789e2b",
+      "title": "When And How CEOs Could Be Held Accountable For Causing A Crisis",
+      "url": "https://www.forbes.com/sites/edwardsegal/2026/08/08/when-and-how-ceos-could-be-held-accountable-for-causing-a-crisis/",
+      "source": "forbes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "58b89c0b4077708c0336",
+      "title": "Opinion : Europe summer of heat",
+      "url": "https://www.publicradioeast.org/2026-08-08/opinion-europes-summer-of-heat",
+      "source": "publicradioeast.org",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "7bad049004929f91e595",
+      "title": "India - China Border Talks : New Delhi pushes for peace across LAC",
+      "url": "https://organiser.org/2026/08/08/374111/world/india-china-boundary-talks-new-delhi-pushes-for-peace-across-the-lac-seeks-transparency-over-upstream-hydro-projects/",
+      "source": "organiser.org",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "1f451a103089d5583fb1",
+      "title": "Nicola Sturgeon feels like a mug over Murrell and wont visit him in prison",
+      "url": "https://www.aol.co.uk/articles/nicola-sturgeon-feels-mug-over-133847000.html",
+      "source": "aol.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "07f2008daf8622e42dee",
+      "title": "Federal government commissions project to track local news desert in Canada",
+      "url": "https://toronto.citynews.ca/2026/08/08/federal-government-commissions-project-to-track-local-news-deserts-in-canada/",
+      "source": "toronto.citynews.ca",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "854577fbfc4196be49fe",
+      "title": "Ampcus Cyber Convenes National Leaders at GRC India AI Conclave 2026 to Advance AI Governance , Cybersecurity , and Digital Trust",
+      "url": "https://aninews.in/news/business/ampcus-cyber-convenes-national-leaders-at-grc-india-ai-conclave-2026-to-advance-ai-governance-cybersecurity-and-digital-trust20260808181714/",
+      "source": "aninews.in",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "57bd4f38cfddefc5ed85",
+      "title": "Akali Dal backs NDA women quota - delimitation bill as 2027 polls alliance rumours intensify",
+      "url": "https://www.theweek.in/news/india/2026/08/08/akali-dal-backs-nda-s-women-s-quota-delimitation-bill-as-2027-alliance-rumours-intensify.html",
+      "source": "theweek.in",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "a97ae21e217ba45a29ce",
+      "title": "ILLINOIS STATE FAIR PARTNERS WITH DOLLY PARTON IMAGINATION LIBRARY TO PROMOTE READING",
+      "url": "https://www.wfiwradio.com/2026/08/08/illinois-state-fair-partners-with-dolly-partons-imagination-library-to-promote-reading/",
+      "source": "wfiwradio.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "999781b6c92f631c4942",
+      "title": "ARKANSAS A - Z : Tornadoes ravaged state in summer and winter of 1916 | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/aug/08/arkansas-a-z-tornadoes-ravaged-state-in-summer/",
+      "source": "arkansasonline.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "4201ccc736c82911fbe7",
+      "title": "India resilient economy to support markets but global risks remain elevated : SEBI",
+      "url": "http://www.pakistantelegraph.com/news/279227434/india-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi",
+      "source": "pakistantelegraph.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "172dd4a484d57d19ab0b",
+      "title": "Adam Cohen New Book The Captain Dinner",
+      "url": "https://www.newstalk.com/podcasts/highlights-from-the-pat-kenny-show/adam-cohens-new-book-the-captains-dinner",
+      "source": "newstalk.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "647c0222a16d54537f00",
+      "title": "Federal funds cant be used to give test strips to drug users , raising overdose fears",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-08-08/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "source": "southcarolinapublicradio.org",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:15:00.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "07d0e48f6b0d4dcf8a33",
+      "title": "Don't use your phone while you poop",
+      "url": "https://nate.spot/no-phone-while-poop/",
+      "source": "nate.spot",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T14:05:56.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "e7876cb43b7a83bc5d36",
+      "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T13:59:21.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "d8727a595c52b81c30a5",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "source": "social.treehouse.systems",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T13:55:42.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "92df8b1fddd3d4ca63a1",
+      "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+      "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-08T13:52:40.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
       "id": "7ce544aaccbb5bc02ead",
       "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
       "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T13:49:09.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "5565aacee058d2e64a6e",
@@ -64,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T13:42:06.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "2c6b1ab9e717b8c43077",
@@ -75,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-08T13:34:45.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "b180513ac48dd80940ce",
@@ -86,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T13:33:42.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "0a79905e7acf97097c83",
@@ -97,7 +493,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T13:29:38.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "b28aa9c417ab324d88b9",
+      "title": "Voyager 1 FDS Computer Emulator",
+      "url": "https://zaneham.github.io/voyager-fds-emulator/",
+      "source": "zaneham.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T13:28:38.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
+    },
+    {
+      "id": "2e1723421e0ae3a2cb2e",
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "source": "specification.website",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-08T13:26:51.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "1daa6d6090fd39c756fb",
@@ -108,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T13:23:16.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "a655d5166d27e3363208",
@@ -119,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T13:00:46.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "2499b90c5155ace52b79",
@@ -130,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T12:52:04.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
       "id": "5ead03ad3e7017fb4df6",
@@ -141,436 +559,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-08T12:34:41.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     },
     {
-      "id": "70a43fd532a8f78afa7f",
-      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-      "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:30:52.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "c2aecd9ce9136f8576fa",
-      "title": "Senate passes funding bill to prevent shutdown through US midterms",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/government-shutdown-vote-senate-funding-bill",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:07:52.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "bc7d93685552d6406d07",
-      "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:07:23.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "30d8ffe1dee80bb5482d",
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:05:04.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "5418e9b97fe7d8e01d35",
-      "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:01:17.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "e48450af529dc1c9bb4d",
-      "title": "Super-rich complain but experts welcome Mamdani’s pied-à-terre tax",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/mamdani-new-york-pied-a-terre-tax",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:00:46.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "3bbaf7f9d1c75d73ee97",
-      "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:00:45.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "7ab4c9299a63c731caef",
-      "title": "Opinion: Europe's summer of heat",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T12:00:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "8b024b7bb141788394b9",
-      "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:49:27.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "dfb7bea249db73d5712c",
-      "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:46:53.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "297bb768ff15182ad64d",
-      "title": "The post-American Middle East is beginning to take shape",
-      "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:34:38.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "5b9622724539dfdbd0af",
-      "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
-      "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:31:57.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "945ac95f1308b8028e08",
-      "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:29:44.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "b808aa1dc538c9889ca4",
-      "title": "Arron Banks ‘hired private detective’ to look into journalist who investigated Reform UK",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/08/arron-banks-hired-private-detective-to-look-into-journalist-who-investigated-reform-uk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:11:54.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "ca0c999424c339707487",
-      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:01:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "d37e98a2207abcc21c96",
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T11:00:44.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "5ea2b94d9ff20ddbf4eb",
-      "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-      "url": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:58:46.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "04e10f67940243c54478",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "source": "simonwillison.net",
+      "id": "2fdeec7b7d85eb65d850",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "source": "buttondown.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-08T10:57:44.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "d9470649de4ce751f4bf",
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:55:15.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "298bf866279feb4257bf",
-      "title": "How Israel’s occupation fuels resistance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:40:11.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "4d81ecd7a46437770ea5",
-      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:36:10.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "31af6925f2bb2730d8cc",
-      "title": "The Women's Professional Baseball League makes its historic debut",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:30:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "900882174f6b9bb7a98b",
-      "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:13:30.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "2d23957e1de0a33b6610",
-      "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
-      "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:10:13.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "b3872814eb2a4df98af7",
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "94ccb40a5ede672e9e41",
-      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "8f0f42fa28d82de9e453",
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "source": "arstechnica.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T09:58:41.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "2cb7dc92734c73ac8d58",
-      "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:38:58.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "f287cb484b54d8e3d9ba",
-      "title": "US announces $400m investment in Australian rare earth mine",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:30:12.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "1986eab2e2ed84ba8b77",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "deepmind.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T09:18:50.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "b72a54552298d0267fc3",
-      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
-      "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:00:44.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "8a9b547e9603547e3f6c",
-      "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:00:43.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "468be3492ebde77d6557",
-      "title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/scratch-of-the-day-local-football-season-postponed-due-to-rock-hard-pitches",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:00:43.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "9f4b50a833f80e498c2c",
-      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
-      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "cb28a77648781fe5df35",
-      "title": "Messi will decide when he retires, says Argentina FA chief",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T08:59:28.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "aebc10199f1406eef45a",
-      "title": "Widdecombe murder police reopen inquiry into alleged attempt to firebomb Farage’s home",
-      "url": "https://www.theguardian.com/politics/2026/aug/07/counter-terrorism-police-investigating-death-of-ann-widdecombe-reopen-2025-attempted-burglary-case",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-08T08:59:07.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "f994be555e0805c8f758",
-      "title": "Typhoon Dolphin hits Japan, heads towards China",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T08:50:49.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "cf0032b76128cef2157b",
-      "title": "Senate votes to confirm Todd Blanche as attorney general",
-      "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-08T08:46:39.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
-    },
-    {
-      "id": "5539ef05fe40137fdb84",
-      "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T08:06:35.000Z",
-      "discoveredAt": "2026-08-08T13:54:29.837Z"
+      "publishedAt": "2026-08-08T12:31:11.000Z",
+      "discoveredAt": "2026-08-08T14:42:52.805Z"
     }
   ]
 }
