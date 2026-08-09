@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T09:51:12.746Z",
+  "generatedAt": "2026-08-09T10:47:00.992Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,39 @@
   ],
   "stories": [
     {
+      "id": "e735fc78c45ba95ba873",
+      "title": "Andy Burnham to tour Britain in effort to reconnect government with public",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/andy-burham-tour-britain-reconnect-government-public-cost-of-living-high-street",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T10:10:06.000Z",
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
+    },
+    {
+      "id": "1991f6557db9251b7faa",
+      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T10:02:59.000Z",
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
+    },
+    {
+      "id": "a5a5ada9099826f0eced",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T10:02:52.000Z",
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
+    },
+    {
       "id": "5dd35899987482fb37d5",
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
       "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
@@ -53,7 +86,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-09T09:44:02.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "548776634380987d8fdb",
@@ -64,7 +97,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T09:05:47.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "43815b1a886d6a07aaed",
@@ -75,7 +108,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T09:00:12.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "0f52ba2048f550c4c1ad",
@@ -86,7 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T09:00:11.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "16f32d862c58a0c75339",
@@ -97,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T09:00:10.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "fdffb01aa4283dc44190",
@@ -108,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T08:37:39.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "46117016bf076fa51419",
@@ -119,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T08:37:37.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "8018944803f656758b40",
@@ -130,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T07:58:00.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "913b663c82e5d7cc6b48",
@@ -141,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T07:56:47.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "cf6dcd54db25e653e56e",
@@ -152,7 +185,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T07:19:58.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "bfc5b84b5d0f318d241d",
@@ -163,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T07:10:56.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "1739dfc790e9315a8a2a",
@@ -174,18 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T07:00:09.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
-    },
-    {
-      "id": "b5ed6472db9b130d5d6b",
-      "title": "‘Watch The Odyssey for free online’: scam targets film fans with fake streaming sites",
-      "url": "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T07:00:09.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "86973f1cf8506389e515",
@@ -196,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T07:00:08.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "8f65cfdb4af43b1f661c",
@@ -207,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T07:00:08.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "8c75dbc6fc981c300a0c",
@@ -218,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T06:57:56.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "ef07dd28d3dbb858b2c5",
@@ -229,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T06:46:40.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "49103627b5f460b80393",
@@ -240,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T06:10:08.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "5e4f70d3760183687738",
@@ -251,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T05:35:39.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "ba8c052a66bf23c457ea",
@@ -262,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T05:23:41.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "d873ac56be77c9e4cdd4",
@@ -273,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T05:18:37.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "7d2fa450b6ed31e7c936",
@@ -284,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T05:06:02.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "708b5b6c14978157bea8",
@@ -295,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T05:01:54.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "50f7deecc396d288dfc4",
@@ -306,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T05:00:06.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "f797d5fb41a066450d8d",
@@ -317,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T04:32:32.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "824df9ca5d24414dd60a",
@@ -328,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T04:32:06.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "6c37ca8f691f469ab154",
@@ -339,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T04:30:26.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "536f9c10d2be5c1afa94",
@@ -350,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T04:21:03.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "416f75f2d6c8fe97bc63",
@@ -361,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T04:12:39.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "f2e2819d980d25eaf092",
@@ -372,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T04:07:39.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "42015d6c7b2cde99fdd8",
@@ -383,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T03:58:42.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "6d9e789810e1edbce7c8",
@@ -394,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T03:09:27.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "9c3041f68aacc8e67676",
@@ -405,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T03:00:44.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "490f23c4ba22ad44c422",
@@ -416,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T02:49:12.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "68261a127643ae4b5bad",
@@ -427,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T02:36:43.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "2f848407890c5684b471",
@@ -438,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T02:11:34.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "9b3de7da095c5584cc6a",
@@ -449,7 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T01:43:04.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
+    },
+    {
+      "id": "aa9bb6e53f763a3f4431",
+      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T01:10:50.000Z",
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "c75ac87284b3b143595c",
@@ -460,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T00:59:58.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "52680396334f9e740a43",
@@ -471,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-09T00:56:21.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "922ae536302d629d11ab",
@@ -482,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T00:41:01.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "9223509b12c4ea965bf9",
@@ -493,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T00:15:28.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "6e151864179d8dbb09d2",
@@ -504,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T00:00:00.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "cbc1fab78e4a53f3b000",
@@ -515,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T23:59:23.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "d6b97496b24003c022a0",
@@ -526,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-08T23:59:15.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     },
     {
       "id": "ac38e904dcd2dc72b5d1",
@@ -537,40 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-08T23:43:44.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
-    },
-    {
-      "id": "78b23e98a8f17c9504ed",
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "url": "https://os8088.com/",
-      "source": "os8088.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-08T23:37:27.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
-    },
-    {
-      "id": "233781a9dc524ff873e0",
-      "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T23:27:55.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
-    },
-    {
-      "id": "4400e02db11ce0f0aa02",
-      "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-      "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-08T23:19:28.000Z",
-      "discoveredAt": "2026-08-09T09:51:12.746Z"
+      "discoveredAt": "2026-08-09T10:47:00.992Z"
     }
   ]
 }
