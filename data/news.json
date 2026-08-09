@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T16:48:36.080Z",
+  "generatedAt": "2026-08-09T17:40:43.202Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,6 +45,61 @@
   ],
   "stories": [
     {
+      "id": "76c3a3f4cc294533443f",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T17:23:22.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "77757e1b5b887e69f87a",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T17:17:39.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "70ee1dfe63536b391060",
+      "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T17:00:20.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "f33b43dcffc17f731231",
+      "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
+      "url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T16:53:53.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "d288d721f0ad5c4aaac6",
+      "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
+      "url": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T16:53:45.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
       "id": "53a6f8fb2add32f9f737",
       "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
       "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
@@ -53,7 +108,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T16:46:18.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "c829bf981addc586b291",
@@ -64,7 +119,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T16:43:23.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "f1479866b3a4a75f0674",
+      "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T16:41:00.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "6d1ade17de16be5ef750",
@@ -75,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:19:34.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "b2cf7f1b3bf044a518ef",
@@ -86,18 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T16:18:10.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "77757e1b5b887e69f87a",
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:18:10.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "be348e8053ffcbcdf10c",
@@ -108,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:08:19.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "73bd2e31e04c55393cc9",
@@ -119,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:07:23.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "01e400779bc586ea79e0",
@@ -130,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:05:10.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "3940b67f37bd621e17c9",
@@ -141,326 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:00:50.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "66af0ed967a8f6708307",
-      "title": "A harsh first ruling in Morocco after Ceuta surge with 7 taxi drivers jailed , union says",
-      "url": "https://www.whec.com/ap-top-news/a-harsh-first-ruling-in-morocco-after-ceuta-surge-with-7-taxi-drivers-jailed-union-says/",
-      "source": "whec.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "f3f1ceb79c74fee3ff2c",
-      "title": "Rock photographer Gered Mankowitz private archive to be sold",
-      "url": "https://www.rutland-times.co.uk/national/rock-photographer-gered-mankowitz-s-private-archive-to-be-sold-170345/",
-      "source": "rutland-times.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "4cb5cc49f2baa9c864a5",
-      "title": "After peacekeeping , Canada military focuses on fighting",
-      "url": "https://www.niagarafallsreview.ca/thestar/politics/federal/canada-ramps-up-ability-to-fight-wars-as-peacekeeping-role-recedes/article_c43468e3-228f-5c59-a304-abbf923480ff.html",
-      "source": "niagarafallsreview.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "10d801d7c1c08bfe4acc",
-      "title": "Brandi Carlile Postpones united kingdom and European Tour to Spring 2027",
-      "url": "https://www.kbew98country.com/2026/08/09/brandi-carlile-postpones-uk-and-european-tour-to-spring-2027/",
-      "source": "kbew98country.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "c9040d4b080c4db5b922",
-      "title": "This week from Bagley : Utah charter schools , nuclear power in Utah",
-      "url": "https://www.sltrib.com/opinion/bagley/2026/08/09/this-week-bagley-utah-charter/",
-      "source": "sltrib.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "72c7102a90f164b0bc43",
-      "title": "Can you drive your car on the day your MOT expires ?",
-      "url": "https://www.brentwoodlive.co.uk/news/national/uk-today/26448251.can-drive-car-day-mot-expires/",
-      "source": "brentwoodlive.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "5bec36b1d50ef2d05f78",
-      "title": "Severance Meets The Bourne Identity In This Masterpiece 5 - Part Sci - Fi Thriller",
-      "url": "https://screenrant.com/orphan-black-severance-meets-bourne-identity/",
-      "source": "screenrant.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "6a732a7e8d88f2f6f70f",
-      "title": "How Jessie Cave Earned £15 , 000 in a Day on OnlyFans",
-      "url": "https://wkfr.com/ixp/478/p/harry-potter-s-jessie-cave-credits-onlyfans-for-saving-her-family-as-her-content-out-earns-acting/",
-      "source": "wkfr.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "beff6d0479eac7db7599",
-      "title": "MTN confirms 25GB free data , warns subscribers against fake links",
-      "url": "https://www.vanguardngr.com/2026/08/mtn-confirms-25gb-free-data-warns-subscribers-against-fake-links/",
-      "source": "vanguardngr.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "a196520ad12ac555ed61",
-      "title": "CM for mass movement to protect environment",
-      "url": "https://timesofindia.indiatimes.com/city/patna/cm-for-mass-movement-to-protect-environment/articleshow/133070129.cms",
-      "source": "timesofindia.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "9ff6a1ec5f18944759d5",
-      "title": "Duane Keffe D Davis is both the defendant and key witness in Tupac murder trial",
-      "url": "https://us.cnn.com/2026/08/09/us/duane-davis-tupac-murder-trial",
-      "source": "us.cnn.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "23fcc6b79376d726ace5",
-      "title": "Many immigrants face deportation without a lawyer at their side in court . This program tries to help",
-      "url": "https://www.whec.com/ap-top-news/many-immigrants-face-deportation-without-a-lawyer-at-their-side-in-court-this-program-tries-to-help/",
-      "source": "whec.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "b6a697b27cae168991f8",
-      "title": "OPHK air strikes neutralized scores of terrorists fighters in Borno",
-      "url": "https://www.vanguardngr.com/2026/08/ophk-air-strikes-neutralized-scores-of-terrorists-fighters-in-borno/",
-      "source": "vanguardngr.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "6a6bce02f835a4de00c1",
-      "title": "Dozens of protesters gather outside former RAF base after Thetford unrest",
-      "url": "https://www.swindonadvertiser.co.uk/news/national/26448964.dozens-protesters-gather-outside-former-raf-base-thetford-unrest/",
-      "source": "swindonadvertiser.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "cd2e124682a689fc7784",
-      "title": "Madonna heartfelt tribute to William Orbit after his passing",
-      "url": "https://wkfr.com/ixp/478/p/madonna-feels-so-lucky-to-have-known-and-worked-with-william-orbit-as-she-pays-tribute-to-producer/",
-      "source": "wkfr.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "5311b84d56dbd3a15be2",
-      "title": "Israel rejects Trump Gaza peace plan , saying no withdrawal until Hamas disarms",
-      "url": "https://www.wxii12.com/article/israel-rejects-us-gaza-peace-plan-hamas-disarmament/73384895",
-      "source": "wxii12.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "11cf8cd8abac4571dcc4",
-      "title": "The Odyssey That Is Cuba - Havana Times",
-      "url": "https://havanatimes.org/diaries/yordanka/the-odyssey-that-is-cuba/",
-      "source": "havanatimes.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "f64628097d758c9fceb2",
-      "title": "Hawaii Democratic incumbent fends off left - wing challenger in congressional primary",
-      "url": "https://kelo.com/2026/08/09/hawaii-democratic-incumbent-fends-off-left-wing-challenger-in-congressional-primary/",
-      "source": "kelo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "b4425ea854568c1116ec",
-      "title": "Bunnie Xo Explains Why She Bought a House in LA",
-      "url": "https://lonestar995fm.com/ixp/204/p/is-bunnie-xo-leaving-nashville/",
-      "source": "lonestar995fm.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "c6c23d70f495d6a737d2",
-      "title": "PRP Chieftain Faults Donald Duke on Lagos - Calabar Highway",
-      "url": "https://punchng.com/prp-chieftain-faults-donald-duke-over-lagos-calabar-coastal-highway-comment/",
-      "source": "punchng.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "fb2e4fec22c3cde989bd",
-      "title": "Agence Kampuchea Presse",
-      "url": "https://www.akp.gov.kh/post/detail/377900",
-      "source": "akp.gov.kh",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "9717bd2ddb5141a72f4f",
-      "title": "WhatsApp launches latest update with 3 new upgrades",
-      "url": "https://www.brentwoodlive.co.uk/news/national/uk-today/26448739.whatsapp-launches-latest-update-3-new-upgrades/",
-      "source": "brentwoodlive.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "49b18250e62bf236ced4",
-      "title": "Why I believe in the 2nd Amendment and in gun reform",
-      "url": "https://nypost.com/2026/08/09/opinion/why-i-believe-in-the-2nd-amendment-and-in-gun-reform/",
-      "source": "nypost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "4bc7fe61aa58a3a083a2",
-      "title": "Ekiti Police Arrest Cultist , Recover Gun in Efon Alaaye",
-      "url": "https://punchng.com/police-arrest-cultist-recover-gun-in-ekiti/",
-      "source": "punchng.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "fca6aa2bb7a37c2c07fd",
-      "title": "UKNY for August 9",
-      "url": "https://wfuv.org/content/ukny-august-9-2026",
-      "source": "wfuv.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "d8ecd4fc874cd751047e",
-      "title": "Police : Teen gets serious leg injury after crashing with SUV in intersection on Saturday",
-      "url": "https://www.whec.com/top-news/police-teen-gets-serious-leg-injury-after-crashing-with-suv-in-intersection-on-saturday/",
-      "source": "whec.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "2a0455bdd8e84ae4c377",
-      "title": "Russia and Ukraine exchange overnight strikes , leaving seven dead",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26448653.russia-ukraine-exchange-overnight-strikes-leaving-seven-dead/",
-      "source": "ledburyreporter.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "44154cb3b4bb25001f0a",
-      "title": "Confusion and anger in wake of tainted evidence and a failed B . C . murder case",
-      "url": "https://www.chroniclejournal.com/news/national/confusion-and-anger-in-wake-of-tainted-evidence-and-a-failed-b-c-murder-case/article_449748cf-f9e1-57b4-8079-9e7da3cee148.html",
-      "source": "chroniclejournal.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "b57f17d96f2e9598fe1b",
-      "title": "Grieving daughter constant buying after losing dad inspires her to open County Durham clothes shop",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/grieving-daughters-constant-buying-after-34418948",
-      "source": "chroniclelive.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "410feaf829c955bbdba3",
@@ -471,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T15:46:09.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "d25718fdc07bf641082b",
@@ -482,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T15:41:31.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "4702c009126a9254ba51",
@@ -493,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T15:38:56.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "6492cf93fcc76f861368",
@@ -504,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T15:36:52.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "e074ec6acccdd117683e",
@@ -515,18 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T15:34:04.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
-    },
-    {
-      "id": "b4ae327ff4b3bf6150b5",
-      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-      "url": "https://alexanderwanyoike.github.io/vibez/",
-      "source": "alexanderwanyoike.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T15:31:49.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "c4e54fe21f4fe014de46",
@@ -537,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T15:26:45.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "c54bc14114915e168254",
@@ -548,7 +273,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T15:25:29.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "147b31002816c2198fcc",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "source": "theconversation.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T15:21:46.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "3f189a867e5f078b7278",
@@ -559,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T15:20:18.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     },
     {
       "id": "7a85f51126c3c4d74e11",
@@ -570,7 +306,271 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T15:18:25.000Z",
-      "discoveredAt": "2026-08-09T16:48:36.080Z"
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "fa65f9c9b9aa89abd710",
+      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T15:11:28.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "23e0494f1c6b31398423",
+      "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+      "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+      "source": "techeblog.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T15:08:51.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "50f831a9cc520d149a0e",
+      "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T15:00:18.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "8c406f98dd296e9b5296",
+      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
+      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:59:39.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "b7dce918ae3e69f5f9ea",
+      "title": "Captain charged after woman and five-month-old die in New York boat capsizing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/man-charged-new-york-harbor-boat-capsized-deaths",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:47:37.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "1d6d6c0c7c7d2bf89986",
+      "title": "Gaza’s children still struggling with hunger as another famine threatens",
+      "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:47:29.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "6021c4c46233899d16bd",
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:33:46.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "9d7238b4f951f3a4e6a0",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "source": "w3.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T14:32:53.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "9f1c7cbfda4ccc56ad59",
+      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
+      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:30:58.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "7006cddc4426c545a925",
+      "title": "Gaza engineer builds animal shelters out of empty cans",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:28:34.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "7c7e4490adbae3b042ef",
+      "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:26:30.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "ee645594df4e9c227ff5",
+      "title": "The Mecca pact is not just another regional alliance",
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:23:13.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "38f5db535623e752a730",
+      "title": "Syria says it reached deal with Moscow on future of Russian bases",
+      "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:20:51.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "57ab8e06d5f5a780bc83",
+      "title": "Trump targets birthright citizenship again",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:20:31.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "5f5f6aa61aaddec343ff",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:18:10.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "57ede71a3e7515867afc",
+      "title": "Three Banksy artworks in London have cost taxpayers nearly £150,000",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/09/banksy-artworks-huge-upkeep-costs-taxpayer",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:09:47.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "9ed62fb87eddeda02e7d",
+      "title": "Most X accounts posting about Belfast and Southampton unrest were based outside UK",
+      "url": "https://www.theguardian.com/world/2026/aug/09/x-accounts-posts-belfast-southampton-riots-june-2026-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T14:00:55.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "d69a51b67bad75c0bf9b",
+      "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+      "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T13:54:41.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "9ee65f5fdaf4ac543b94",
+      "title": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
+      "url": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T13:53:53.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "f544207e7c210d5686e0",
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "url": "https://kibotronics.net/unlisted/lilly-machines/",
+      "source": "kibotronics.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T13:47:36.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "d37f9ee39321a08884f5",
+      "title": "Why does Iran defeat the empires trying to conquer it?",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T13:36:24.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "c9906ec5b2b972a5a7fe",
+      "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T13:28:55.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "41212d1607cb5da99f95",
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T13:23:05.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
+    },
+    {
+      "id": "0d16b5c04c4ebc49b096",
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "source": "blog.terrygodier.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T13:20:43.000Z",
+      "discoveredAt": "2026-08-09T17:40:43.202Z"
     }
   ]
 }
