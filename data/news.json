@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T20:46:55.894Z",
+  "generatedAt": "2026-08-09T21:42:30.928Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,103 @@
   ],
   "stories": [
     {
-      "id": "a86b3af71366bb95ae5d",
-      "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
-      "url": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-      "source": "euronews.com",
+      "id": "5f5f6aa61aaddec343ff",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T21:25:04.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "a5511029d19ec197fe95",
+      "title": "Is it all just vapourware?",
+      "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+      "source": "kirahowe.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-09T20:13:38.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "publishedAt": "2026-08-09T21:03:43.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "cb3693938be4bd8bbbf4",
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+      "source": "mastodon.neilzone.co.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T21:01:31.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "a5a5ada9099826f0eced",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-09T20:58:18.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "58ce78a5c90ef518d13c",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com/",
+      "source": "tuxedono2.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T20:48:46.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "53b8683a0a47fb472ff4",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "source": "propelmusic.co.nz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T20:42:29.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "b7396efb05fa8bd41c4d",
+      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-09T20:40:25.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "9a4f1b18b865bc2554b1",
+      "title": "The Hacker's Renaissance",
+      "url": "https://phrack.org/issues/72/19",
+      "source": "phrack.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T20:18:44.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
+    },
+    {
+      "id": "c55e7e1c552fff8bb58d",
+      "title": "How not to turn ideologically crazy",
+      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+      "source": "blog.andymasley.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-09T20:15:52.000Z",
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "e0ae2ada7f397c6dc58c",
@@ -64,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T20:06:51.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "a9abef944fc7b57e181e",
@@ -75,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T20:02:57.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "5e4c1819860eea7d7145",
@@ -86,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T20:00:48.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "ae640b61c9318605a962",
@@ -97,18 +185,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T19:57:28.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "77757e1b5b887e69f87a",
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T19:54:53.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "02086f861e7992ef28ec",
@@ -119,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T19:43:52.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "53a6f8fb2add32f9f737",
@@ -130,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T19:40:09.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "dfa3bc94761666253dd2",
@@ -141,18 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T19:30:00.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "c819d78b86ad4f85ce7a",
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-      "source": "theregister.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-09T19:20:40.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "bceb7281e531cfb52ca4",
@@ -163,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T19:16:49.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "15f1a7ecf08c46de1afb",
@@ -174,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T19:07:35.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "f67cf66841569d3d50c0",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T19:06:23.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "90960d875172926e8313",
@@ -196,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T18:59:33.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "f2c80295a15ce4024c1b",
@@ -207,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T18:51:06.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "8e06cd60eb3798ac5d32",
@@ -218,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T18:44:28.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "b2a2553d87a6deca754f",
@@ -229,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:43:55.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "b76252492684f3ed06d3",
@@ -240,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-09T18:21:45.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "f1f56de3ce8a6f30bdc5",
@@ -251,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:20:25.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "cb9be3b53b3653f2bdca",
@@ -262,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:13:57.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "789df8df3269fb095f1d",
@@ -273,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:05:38.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "ef07dd28d3dbb858b2c5",
@@ -284,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:03:55.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "d81090bb294e94e2bbaf",
@@ -295,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T18:00:21.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "bea42141b5130584332a",
@@ -306,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T17:27:16.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "76c3a3f4cc294533443f",
@@ -317,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T17:23:22.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "70ee1dfe63536b391060",
@@ -328,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T17:00:20.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "f33b43dcffc17f731231",
@@ -339,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:53:53.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "d288d721f0ad5c4aaac6",
@@ -350,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:53:45.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "c829bf981addc586b291",
@@ -361,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T16:43:23.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "f1479866b3a4a75f0674",
@@ -372,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:41:00.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "6d1ade17de16be5ef750",
@@ -383,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:19:34.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "b2cf7f1b3bf044a518ef",
@@ -394,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T16:18:10.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "be348e8053ffcbcdf10c",
@@ -405,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:08:19.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "73bd2e31e04c55393cc9",
@@ -416,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:07:23.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "01e400779bc586ea79e0",
@@ -427,18 +504,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:05:10.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "3940b67f37bd621e17c9",
-      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+      "title": "Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security",
       "url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T16:00:50.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "410feaf829c955bbdba3",
@@ -449,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T15:46:09.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "d25718fdc07bf641082b",
@@ -460,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-09T15:41:31.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "4702c009126a9254ba51",
@@ -471,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-09T15:38:56.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "e074ec6acccdd117683e",
@@ -482,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-09T15:34:04.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     },
     {
       "id": "147b31002816c2198fcc",
@@ -493,84 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-09T15:21:46.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "3f189a867e5f078b7278",
-      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-09T15:20:18.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "fa65f9c9b9aa89abd710",
-      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T15:11:28.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "50f831a9cc520d149a0e",
-      "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T15:00:18.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "8c406f98dd296e9b5296",
-      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
-      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T14:59:39.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "b7dce918ae3e69f5f9ea",
-      "title": "Captain charged after woman and her five-month-old die in New York boat capsizing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/man-charged-new-york-harbor-boat-capsized-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T14:47:37.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "1d6d6c0c7c7d2bf89986",
-      "title": "Gaza’s children still struggling with hunger as another famine threatens",
-      "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-09T14:47:29.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
-    },
-    {
-      "id": "6021c4c46233899d16bd",
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-09T14:33:46.000Z",
-      "discoveredAt": "2026-08-09T20:46:55.894Z"
+      "discoveredAt": "2026-08-09T21:42:30.928Z"
     }
   ]
 }
