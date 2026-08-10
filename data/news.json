@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T17:30:32.930Z",
+  "generatedAt": "2026-08-10T18:28:19.055Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 23,
+      "count": 19,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,48 @@
   ],
   "stories": [
     {
-      "id": "f53f6a507f861cadaaff",
-      "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – latest updates",
-      "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
+      "id": "8e99ed448f430f5982bf",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T18:24:45.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "a2e31c0a999cfd067491",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T18:19:41.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "8edcc07dd9d08895b35c",
+      "title": "Oman trying to contain extensive oil spill from stricken tanker",
+      "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T18:15:23.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "d9210ff936b164e4c0a1",
+      "title": "Tupac Shakur: jury selection begins in trial of ex-gang boss for rapper’s killing",
+      "url": "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T17:20:25.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "publishedAt": "2026-08-10T18:02:58.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "cc1b1c5137ff1d5cab83",
@@ -63,19 +96,52 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T17:19:33.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "publishedAt": "2026-08-10T18:00:03.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
-      "id": "b8f05fbbadd07d349663",
-      "title": "Indian police use force to disperse youth protesters calling for exam overhaul",
-      "url": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul",
+      "id": "f53f6a507f861cadaaff",
+      "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – as it happened",
+      "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T17:16:28.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "publishedAt": "2026-08-10T17:56:38.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "a3a70ae40a54833df2a9",
+      "title": "Labour peer urges Badenoch to reverse decision on ex-neo-Nazi’s advisory role",
+      "url": "https://www.theguardian.com/politics/2026/aug/10/labour-peer-luciana-berger-urges-badenoch-reverse-decision-advisory-role-ex-neo-nazi-joshua-bonehill-paine",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:52:32.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "6d9081a420207b862f17",
+      "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
+      "url": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:51:18.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "2870038ff33ef99718c5",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:50:29.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "1c34010afe9c0effefef",
@@ -85,8 +151,74 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T17:14:38.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "publishedAt": "2026-08-10T17:49:34.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "7515561293ae7f10669d",
+      "title": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:44:21.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "ad55208f067fb11b6a51",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T17:41:13.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "6b7260721a6441dba859",
+      "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:38:12.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "de6bb369628557167b7d",
+      "title": "Palestinian club football to restart in September after Gaza war suspension",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:30:36.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "398a8b185351559e488f",
+      "title": "Benjamin Netanyahu’s rejection of US deal for Gaza is a risky gamble",
+      "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:27:54.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
+    },
+    {
+      "id": "b8f05fbbadd07d349663",
+      "title": "Police use teargas on young Indians as government jobs protest escalates",
+      "url": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:16:28.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "d69eb66b91b6897bec92",
@@ -97,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T17:10:54.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "64b3ae1112e585ef4677",
@@ -108,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T17:05:01.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "bb6fe1d4bc3f7303a494",
@@ -119,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T17:00:41.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "31513acdfaf8d3b37292",
@@ -130,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:59:13.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "be76065ace48f95d193f",
@@ -141,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T16:48:50.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "6517f3737aebbf320fa6",
@@ -152,18 +284,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T16:35:27.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "d0b37e0d1c3f6eeb34a1",
-      "title": "Almost three-quarters of England now in drought ahead of summer’s fifth heatwave",
+      "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
       "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:32:53.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "3eb9f9fee4cc2a06e0f1",
@@ -174,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:30:47.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "71c05606e7f0d5759180",
@@ -185,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T16:28:34.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "e6d5691cac4c65c8f0a7",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:25:30.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "41ecdd084d88038c8969",
@@ -207,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T16:24:13.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "cb9c999db0717aa76592",
-      "title": "Why Addresses Have Numbers",
-      "url": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-      "source": "thehistoricalinsights.page",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T16:12:54.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "540ff48afb28f1e66082",
@@ -229,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:10:56.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "df653d4d657d8c25e8b9",
@@ -240,7 +361,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-10T16:08:06.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "ac52a7fb4b9d15b0843f",
@@ -251,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T16:03:43.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "77d4093e357af471db77",
@@ -262,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T16:03:14.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "faf1e8d66f59a95f5cc9",
@@ -273,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:03:08.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "3f984b262ed990584afa",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T16:01:06.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "4ebe2b50e1eb1ed889b6",
@@ -295,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:59:23.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "1f092cb3709dd7598a8b",
@@ -306,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:55:26.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "57ea7cd9714adcf354fc",
@@ -317,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:55:15.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "cd3f9449f07fee1570ec",
@@ -328,18 +449,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:54:47.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
-      "id": "8e99ed448f430f5982bf",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:54:19.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "id": "3dc7cec598f07df4a5c9",
+      "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+      "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
+      "source": "pim.murata.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T15:53:01.000Z",
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "09ec64e4ab52610c8086",
@@ -350,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T15:51:26.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "2774067c709116251c4e",
@@ -361,18 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:49:48.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "a3979fddd1d0785416d9",
-      "title": "From ticket booking fees to shrinkflation, six other ways Burnham could cut cost of living",
-      "url": "https://www.theguardian.com/money/2026/aug/10/after-burnhams-rip-offs-crackdown-what-more-could-pm-do-to-help-us-save-money",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:47:19.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "2d54893a90439591a709",
@@ -383,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:46:18.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "d5dec6c98d9cb929356e",
@@ -394,29 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T15:45:39.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "6f52ba547ec1fec9ee44",
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T15:32:04.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "730b0858792384111982",
-      "title": "Trump admits reflecting pool makeover was rushed but renews vandalism claim",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-reflecting-pool-makeover-vandalism-claim",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:25:58.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "a5e025b20bd36d201d00",
@@ -427,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:23:44.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "d344550672e13b058cff",
@@ -438,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:21:27.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "4a15eca0bf8c7a95c4dc",
@@ -449,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:00:48.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "b47e97403d557d245949",
@@ -460,18 +548,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:00:47.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "1f627a1722245583ec90",
-      "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
+      "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 69",
       "url": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:57:08.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     },
     {
       "id": "e837a003bec569f4347b",
@@ -482,95 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T14:56:32.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "49cda4200fc1c816eabf",
-      "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:52:32.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "31206be382c1c4fbd767",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:43:08.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "556564ff8f4d0572a423",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:34:25.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "4bbd7526c7fcbb55fa8f",
-      "title": "Ukraine confirms strikes on oil refinery in Russia’s Tatarstan – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:32:18.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "7ce89761c3746f7bd6fe",
-      "title": "Does spending money make you feel bad? Read this comic",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:20:35.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "e60c156459da4565c885",
-      "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:18:52.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "25c765e43ff34b976f75",
-      "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
-      "url": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:13:00.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
-    },
-    {
-      "id": "f988aafcfa54f61b6c80",
-      "title": "War on Iran: Phase II: Day 30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:07:04.000Z",
-      "discoveredAt": "2026-08-10T17:30:32.930Z"
+      "discoveredAt": "2026-08-10T18:28:19.055Z"
     }
   ]
 }
