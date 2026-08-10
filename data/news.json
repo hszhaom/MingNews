@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T16:26:29.903Z",
+  "generatedAt": "2026-08-10T17:30:32.930Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,191 @@
   ],
   "stories": [
     {
+      "id": "f53f6a507f861cadaaff",
+      "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – latest updates",
+      "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:20:25.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
       "id": "cc1b1c5137ff1d5cab83",
-      "title": "At least 22 reported dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+      "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T16:09:43.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "publishedAt": "2026-08-10T17:19:33.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "b8f05fbbadd07d349663",
+      "title": "Indian police use force to disperse youth protesters calling for exam overhaul",
+      "url": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:16:28.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "1c34010afe9c0effefef",
+      "title": "Trump administration continues to ‘attack an innocent man’ over reflecting pool, say lawyers for Olympian – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:14:38.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "d69eb66b91b6897bec92",
+      "title": "More than 70 dead after powerful earthquake strikes western Colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:10:54.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "64b3ae1112e585ef4677",
+      "title": "Iran’s president says Khamenei is in ‘perfect health’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:05:01.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "bb6fe1d4bc3f7303a494",
+      "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T17:00:41.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "31513acdfaf8d3b37292",
+      "title": "Barack Obama launches podcast about books that ‘shaped his worldview’",
+      "url": "https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:59:13.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "be76065ace48f95d193f",
+      "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:48:50.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "6517f3737aebbf320fa6",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com/",
+      "source": "stoaexchange.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T16:35:27.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "d0b37e0d1c3f6eeb34a1",
+      "title": "Almost three-quarters of England now in drought ahead of summer’s fifth heatwave",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:32:53.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "3eb9f9fee4cc2a06e0f1",
+      "title": "Reform donor Arron Banks urged to set out extent of surveillance of journalists",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:30:47.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "71c05606e7f0d5759180",
+      "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
+      "url": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:28:34.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "e6d5691cac4c65c8f0a7",
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:25:30.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "41ecdd084d88038c8969",
+      "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+      "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:24:13.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "cb9c999db0717aa76592",
+      "title": "Why Addresses Have Numbers",
+      "url": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
+      "source": "thehistoricalinsights.page",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T16:12:54.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "540ff48afb28f1e66082",
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:10:56.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "df653d4d657d8c25e8b9",
@@ -64,7 +240,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-10T16:08:06.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "ac52a7fb4b9d15b0843f",
+      "title": "Sudan’s army chief holds unannounced talks on national dialogue",
+      "url": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-10T16:03:43.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "77d4093e357af471db77",
@@ -75,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T16:03:14.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "faf1e8d66f59a95f5cc9",
@@ -86,18 +273,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T16:03:08.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
-      "id": "f53f6a507f861cadaaff",
-      "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – latest updates",
-      "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
-      "source": "The Guardian",
+      "id": "3f984b262ed990584afa",
+      "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
+      "url": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-10T16:01:56.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "publishedAt": "2026-08-10T16:01:06.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "4ebe2b50e1eb1ed889b6",
@@ -108,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:59:23.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "1f092cb3709dd7598a8b",
@@ -119,7 +306,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:55:26.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "57ea7cd9714adcf354fc",
+      "title": "The Tragedy of the Cognitive Commons",
+      "url": "https://arxiv.org/abs/2607.29380",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T15:55:15.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
+    },
+    {
+      "id": "cd3f9449f07fee1570ec",
+      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+      "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+      "source": "neurology.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T15:54:47.000Z",
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "8e99ed448f430f5982bf",
@@ -130,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:54:19.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "09ec64e4ab52610c8086",
@@ -141,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T15:51:26.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "2774067c709116251c4e",
@@ -152,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:49:48.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "a3979fddd1d0785416d9",
@@ -163,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:47:19.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "2d54893a90439591a709",
@@ -174,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:46:18.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "d5dec6c98d9cb929356e",
@@ -185,29 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T15:45:39.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "1c34010afe9c0effefef",
-      "title": "Trump administration continues to ‘attack an innocent man’ over reflecting pool, say lawyers for Olympian – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:40:21.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "d69eb66b91b6897bec92",
-      "title": "At least 20 dead as powerful earthquake strikes western Colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:38:43.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "6f52ba547ec1fec9ee44",
@@ -218,18 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:32:04.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "a24a4927e067e7349ba8",
-      "title": "Octopus Energy urges millions of households to use less electricity during solar eclipse",
-      "url": "https://www.theguardian.com/business/2026/aug/10/octopus-energy-electricity-solar-eclipse-washing-machines-dishwashers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:28:53.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "730b0858792384111982",
@@ -240,29 +416,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:25:58.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "a5e025b20bd36d201d00",
-      "title": "Itadakimasu: A Word You Say to the Food, Not the Cook",
+      "title": "Itadakimasu: A word you say to the food, not the cook",
       "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
       "source": "thetokyohermit.substack.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T15:23:44.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "92c5004666989f5addbc",
-      "title": "Rare animals threatened as wildfire ravages New Forest heathland",
-      "url": "https://www.theguardian.com/world/2026/aug/10/rare-animals-threatened-as-wildfire-ravages-new-forest-heathland",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:21:38.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "d344550672e13b058cff",
@@ -273,29 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:21:27.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "5bbf1a6fab709ec5def8",
-      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
-      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
-      "source": "seattletimes.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T15:13:08.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "e6d5691cac4c65c8f0a7",
-      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T15:12:17.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "4a15eca0bf8c7a95c4dc",
@@ -306,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:00:48.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "b47e97403d557d245949",
@@ -317,18 +460,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T15:00:47.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "1f627a1722245583ec90",
-      "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+      "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
       "url": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:57:08.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "e837a003bec569f4347b",
@@ -339,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T14:56:32.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "49cda4200fc1c816eabf",
@@ -350,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:52:32.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "31206be382c1c4fbd767",
@@ -361,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T14:43:08.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "556564ff8f4d0572a423",
@@ -372,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T14:34:25.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "4bbd7526c7fcbb55fa8f",
@@ -383,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T14:32:18.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "7ce89761c3746f7bd6fe",
@@ -394,7 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-10T14:20:35.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "e60c156459da4565c885",
@@ -405,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:18:52.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "25c765e43ff34b976f75",
@@ -416,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:13:00.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     },
     {
       "id": "f988aafcfa54f61b6c80",
@@ -427,150 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T14:07:04.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "7e77d4621f7967f69103",
-      "title": "Record 230 people reach UK on single boat after crossing English Channel",
-      "url": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:02:38.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "e0a2ed8d86c67207ac15",
-      "title": "Car owners should challenge insurers on steep price hikes and ‘call their bluff’, Asic says",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/car-insurance-prices-asic",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:01:45.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "7eea4a5b42b5b1884754",
-      "title": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:00:46.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "10e2204f6fcc9eb6c098",
-      "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T14:00:02.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "a614eb865db4b6a9c4dd",
-      "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-      "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:59:58.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "0e4c286cbb83ac028f4e",
-      "title": "From Dubai luxury to an Irish jail cell: Daniel Kinahan’s drastic lifestyle shift",
-      "url": "https://www.theguardian.com/world/2026/aug/10/daniel-kinahan-lifestyle-shift-dubai-luxury-irish-prison-cell",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:54:04.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "56306fed23567613a14e",
-      "title": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:32:05.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "48bfebba8232d72f6dcf",
-      "title": "Why choosing low-fat dairy is not necessarily better for your health",
-      "url": "https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:31:09.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "5cd8cebd0bb21786bafb",
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "source": "patentsgazette.uspto.gov",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T13:29:12.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "9f008d6c49f2356c81d5",
-      "title": "Nigel Farage vows to deport foreign criminals from UK prisons",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:24:52.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "6b336bcd1f37aa20416a",
-      "title": "One million evacuated as Typhoon Dolphin pummels east China: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T13:14:34.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "671bebdecad3442bcf1f",
-      "title": "Louisiana warns beachgoers amid surge in flesh-eating bacteria infections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/louisiana-flesh-eating-bacteria-vibrio-vulnificus",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T12:58:56.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
-    },
-    {
-      "id": "c4fbfabcd78b0190781b",
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "source": "beautifulpublicdata.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T12:58:16.000Z",
-      "discoveredAt": "2026-08-10T16:26:29.903Z"
+      "discoveredAt": "2026-08-10T17:30:32.930Z"
     }
   ]
 }
