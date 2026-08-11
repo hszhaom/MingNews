@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T14:01:53.152Z",
+  "generatedAt": "2026-08-11T15:10:47.029Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 21,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,48 @@
   ],
   "stories": [
     {
-      "id": "3eb2db0e370efb608b31",
-      "title": "Axe stamp duty? How Andy Burnham could change property tax",
-      "url": "https://www.theguardian.com/money/2026/aug/11/stamp-duty-andy-burnham-uk-property-council-tax-house-prices",
-      "source": "The Guardian",
+      "id": "39f0a3806221d5f6f38a",
+      "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
+      "url": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-11T14:00:01.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "publishedAt": "2026-08-11T14:56:06.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "ac6a2b69d405a0cb09b1",
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T14:50:33.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "bdafb45ffc075b8b1331",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:50:10.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "6982748bdfe80fe54e15",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:47:28.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "354f75a6918068febf1b",
@@ -63,8 +96,85 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-11T13:56:28.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "publishedAt": "2026-08-11T14:45:09.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "40a7bbabf0e527f4d7aa",
+      "title": "Summer 2026 on course to be UK’s hottest on record, says Met Office – latest news",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:44:41.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "b66c5fd8d3f19d4044c5",
+      "title": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "url": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:44:10.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "1da8a57015a16892ccc6",
+      "title": "Human rights groups sue Trump administration over ‘crippling’ ICC sanctions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:40:03.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "d5e170806bd741aa58c7",
+      "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:34:32.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "0f1eef0266484049cd5d",
+      "title": "Luigi Mangione appears in New York court over healthcare CEO’s killing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:32:45.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "b7b7a49351268a726225",
+      "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:30:23.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "a695ec4269a581964337",
+      "title": "The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses",
+      "source": "theguardian.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T14:27:31.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "09e01fd5194a8fe1a279",
@@ -74,8 +184,74 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-11T13:56:04.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "publishedAt": "2026-08-11T14:17:45.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "9cf14eb228ed24b40897",
+      "title": "Thailand suspends new gun permits after mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:16:44.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "f8354835528a696dc3e7",
+      "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+      "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:06:09.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "a65eee4fb39e107d9cf3",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:03:28.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "8dd74c53c117d65a97eb",
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "source": "aimagazine.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T14:03:18.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "d01a87d449957c6b4f2f",
+      "title": "Drone captures devastating aftermath of Spokane wildfires",
+      "url": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:02:07.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "3eb2db0e370efb608b31",
+      "title": "Axe stamp duty? How Andy Burnham could change property tax",
+      "url": "https://www.theguardian.com/money/2026/aug/11/stamp-duty-andy-burnham-uk-property-council-tax-house-prices",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T14:00:01.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "95b3734c61dab04ca958",
@@ -86,18 +262,40 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T13:53:23.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
-      "id": "40a7bbabf0e527f4d7aa",
-      "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
-      "source": "The Guardian",
+      "id": "0a9ea2b9b5c0bd3dc69e",
+      "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-11T13:52:59.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "publishedAt": "2026-08-11T13:47:50.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "bf2e21d8874943191918",
+      "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T13:46:44.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "18c1bc117097ba1117e6",
+      "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+      "url": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+      "source": "tomshardware.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T13:42:27.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "122cb2ed8dc7f8430c0d",
@@ -108,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T13:36:26.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "298bbd01591b79f23f33",
@@ -119,7 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T13:28:53.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "5639e45f22b6bbc3efdf",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "source": "stolen-thoughts.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T13:22:00.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "88db4b3ad91c9ef95b84",
@@ -130,18 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T13:21:32.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "d5e170806bd741aa58c7",
-      "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T13:12:29.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "8020382670e18ca97c23",
@@ -152,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T13:10:49.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "bf9a7810649e95587eeb",
@@ -163,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T13:09:21.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "e9b37c71a574077a9ac5",
@@ -174,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T13:00:01.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "5b7a539a2fc9864506d5",
@@ -185,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:56:41.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "3ddd68c972b819b8c782",
@@ -196,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T12:55:01.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "1bc670f34b9ddb418fda",
@@ -207,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T12:41:59.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "c80ed277d49ec612dda8",
@@ -218,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:40:11.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "b1728645c2530e50b94a",
@@ -229,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:36:37.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "906004973fd31cee01f1",
@@ -240,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:31:49.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "7959e2ae74d4c66f06ad",
@@ -251,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:27:15.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "3f5fd50ca763059ed36f",
@@ -262,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T12:17:38.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "76d0f3b167a06fc7477c",
@@ -273,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T12:11:58.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "2cfd97a51a7a5997be76",
@@ -284,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:08:08.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "f31ffafad78a18323105",
@@ -295,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T12:05:54.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "5b4f533cc27ddcc3e022",
@@ -306,7 +504,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T11:46:21.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
+    },
+    {
+      "id": "fbeef9734c4e8ee57739",
+      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T11:35:20.000Z",
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "6c6ef5299e68c18622ab",
@@ -317,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T11:30:48.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "d70405aad1a3ab89727b",
@@ -328,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T11:28:53.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "228b4a0af0aa4f31202a",
@@ -339,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T11:28:05.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "8ec41942d8e931cc72e9",
@@ -350,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T11:26:18.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     },
     {
       "id": "9aff4346720d78e0fe65",
@@ -361,216 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-11T11:11:14.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "df96a9b4a0004f08d2bb",
-      "title": "How to organize Claude Code for product work",
-      "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-      "source": "theaithinker.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-11T11:02:34.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "642052848a68aa6b5227",
-      "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T11:00:02.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "2a5085c246828f2f39d9",
-      "title": "What to know about South Carolina’s election to replace Lindsey Graham",
-      "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:55:03.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "f531a475c5c77c477657",
-      "title": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
-      "url": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:52:27.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "b48e21f4384688e1a7a3",
-      "title": "Hotel prices in Europe jump before total solar eclipse",
-      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:50:12.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "bdafb45ffc075b8b1331",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:43:07.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "14e871653a7264368380",
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "source": "lighthousenewsletter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-11T10:40:47.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "381dce1081104281d59b",
-      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
-      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:40:45.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "3935aeffb1ed04feeb78",
-      "title": "The secret economics inside the new Planet Money board game",
-      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:30:00.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "95bfdd51116488ff9f48",
-      "title": "East Libya military intelligence chief killed in car bomb blast",
-      "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:25:50.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "d69eb66b91b6897bec92",
-      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:14:01.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "c689f7e97b46a1ab9009",
-      "title": "Watch: Family escapes home during Colombia earthquake",
-      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:12:21.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "a309444af20dec0d2aa1",
-      "title": "Former Syrian President Assad sentenced to death in absentia",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:07:14.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "d885489ebff841ef946e",
-      "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-      "url": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:03:25.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "5186d574a791d852cf26",
-      "title": "Bangladesh and India battle to save cricket series after political turmoil",
-      "url": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:02:35.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "f89dbb090b2272d66b6e",
-      "title": "Nvidia's Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "source": "stratechery.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-11T10:02:00.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "c40e2c1bc3721ce20297",
-      "title": "The return of the caspian tiger: how a species feared extinct has come back to Kazakhstan",
-      "url": "https://www.theguardian.com/environment/2026/aug/11/extinction-caspian-tiger-release-female-kazakhstan-aoe",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:00:56.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "f68b036b32767571f9df",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:00:04.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
-    },
-    {
-      "id": "0bf128b20534af7cc853",
-      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "discoveredAt": "2026-08-11T14:01:53.152Z"
+      "discoveredAt": "2026-08-11T15:10:47.029Z"
     }
   ]
 }
