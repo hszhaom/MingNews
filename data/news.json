@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T22:56:02.847Z",
+  "generatedAt": "2026-08-11T23:52:27.706Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,113 @@
   "stories": [
     {
       "id": "71c9e16f61121d4b8533",
-      "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+      "title": "Australia politics live: Tim Wilson questions energy efficiency standards for housing, saying ‘some people call it putting a jumper on’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-11T22:43:08.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "publishedAt": "2026-08-11T23:40:02.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "d116faad4c52a581daaf",
+      "title": "Colombia scrambles to find survivors after deadly earthquake",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:39:05.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "05423efe55018f49fb54",
+      "title": "ICE to spend up to $20m on gloves that can deliver painful electric shocks",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:35:43.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "09e01fd5194a8fe1a279",
+      "title": "Polls close in South Carolina, where Republicans brace for runoff in race to replace Lindsey Graham – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:35:40.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "6cc8505151fbb4f3da41",
+      "title": "Russia releases former US Marine reported in poor health",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:33:45.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "c9580ebd81c3a0e66b0f",
+      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:31:18.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "dcf6604d2a2f8c0726ec",
+      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:17:07.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "afdb833ec4fd1f5ebae1",
+      "title": "How a 97-year-old escaped deadly Indian floods on a banana raft",
+      "url": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:11:32.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "ff27716bdbd151750de1",
+      "title": "Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?",
+      "url": "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T23:01:12.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
+    },
+    {
+      "id": "ca710badbcf55b70f749",
+      "title": "Burnham urged by 50 police leaders to prevent early release of PC Harper’s killers",
+      "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T22:47:53.000Z",
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "f7a74ec912bb5fb304b2",
@@ -64,29 +163,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-11T22:39:22.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "09e01fd5194a8fe1a279",
-      "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T22:38:15.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "ca710badbcf55b70f749",
-      "title": "Burnham faces mass call from police chiefs to block early release of PC Harper’s killers",
-      "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T22:21:22.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "636074939d53bf3f5c2e",
@@ -97,7 +174,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T21:56:18.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "bec5e1452dc8e72b745b",
@@ -108,18 +185,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T21:54:25.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "dcf6604d2a2f8c0726ec",
-      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T21:46:34.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "c692dc179bcf6553788b",
@@ -130,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T21:40:54.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "06380e961f336230777e",
@@ -141,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T21:39:55.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "305f4bd93078d4cd4f60",
@@ -152,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T21:34:55.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "83dcac216d6d40db5f4f",
@@ -163,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T21:28:26.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "32bc234b8ae36598bcb9",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T21:24:34.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "19e70b42b8e7a6c991cf",
@@ -185,18 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T21:14:56.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "c62ade1ce7f7f3fcd6b7",
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "url": "https://arxiv.org/abs/2601.01828",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-11T21:14:10.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "d636bcfe212b4d5c2409",
@@ -207,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-11T21:11:09.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "bf8b2ad5d2375759974f",
@@ -218,18 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:56:30.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "5072d4d280a69b61b41d",
-      "title": "US state department has canceled over 175,000 visas since Trump’s return to office",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-state-department-visas",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T20:40:59.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "6c6c2d83c3db451b3754",
@@ -240,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T20:39:42.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "dd9770580172e5bc1b44",
@@ -251,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:35:50.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "6e090cbf8a5045c4feaf",
@@ -262,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:30:11.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "aff72255beba3989d82d",
@@ -273,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:29:34.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "5676326e73d4cc33b8e8",
@@ -284,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-11T20:23:07.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "b2b8201f182581b5eff3",
@@ -295,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-11T20:20:25.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "e93b417ecc64fa755c76",
@@ -306,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:18:51.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "e3ceed316247771fa2c2",
@@ -317,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:15:26.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "dde12f367dc0c504e06d",
@@ -328,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:11:53.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "97c493c0b4c98ed6c9a4",
@@ -339,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T20:06:54.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "95106ec038a944b25a92",
@@ -350,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T19:58:12.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "dad79aeca39c59808906",
@@ -361,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T19:49:44.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "a8ba0b0ace9187dbca9c",
@@ -372,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T19:35:52.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "1a0f43a308a070107c7b",
@@ -383,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T19:21:32.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "fbeef9734c4e8ee57739",
@@ -394,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T19:12:54.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "85ba4ff1e850393a8bd9",
@@ -405,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T19:09:52.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "1a08712f547e02cd5fe1",
@@ -416,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:59:42.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "c34e0d765dfb87b66503",
@@ -427,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:58:33.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "acf37bc9ae2d2b3c2be5",
@@ -438,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-11T18:51:35.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "430bbde108fce998320a",
@@ -449,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:45:26.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "63f0b12b77eb71a81959",
@@ -460,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-11T18:34:39.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "b3c17cc22c2ab063a076",
@@ -471,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:34:31.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "84a58c90df9cdde6b06d",
@@ -482,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:32:42.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "b062482e3c0c19c5e142",
@@ -493,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:31:54.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "df8e46e96a505a2c1b78",
@@ -504,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:22:14.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "a9fbbfa8fdb13bb9d980",
@@ -515,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-11T18:18:44.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     },
     {
       "id": "2d3ff9456a451e84c575",
@@ -526,51 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-11T18:15:54.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "fecd257c0b572da60e46",
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "source": "ironicsans.ghost.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-11T18:09:56.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "c80a35ece961c3237404",
-      "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
-      "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T18:00:01.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "0162dc3034d4be4659d1",
-      "title": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-11T17:59:50.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
-    },
-    {
-      "id": "c69986d10d8f43a71517",
-      "title": "The Office actor Lucy Davis says she has incurable stage four breast cancer",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/11/lucy-davis-the-office-actor-stage-four-breast-cancer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-11T17:55:49.000Z",
-      "discoveredAt": "2026-08-11T22:56:02.847Z"
+      "discoveredAt": "2026-08-11T23:52:27.706Z"
     }
   ]
 }
