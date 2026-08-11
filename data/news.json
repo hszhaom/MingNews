@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T00:03:19.841Z",
+  "generatedAt": "2026-08-11T02:22:29.411Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 19,
+      "count": 20,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,169 @@
   ],
   "stories": [
     {
-      "id": "cc1b1c5137ff1d5cab83",
-      "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "source": "The Guardian",
+      "id": "f68b036b32767571f9df",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T23:54:40.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "publishedAt": "2026-08-11T02:10:44.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "022a187164a2a8bf7932",
-      "title": "Australia politics live: Coalition to work with Hanson on migration bill; Greens fear PM ‘under the thumb’ of gambling lobby",
+      "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T23:53:30.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "publishedAt": "2026-08-11T02:07:50.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "cc1b1c5137ff1d5cab83",
+      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T02:05:57.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "1c34010afe9c0effefef",
-      "title": "Trump signs executive order to split measles, mumps and rubella vaccine into separate shots in sweeping change – live",
+      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-10T23:45:39.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "publishedAt": "2026-08-11T02:00:22.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "88db4b3ad91c9ef95b84",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T01:59:40.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "cb8b5058e583cc31a6b1",
+      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T01:51:46.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "0f8c4f3695f4c1d43447",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T01:31:10.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "5d238b4ce065e6484ec5",
+      "title": "Soldiers take cover as Colombia quake flattens military barracks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T01:06:36.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "dceadbcf4e26d0507169",
+      "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T00:55:09.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "b4bdf0f4e333a8d2b9e8",
+      "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-11T00:54:00.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "b783460e23fed93ce584",
+      "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
+      "url": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T00:26:02.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "2c3a236eede1b0e6f8e9",
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "source": "code.call-cc.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-11T00:24:15.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "fa1285a41a9f7cda3445",
+      "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T00:00:19.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "e5013faeb5e762f17e90",
+      "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "8b56f91e6ea5236819e1",
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "source": "effort.news",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T23:45:50.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "0cf764d75c0264610ca2",
@@ -86,7 +218,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T23:18:53.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "ab15954351319b90affd",
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "source": "everycube.alen.is",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-10T23:16:25.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "28bd2cc1979719b14be5",
@@ -97,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T23:05:25.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "f68b036b32767571f9df",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T23:03:52.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "4cc52a4c6222fdad4ddb",
@@ -119,7 +251,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T22:46:32.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "67bc8d53fe31e0d6eac8",
+      "title": "Alabama heads into a second primary election after redistricting",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-10T22:43:05.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "343e0c54f2c5e388004c",
@@ -130,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T22:42:14.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "c6e471d9657e6982e5c6",
@@ -141,18 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T22:41:03.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "d89cde6b1cefb60c0dff",
-      "title": "Google Search Is Dying. What Comes Next Is Worse",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "source": "thewalrus.ca",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T22:36:30.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "e1086f37efb482e38736",
@@ -163,7 +295,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T22:35:48.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "95824baa8e354aeda07e",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T22:31:42.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "5ed8f84c336347305e3b",
@@ -174,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T22:28:32.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "ca00b60e50b00cb7c5c1",
@@ -185,7 +328,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T22:28:20.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "04fde10315a81d18c789",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T22:02:21.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "ad11d74058c7e31e567a",
@@ -196,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:48:23.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "f0c6c3c25cb72ccaad7d",
@@ -207,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T21:30:05.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "328a7758567a0f2aa8bf",
@@ -218,29 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:29:32.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "88b475ecf2537612e478",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "arstechnica.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T21:26:16.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "5334dc3af0f8f6bd9591",
-      "title": "Boat operator faces federal charges after mother and infant killed in New York capsizing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T21:25:16.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "2e10ba8fb20f9115af83",
@@ -251,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:15:41.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "8e131a095d2e8c635891",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:14:16.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "18c5c04d076d1e124662",
@@ -273,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T21:06:27.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "30ac7a230c883502f26f",
@@ -284,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:03:53.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "6fb1c2eba2fe7a409951",
@@ -295,7 +427,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T21:02:06.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
+    },
+    {
+      "id": "12d4642f4700c44b88b1",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-10T20:55:34.000Z",
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "0a2a61f6079c68748f17",
@@ -306,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T20:55:21.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "b67600712905bd3a7b1b",
@@ -317,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T20:52:55.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "e0e3956f46328ccd48b4",
@@ -328,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-10T20:49:00.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "d396e55e500282f399cc",
@@ -339,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-10T20:47:13.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "1c7c776038244452f426",
@@ -350,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T20:45:52.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "9669cc8b77fd8c59e90a",
@@ -361,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-10T20:25:02.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "f92cd90da1dfb6b22b43",
@@ -372,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T19:47:13.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "b96f34e8c4ca3c271629",
@@ -383,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T19:46:34.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "887b04413fd3aeaee5d7",
@@ -394,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T19:30:29.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "540ff48afb28f1e66082",
@@ -405,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-10T19:17:11.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "75b6feb1b37a871ad8ec",
@@ -416,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-10T19:16:38.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     },
     {
       "id": "ee3b2834dd618b9717e6",
@@ -427,150 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-10T19:08:08.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "71e71c256411ddc8333e",
-      "title": "111 dead after Colombia quakes leave trail of destruction",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:51:02.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "c5f849f4601e628cbae3",
-      "title": "Ann Widdecombe police investigate whether accused had role in Farage incident",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/10/ann-widdecombe-nigel-farage-police",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:46:20.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "b7d0d2c099fa06127700",
-      "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:37:07.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "e80e01c169634a14f214",
-      "title": "Netanyahu’s veto and the limits of American power",
-      "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:35:31.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "d4795f46875686df1fe2",
-      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:34:25.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "8f0d763d169ae08c2aa3",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:28:11.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "8e99ed448f430f5982bf",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:24:45.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "a2e31c0a999cfd067491",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:19:41.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "8edcc07dd9d08895b35c",
-      "title": "Oman trying to contain extensive oil spill from stricken tanker",
-      "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:15:23.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "c5055bc2bfbf49e2b646",
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "source": "vectorware.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-10T18:12:49.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "d69eb66b91b6897bec92",
-      "title": "Scores dead after powerful earthquake strikes western Colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T18:11:06.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "f53f6a507f861cadaaff",
-      "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – as it happened",
-      "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T17:56:38.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
-    },
-    {
-      "id": "a3a70ae40a54833df2a9",
-      "title": "Labour peer urges Tories to sack former neo-Nazi who abused her",
-      "url": "https://www.theguardian.com/politics/2026/aug/10/labour-peer-luciana-berger-urges-badenoch-reverse-decision-advisory-role-ex-neo-nazi-joshua-bonehill-paine",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-10T17:52:32.000Z",
-      "discoveredAt": "2026-08-11T00:03:19.841Z"
+      "discoveredAt": "2026-08-11T02:22:29.411Z"
     }
   ]
 }
