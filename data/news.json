@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T18:31:34.880Z",
+  "generatedAt": "2026-08-12T19:42:32.601Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
+      "id": "0943545f3aa3b3ffcd89",
+      "title": "Francesca Hong backs David Crowley for Wisconsin governor as Democratic nominee vows to earn support from progressives – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:23:44.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "f9e6bb99590c071bd597",
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:21:22.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "b753adc2ace114fbb163",
+      "title": "Brazil orders Discord to suspend livestreams after teen’s death",
+      "url": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:21:11.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "b5cc9bcbf3069d3fbfb9",
+      "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:19:37.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
       "id": "459c100ebd9987cf15cb",
-      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
+      "title": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T18:28:13.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "publishedAt": "2026-08-12T19:18:56.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "8c3e001b45f27c442448",
+      "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+      "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:11:03.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "78b2bb94181d1c6268ae",
+      "title": "Thousands flee drought in Somalia amid sharp aid decline",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:06:23.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "db3d2e87962d95753607",
+      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T18:46:30.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "daf5b37352c1f7455d45",
@@ -64,29 +141,51 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T18:24:48.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "2deff76676ca97f9335e",
+      "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+      "url": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T18:23:59.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "9efd5c9bdc0cd295603e",
+      "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+      "url": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T18:23:25.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "03d4bbaa421f08305a88",
-      "title": "Broadcasters to be barred from Eurovision song contest if state involved in ‘armed conflict’",
+      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:20:55.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
-      "id": "0943545f3aa3b3ffcd89",
-      "title": "Francesca Hong backs David Crowley for Wisconsin governor as Democratic nominee vows to earn support from progressives – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:18:38.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "id": "9e5a86081b76e231ceb8",
+      "title": "Zed: Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "source": "zed.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T18:19:59.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "e34ecc6a15297210de1c",
@@ -97,29 +196,51 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:17:51.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
-      "id": "244daa8c7d7d2e363956",
-      "title": "Agentic Engineering Is Just Everything We Haven't Been Doing",
-      "url": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
-      "source": "blog.matthewbrunelle.com",
+      "id": "079aae38f459a7499539",
+      "title": "Your key to success isn't more luck or hard work",
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "source": "julienreszka.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-12T18:13:45.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "publishedAt": "2026-08-12T18:17:03.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "a425ac7913b843ebbf91",
+      "title": "Lebanese families demand release of detainees held by Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T18:15:03.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "53a8e5dc91a09467c7f2",
+      "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T18:13:00.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "0621a8297e32395d518e",
-      "title": "Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – UK politics live",
+      "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
       "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:10:45.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "5c522e64fb987e1d6452",
@@ -130,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:01:51.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "49ec08c0b83761a17656",
@@ -141,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:00:41.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "00cb5708cbb0b4ef1cd9",
@@ -152,18 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T17:58:44.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "35450b154bc07ce1471b",
-      "title": "Perez Hilton’s mother files for temporary custody of his three children",
-      "url": "https://www.theguardian.com/media/2026/aug/12/perez-hilton-mother-files-temporary-custody-children",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T17:50:16.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "28a46bff448f1e7b7c0f",
@@ -174,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T17:47:01.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "ce20915453d55dc61820",
@@ -185,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T17:23:45.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "5c13e2a64de682df1274",
@@ -196,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T17:21:06.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "5e8de2e7e90e0c1a81a9",
@@ -207,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T17:14:04.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "e96a3b3561bf77575062",
@@ -218,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T17:03:05.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "3bdf7fc8f5dd937c15c3",
@@ -229,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T16:58:16.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "bdc6284a9f1214e49f94",
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "source": "artificialanalysis.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T16:54:25.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "aa8df83f51e22fd8ee2d",
@@ -251,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-12T16:51:25.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "9fbe894fbe5557851342",
@@ -262,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-12T16:38:25.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "57ee310317071bff4ba9",
@@ -273,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:35:52.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "66b4bfe58d3f8daccb46",
@@ -284,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:34:01.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "15ada8104f88395b3a09",
@@ -295,18 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:28:24.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "f1718a36a4bd5b8782cd",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "source": "huggingface.co",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T16:26:16.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "378da28579f6d35f8a18",
@@ -317,18 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T16:23:28.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "809dbabd1c3e1d290058",
-      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-      "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "source": "githubstatus.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T16:22:27.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "64c72792b3f05f7aa3ed",
@@ -339,7 +416,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:21:52.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "94676d99b2defaa4557b",
+      "title": "We just raised $400M in Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "source": "lovable.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T16:20:34.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "b09b7e08d5089d1fa863",
@@ -350,18 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:17:55.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "53c2596545e6e2deebaa",
-      "title": "Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "source": "blog.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T16:14:37.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "5191ed1d1b10df8eaa34",
@@ -372,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:14:08.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "b482c8d6eb8c6bbd010c",
@@ -383,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T16:11:04.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "7408c6cd79dc3a539e39",
@@ -394,18 +471,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-12T16:04:50.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "30cd85266b8738f83636",
-      "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+      "title": "LIVE: PSG vs Aston Villa – UEFA Super Cup 2026",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T16:00:46.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "4543f72f2b01006add80",
@@ -416,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:40:24.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "ba3552eff1cfc31dbdad",
@@ -427,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:39:37.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "a0c9cc9f3cd458d6444e",
@@ -438,7 +515,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:36:33.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
+    },
+    {
+      "id": "66321e57ae7a50676743",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "source": "x.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T15:32:50.000Z",
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "9edb10ef5bc1963f3f22",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:30:18.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "76bf89351c6b820de4aa",
@@ -460,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:29:20.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "11eda24700e31260d645",
@@ -471,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:08:31.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     },
     {
       "id": "4e007e46de257ec7d84c",
@@ -482,95 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T15:07:41.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "59e3a5b080d1324e7b87",
-      "title": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T15:00:33.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "7e1e6b340e97c983cfae",
-      "title": "ABC changing editorial policy after Rinehart furore prompts concerns of overreach from academics and advocates",
-      "url": "https://www.theguardian.com/media/2026/aug/13/abc-changing-editorial-policy-after-rinehart-furore-prompts-concerns-of-overreach-from-academics-and-advocates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T15:00:33.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "bc901998f6f9a0820105",
-      "title": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T15:00:33.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "354501bdfe7a5dd818d4",
-      "title": "Coalition plan to scrap energy rules for new houses condemned as ‘cost-of-living timebomb’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/coalition-housing-energy-standards-national-construction-code-new-homes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T15:00:32.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "8cc05f36c98f7f7a6949",
-      "title": "License plate reader searches should require a warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "source": "andrewpwheeler.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T14:43:39.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "c42d1e77de3f1bfeeab3",
-      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T14:40:36.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "605845ca2b70f5c11a43",
-      "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T14:26:45.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
-    },
-    {
-      "id": "7d85ce788f265b99fe6a",
-      "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T14:23:34.000Z",
-      "discoveredAt": "2026-08-12T18:31:34.880Z"
+      "discoveredAt": "2026-08-12T19:42:32.601Z"
     }
   ]
 }
