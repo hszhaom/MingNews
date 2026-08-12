@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T22:54:05.846Z",
+  "generatedAt": "2026-08-12T23:53:26.444Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,94 @@
   ],
   "stories": [
     {
+      "id": "3a06f2819ca6cdcd2a59",
+      "title": "Australia politics live: Andrew Bragg says low-income earners should accept they will live in substandard housing; whistleblower David McBride granted parole",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:43:22.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "f8c00fb2d1de519b4266",
+      "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:26:21.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "9471f62d4c521937d43a",
+      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:23:14.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "4cb079110e9964cffae2",
+      "title": "Media groups sue Trump over paid access to public social media posts",
+      "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:23:00.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "2b5da25dda114c183613",
+      "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:22:48.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "66b4bfe58d3f8daccb46",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:19:57.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "c0f478aad07b2ad15516",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:19:28.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "0943545f3aa3b3ffcd89",
+      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:11:53.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
       "id": "a1b987381e70c04f670f",
       "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
       "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
@@ -52,8 +140,74 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T22:46:02.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "publishedAt": "2026-08-12T23:11:35.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "14e7f29f7814ade96ed8",
+      "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+      "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app/",
+      "source": "aaas-marketplace-1089237826218.asia-northeast1.run.app",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T23:07:32.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "d2e33b4e873189a8ef5a",
+      "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
+      "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:01:42.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "4db16d23da8ab7955614",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T23:00:47.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "4a34461b0d679599d0fb",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:58:45.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "57ee310317071bff4ba9",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:56:44.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
+    },
+    {
+      "id": "094152c2ebe1f696b255",
+      "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+      "url": "https://bipluk.com/",
+      "source": "bipluk.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T22:47:20.000Z",
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "9284896dfff8e65c9d06",
@@ -64,18 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:41:46.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "3a06f2819ca6cdcd2a59",
-      "title": "Australia politics live: Andrew Bragg says low-income earners should accept they will live in substandard housing; Rio Tinto given $2.5bn bailout",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T22:35:08.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "78ea79580fad5664d505",
@@ -86,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:34:08.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "f5afe2195bd6a1f73d9c",
@@ -97,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:30:41.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "0943545f3aa3b3ffcd89",
-      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T22:29:44.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "3b169a5efda4fabc96ce",
@@ -119,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:27:48.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "ffe350ed0ae0b4235ca0",
@@ -130,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:24:28.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "f31802b69c5f40111c14",
@@ -141,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T22:22:57.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "7bfcefda31dc53359844",
@@ -152,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T22:13:57.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "e33f014e3166cc18fa21",
@@ -163,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:11:51.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "c891085c973f62345392",
@@ -174,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T22:07:47.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "f9e6bb99590c071bd597",
@@ -185,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:53:26.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "e00857e0cf38d245d6c4",
@@ -196,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:53:17.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "18e819d9cc814f383bdf",
@@ -207,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:52:18.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "b22b1094fa2e3051f5eb",
@@ -218,29 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:50:27.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "52262281dc4da83c4c72",
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "source": "corneroffifth.studio",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T21:45:29.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "79d023fd045d9429a769",
-      "title": "Karoline Leavitt will step down as White House press secretary, Trump says",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T21:36:21.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "8a74c100f170be757f88",
@@ -251,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:29:10.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "213ec4670c6ab285e3a8",
@@ -262,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:25:08.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "72ad3e47e4109b6bfa3b",
@@ -273,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:07:12.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "6c5abebb85c4d46c9977",
@@ -284,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:06:12.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "459c100ebd9987cf15cb",
@@ -295,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:00:02.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "3e0f4df7605a9ff6d269",
@@ -306,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:59:52.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "64a4afff95291b4a0c42",
@@ -317,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:58:42.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "66b4bfe58d3f8daccb46",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T20:58:39.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "d4a5e117b9fd8ee0b650",
@@ -339,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:58:24.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "4a34461b0d679599d0fb",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T20:57:47.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "1fb27723badab4482508",
@@ -361,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:53:26.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "f90896cdb5c0b9cf4e93",
@@ -372,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:33:10.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "3bf08110b3220b12754c",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:26:07.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "66830b9001643c1ddfd3",
@@ -394,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:19:40.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "221c7900fe569cd10496",
@@ -405,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:16:10.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "73de85f355b9f79dd4ff",
@@ -416,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:15:38.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "accebbdbdc0f65dc3d0b",
@@ -427,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:05:54.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "48290def7945c4fc2ee4",
@@ -438,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:05:01.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "2263cc44492386001420",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:04:24.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "0912e945f2acfc320fa6",
@@ -460,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:56:41.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "12f7873bdf57923c74f9",
@@ -471,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:56:41.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     },
     {
       "id": "6f28660293857fb9aa59",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:55:59.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "5e8de2e7e90e0c1a81a9",
-      "title": "Double murderer and rapist Simon Levy sentenced to whole-life tariff",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:46:32.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "a9647c399f637894a5c2",
-      "title": "Iceland and Spain plunged into darkness during total solar eclipse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:29:15.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "b753adc2ace114fbb163",
-      "title": "Brazil orders Discord to suspend livestreams after teen’s death",
-      "url": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:21:11.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "8c3e001b45f27c442448",
-      "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:11:03.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "78b2bb94181d1c6268ae",
-      "title": "Thousands flee drought in Somalia amid sharp aid decline",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:06:23.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "db3d2e87962d95753607",
-      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
-      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:46:30.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "84d39fcb84d636d978c8",
-      "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-      "url": "https://timer.jotaen.net/",
-      "source": "timer.jotaen.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T18:27:52.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
-    },
-    {
-      "id": "daf5b37352c1f7455d45",
-      "title": "Has the U.S. lost its dominance to China?",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:24:48.000Z",
-      "discoveredAt": "2026-08-12T22:54:05.846Z"
+      "discoveredAt": "2026-08-12T23:53:26.444Z"
     }
   ]
 }
