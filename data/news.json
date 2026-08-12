@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T13:37:30.593Z",
+  "generatedAt": "2026-08-12T15:08:29.135Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,37 @@
   ],
   "stories": [
     {
-      "id": "e5b623b30c9f80263d9e",
-      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
-      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T13:35:12.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "459c100ebd9987cf15cb",
-      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
-      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "id": "60602c0cc73a2a3a6030",
+      "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
+      "url": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T13:28:47.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "publishedAt": "2026-08-12T14:58:36.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "0943545f3aa3b3ffcd89",
+      "title": "David Crowley vows to earn support from progressives after winning messy Democratic primary for Wisconsin governor – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:52:10.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "b57d23a62250e604b0f6",
+      "title": "Qwen3.8 Weights Released",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
+      "source": "modelscope.cn",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:49:54.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "824e3e8461c88d084bea",
@@ -74,41 +85,327 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T13:28:31.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "publishedAt": "2026-08-12T14:47:02.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "66b4bfe58d3f8daccb46",
+      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:44:48.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "459c100ebd9987cf15cb",
+      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
+      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:43:54.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "8cc05f36c98f7f7a6949",
+      "title": "License Plate Reader Searches Should Require a Warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "source": "andrewpwheeler.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:43:39.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "c42d1e77de3f1bfeeab3",
+      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:40:36.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "605845ca2b70f5c11a43",
+      "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:26:45.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "7d85ce788f265b99fe6a",
+      "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
+      "url": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:23:34.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "2faeb454318da9475a25",
+      "title": "Iran is not anti-imperialist. It is a state calculating survival",
+      "url": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:23:13.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "eaf09036539fc61e27a0",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "source": "tailscale.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:22:30.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "0621a8297e32395d518e",
-      "title": "Immigration minister says poorer areas have taken ‘fair share’ of asylum seekers – UK politics live",
+      "title": "Cooper warns NHS must prepare for regular heatwaves as Burnham holds emergency Cobra meeting – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T13:19:44.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "publishedAt": "2026-08-12T14:22:14.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "a098c5c427e074d2123b",
+      "title": "Burnham to consider ban on disposable barbecues as wildfires rage in UK",
+      "url": "https://www.theguardian.com/society/2026/aug/12/andy-burnham-ban-disposable-barbecues-wildfires-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:20:10.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "e4c9706b0ae919aba549",
+      "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
+      "url": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:15:57.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "e96a3b3561bf77575062",
-      "title": "US inflation eases as food costs cool",
+      "title": "US inflation eases as food and fuel costs cool",
       "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T13:13:21.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "publishedAt": "2026-08-12T14:09:48.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
-      "id": "0943545f3aa3b3ffcd89",
-      "title": "David Crowley wins messy Democratic primary for Wisconsin governor, defeating progressive Francesca Hong – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "id": "60449cc957413aba0200",
+      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "source": "amiga-news.de",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:09:11.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "151a880fb7d5692e5826",
+      "title": "Too many holes! Why badgers are digging up Britain’s lovingly maintained golf courses",
+      "url": "https://www.theguardian.com/environment/2026/aug/12/too-many-holes-why-badgers-are-digging-up-britains-lovingly-maintained-golf-courses",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-12T13:12:28.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "publishedAt": "2026-08-12T14:04:38.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "5191ed1d1b10df8eaa34",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:03:48.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "de5acd99dd765901276f",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "source": "knownagents.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:02:46.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "134ff5a2a9751c4d4b44",
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "source": "guillaumetech.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T14:00:54.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "69cc9fbafff3207f7d9f",
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-12T14:00:29.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "301f95c3a1aa2779cc9a",
+      "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
+      "url": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:59:34.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "0e005f65612719718f51",
+      "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+      "url": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:58:02.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "eb7be454b2fa3b50ae8e",
+      "title": "My Agent Setup",
+      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "source": "chad.cm",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T13:56:05.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "5b4801290e81ddb7aafb",
+      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:55:56.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "1888a5cbdb2a350f4a57",
+      "title": "Kansas father kills his four children and their mother before shooting himself",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/kansas-familicide-winfield",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:50:18.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "366c01b905367659b540",
+      "title": "Only 2.6% of the most visited websites have fully valid HTML",
+      "url": "https://validatehtml.com/html-error-statistics",
+      "source": "validatehtml.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T13:44:01.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "7c20204f15d7eb2fff0c",
+      "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+      "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+      "source": "therad.ninja",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T13:41:12.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "a65f3be3e79e6c790d91",
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:38:58.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "e5b623b30c9f80263d9e",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:35:12.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "b74eeb2b5f32fa3c88a7",
+      "title": "Sudanese army intercepts RSF drones over el-Obeid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T13:29:29.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
+    },
+    {
+      "id": "d10ea54f06e0c3715ffb",
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "source": "blog.florianherrengt.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T13:20:05.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "b7904a84d25feac437bc",
@@ -119,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T13:11:21.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "97765682b5a8e5342646",
@@ -130,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T13:10:14.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "68e1f534f310c1109903",
@@ -141,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T13:02:11.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "8a8092296ea2d25dee3e",
@@ -152,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T13:00:19.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "a67d6a0a7499a365c22f",
@@ -163,18 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T12:59:02.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "78772d02028a79dfe5d7",
-      "title": "Bridget Phillipson condemns Richard Tice’s ‘chilling attempt to silence free press’",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/bridget-phillipson-condemns-richard-tice-attempt-silence-free-press-reform",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T12:40:23.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "68bd4385c965ae184752",
@@ -185,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T12:36:30.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "41d11592e0b51f42d949",
@@ -196,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T12:36:01.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "d5a35b3ea55778c9cbd6",
@@ -207,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T12:34:50.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "9a34333db4f07334a295",
@@ -218,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T12:33:09.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "d732c9e733518d3088c5",
-      "title": "Panama canal fees soar due to Iran war and El Niño as ship ‘pays $4m to jump queue’",
-      "url": "https://www.theguardian.com/business/2026/aug/12/panama-canal-fees-iran-war-el-nino-ship-jump-queue",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T12:26:48.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "ec7f71beb8345d0013d0",
@@ -240,18 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T12:21:08.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "5191ed1d1b10df8eaa34",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T12:16:22.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "497de9d732bbc111e3a4",
@@ -262,29 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T12:10:45.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "4552d16658e0a65909e7",
-      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
-      "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
-      "source": "neowin.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T12:07:16.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "5b4801290e81ddb7aafb",
-      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T12:01:34.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "58f4b92c184ccdbc9cef",
@@ -295,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-12T11:53:01.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "7ee8129b84046bbef6d7",
@@ -306,18 +548,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T11:46:52.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
-      "id": "ead0a61d171c4ea8f8de",
-      "title": "Heat, algae and AI: proposed datacenter could damage Everglades, experts warn",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:30:27.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "id": "83da4507bda16e8ca2ce",
+      "title": "5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
+      "url": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
+      "source": "severe-weather.eu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T11:42:17.000Z",
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     },
     {
       "id": "6bd3c48066ac863deb72",
@@ -328,249 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T11:28:05.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "9284896dfff8e65c9d06",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:28:02.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "2629095febbb753beada",
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:25:11.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "fbb48cdb56d64b3f3fea",
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "source": "blogs.embarcadero.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T11:13:36.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "b22741641e03a3a71f3f",
-      "title": "Putin warns of tit-for-tat seizures of European vessels",
-      "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:11:26.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "c9ef57eaeb5ab0fb3c9a",
-      "title": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:00:28.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "1cef82c495471f39a38d",
-      "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
-      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T11:00:27.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "a1473b391243f68d09e3",
-      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:47:30.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "59b26d801d6aa1eda351",
-      "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
-      "url": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:45:20.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "0c5a9b013590539dc564",
-      "title": "Germany approves lifting curbs on spy agencies in security ‘revolution’",
-      "url": "https://www.theguardian.com/world/2026/aug/12/germany-approves-lifting-curbs-spy-agencies-security-revolution",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:43:25.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "e3277c7bdbf0c82420cb",
-      "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:40:57.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "ac3e3a7debc7a9c42181",
-      "title": "Woman rescued after 36 hours under rubble in Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:37:42.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "d84e7842e74d1956dea7",
-      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:27:22.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "a17999c966d2e95b6ea2",
-      "title": "Barnaby Joyce claims One Nation ‘one of the gayest parties in Australia’ as former candidate’s comments surface",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/barnaby-joyce-one-nation-paraminder-singh-homophobic-comments-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:13:18.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "96669e35f9427c0baec2",
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com/",
-      "source": "woxi.ad-si.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T10:06:29.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "42f0bdb1cffb628d6558",
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "source": "gowers.wordpress.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T10:04:25.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "8057002bd4494e3233af",
-      "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
-      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T10:02:16.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "0b220dd8f3eed0c9928e",
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "source": "abc.net.au",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T09:35:30.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "dce6fa360985ad4c218a",
-      "title": "‘Send food photos’: lobbyist paid for former premier’s brother to go to Fiji to avoid inquiry, Icac hears",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/members-of-liberal-group-received-kickbacks-from-lobbying-companys-catholic-schools-nsw-contract-icac-hears-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:31:19.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "f0ea283f406e35a9f2bd",
-      "title": "More than 100 passengers rescued after Indonesia ferry fire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:26:45.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "818893d06cea6579db88",
-      "title": "Pogba suffers new injury setback with Monaco future now in doubt",
-      "url": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:24:59.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "d513502a72e6a29e833d",
-      "title": "Zambia’s president rallies for second term ahead of election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:16:22.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
-    },
-    {
-      "id": "4c8eadc79188f1964129",
-      "title": "A hydrogen-powered vehicle sets new land speed record",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:10:40.000Z",
-      "discoveredAt": "2026-08-12T13:37:30.593Z"
+      "discoveredAt": "2026-08-12T15:08:29.135Z"
     }
   ]
 }
