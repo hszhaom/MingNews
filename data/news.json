@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T21:56:20.870Z",
+  "generatedAt": "2026-08-12T22:54:05.846Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,138 @@
   ],
   "stories": [
     {
+      "id": "a1b987381e70c04f670f",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:46:02.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "9284896dfff8e65c9d06",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:41:46.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "3a06f2819ca6cdcd2a59",
+      "title": "Australia politics live: Andrew Bragg says low-income earners should accept they will live in substandard housing; Rio Tinto given $2.5bn bailout",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:35:08.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "78ea79580fad5664d505",
+      "title": "Minnesota man killed his wife and child before dying by suicide, police say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/minnesota-man-killed-family-suicide",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:34:08.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "f5afe2195bd6a1f73d9c",
+      "title": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:30:41.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "0943545f3aa3b3ffcd89",
+      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:29:44.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "3b169a5efda4fabc96ce",
+      "title": "US army helicopter crashes in Texas, killing two people and sparking wildfire",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/army-helicopter-crash-texas",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:27:48.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "ffe350ed0ae0b4235ca0",
+      "title": "Ignore the doomsdayers – property investing in Australia is far from broken",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/property-investors-australia-tax-negative-gearing-rba-interest-rates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:24:28.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "f31802b69c5f40111c14",
+      "title": "Trump administration plans to give ICE officers electric-shock gloves",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:22:57.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "7bfcefda31dc53359844",
+      "title": "ICE plans to outfit officers with electric shock gloves",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:13:57.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "e33f014e3166cc18fa21",
+      "title": "It must have been love, but it’s over now: sex toy placed in trash bin triggers DC bomb squad",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/washington-dc-sex-toy-trash-bin",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:11:51.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "c891085c973f62345392",
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T22:07:47.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
       "id": "f9e6bb99590c071bd597",
       "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
@@ -53,7 +185,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:53:26.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "e00857e0cf38d245d6c4",
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T21:53:17.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "18e819d9cc814f383bdf",
+      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T21:52:18.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "b22b1094fa2e3051f5eb",
@@ -64,18 +218,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:50:27.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
-      "id": "3a06f2819ca6cdcd2a59",
-      "title": "Australia politics live: Rio Tinto given $2.5bn bailout for Australia’s largest aluminium smelter; tech giants face law to pay for news content",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T21:40:17.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "id": "52262281dc4da83c4c72",
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "source": "corneroffifth.studio",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T21:45:29.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "79d023fd045d9429a769",
@@ -86,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:36:21.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "8a74c100f170be757f88",
@@ -97,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:29:10.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "213ec4670c6ab285e3a8",
@@ -108,18 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:25:08.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "0943545f3aa3b3ffcd89",
-      "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T21:23:38.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "72ad3e47e4109b6bfa3b",
@@ -130,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:07:12.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "6c5abebb85c4d46c9977",
@@ -141,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T21:06:12.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "459c100ebd9987cf15cb",
@@ -152,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T21:00:02.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "3e0f4df7605a9ff6d269",
@@ -163,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:59:52.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "64a4afff95291b4a0c42",
@@ -174,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:58:42.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "66b4bfe58d3f8daccb46",
@@ -185,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T20:58:39.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "d4a5e117b9fd8ee0b650",
@@ -196,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:58:24.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "4a34461b0d679599d0fb",
@@ -207,18 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T20:57:47.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "9284896dfff8e65c9d06",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T20:56:11.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "1fb27723badab4482508",
@@ -229,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:53:26.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "f90896cdb5c0b9cf4e93",
@@ -240,18 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:33:10.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "0d8ac1830ee57796737d",
-      "title": "Wisconsin Democrats chose a middle path – will it lead to victory in November?",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T20:31:56.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "3bf08110b3220b12754c",
@@ -262,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:26:07.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "66830b9001643c1ddfd3",
@@ -273,18 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:19:40.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "c88daa044ce419692fa4",
-      "title": "Nick Reiner indicted for murders of parents Rob and Michele Reiner",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T20:16:21.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "221c7900fe569cd10496",
@@ -295,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:16:10.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "73de85f355b9f79dd4ff",
@@ -306,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:15:38.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "accebbdbdc0f65dc3d0b",
@@ -317,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T20:05:54.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "48290def7945c4fc2ee4",
@@ -328,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:05:01.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "2263cc44492386001420",
@@ -339,7 +449,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T20:04:24.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "0912e945f2acfc320fa6",
+      "title": "Under strain, Australia's world-leading disability support faces major restructure",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T19:56:41.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "12f7873bdf57923c74f9",
@@ -350,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:56:41.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "6f28660293857fb9aa59",
@@ -361,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:55:59.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "5e8de2e7e90e0c1a81a9",
@@ -372,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T19:46:32.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "a9647c399f637894a5c2",
@@ -383,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T19:29:15.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "b753adc2ace114fbb163",
@@ -394,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T19:21:11.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "b5cc9bcbf3069d3fbfb9",
-      "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T19:19:37.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "8c3e001b45f27c442448",
@@ -416,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T19:11:03.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "78b2bb94181d1c6268ae",
@@ -427,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T19:06:23.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "db3d2e87962d95753607",
@@ -438,7 +548,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T18:46:30.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
+    },
+    {
+      "id": "84d39fcb84d636d978c8",
+      "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
+      "url": "https://timer.jotaen.net/",
+      "source": "timer.jotaen.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T18:27:52.000Z",
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     },
     {
       "id": "daf5b37352c1f7455d45",
@@ -449,128 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T18:24:48.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "2deff76676ca97f9335e",
-      "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
-      "url": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:23:59.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "9efd5c9bdc0cd295603e",
-      "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-      "url": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:23:25.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "03d4bbaa421f08305a88",
-      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:20:55.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "9e5a86081b76e231ceb8",
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "source": "zed.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T18:19:59.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "a425ac7913b843ebbf91",
-      "title": "Lebanese families demand release of detainees held by Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:15:03.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "53a8e5dc91a09467c7f2",
-      "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:13:00.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "0621a8297e32395d518e",
-      "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:10:45.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "5c522e64fb987e1d6452",
-      "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T18:01:51.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "28a46bff448f1e7b7c0f",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T17:47:01.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "ce20915453d55dc61820",
-      "title": "White House construction project to cost almost $1bn",
-      "url": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T17:23:45.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
-    },
-    {
-      "id": "5c13e2a64de682df1274",
-      "title": "Politicians among mourners at funeral service for Ann Widdecombe",
-      "url": "https://www.theguardian.com/politics/2026/aug/12/mourners-funeral-ann-widdecombe-buckfast-abbey",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T17:21:06.000Z",
-      "discoveredAt": "2026-08-12T21:56:20.870Z"
+      "discoveredAt": "2026-08-12T22:54:05.846Z"
     }
   ]
 }
