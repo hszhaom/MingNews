@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T09:20:21.817Z",
+  "generatedAt": "2026-08-12T10:38:59.700Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,215 @@
   ],
   "stories": [
     {
+      "id": "824e3e8461c88d084bea",
+      "title": "UK heatwave live: Burnham considers ban on disposable barbecues to prevent wildfires",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:24:17.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "0943545f3aa3b3ffcd89",
+      "title": "Trump plays down Air Force One plane switch as criticism grows over ‘decoy’ passengers – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:20:14.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "a17999c966d2e95b6ea2",
+      "title": "Barnaby Joyce claims One Nation ‘one of the gayest parties in Australia’ as former candidate’s comments surface",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/barnaby-joyce-one-nation-paraminder-singh-homophobic-comments-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:13:18.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "0621a8297e32395d518e",
+      "title": "Immigration minister says poorer areas have taken ‘fair share’ of asylum seekers – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:12:32.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "96669e35f9427c0baec2",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com/",
+      "source": "woxi.ad-si.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T10:06:29.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "42f0bdb1cffb628d6558",
+      "title": "Tim Gowers: What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "source": "gowers.wordpress.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T10:04:25.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "8057002bd4494e3233af",
+      "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
+      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:02:16.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "a91d354e7cea68233a27",
+      "title": "Drone footage shows rare bird’s-eye view of stingrays off New York coast",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/new-york-stingrays-drone-footage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:00:27.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "74ce5c894345dd04ccb2",
+      "title": "Trump’s secret flight switch indicates severity of assassination threat by Iran",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T10:00:27.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "e5b623b30c9f80263d9e",
+      "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:55:40.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "59b26d801d6aa1eda351",
+      "title": "Iran war and high living costs fueling last-minute holiday bookings, Tui says",
+      "url": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:54:59.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "3cab8b961cbc0dacd11a",
+      "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
+      "url": "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:36:34.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "0b220dd8f3eed0c9928e",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "source": "abc.net.au",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T09:35:30.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "dce6fa360985ad4c218a",
+      "title": "‘Send food photos’: Lobbyist paid for former premier’s brother to go to Fiji to avoid inquiry, Icac hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/members-of-liberal-group-received-kickbacks-from-lobbying-companys-catholic-schools-nsw-contract-icac-hears-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:31:19.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "93218bd98b0e9eb441af",
+      "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
+      "url": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
+      "source": "oxfordmartin.ox.ac.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T09:30:47.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "f0ea283f406e35a9f2bd",
+      "title": "More than 100 passengers rescued after Indonesia ferry fire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:26:45.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "818893d06cea6579db88",
+      "title": "Pogba suffers new injury setback with Monaco future now in doubt",
+      "url": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:24:59.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "64c72792b3f05f7aa3ed",
+      "title": "Great Britain faces electricity supply shortfall during solar eclipse",
+      "url": "https://www.theguardian.com/business/2026/aug/12/great-britain-faces-electricity-supply-shortfall-during-solar-eclipse",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:18:21.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "d513502a72e6a29e833d",
+      "title": "Zambia’s president rallies for second term ahead of election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:16:22.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
       "id": "44abada859258ccbc50c",
       "title": "David Crowley defeats Francesca Hong to win Democratic primary for Wisconsin governor",
       "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
@@ -53,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T09:12:29.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "4c8eadc79188f1964129",
@@ -64,7 +273,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T09:10:40.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "86e5a0868fe553539097",
+      "title": "Dutch Train Map Simulator",
+      "url": "https://spoorkaart.zaza.dev/",
+      "source": "spoorkaart.zaza.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T09:09:21.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "034835ea502308595097",
@@ -75,40 +295,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T09:02:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "824e3e8461c88d084bea",
-      "title": "UK heatwave live: Met Office issues extreme heat warning as government convenes emergency Cobra meeting",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:00:55.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "fd7df9e56bced0381ab8",
-      "title": "AI chatbots are offering financial advice. Should you trust them?",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "a472df9a44a262d710f1",
-      "title": "How a road could change West Africa's urban future",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "16c5f66d88b3d5c63bf3",
@@ -119,18 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T09:00:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "df18f57b3a3e678cdf32",
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "609a44c4c40b5cc6e25c",
@@ -141,18 +317,40 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T09:00:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
-      "id": "0621a8297e32395d518e",
-      "title": "Probation chief says he’s ‘not fully confident’ service will cope with early prisoner releases – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-      "source": "The Guardian",
+      "id": "df18f57b3a3e678cdf32",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+      "source": "NPR News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "npr-news",
       "topic": "world",
-      "publishedAt": "2026-08-12T08:58:26.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "a472df9a44a262d710f1",
+      "title": "How a road could change West Africa's urban future",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "fd7df9e56bced0381ab8",
+      "title": "AI chatbots are offering financial advice. Should you trust them?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "beb6d88e3de630af9cba",
@@ -163,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T08:50:52.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "cbf89b2ee2e245d799a9",
@@ -174,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T08:47:50.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "ca9fde3d96aca1758f5f",
@@ -185,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T08:45:46.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "1ed549b98e24db8bd15e",
@@ -196,18 +394,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T08:45:00.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "71c9e16f61121d4b8533",
-      "title": "Joyce claims One Nation ‘one of the gayest parties’ in country – as it happened",
+      "title": "O’Neil condemns Bragg’s ‘crazed’ press club speech – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T08:43:05.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "018dbc147e579122995e",
@@ -218,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T08:35:50.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "15473753a8185242e534",
@@ -229,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T08:19:05.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "c69e44fe2c3b7ee3b6d8",
@@ -240,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T08:18:06.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "df63614b9dd80023d810",
@@ -251,18 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T08:14:07.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "dce6fa360985ad4c218a",
-      "title": "Member of Liberal group paid for former NSW premier’s brother to travel to Fiji to avoid inquiry, Icac hears",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/members-of-liberal-group-received-kickbacks-from-lobbying-companys-catholic-schools-nsw-contract-icac-hears-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T08:11:01.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "6453e9442428079b2547",
@@ -273,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-12T08:06:55.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "22f1f6fdc6399f109a66",
@@ -284,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T07:58:04.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "804d83e5db88bddf89d5",
@@ -295,7 +482,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T07:55:26.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
+    },
+    {
+      "id": "46e55eb64646764503b7",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "source": "discoveredmaterials.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-12T07:51:20.000Z",
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "1f09c4c9484df569ab73",
@@ -306,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T07:49:22.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "622b04e57257988925b5",
@@ -317,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T07:44:44.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "db95033b67066c743372",
@@ -328,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T07:31:15.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "ade64dd7edafdf4220cc",
-      "title": "Bondi shooting hero Ahmed al-Ahmed has assault charges dropped",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T07:31:11.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "18dcf03f06fab82792a5",
@@ -350,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T07:28:48.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "036f15b1bdd74560356d",
@@ -361,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-12T07:27:42.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "5b4801290e81ddb7aafb",
@@ -372,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-12T07:16:44.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     },
     {
       "id": "5aa35c556956b9251e81",
@@ -383,194 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-12T07:16:42.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "574431a45728ef55e9de",
-      "title": "Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal",
-      "url": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T07:11:19.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "a9081e41fca861eadbb0",
-      "title": "LinkedIn CringeBot 3000",
-      "url": "https://www.cringebot3000.com/",
-      "source": "cringebot3000.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T06:30:49.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "c08cf0a6fd14ddea5ba2",
-      "title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
-      "url": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T06:29:37.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "b3b7c5f169c318015de5",
-      "title": "Paid police paternity leave to double after fathers reported being ‘ostracised’",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/paid-police-paternity-leave-double-england-wales",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T06:00:22.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "ef9a80d1b22ec5350acf",
-      "title": "Eerie silence and ‘still surviving’: what happened next after steel town’s last blast furnace shut down",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/12/port-talbot-wales-steel-photography-exhibition",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T06:00:20.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "bbdef010d4234809f558",
-      "title": "Why have several nations raised red flags over Indian farm exports?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T05:34:14.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "c1335b9c7b4a0137dc21",
-      "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
-      "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T05:28:05.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "6d7bb55f522e35531456",
-      "title": "Former U.S. Marine held in Russia on disputed charges has been released",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-12T05:27:13.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "b180648f032efa739def",
-      "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T05:26:26.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "32a0f7ee6ec95a937bdb",
-      "title": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T05:01:43.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "08e02a695d3230b3c44c",
-      "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:59:19.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "29f1b126768cea6c8551",
-      "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:52:26.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "9a8a4ecaeb9d909865c3",
-      "title": "llama.cpp",
-      "url": "https://llama.app/",
-      "source": "llama.app",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-12T04:51:59.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "77faced4ddaa33aced8f",
-      "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
-      "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:43:19.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "882ccb5147c4a8641003",
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:29:02.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "2239df71f4cba14ee09c",
-      "title": "Trump says secret plane switch ‘up to the Secret Service’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:15:51.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
-    },
-    {
-      "id": "89309cd79071e586bbba",
-      "title": "Francesca Hong aims to ride progressive wave in Wisconsin primary for governor",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-12T04:13:59.000Z",
-      "discoveredAt": "2026-08-12T09:20:21.817Z"
+      "discoveredAt": "2026-08-12T10:38:59.700Z"
     }
   ]
 }
