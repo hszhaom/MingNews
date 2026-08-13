@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T11:55:25.799Z",
+  "generatedAt": "2026-08-13T13:38:30.002Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "acd7dcae925e33acfe38",
-      "title": "Colombia earthquake response tests new far-right government",
-      "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "id": "d898698b80716fe1ac19",
+      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-13T11:39:46.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "publishedAt": "2026-08-13T13:27:00.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "9f3df86e6d5c26157640",
@@ -63,19 +63,41 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-13T11:38:46.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "publishedAt": "2026-08-13T13:24:41.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
-      "id": "7dc58facbc52b27fc7a3",
-      "title": "More than 135 million people in Europe set for temperatures over 35C",
-      "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "id": "bc6026db2a945eb4e34c",
+      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-13T11:38:39.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "publishedAt": "2026-08-13T13:20:55.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "35139b59e9a79bd5bef7",
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-13T13:18:43.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "e65156b60de580cd3069",
+      "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T13:17:21.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "cbe224385352aec213fd",
@@ -85,8 +107,217 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-13T11:35:01.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "publishedAt": "2026-08-13T13:15:23.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "a316856c50fdfefa0a00",
+      "title": "Spanish Super Cup will be held in Turkiye in 2027",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T13:06:56.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "653e4c6d9da01ffdcec8",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "source": "netlify.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-13T13:05:29.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "90f30fe4bddd9c334415",
+      "title": "My Rules for Using Spreadsheets",
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+      "source": "leancrew.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-13T13:00:24.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "2b32a0efa45a6bf0b5dd",
+      "title": "Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:56:57.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "0ec435c5a5549ce7eb68",
+      "title": "Water customers are not a ‘blank cheque’, Burnham warns suppliers",
+      "url": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:45:29.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "f30c25db75763b1557b6",
+      "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:42:28.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "01971387610412d404ad",
+      "title": "RSC postpones Othello while leading actor Sharon D Clarke has cancer treatment",
+      "url": "https://www.theguardian.com/culture/2026/aug/13/rsc-postpones-othello-shakespeare-actor-sharon-d-clarke-cancer-treatment",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:35:24.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "bc3150f19eddb065c4aa",
+      "title": "Transport watchdog investigates third near miss at Sydney airport",
+      "url": "https://www.theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:35:02.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "320290db03188484d43c",
+      "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
+      "url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:30:08.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "eb552974e8b771a77517",
+      "title": "Sports Direct owner buys Harvey Nichols department store chain",
+      "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:22:13.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "2d0270ff0b887aa65767",
+      "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:19:02.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "597880c9efc19b9adcfb",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "source": "tradersunion.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-13T12:09:50.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "5a5146af05e2795b11ba",
+      "title": "Trump has amassed staggering wealth in ‘most openly corrupt’ presidency",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:00:03.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "d942e544dc79736cb724",
+      "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T12:00:00.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "f29c9a989883ebaa750a",
+      "title": "Five charts that explain the high cost of living in the UK",
+      "url": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T11:57:23.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "723cc45d734e3c362774",
+      "title": "US-Iran talks in deadlock – what’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T11:56:40.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "cc02b03b6811c2f3f6a6",
+      "title": "Severe storms cut power supply to 540,000 homes in US midwest",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/power-outages-midwest-indiana-storms",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-13T11:49:29.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "acd7dcae925e33acfe38",
+      "title": "Colombia earthquake response tests new far-right government",
+      "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T11:39:46.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
+    },
+    {
+      "id": "7dc58facbc52b27fc7a3",
+      "title": "More than 135 million people in Europe face temperatures over 35C",
+      "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-13T11:38:39.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "d223398facff6a86edf8",
@@ -97,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-13T11:31:18.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "813a0129173f1287ee02",
@@ -108,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T11:29:32.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "aa7fbb0a3addf1dbee38",
@@ -119,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-13T11:18:53.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "7b79c8a7e9929acf4fca",
@@ -130,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T11:16:29.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "3945ca52a5d8aa7c0b07",
@@ -141,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T11:14:35.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "c0aebb3ece7f038e0f0b",
@@ -152,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-13T11:10:31.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "8337c42913016f70a4b7",
@@ -163,18 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-13T11:05:03.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "e65156b60de580cd3069",
-      "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T11:03:28.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "83cc493aa21685f4728a",
@@ -185,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-13T11:00:57.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "95ae8596318518e841b6",
@@ -196,18 +416,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-13T11:00:56.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
-      "id": "0082c3592b386c999ff5",
-      "title": "How Trump’s order on vaccines is sowing confusion, doubt and fear",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/donald-trump-executive-order-vaccines",
-      "source": "The Guardian",
+      "id": "c22a919d68dc7f724188",
+      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+      "source": "NPR News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "npr-news",
       "topic": "world",
-      "publishedAt": "2026-08-13T11:00:56.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "publishedAt": "2026-08-13T10:59:33.000Z",
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "4f0b547fa464a82b9d4c",
@@ -218,18 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-13T10:51:35.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "1183049fcd7833fdbdad",
-      "title": "First Thing: Leavitt departs White House press secretary role with Trump’s ratings at historic low",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/first-thing-leavitt-departs-white-house-press-secretary-trump-ratings-historic-low",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T10:46:50.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "7497717b3f83416269fe",
@@ -240,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T10:41:47.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "75e610b5aaf6ba20c7d4",
@@ -251,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-13T10:39:02.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "26f0f84a5cdb58260890",
@@ -262,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-13T10:26:46.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "e718da7a29a8c68215a7",
@@ -273,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T10:25:39.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "c56b05195d77d0abfe99",
@@ -284,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-13T09:58:40.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "e818c462a212b8ad8b6a",
@@ -295,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-13T09:55:09.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "3a343f500f38eae8705f",
@@ -306,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-13T09:54:03.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "35f7a6f5cf40f3a22424",
@@ -317,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T09:51:30.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "f0318136bf7c9ebaa274",
@@ -328,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T09:46:22.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "c8c80b90453f80bf5afc",
@@ -339,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-13T09:45:56.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "29735c09c79b8d897dd2",
@@ -350,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T09:43:38.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     },
     {
       "id": "d873a875027e7548168a",
@@ -361,216 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-13T09:42:18.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "66b4bfe58d3f8daccb46",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:40:18.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "e770c52bb396d204b54a",
-      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-      "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:30:24.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "3954c9cd96194194718f",
-      "title": "La Liga: What to know ahead of new 2026-27 football season",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:29:46.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "90ce15620792d764e356",
-      "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:18:44.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "27bcf83f48bab96a29f5",
-      "title": "Pro-Palestine activists smear red paint on Danish defence company",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:18:11.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "6214773c399463f3aaea",
-      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "a4184da717ba17fe342b",
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "33626d34394be82f4bfd",
-      "title": "Former Catholic bishop accused of hosting alcohol-fuelled parties to sexually abuse Aboriginal men found guilty",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/former-catholic-bishop-accused-of-hosting-alcohol-fuelled-parties-to-sexually-abuse-aboriginal-men-found-guilty-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:59:19.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "5147d98d6b5f9edc9ff3",
-      "title": "Bangladesh humble Australia with worst total in contest as Hasan takes 6-55",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/bangladesh-stun-australia-with-worst-total-in-contest-as-hasan-takes-6-55?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:51:16.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "7285c760475bfc334a99",
-      "title": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
-      "url": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:46:05.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "3e7c5dd12be6e20bd61a",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:44:44.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "504e7c1a8765ab0fbea7",
-      "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
-      "url": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:38:13.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "0c3ccb9710271f8ea600",
-      "title": "Met police incapable of change, says mother of murdered sisters after Simon Levy case",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/13/met-police-mina-smallman-simon-levy-case",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:31:45.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "54f6e812fef14e679400",
-      "title": "How to stay safe during an earthquake: A visual guide",
-      "url": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:28:02.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "c9e39f39149e201a29f5",
-      "title": "Part of children’s hospital collapses in Colombia earthquake",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:23:23.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "aa796fff934b1d4c8ce0",
-      "title": "Pentagon official and former Aukus sceptic says deal is ‘full steam ahead’, echoing Trump",
-      "url": "https://www.theguardian.com/world/2026/aug/13/pentagon-official-and-former-aukus-sceptic-says-deal-is-full-steam-ahead-echoing-trump",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:20:43.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "05c41b5074365acbddaa",
-      "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
-      "url": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:15:17.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "e658943ca93adaee0bbb",
-      "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:15:10.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
-    },
-    {
-      "id": "98800bc5643f53ccc9f9",
-      "title": "How to keep babies and children safe in heatwaves",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/how-to-keep-babies-and-children-safe-in-heatwaves",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-13T08:13:10.000Z",
-      "discoveredAt": "2026-08-13T11:55:25.799Z"
+      "discoveredAt": "2026-08-13T13:38:30.002Z"
     }
   ]
 }
