@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T10:35:50.157Z",
+  "generatedAt": "2026-08-14T11:24:02.237Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,81 @@
   ],
   "stories": [
     {
-      "id": "f923e23d7adf09a22b38",
-      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "id": "09454a520c2a83695b3c",
+      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:06:59.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "244394a9e497d0a32e53",
+      "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:04:40.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "4f0b547fa464a82b9d4c",
+      "title": "Vote counting suspended in Zambia over alleged attacks on polling staff",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:04:04.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "eb42e5348ac36e47f54a",
+      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
-      "publishedAt": "2026-08-14T10:30:17.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "publishedAt": "2026-08-14T11:02:42.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "6ae13e5faf73f7a24313",
+      "title": "Nolan Wells’ parents recount ordeal of son’s death at Atlanta convention",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/nolan-wells-parents-nabj",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:02:33.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "5828d0b3879a5a803c6a",
+      "title": "Donald Trump to give speech on crime and safety during New York visit – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:01:37.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "c14233187dcb15b19bf6",
+      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+      "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T11:00:27.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "d4d8f6f67c743063ab2b",
@@ -63,8 +129,118 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-14T10:24:46.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "publishedAt": "2026-08-14T10:56:57.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "89c752e70e3d81407bd4",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:55:39.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "7cb80415012836dd33cc",
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:52:15.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "b90e8e5280561a8b5113",
+      "title": "Everyone talks about AI agents. This is what one looks from the inside",
+      "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
+      "source": "pssah4.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T10:44:12.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "addc70a0d27dd3eb7449",
+      "title": "UK universities face ‘financial crisis’ amid collapse in international students",
+      "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:44:04.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "a61e5bdc5f2674d08f6a",
+      "title": "For the love of god stop using CPU limits in Kubernetes",
+      "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T10:41:21.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "996215b44199ea758f7b",
+      "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:38:19.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "25c756c32e9066502c85",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:36:14.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "db1cb24d66e726140b0e",
+      "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:32:22.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "f923e23d7adf09a22b38",
+      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:30:17.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "1c2aeae9c53865bb92b2",
+      "title": "Seven killed in tunnel accident at Indian hydropower project",
+      "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T10:28:34.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "685596769bbf50fce420",
@@ -74,8 +250,8 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-14T10:22:01.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "publishedAt": "2026-08-14T10:28:10.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "5cb65fe5784957bdc133",
@@ -86,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T10:18:02.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "86c77befbf32bd34d366",
@@ -97,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T10:12:48.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "1c728665c1a66a88407c",
@@ -108,29 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T10:10:15.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "996215b44199ea758f7b",
-      "title": "‘Extensive’ devastation caused by major fire in England as 150 million in Europe to experience temperatures above 35C – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T10:09:27.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "646ad5ca9e3fca59af0b",
-      "title": "I want extern \"fil-C\"",
-      "url": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-      "source": "domenkozar.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T10:06:47.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "3c47b8e43cad853c0f49",
@@ -141,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T10:00:25.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "9b50d2133520c007f7d0",
@@ -152,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T09:55:33.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "5dcea06aa0c051923152",
@@ -163,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T09:48:11.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "b7b05921607db2826e19",
@@ -174,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T09:46:35.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "892490e98b71a2350d63",
@@ -185,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:35:06.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "712bc90153cd31b2bdf8",
@@ -196,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T09:29:56.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "5e8f28770a1327fb5a01",
@@ -207,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:28:03.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "4666a845e175fc2ae463",
@@ -218,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:26:54.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "f0ffb1d8d4b9abe97957",
@@ -229,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:24:24.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "0a9c75be607674f78d8e",
@@ -240,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:20:37.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "ebb6a6cfa45ed793df70",
@@ -251,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:18:25.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "cc6bdad6241e7be7f570",
@@ -262,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T09:01:00.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "0160b2a4910b7a2e1097",
@@ -273,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T09:00:51.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "8059ec1a003f3287abab",
@@ -284,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T09:00:00.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "4a29cceff6394ee1c887",
@@ -295,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T09:00:00.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "3a3f16eda4bb79a52a38",
@@ -306,7 +460,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T08:45:41.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
+    },
+    {
+      "id": "8edd7d4c97cdad5530da",
+      "title": "2 workers share how helping kids at a community center has changed their lives",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-14T08:43:52.000Z",
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "b21cca5399938717ca5a",
@@ -317,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:40:55.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "9a5c9d2c37aef9fce440",
@@ -328,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T08:39:46.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "3b36201e507b90e18445",
@@ -339,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:37:21.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "b72b928bc278fbe7029d",
@@ -350,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:35:31.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "89c752e70e3d81407bd4",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T08:34:19.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "a31772ac8683b82bcc22",
@@ -372,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T08:25:33.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "801bced846ae04efdcc3",
@@ -383,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:23:27.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "72dc4d2817a42ccbd381",
@@ -394,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T08:17:55.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "9310f3ef41658fb85d7b",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:15:17.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     },
     {
       "id": "6f6b1ff335d02b9cdc0f",
@@ -416,161 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T08:09:59.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "77a6e3f54822666061ac",
-      "title": "Pocock and crossbenchers call Labor’s NDIS overhaul ‘too far, too fast’ in scathing Senate inquiry report",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T08:04:02.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "8a6f9520de11b708d22a",
-      "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T08:03:29.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "c402f1010649cc8e48db",
-      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T08:02:35.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "415920cee74a4ba67947",
-      "title": "‘They do look majestic’: tears and pride as first white storks set free in Cornwall",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/first-white-storks-released-bodmin-moor-cornwall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T08:00:21.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "e96cae4dfef84692a6f6",
-      "title": "Alleged victim says Alan Jones groped him at lunch and describes fear of being seen as broadcaster’s ‘toy’, court hears",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:59:06.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "665ce89fe3484e7b38e0",
-      "title": "Stolen Matisse art found in Brazil",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:47:05.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "1bba95e5c017cf7a948f",
-      "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:44:25.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "1efab519aa3a20aca300",
-      "title": "Teachers demand more scrutiny of Catholic school funding amid allegations of ‘sham arrangement’ with NSW Liberal group",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/nsw-icac-teachers-demand-scrutiny-catholic-schools-funding-nsw-liberals-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:41:00.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "734f8d61bed9b1c78823",
-      "title": "Bet365 apologises after children wear gambling logos in charity race – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:18:58.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "c2e2cf14b09a97cc2d51",
-      "title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:11:26.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "4a60fea0ecc9c6a8057b",
-      "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:07:42.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "25c756c32e9066502c85",
-      "title": "'Unprecedented' rain in Japan kills six people",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:00:56.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "1749248fe91ccc97ab2e",
-      "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
-      "url": "https://www.theguardian.com/world/2026/aug/14/british-widow-joyce-thomas-sweden-deported-brexit-policy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T07:00:22.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
-    },
-    {
-      "id": "57c03fd2aa3768ac35ef",
-      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-14T06:31:29.000Z",
-      "discoveredAt": "2026-08-14T10:35:50.157Z"
+      "discoveredAt": "2026-08-14T11:24:02.237Z"
     }
   ]
 }
