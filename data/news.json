@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T20:06:14.407Z",
+  "generatedAt": "2026-08-14T20:42:05.959Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,17 @@
   ],
   "stories": [
     {
+      "id": "a1bda8aa8bca5ee43d34",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T20:22:56.000Z",
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
+    },
+    {
       "id": "5828d0b3879a5a803c6a",
       "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
@@ -52,8 +63,30 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-14T19:52:36.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "publishedAt": "2026-08-14T20:05:13.000Z",
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
+    },
+    {
+      "id": "f947c40014273dbfcc9a",
+      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:56:25.000Z",
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
+    },
+    {
+      "id": "38caf46d22c38965d8a7",
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:44:43.000Z",
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "da0545d321d181ad5460",
@@ -64,7 +97,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T19:41:42.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "93306a1152e46a3ba46f",
@@ -75,7 +108,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:36:45.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
+    },
+    {
+      "id": "026a83dad2dbfcec0d5f",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "source": "www-cdn.anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T19:32:15.000Z",
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "2da8e5cfdb75986789f6",
@@ -86,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:27:08.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "0bef0fc55b7daa11503e",
@@ -97,18 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:19:48.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
-    },
-    {
-      "id": "e68246067eeddf6e1d69",
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "anthropic.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T19:15:51.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "105e5bfa4fff185dccb4",
@@ -119,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T19:05:46.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "f50f2f86e0d459497af8",
@@ -130,7 +163,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:05:22.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "5b57e1999fbd78fb9f2c",
@@ -141,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:02:49.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "1302e77be029635cdfc8",
@@ -152,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:01:58.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "345d6db889f1420a38b5",
@@ -163,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:55:24.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "5a94dd163bfbe84dfb5a",
@@ -174,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T18:52:48.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "c547f5fae2b7ba908e0a",
@@ -185,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:51:11.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "67b7522b3cbbac4aab20",
@@ -196,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:36.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "1691b25f8bf72cf0832b",
@@ -207,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:30.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "d5200e7e904f02b82a3a",
@@ -218,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:38:25.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "e94c2534aae08b382c40",
@@ -229,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:37:59.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "2329553809bfe22dd2fd",
@@ -240,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:28:17.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "abca379e418b1f198858",
@@ -251,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:25:38.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "1b7db419dc7751fcd5a5",
@@ -262,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:17:25.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "f3ce571086e0973a6e08",
@@ -273,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T18:13:00.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "2a89b7452abc5f45d518",
@@ -284,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:09:12.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "fb97fa1266f791d6050d",
@@ -295,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:04:08.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "639ea53edf234aa59592",
@@ -306,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:52:51.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "30ef7f7c9ca816e54e1e",
@@ -317,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:20:01.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "73410c4d5b69b89ed997",
@@ -328,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:12:14.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "29fb99015674661872d5",
@@ -339,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:03:17.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "4233fe14e70941f73551",
@@ -350,18 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:00:46.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
-    },
-    {
-      "id": "72dc4d2817a42ccbd381",
-      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T17:00:23.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "1da748351aaf3ff62522",
@@ -372,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:53.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "2d25b1f2e1657a8101d9",
@@ -383,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:41.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -394,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:58:04.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "f3f4376090452c536860",
@@ -405,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:54:58.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "b407e75e164b7d369da7",
@@ -416,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:46:30.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
-    },
-    {
-      "id": "d07b51d730b18e3af2df",
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T16:45:49.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "90041eba2d8a8574bff9",
@@ -438,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:37:54.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "3bafcae74b1a3cd40ba4",
@@ -449,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:35:45.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "b90370ece543ec189cb1",
@@ -460,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:35:06.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "4f0b547fa464a82b9d4c",
@@ -471,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:28:59.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "62ec8dcac832f4980a3c",
@@ -482,18 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:21:39.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
-    },
-    {
-      "id": "df53bf562276fa1e5e6d",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "claude.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T16:15:21.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "36730cabd238431e8b3a",
@@ -504,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:12:52.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "051e5c4eb2822b40bd58",
@@ -515,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:08:07.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "8c91fb9b64fcd89e1ea8",
@@ -526,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:05:24.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "2b71cb6d2f467db8e3bd",
@@ -537,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T15:58:59.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "f55841b1ec4367a94f6a",
@@ -548,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:57.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "71401f8ab48a658cdba1",
@@ -559,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:31.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     },
     {
       "id": "6334759742555ac2f199",
@@ -570,7 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:43:15.000Z",
-      "discoveredAt": "2026-08-14T20:06:14.407Z"
+      "discoveredAt": "2026-08-14T20:42:05.959Z"
     }
   ]
 }
