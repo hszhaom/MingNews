@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T22:55:10.757Z",
+  "generatedAt": "2026-08-14T23:30:57.449Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "bf053e31ad3e67e8831e",
+      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T22:45:19.000Z",
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
+    },
+    {
+      "id": "5ca93d1779b0d4d1e9f8",
+      "title": "RISC-V: They should have known better",
+      "url": "https://dmitry.gr/?r=06.+Thoughts&proj=12.+RV",
+      "source": "dmitry.gr",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T22:38:34.000Z",
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
+    },
+    {
       "id": "5828d0b3879a5a803c6a",
       "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
@@ -53,18 +75,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T22:32:19.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "1dcdd4a9f954e8ac96f6",
-      "title": "Trump downplays concerns about sailors aboard USS Abraham Lincoln amid record deployment",
+      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
       "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T22:12:55.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "f947c40014273dbfcc9a",
@@ -75,7 +97,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T22:10:24.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "1d263bebfe4118261498",
@@ -86,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T21:50:46.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "f928be110723287b7d3e",
@@ -97,7 +119,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T21:50:35.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "f9e1c850f56cd565b1f5",
@@ -108,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T21:45:20.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "c6358d46293604cec35f",
@@ -119,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T21:38:17.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "dc95546f0c4ef99d771c",
@@ -130,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T21:30:38.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "527c26e5d87d206dc81f",
@@ -141,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T21:17:15.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "7fadaa37eb5a2b2900ad",
@@ -152,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T21:05:47.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "0bed229b84096c103393",
@@ -163,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T21:03:43.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "54c87f23b28851a07ff0",
@@ -174,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T21:03:07.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "aedd30b73b5e4957c445",
@@ -185,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T20:52:44.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "ff86e85b6bf0a60ec530",
@@ -196,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T20:46:40.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "a1bda8aa8bca5ee43d34",
@@ -207,7 +229,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T20:22:56.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
+    },
+    {
+      "id": "8cb13b19f0e5a630d3e8",
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "url": "https://iafisher.com/2026/07/pelham-123",
+      "source": "iafisher.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T20:10:49.000Z",
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "38caf46d22c38965d8a7",
@@ -218,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:44:43.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "da0545d321d181ad5460",
@@ -229,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T19:41:42.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "93306a1152e46a3ba46f",
@@ -240,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:36:45.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "2da8e5cfdb75986789f6",
@@ -251,7 +284,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:27:08.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
+    },
+    {
+      "id": "a6edac028b14724fb9bc",
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:20:43.000Z",
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "0bef0fc55b7daa11503e",
@@ -262,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:19:48.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "f50f2f86e0d459497af8",
@@ -273,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:05:22.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "25fb2a3813e92b0c2ef8",
@@ -284,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T19:03:20.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "5b57e1999fbd78fb9f2c",
@@ -295,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:02:49.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "1302e77be029635cdfc8",
@@ -306,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:01:58.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "345d6db889f1420a38b5",
@@ -317,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:55:24.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "5a94dd163bfbe84dfb5a",
@@ -328,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T18:52:48.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "c547f5fae2b7ba908e0a",
@@ -339,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:51:11.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "67b7522b3cbbac4aab20",
@@ -350,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:36.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "1691b25f8bf72cf0832b",
@@ -361,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:30.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "d5200e7e904f02b82a3a",
@@ -372,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:38:25.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "e94c2534aae08b382c40",
@@ -383,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:37:59.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "2329553809bfe22dd2fd",
@@ -394,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:28:17.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "abca379e418b1f198858",
@@ -405,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:25:38.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "f3ce571086e0973a6e08",
@@ -416,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T18:13:00.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "2a89b7452abc5f45d518",
@@ -427,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:09:12.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "fb97fa1266f791d6050d",
@@ -438,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:04:08.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "639ea53edf234aa59592",
@@ -449,7 +493,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:52:51.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
+    },
+    {
+      "id": "310b0eeed5f181d96c83",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:36:27.000Z",
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "73410c4d5b69b89ed997",
@@ -460,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:12:14.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "29fb99015674661872d5",
@@ -471,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:03:17.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "4233fe14e70941f73551",
@@ -482,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:00:46.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "1da748351aaf3ff62522",
@@ -493,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:53.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "2d25b1f2e1657a8101d9",
@@ -504,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:41.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -515,62 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:58:04.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
-    },
-    {
-      "id": "f3f4376090452c536860",
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:54:58.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
-    },
-    {
-      "id": "b407e75e164b7d369da7",
-      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:46:30.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
-    },
-    {
-      "id": "90041eba2d8a8574bff9",
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:37:54.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
-    },
-    {
-      "id": "3bafcae74b1a3cd40ba4",
-      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:35:45.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
-    },
-    {
-      "id": "b90370ece543ec189cb1",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:35:06.000Z",
-      "discoveredAt": "2026-08-14T22:55:10.757Z"
+      "discoveredAt": "2026-08-14T23:30:57.449Z"
     }
   ]
 }
