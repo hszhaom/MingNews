@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T17:04:11.294Z",
+  "generatedAt": "2026-08-14T18:00:43.057Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,147 @@
   ],
   "stories": [
     {
+      "id": "5828d0b3879a5a803c6a",
+      "title": "Trump administration argues that ballroom construction is ‘vital’ for national security in appeal to supreme court – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:52:53.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "639ea53edf234aa59592",
+      "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+      "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:52:51.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "3c47b8e43cad853c0f49",
+      "title": "Luigi Mangione pleads guilty to causing UnitedHealthcare CEO’s death in federal case",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:52:10.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
       "id": "73ef784e5b3fc2ed925a",
-      "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges – live",
+      "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-14T17:00:11.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "publishedAt": "2026-08-14T17:22:49.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "30ef7f7c9ca816e54e1e",
+      "title": "National Rail acknowledges ‘exceptional challenges’ of extreme heat after second train derailment in 24 hours",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:20:01.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "f12f630690a1e37ecc4f",
+      "title": "‘It’s due to climate’: the people of Stourbridge on the town’s wildfires",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/stourbridge-wildfires-climate-change",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:17:27.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "db1acb6024ad28df0f21",
+      "title": "People detained at Mississippi ICE facility sickened by gas leak and denied medical care",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/mississippi-ice-facility-gas-leak",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:16:27.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "73410c4d5b69b89ed997",
+      "title": "French court blocks Macron’s social media ban for under-15s",
+      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:12:14.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "29fb99015674661872d5",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:03:17.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "4233fe14e70941f73551",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:00:46.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "72dc4d2817a42ccbd381",
+      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
+      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T17:00:23.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "1da748351aaf3ff62522",
+      "title": "Why is Selena Gomez being sued?",
+      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T16:59:53.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "2d25b1f2e1657a8101d9",
+      "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T16:59:41.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -64,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:58:04.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "f3f4376090452c536860",
@@ -75,7 +207,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:54:58.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "811001a9487c1eac61ce",
@@ -86,29 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:54:25.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "73410c4d5b69b89ed997",
-      "title": "French court blocks Macron’s social media ban for under-15s",
-      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:51:59.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "5828d0b3879a5a803c6a",
-      "title": "Trump administration argues that ballroom construction is ‘vital’ for national security in appeal to supreme court – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:48:12.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "b407e75e164b7d369da7",
@@ -119,7 +229,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:46:30.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
+    },
+    {
+      "id": "d07b51d730b18e3af2df",
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T16:45:49.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "90041eba2d8a8574bff9",
@@ -130,7 +251,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:37:54.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "3bafcae74b1a3cd40ba4",
@@ -141,18 +262,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:35:45.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
-      "id": "72dc4d2817a42ccbd381",
-      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "source": "The Guardian",
+      "id": "b90370ece543ec189cb1",
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-14T16:35:15.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "publishedAt": "2026-08-14T16:35:06.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "4f0b547fa464a82b9d4c",
@@ -163,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:28:59.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "62ec8dcac832f4980a3c",
@@ -174,18 +295,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:21:39.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
-      "id": "30ef7f7c9ca816e54e1e",
-      "title": "Train derails near Essex town of Wickford",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:18:32.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "id": "df53bf562276fa1e5e6d",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "claude.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T16:15:21.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "36730cabd238431e8b3a",
@@ -196,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:12:52.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "051e5c4eb2822b40bd58",
@@ -207,29 +328,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:08:07.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "f13823624aa48e3c6fba",
-      "title": "France blocks social media ban because it would require adults to prove age",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "source": "reuters.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T16:06:49.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "a54e596ca01f1a4fa8fc",
-      "title": "Scottish police expect ‘great deal of public opposition’ to planned Larbert datacentre",
+      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
       "url": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:05:31.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "8c91fb9b64fcd89e1ea8",
@@ -240,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:05:24.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "0ff0ebe07257b9b36b82",
@@ -251,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:02:20.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "d4d8f6f67c743063ab2b",
@@ -262,18 +372,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:59:23.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
-      "id": "77ccaff7eec48bcd8f45",
-      "title": "Students squeezed out of university courses after bumper A-level grades",
-      "url": "https://www.theguardian.com/education/2026/aug/14/students-squeezed-out-university-courses-bumper-crop-top-a-level-grades",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:54:28.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "id": "2b71cb6d2f467db8e3bd",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "source": "byhand.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T15:58:59.000Z",
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "f55841b1ec4367a94f6a",
@@ -284,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:57.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "3c47b8e43cad853c0f49",
-      "title": "Luigi Mangione pleads guilty to charges related to killing of UnitedHealthcare executive in federal case",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:52:53.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "71401f8ab48a658cdba1",
@@ -306,29 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:31.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "98280ce97fa082561e1a",
-      "title": "\"Solving a largely imaginary user goal\"",
-      "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
-      "source": "unsung.aresluna.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T15:48:59.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "eff98d8f3168da105d4b",
-      "title": "Baby with heart defect at center of US surrogacy dispute handed to parents",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/surrogate-baby-texas-parents",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:45:16.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "6334759742555ac2f199",
@@ -339,18 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:43:15.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "0356ba6ae093c3042a3c",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "blog.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "6d4c7ac0926c9cfe0bcf",
@@ -361,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:40:27.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "e693c40f60229e207bfe",
@@ -372,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:36:58.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "be6b8f0730e5eca86a17",
@@ -383,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:25:11.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "996215b44199ea758f7b",
@@ -394,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:23:29.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "f50f2f86e0d459497af8",
@@ -405,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:10:41.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "b3fb756b54786aabeed2",
@@ -416,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T15:07:57.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "a6341778bae19b46eaa1",
@@ -427,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:07:10.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "aed285ba05fe728af13c",
@@ -438,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T15:03:26.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "4cc56052a3698d434f4b",
@@ -449,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:00:31.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "7931d24bc91537863e73",
@@ -460,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:00:00.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "034c2462b05d2238837f",
@@ -471,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T15:00:00.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "4e3fa6d894b1facedeff",
@@ -482,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T14:56:04.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "5dcea06aa0c051923152",
@@ -493,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T14:55:17.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     },
     {
       "id": "ea889bb7e77d9a7bccc6",
@@ -504,73 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T14:48:54.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "1545a00b672557e9b1d9",
-      "title": "We learned 5 important things about the economy this week",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-14T14:47:15.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "10fc347dbd420d6db507",
-      "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-14T14:41:22.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "9e108b0d6035ab9add19",
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "source": "lxe.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T14:31:08.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "bae71eb952aa444a62ed",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "source": "heyjonny.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T14:21:18.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "5088de869b61b8147c70",
-      "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T14:19:30.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
-    },
-    {
-      "id": "5a70fab27d1ec5bac5f3",
-      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "source": "e360.yale.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T14:07:52.000Z",
-      "discoveredAt": "2026-08-14T17:04:11.294Z"
+      "discoveredAt": "2026-08-14T18:00:43.057Z"
     }
   ]
 }
