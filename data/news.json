@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T19:07:42.966Z",
+  "generatedAt": "2026-08-14T20:06:14.407Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "5828d0b3879a5a803c6a",
+      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:52:36.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "da0545d321d181ad5460",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T19:41:42.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "93306a1152e46a3ba46f",
+      "title": "New aerial video reveals huge scale of oil spill off Oman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:36:45.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "2da8e5cfdb75986789f6",
+      "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:27:08.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "0bef0fc55b7daa11503e",
+      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
+      "url": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:19:48.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "e68246067eeddf6e1d69",
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T19:15:51.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "105e5bfa4fff185dccb4",
+      "title": "Open WireGuard Endpoints",
+      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+      "source": "proxylity.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-14T19:05:46.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
       "id": "f50f2f86e0d459497af8",
       "title": "Trump asks Supreme Court to allow ballroom work to continue",
       "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +130,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T19:05:22.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "5b57e1999fbd78fb9f2c",
@@ -64,7 +141,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T19:02:49.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "1302e77be029635cdfc8",
+      "title": "US forest service chief reportedly pressed staff for more support for wildfire near his ranch",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T19:01:58.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "345d6db889f1420a38b5",
@@ -75,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:55:24.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "5a94dd163bfbe84dfb5a",
@@ -86,29 +174,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T18:52:48.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "6d6da14835c42bdf10dc",
-      "title": "Show HN: Embed a real Linux terminal on your website",
-      "url": "https://sandbox.bio/training/embed",
-      "source": "sandbox.bio",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T18:51:27.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "c547f5fae2b7ba908e0a",
-      "title": "Burnham criticised for EV and North Sea drilling approach as wildfires heighten climate fears",
+      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
       "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:51:11.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "67b7522b3cbbac4aab20",
@@ -119,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:36.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "1691b25f8bf72cf0832b",
@@ -130,18 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:43:30.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "5828d0b3879a5a803c6a",
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T18:40:05.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "d5200e7e904f02b82a3a",
@@ -152,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:38:25.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "e94c2534aae08b382c40",
@@ -163,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:37:59.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "2329553809bfe22dd2fd",
@@ -174,7 +240,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:28:17.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
+    },
+    {
+      "id": "abca379e418b1f198858",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T18:25:38.000Z",
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "1b7db419dc7751fcd5a5",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T18:17:25.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "f3ce571086e0973a6e08",
@@ -196,7 +273,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T18:13:00.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "2a89b7452abc5f45d518",
@@ -207,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:09:12.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "fb97fa1266f791d6050d",
@@ -218,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T18:04:08.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "639ea53edf234aa59592",
@@ -229,29 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:52:51.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "3c47b8e43cad853c0f49",
-      "title": "Luigi Mangione pleads guilty to causing UnitedHealthcare CEO’s death in federal case",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T17:52:10.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "73ef784e5b3fc2ed925a",
-      "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T17:22:49.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "30ef7f7c9ca816e54e1e",
@@ -262,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:20:01.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "73410c4d5b69b89ed997",
@@ -273,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:12:14.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "29fb99015674661872d5",
@@ -284,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:03:17.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "4233fe14e70941f73551",
@@ -295,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:00:46.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "72dc4d2817a42ccbd381",
@@ -306,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T17:00:23.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "1da748351aaf3ff62522",
@@ -317,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:53.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "2d25b1f2e1657a8101d9",
@@ -328,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:59:41.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -339,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:58:04.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "f3f4376090452c536860",
@@ -350,7 +405,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:54:58.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "b407e75e164b7d369da7",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:46:30.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "d07b51d730b18e3af2df",
@@ -372,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:45:49.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "90041eba2d8a8574bff9",
@@ -383,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:37:54.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "3bafcae74b1a3cd40ba4",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:35:45.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "b90370ece543ec189cb1",
@@ -405,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:35:06.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "4f0b547fa464a82b9d4c",
@@ -416,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:28:59.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "62ec8dcac832f4980a3c",
@@ -427,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T16:21:39.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "df53bf562276fa1e5e6d",
@@ -438,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:15:21.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "36730cabd238431e8b3a",
@@ -449,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T16:12:52.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "051e5c4eb2822b40bd58",
@@ -460,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T16:08:07.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "a54e596ca01f1a4fa8fc",
-      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T16:05:31.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "8c91fb9b64fcd89e1ea8",
@@ -482,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-14T16:05:24.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "2b71cb6d2f467db8e3bd",
@@ -493,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-14T15:58:59.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "f55841b1ec4367a94f6a",
@@ -504,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:57.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "71401f8ab48a658cdba1",
@@ -515,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T15:52:31.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     },
     {
       "id": "6334759742555ac2f199",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T15:43:15.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "0356ba6ae093c3042a3c",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "blog.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "6d4c7ac0926c9cfe0bcf",
-      "title": "Zambia suspends vote counting in election citing violence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:40:27.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "e693c40f60229e207bfe",
-      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:36:58.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
-    },
-    {
-      "id": "be6b8f0730e5eca86a17",
-      "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T15:25:11.000Z",
-      "discoveredAt": "2026-08-14T19:07:42.966Z"
+      "discoveredAt": "2026-08-14T20:06:14.407Z"
     }
   ]
 }
