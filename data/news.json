@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T07:37:55.112Z",
+  "generatedAt": "2026-08-15T08:39:54.888Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 23,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
+      "id": "c6434f1b78bce21d9ed6",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-15T08:29:20.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
       "id": "ce8e6784e1429af30cbd",
-      "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-15T07:22:22.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "publishedAt": "2026-08-15T08:21:01.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "7e4ac45b6f3dc09ac3ba",
+      "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
+      "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T08:01:29.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "553c5f2444cc9f86826e",
+      "title": "Arteta assures Arsenal fans over contract before Man City clash",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:44:35.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "e677c9fcf6b6910d4fd0",
+      "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:27:59.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "fb40acc904b8a71aa337",
+      "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+      "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:27:32.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "06598e8ab194bf9d1503",
+      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:18:13.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
+    },
+    {
+      "id": "6a5d5358f25157dc86e5",
+      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:13:11.000Z",
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "d232ab8517a7472eaa03",
@@ -64,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T07:01:50.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "034b9d8d2aa81499a286",
@@ -75,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T07:00:50.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "9e9aa3c4ec2ca0871751",
@@ -86,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T06:53:28.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "d917dd661dcb6a05c26e",
@@ -97,18 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T06:10:07.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "5b4c6dfbcf95aca10645",
-      "title": "\"That's not SOC 2 compliant\"",
-      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-      "source": "ampcode.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T06:01:19.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "31312a7baebbcd6028f9",
@@ -119,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T06:00:49.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "c8bfad8fb8197c912f0f",
@@ -130,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T05:14:40.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "7bc1109714c5525d52fe",
@@ -141,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:01:13.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "8c30ee524fafea751bb5",
@@ -152,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:50.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "b939d542780128c93c8b",
@@ -163,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:50.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "baa7904300668d9b7073",
@@ -174,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:49.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "4db71496a7bcb209689e",
@@ -185,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T04:58:20.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "535f4c636eeefb80b328",
@@ -196,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:54:53.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "d2367acccee4e020f7b0",
@@ -207,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:49:47.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "87a0c757f03b3d617233",
@@ -218,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:44:14.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "908f986061ecc87e3870",
@@ -229,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T04:42:07.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "272f894246e8db9726ec",
@@ -240,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:24:02.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "3149398dfe7962d6666a",
@@ -251,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:21:07.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "09e5463f49c23cdd24c3",
@@ -262,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T04:18:44.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "7149d21dd71f5759a968",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:52:08.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "89f3ebf572d709ada553",
@@ -284,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:39:06.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "4671054dbe0d969b20a6",
@@ -295,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:04:20.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "a9634fd458d778dc2f41",
@@ -306,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:25:09.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "fd448a2576d810efc58e",
@@ -317,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:08:02.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "e3d57f0ec19eeb2d1218",
@@ -328,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:03:22.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "835327cbc9e6cc001699",
@@ -339,18 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T02:00:43.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "15ed00a1fe08910128d1",
-      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T01:41:24.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "48083845285bf79648ea",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:36:04.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "5828d0b3879a5a803c6a",
@@ -372,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:31:53.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "a848249e89e6b0bdb890",
@@ -383,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:27:23.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "5a23fb00a61fbb4f1685",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:20:06.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "dcd434eb1266528b15a5",
@@ -405,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T01:14:05.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "fc371d671f01acba95cc",
@@ -416,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:12:02.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "2c330fb41f8db5e35055",
@@ -427,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:07:41.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "03e07bb8b9762bd81e35",
@@ -438,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T00:55:31.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "6c6f757cdc04d055924c",
@@ -449,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:32:56.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "82725bbdde62593470a0",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:23:26.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "e579a301019c814284ea",
@@ -471,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T00:15:23.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "44b67b4b0199e7636ff9",
@@ -482,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:14:47.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "8f8856e4f67873c8aa61",
@@ -493,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T00:10:47.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "c21e0f5bdf4b7822a7bc",
@@ -504,18 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T00:01:53.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "0172f49fb65f2faf7b5b",
-      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T00:00:00.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     },
     {
       "id": "fc60ee7c05dfe8b8adac",
@@ -526,51 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T23:43:18.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "cb5a08d5a3c7799fd5c4",
-      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T23:17:22.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "f908bd9b2e1c322d09af",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T23:16:43.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "40929892f8981ced8fb4",
-      "title": "How is parkour helping these seniors avoid injuries?",
-      "url": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T23:08:13.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
-    },
-    {
-      "id": "b5a281609632bc059e4c",
-      "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-      "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T23:02:55.000Z",
-      "discoveredAt": "2026-08-15T07:37:55.112Z"
+      "discoveredAt": "2026-08-15T08:39:54.888Z"
     }
   ]
 }
