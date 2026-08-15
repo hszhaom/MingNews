@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T14:54:07.504Z",
+  "generatedAt": "2026-08-15T15:30:49.117Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,6 +45,61 @@
   ],
   "stories": [
     {
+      "id": "fc60ee7c05dfe8b8adac",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T15:16:17.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "948a30109573b9ee7306",
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T15:09:59.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "1fa92ac3cd3d286d41e1",
+      "title": "Alaska candidate for US Senate seat rejects Kamala Harris’s unsolicited support",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T15:07:54.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "cb65d95341f0967e8670",
+      "title": "Heathrow airport roads reopen after flooding from burst water main",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T14:58:52.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "9f79f47f4b5f48946d66",
+      "title": "Thirty years after Tupac Shakur’s killing can a murder trial offer justice?",
+      "url": "https://www.theguardian.com/music/2026/aug/15/tupac-shakur-duane-davis-murder-trial",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T14:40:47.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
       "id": "edc71185679e7c3b30f8",
       "title": "South Korea proposes talks to officially end war with North",
       "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
@@ -53,337 +108,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:40:15.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
-      "id": "8ec5749c9db320ee4888",
-      "title": "Osun Poll : Police arrest officer over tear gas discharge at Modakeke",
-      "url": "https://promptnewsonline.com/osun-poll-police-arrest-officer-over-tear-gas-discharge-at-modakeke-rac/",
-      "source": "promptnewsonline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
+      "id": "56285bb68092ac585a9e",
+      "title": "The next Yemen war might be different",
+      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "6da0cca9134c40eb075d",
-      "title": "Man charged with assault , hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
-      "url": "https://www.wrganews.com/2026/08/15/man-charged-with-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-at-nyc-synagogue/",
-      "source": "wrganews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "17adb35a116c8ec38e03",
-      "title": "More than a monument : The man behind the memory",
-      "url": "http://www.wyomingnews.com/opinion/guest_column/more-than-a-monument-the-man-behind-the-memory/article_197f63db-ae1e-4ef9-845b-c3e563b61651.html",
-      "source": "wyomingnews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "e6cf6cf8b0554638612e",
-      "title": "Owen Wilson Stars in Rolling Loud : The Movie Trailer Alongside Travis Scott",
-      "url": "https://www.ktcx.com/2026/08/15/owen-wilson-stars-in-rolling-loud-the-movie-trailer-alongside-travis-scott/",
-      "source": "ktcx.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "96e1a9fa03552aad67b9",
-      "title": "First Alert : Dangerous heat , severe storm risk in the Carolinas this weekend",
-      "url": "https://www.wbtv.com/2026/08/15/first-alert-dangerous-heat-severe-storm-risk-carolinas-this-weekend/",
-      "source": "wbtv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "5c8bc3c366fea41490b6",
-      "title": "Neither I - Day celebrated in border schools nor tricolour hoisted ...: NHRC member Priyank Kanoongo slams Punjab govt",
-      "url": "http://www.indiagazette.com/news/279243598/neither-i-day-celebrated-in-border-schools-nor-tricolour-hoisted-nhrc-member-priyank-kanoongo-slams-punjab-govt",
-      "source": "indiagazette.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "294028225efc2eea4c36",
-      "title": "2026 Cubs Heroes and Goats : Clay Holmes is the Superhero vs . the Cardinals",
-      "url": "https://www.bleedcubbieblue.com/chicago-cubs-scores/229437/2026-cubs-heroes-and-goats-clay-holmes-superhero-cardinals",
-      "source": "bleedcubbieblue.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "42434714e83a7c0a039e",
-      "title": "Armed Maoists are breathing their last : India Modi",
-      "url": "https://www.northerndailyleader.com.au/story/9330940/armed-maoists-are-breathing-their-last-indias-modi/",
-      "source": "northerndailyleader.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "210c73fcf9c2751013d3",
-      "title": "Mumbai University Holds Student Dialogue In Hostels To Address Concerns And Promote NEP Opportunities",
-      "url": "https://www.freepressjournal.in/education/mumbai-university-holds-student-dialogue-in-hostels-to-address-concerns-and-promote-nep-opportunities",
-      "source": "freepressjournal.in",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "c9885a03e3597fa9c8de",
-      "title": "Scorpio , Weekly Horoscope , August 16 to August 22 , 2026 : Clarity in practical matters leads the week ; underlying tensions hint at emotional care needed",
-      "url": "https://timesofindia.indiatimes.com/astrology/horoscope/scorpio-weekly-horoscope-august-16-to-august-22-2026-clarity-in-practical-matters-leads-the-week-underlying-tensions-hint-at-emotional-care-needed/articleshow/133260767.cms",
-      "source": "timesofindia.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "3497de9b459ec9d8a1fa",
-      "title": "Newport man commits offences at Tesco and Asda stores",
-      "url": "https://www.southwalesargus.co.uk/news/26463395.newport-man-commits-offences-tesco-asda-stores/",
-      "source": "southwalesargus.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "5e276c58df00f475eca8",
-      "title": "Lionel Richie Jokes About Chris Brown Legal Past During Concert",
-      "url": "https://www.ktcx.com/2026/08/15/lionel-richie-jokes-about-chris-browns-legal-past-during-concert/",
-      "source": "ktcx.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "31e148afa139a8ee7dd3",
-      "title": "Colt Ford Breaks Shoulder in Tour Bus Crash While Traveling to Germany",
-      "url": "https://www.wfms.com/2026/08/15/colt-ford-breaks-shoulder-in-tour-bus-crash-while-traveling-to-germany/",
-      "source": "wfms.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "83e4a6300b9ddec4b092",
-      "title": "KEA opens Karnataka PG Dental admissions 2026 : Check eligibility , deadlines , and key rules",
-      "url": "https://timesofindia.indiatimes.com/education/news/kea-opens-karnataka-pg-dental-admissions-2026-check-eligibility-deadlines-and-key-rules/articleshow/133263758.cms",
-      "source": "timesofindia.indiatimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "e9edce797145678a884d",
-      "title": "Hertha BSC 4 : 1 win over 1 . FC Heidenheim keeps Bundesliga start perfect",
-      "url": "https://www.el-balad.com/17042038",
-      "source": "el-balad.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "3d59ece98a64e22d254c",
-      "title": "Twin Lake Historical Society : Shifting Sands",
-      "url": "https://www.shorelinemedia.net/white_lake_beacon/news/twin-lake-historical-society-shifting-sands/article_3e501781-976f-4e41-9a87-701c1f1aff5f.html",
-      "source": "shorelinemedia.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "e319c3588b5b617bd130",
-      "title": "Nathi Mankayi takes Buyelekhaya on tour for its 11th anniversary",
-      "url": "https://gq.co.za/culture/entertainment/2026-08-15-nathi-mankayi-takes-buyelekhaya-on-tour-for-its-10th-anniversary/",
-      "source": "gq.co.za",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "30167096e6d54e87f654",
-      "title": "Low ‑ carbon home renovation underway in North Oxford",
-      "url": "https://www.thisisoxfordshire.co.uk/news/26454601.low-carbon-home-renovation-underway-north-oxford/",
-      "source": "thisisoxfordshire.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "2dbb1ed93a346c6c8c41",
-      "title": "Old Glory flag contest winners recognized",
-      "url": "https://www.clevelandbanner.com/news/old-glory-flag-contest-winners-recognized/article_2657b8ab-9f8f-5926-a741-c5b8115074c7.html",
-      "source": "clevelandbanner.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "025b033b3e3c575f0e30",
-      "title": "Community Calendar : Aug . 15 - 28",
-      "url": "https://www.superiortelegram.com/news/local/community-calendar-aug-15-28",
-      "source": "superiortelegram.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "0f6a8bf890f3ce9e9aa0",
-      "title": "Police investigate north Omaha shooting that left one man injured",
-      "url": "https://www.ketv.com/article/police-investigate-north-omaha-shooting-that-left-one-man-injured/73441846",
-      "source": "ketv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "17c6da31dd3f3fb4dec9",
-      "title": "Lions RB3 competition grows with latest training camp signing",
-      "url": "https://www.macombdaily.com/2026/08/15/lions-rb3-competition-grows-with-latest-training-camp-signing/",
-      "source": "macombdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "911a39966369a2cda8b7",
-      "title": "Ballymote Fire Station to host open day",
-      "url": "https://www.oceanfm.ie/news/ballymote-fire-station-to-host-open-day-1395105",
-      "source": "oceanfm.ie",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "e93a83ec3d6b9c82d189",
-      "title": "Works by Henry Frederick Frost",
-      "url": "https://librivox.org/author/19116",
-      "source": "librivox.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "1f9b782efb1adcbdb53b",
-      "title": "Virat Kohli , Abhinav Bindra , Bajrang Punia extend Independence Day wishes",
-      "url": "http://www.beijingbulletin.com/news/279243453/virat-kohli-abhinav-bindra-bajrang-punia-extend-independence-day-wishes",
-      "source": "beijingbulletin.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "27242ab5931b45e419ad",
-      "title": "Entertainment News - Glenora Radio Network - WWSE | WJTN | WHUG | WKSN | WQFX",
-      "url": "https://wjtn.com/news-and-closings/entertainment-headlines/7a2d2a7542d15db0ae91641b82c622e6",
-      "source": "wjtn.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "304dc2db8a31c6563097",
-      "title": "Roads to Heathrow Airport reopen after burst main caused flooding",
-      "url": "https://www.southwalesargus.co.uk/news/national/26467671.roads-heathrow-airport-reopen-burst-main-caused-flooding/",
-      "source": "southwalesargus.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "641a58ba69c8c82dc872",
-      "title": "Production expansion considered at CF Industries site near Sarnia",
-      "url": "https://www.theobserver.ca/news/local-news/production-expansion-considered-at-cf-industries-site-near-sarnia",
-      "source": "theobserver.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "76d5023f0f3de9c0e7b4",
-      "title": "Pregnant woman plunged into nightmare after WestJet canceled flight home from Jamaica ... just days before her CONTRACTIONS started",
-      "url": "https://www.dailymail.com/news/article-16049901/pregnant-woman-labor-westjet-flight-cancel-jamaica.html",
-      "source": "dailymail.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "273dc26743b762066bf0",
-      "title": "Earliest and latest times Royal Mail can knock on doors and pause deliveries",
-      "url": "https://www.aol.co.uk/articles/earliest-latest-times-royal-mail-133346000.html",
-      "source": "aol.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:30:00.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "publishedAt": "2026-08-15T14:32:07.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "7202551e3c37f3ca7f5c",
@@ -394,40 +130,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:26:46.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
-      "id": "948a30109573b9ee7306",
-      "title": "Five injured, one critically, in shooting at Virginia State University",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:21:24.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "e56d0517ce26bf4a8ca0",
-      "title": "Cloudflare's AI Psychosis",
-      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
-      "source": "opensauce.it",
+      "id": "09d6b2df80b9bbc37cd0",
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "source": "smithsonianmag.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-15T14:08:40.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "fc60ee7c05dfe8b8adac",
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:03:09.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "publishedAt": "2026-08-15T14:04:49.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "11cef8b455e843c0669c",
@@ -438,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:01:01.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "422959e153713c739484",
@@ -449,7 +163,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T13:59:47.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "a54f6c34bf40ba93497a",
@@ -460,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:55:28.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "6957bf24f754568acee7",
@@ -471,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:54:58.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "1920a209abc33615e73f",
@@ -482,7 +196,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T13:48:43.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "307b639b5b7141e23534",
@@ -493,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T13:43:46.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "6b6e98cecd91161ff648",
@@ -504,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:41:09.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "60d7ecd2a5f335271213",
@@ -515,7 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:41:08.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "9d3e8903f42afdfb31d2",
@@ -526,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:38:53.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "ce8e6784e1429af30cbd",
@@ -537,7 +251,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:35:57.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "90e80341c8de279c1701",
+      "title": "Could a computer scientist build a brain?",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "source": "stankerstjens.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T13:26:28.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "b0ca242e531187005a2f",
@@ -548,18 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:20:41.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
-    },
-    {
-      "id": "d1a711397812e4bce3bc",
-      "title": "Brazilian election filter in X For You timeline",
-      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T13:18:27.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     },
     {
       "id": "0efd973884a99ae32281",
@@ -570,7 +284,293 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T13:12:51.000Z",
-      "discoveredAt": "2026-08-15T14:54:07.504Z"
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "f82368821906fdcfbe52",
+      "title": "Black professor at centre of Cambridge plagiarism row found dead",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:11:31.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "fe9d0fc76c776595e765",
+      "title": "Vienna woman sues city for discrimination over toilet fees",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:01:31.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "263faa93fcdf7db6a87d",
+      "title": "Missed out on tickets to see the Bayeux tapestry in London? A £1,000 hotel stay will get you in",
+      "url": "https://www.theguardian.com/world/2026/aug/15/bayeux-tapestry-london-british-museum-one-aldwych-hotel",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:00:57.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "7dfdede7b08c440777c7",
+      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
+      "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:57:08.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "72b163eb2b8ded49d7d8",
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "source": "alanzucconi.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T12:47:52.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "3e69af8cae96478419ae",
+      "title": "Five years on, how will Taliban deal with armed opposition?",
+      "url": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:44:30.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "05ed58d33e97d7ac5ef0",
+      "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:22:48.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "10241ff48358046089bf",
+      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
+      "url": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:22:47.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "592771d14f1a43c1be9e",
+      "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
+      "url": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:14:30.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "c4678d3a0434e79e6331",
+      "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:00:57.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "2b19f50a4e082efda727",
+      "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
+      "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:00:57.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "1fa571ab123758f40884",
+      "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:30:00.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "e9ca62f9385d761177cc",
+      "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "url": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:27:11.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "6b6bddfcae0434766b9d",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:25:32.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "81568a5a89472f5e533e",
+      "title": "Aftermath of deadly Indonesia earthquake",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:19:56.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "c0db10d6b4fa19162d12",
+      "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
+      "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:09:27.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "e48915b7d7523ee2cae1",
+      "title": "What the Taliban achieved and failed to achieve in five years",
+      "url": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:07:05.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "6a394a4bd67c3ffbdced",
+      "title": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/lindsay-clancy-murder-trial-prosecutors",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:00:56.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "4ebe610f1b868e97a6c5",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "sankalp.bearblog.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T11:00:02.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "f1fdfa4ba72751ffb4ee",
+      "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T10:48:41.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "b38dfd7ff6ee2e2eca97",
+      "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T10:43:09.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "ae9bc7209f2d73bca495",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "source": "allen.bargi.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T10:39:41.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "590cfac48f98e2599d4b",
+      "title": "At scene of deadly Israeli strike on Lebanon home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T10:18:40.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "1dd2c24a49a383a44c07",
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-15T10:10:00.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "425a158cb8b45e248bab",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T09:29:31.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
+    },
+    {
+      "id": "838db4d7ee489c965202",
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-15T09:04:00.000Z",
+      "discoveredAt": "2026-08-15T15:30:49.117Z"
     }
   ]
 }
