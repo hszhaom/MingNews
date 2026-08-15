@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T21:30:08.645Z",
+  "generatedAt": "2026-08-15T21:51:03.164Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "f7053cd9143e1bb6de1c",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T21:49:12.000Z",
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
+    },
+    {
+      "id": "1c05e3e80e4cd7fb740e",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T21:41:43.000Z",
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
+    },
+    {
       "id": "2a997206ce314340bd98",
       "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -52,8 +74,8 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-15T21:27:28.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "publishedAt": "2026-08-15T21:35:19.000Z",
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "ff42b9432c374fc92f50",
@@ -64,7 +86,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T21:03:57.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "be57cc06dde66fd81111",
@@ -75,7 +97,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:58:31.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "5005616aa8d40a5962e4",
@@ -86,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:55:29.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "c5bb51af2e228ee5ca3b",
@@ -97,7 +119,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T20:54:11.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "84acddbe4178d06369a9",
@@ -108,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:40:48.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "9d3e8903f42afdfb31d2",
@@ -119,7 +141,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:21:14.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "236ca0240ee435ea3865",
@@ -130,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:09:33.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "939568ce433aacf579eb",
@@ -141,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:07:07.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "ccd88797fef815d5d024",
@@ -152,7 +174,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T20:04:13.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "425963a30f2cdacd22f3",
@@ -163,18 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:02:27.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
-    },
-    {
-      "id": "ce8e6784e1429af30cbd",
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T20:00:15.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "f86fa7925e040cd8812c",
@@ -185,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:00:06.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "6dfea5778a5ea690bc84",
@@ -196,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T19:46:20.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "9451759e9926ca1fd9a8",
@@ -207,18 +218,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:41:57.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "90ba3a9673a32e851e67",
-      "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:39:07.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "948a30109573b9ee7306",
@@ -229,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:34:22.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "3b2dd0d63d580be5c57d",
@@ -240,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T19:10:06.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "724790fc78512b6b3337",
@@ -251,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:44:49.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "0b840a84911a611657c6",
@@ -262,7 +273,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T18:21:32.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "823a5a19c6b4e5824aa7",
@@ -273,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:19:23.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "ba9e2d42d5d6446bcd37",
@@ -284,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "15588352eeb34a808476",
@@ -295,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:11:12.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "41036778d9fb6b865914",
@@ -306,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:08:21.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "7d4c773588c9a2fabfb8",
@@ -317,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:02:30.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "b4276977be3ef2ef5d44",
@@ -328,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T17:56:57.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "0a794b5b6e03d5e6c1d5",
@@ -339,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:49:42.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "7c0deddc08c5ce340119",
@@ -350,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:48:32.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -361,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:47:42.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "f95f7fdefcf668bde1b4",
@@ -372,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:27:57.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "7a70656688f765d07cb4",
@@ -383,7 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:25:34.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "783813d7d2ff2344ee4a",
@@ -394,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:19:12.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "9ac757ccbae19edd634e",
@@ -405,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:14:38.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "0713d9552877613128ba",
@@ -416,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:04:43.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "5b7b48613c4de2c7cc8c",
@@ -427,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:39:52.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "57687cf0b52bdf1d6d17",
@@ -438,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:33:05.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "eb6e707ed769694fc51e",
@@ -449,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:17:43.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "900e3beb089ecee3a59c",
@@ -460,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:01:10.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "bc63fa130dfb8275d386",
@@ -471,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:00:01.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "cc46e9b7f6f7c44a6847",
@@ -482,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T15:58:53.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "054af26146e54e0caeb8",
@@ -493,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:54:15.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "3080bb32151ee44a9869",
@@ -504,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:50:06.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "05a53b6bc986902c1b90",
@@ -515,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:48:07.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "fc60ee7c05dfe8b8adac",
@@ -526,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:34:38.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -537,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:32:38.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "ac2dda79e8e13f351724",
@@ -548,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:25:51.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     },
     {
       "id": "b4d2381df1a42c84ed1b",
@@ -559,18 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:15:45.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
-    },
-    {
-      "id": "1fa92ac3cd3d286d41e1",
-      "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T15:07:54.000Z",
-      "discoveredAt": "2026-08-15T21:30:08.645Z"
+      "discoveredAt": "2026-08-15T21:51:03.164Z"
     }
   ]
 }
