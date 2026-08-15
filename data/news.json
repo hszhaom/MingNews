@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T06:53:26.660Z",
+  "generatedAt": "2026-08-15T07:37:55.112Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -52,8 +52,41 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-15T06:21:31.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "publishedAt": "2026-08-15T07:22:22.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "d232ab8517a7472eaa03",
+      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
+      "url": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:01:50.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "034b9d8d2aa81499a286",
+      "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+      "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T07:00:50.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "9e9aa3c4ec2ca0871751",
+      "title": "South Korea’s president wants talks with North to end Korean War",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T06:53:28.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "d917dd661dcb6a05c26e",
@@ -64,18 +97,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T06:10:07.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "5b4c6dfbcf95aca10645",
-      "title": "\"That's not SoC 2 compliant\"",
+      "title": "\"That's not SOC 2 compliant\"",
       "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
       "source": "ampcode.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T06:01:19.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "31312a7baebbcd6028f9",
@@ -86,18 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T06:00:49.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "cda5a30f49dbc6f303f9",
-      "title": "Ask HN: How do you keep up with HN these days?",
-      "url": "https://news.ycombinator.com/item?id=49308059",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T05:59:12.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "c8bfad8fb8197c912f0f",
@@ -108,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T05:14:40.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "7bc1109714c5525d52fe",
@@ -119,7 +141,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:01:13.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "8c30ee524fafea751bb5",
@@ -130,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:50.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "b939d542780128c93c8b",
@@ -141,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:50.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "baa7904300668d9b7073",
@@ -152,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T05:00:49.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "4db71496a7bcb209689e",
@@ -163,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T04:58:20.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "535f4c636eeefb80b328",
@@ -174,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:54:53.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "d2367acccee4e020f7b0",
@@ -185,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:49:47.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "87a0c757f03b3d617233",
@@ -196,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:44:14.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "908f986061ecc87e3870",
@@ -207,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T04:42:07.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "272f894246e8db9726ec",
@@ -218,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:24:02.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "3149398dfe7962d6666a",
@@ -229,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T04:21:07.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "09e5463f49c23cdd24c3",
@@ -240,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T04:18:44.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "7149d21dd71f5759a968",
@@ -251,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:52:08.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "89f3ebf572d709ada553",
@@ -262,18 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:39:06.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "645518bd48365c8a883b",
-      "title": "The End of Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-      "source": "daniellitt.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T03:37:00.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "4671054dbe0d969b20a6",
@@ -284,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T03:04:20.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "a9634fd458d778dc2f41",
@@ -295,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:25:09.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "fd448a2576d810efc58e",
@@ -306,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:08:02.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "e3d57f0ec19eeb2d1218",
@@ -317,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T02:03:22.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "835327cbc9e6cc001699",
@@ -328,7 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T02:00:43.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "15ed00a1fe08910128d1",
+      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T01:41:24.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "48083845285bf79648ea",
@@ -339,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:36:04.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "5828d0b3879a5a803c6a",
@@ -350,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:31:53.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "a848249e89e6b0bdb890",
@@ -361,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:27:23.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "5a23fb00a61fbb4f1685",
@@ -372,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:20:06.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "dcd434eb1266528b15a5",
@@ -383,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T01:14:05.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "fc371d671f01acba95cc",
@@ -394,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T01:12:02.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "2c330fb41f8db5e35055",
@@ -405,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T01:07:41.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "03e07bb8b9762bd81e35",
@@ -416,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T00:55:31.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "6c6f757cdc04d055924c",
@@ -427,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:32:56.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "82725bbdde62593470a0",
@@ -438,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:23:26.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "e579a301019c814284ea",
@@ -449,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T00:15:23.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "44b67b4b0199e7636ff9",
@@ -460,7 +482,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:14:47.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "8f8856e4f67873c8aa61",
+      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T00:10:47.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "c21e0f5bdf4b7822a7bc",
@@ -471,18 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T00:01:53.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "29cb0682633ee7b760ce",
-      "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
-      "url": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T00:01:44.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "0172f49fb65f2faf7b5b",
@@ -493,18 +515,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T00:00:00.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "fc60ee7c05dfe8b8adac",
-      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
+      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20",
       "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-14T23:43:18.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "cb5a08d5a3c7799fd5c4",
@@ -515,7 +537,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-14T23:17:22.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "f908bd9b2e1c322d09af",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T23:16:43.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
+    },
+    {
+      "id": "40929892f8981ced8fb4",
+      "title": "How is parkour helping these seniors avoid injuries?",
+      "url": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-14T23:08:13.000Z",
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     },
     {
       "id": "b5a281609632bc059e4c",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-14T23:02:55.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "5bbc370b9479be121fcb",
-      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T22:58:58.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "bf053e31ad3e67e8831e",
-      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-14T22:45:19.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "0a456c8ada90d413dbdb",
-      "title": "eigendrum",
-      "url": "https://eigendrum.com/",
-      "source": "eigendrum.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-14T22:15:12.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
-    },
-    {
-      "id": "1dcdd4a9f954e8ac96f6",
-      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-14T22:12:55.000Z",
-      "discoveredAt": "2026-08-15T06:53:26.660Z"
+      "discoveredAt": "2026-08-15T07:37:55.112Z"
     }
   ]
 }
