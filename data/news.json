@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T18:42:18.411Z",
+  "generatedAt": "2026-08-15T19:29:12.598Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,50 @@
   ],
   "stories": [
     {
+      "id": "be57cc06dde66fd81111",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T19:16:40.000Z",
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
+    },
+    {
+      "id": "3b2dd0d63d580be5c57d",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T19:10:06.000Z",
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
+    },
+    {
+      "id": "724790fc78512b6b3337",
+      "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
+      "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T18:44:49.000Z",
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
+    },
+    {
+      "id": "f3b1a6ee838c646ef0ba",
+      "title": "First human trials of designer protein therapies stun US neuroscientists",
+      "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+      "source": "cen.acs.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T18:37:09.000Z",
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
+    },
+    {
       "id": "0b840a84911a611657c6",
       "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
@@ -53,7 +97,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T18:21:32.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "823a5a19c6b4e5824aa7",
@@ -64,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:19:23.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "ba9e2d42d5d6446bcd37",
@@ -75,7 +119,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "15588352eeb34a808476",
@@ -86,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:11:12.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "41036778d9fb6b865914",
@@ -97,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:08:21.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "0a794b5b6e03d5e6c1d5",
@@ -108,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:49:42.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "7c0deddc08c5ce340119",
@@ -119,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:48:32.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -130,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:47:42.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "948a30109573b9ee7306",
@@ -141,7 +185,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:42:36.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
+    },
+    {
+      "id": "3d6bc714079b6b7dceba",
+      "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
+      "url": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+      "source": "treasurydirect.gov",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T17:30:02.000Z",
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "f95f7fdefcf668bde1b4",
@@ -152,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:27:57.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "7a70656688f765d07cb4",
@@ -163,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:25:34.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "783813d7d2ff2344ee4a",
@@ -174,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:19:12.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "9ac757ccbae19edd634e",
@@ -185,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:14:38.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "0713d9552877613128ba",
@@ -196,18 +251,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:04:43.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
-    },
-    {
-      "id": "833d8f1e3c152f2a0fe0",
-      "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-      "url": "https://www.core77.com/posts/144869",
-      "source": "core77.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T16:53:47.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "5b7b48613c4de2c7cc8c",
@@ -218,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:39:52.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "29ce7be364fdca5f3286",
@@ -229,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T16:38:34.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "57687cf0b52bdf1d6d17",
@@ -240,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:33:05.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "eb6e707ed769694fc51e",
@@ -251,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:17:43.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "9d3e8903f42afdfb31d2",
@@ -262,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:02:49.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "900e3beb089ecee3a59c",
@@ -273,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:01:10.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "bc63fa130dfb8275d386",
@@ -284,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:00:01.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "cc46e9b7f6f7c44a6847",
@@ -295,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T15:58:53.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "054af26146e54e0caeb8",
@@ -306,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:54:15.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "3080bb32151ee44a9869",
@@ -317,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:50:06.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "05a53b6bc986902c1b90",
@@ -328,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:48:07.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "fc60ee7c05dfe8b8adac",
@@ -339,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:34:38.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -350,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:32:38.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "ac2dda79e8e13f351724",
@@ -361,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:25:51.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "b4d2381df1a42c84ed1b",
@@ -372,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:15:45.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "1fa92ac3cd3d286d41e1",
@@ -383,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:07:54.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "cb65d95341f0967e8670",
@@ -394,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:58:52.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "9f79f47f4b5f48946d66",
@@ -405,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:40:47.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "edc71185679e7c3b30f8",
@@ -416,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:40:15.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "26a76f1a6e1a68133084",
@@ -427,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T14:34:04.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "56285bb68092ac585a9e",
@@ -438,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T14:32:07.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "7202551e3c37f3ca7f5c",
@@ -449,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:26:46.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "09d6b2df80b9bbc37cd0",
@@ -460,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T14:04:49.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "11cef8b455e843c0669c",
@@ -471,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T14:01:01.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "a54f6c34bf40ba93497a",
@@ -482,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:55:28.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "6957bf24f754568acee7",
@@ -493,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:54:58.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "6b6e98cecd91161ff648",
@@ -504,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:41:09.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "60d7ecd2a5f335271213",
@@ -515,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:41:08.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     },
     {
       "id": "ce8e6784e1429af30cbd",
@@ -526,51 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:35:57.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
-    },
-    {
-      "id": "90e80341c8de279c1701",
-      "title": "Could a computer scientist build a brain?",
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-      "source": "stankerstjens.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T13:26:28.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
-    },
-    {
-      "id": "b0ca242e531187005a2f",
-      "title": "Multiple people injured in shooting at Virginia State University",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T13:20:41.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
-    },
-    {
-      "id": "0efd973884a99ae32281",
-      "title": "Afghans mark five years of Taliban rule",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T13:12:51.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
-    },
-    {
-      "id": "f82368821906fdcfbe52",
-      "title": "Black professor at centre of Cambridge plagiarism row found dead",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T13:11:31.000Z",
-      "discoveredAt": "2026-08-15T18:42:18.411Z"
+      "discoveredAt": "2026-08-15T19:29:12.598Z"
     }
   ]
 }
