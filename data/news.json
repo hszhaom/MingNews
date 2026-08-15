@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T13:37:29.614Z",
+  "generatedAt": "2026-08-15T14:32:58.320Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "fc60ee7c05dfe8b8adac",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T14:03:09.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "11cef8b455e843c0669c",
+      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T14:01:01.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "a54f6c34bf40ba93497a",
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:55:28.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "6957bf24f754568acee7",
+      "title": "Teenager pleas guilty to attacking California sea lion in viral video",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:54:58.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "1920a209abc33615e73f",
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "url": "https://hypnagogic-quasicrystals.github.io/",
+      "source": "hypnagogic-quasicrystals.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T13:48:43.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "307b639b5b7141e23534",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "stephen-cresswell.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T13:43:46.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "6b6e98cecd91161ff648",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:41:09.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "60d7ecd2a5f335271213",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "url": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:41:08.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "9d3e8903f42afdfb31d2",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:38:53.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
       "id": "ce8e6784e1429af30cbd",
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
@@ -53,7 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:35:57.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "b0ca242e531187005a2f",
@@ -64,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:20:41.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "d1a711397812e4bce3bc",
@@ -75,18 +174,29 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T13:18:27.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
-      "id": "95c882437216b7799a06",
-      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "source": "medicalxpress.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T13:09:28.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "id": "0efd973884a99ae32281",
+      "title": "Afghans mark five years of Taliban rule",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:12:51.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "f82368821906fdcfbe52",
+      "title": "Black professor at centre of Cambridge plagiarism row found dead",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T13:11:31.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "fe9d0fc76c776595e765",
@@ -97,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T13:01:31.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "263faa93fcdf7db6a87d",
@@ -108,18 +218,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T13:00:57.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "7dfdede7b08c440777c7",
-      "title": "Five wounded in shooting at Virginia State University",
+      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
       "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T12:57:08.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "c81353905109f68e8c7c",
@@ -130,18 +240,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T12:56:56.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
-      "id": "e185514442c24a87d443",
-      "title": "Strait of Hormuz Live Traffic Tracking",
-      "url": "https://hormuz.now/",
-      "source": "hormuz.now",
+      "id": "72b163eb2b8ded49d7d8",
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "source": "alanzucconi.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-15T12:54:43.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "publishedAt": "2026-08-15T12:47:52.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "3e69af8cae96478419ae",
@@ -152,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T12:44:30.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "7202551e3c37f3ca7f5c",
@@ -163,18 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T12:34:02.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "9d3e8903f42afdfb31d2",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T12:25:11.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "05ed58d33e97d7ac5ef0",
@@ -185,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T12:22:48.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "10241ff48358046089bf",
@@ -196,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T12:22:47.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "592771d14f1a43c1be9e",
@@ -207,18 +306,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T12:14:30.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
-      "id": "2b19f50a4e082efda727",
-      "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
-      "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T12:00:57.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "id": "a11a0e6511192099b9ff",
+      "title": "The Problem",
+      "url": "https://intelligence.org/the-problem/",
+      "source": "intelligence.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T12:14:17.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "c4678d3a0434e79e6331",
@@ -229,7 +328,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T12:00:57.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "2b19f50a4e082efda727",
+      "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
+      "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T12:00:57.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "1fa571ab123758f40884",
@@ -240,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T11:30:00.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "e9ca62f9385d761177cc",
@@ -251,7 +361,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T11:27:11.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
+    },
+    {
+      "id": "6b6bddfcae0434766b9d",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T11:25:32.000Z",
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "81568a5a89472f5e533e",
@@ -262,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T11:19:56.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "c0db10d6b4fa19162d12",
@@ -273,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T11:09:27.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "e48915b7d7523ee2cae1",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T11:07:05.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "6a394a4bd67c3ffbdced",
@@ -295,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T11:00:56.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "d69a4e625ce74ec8e0cc",
@@ -306,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T11:00:55.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "389e33d9a0022ddc5387",
@@ -317,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T11:00:54.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "cebdfb180f5136cd6c25",
@@ -328,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T11:00:54.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "4ebe610f1b868e97a6c5",
@@ -339,18 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T11:00:02.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "6b6e98cecd91161ff648",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T10:56:22.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "f1fdfa4ba72751ffb4ee",
@@ -361,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T10:48:41.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "a54f6c34bf40ba93497a",
-      "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
-      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T10:48:33.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "b38dfd7ff6ee2e2eca97",
@@ -383,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T10:43:09.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "ae9bc7209f2d73bca495",
@@ -394,18 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "fc60ee7c05dfe8b8adac",
-      "title": "Powerful earthquake kills at least 38 in eastern Indonesia",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T10:24:36.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "590cfac48f98e2599d4b",
@@ -416,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T10:18:40.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "1dd2c24a49a383a44c07",
@@ -427,18 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T10:10:00.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "c621c0e5e88b4135d0ea",
-      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T10:00:54.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "edc71185679e7c3b30f8",
@@ -449,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T09:35:23.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "425a158cb8b45e248bab",
@@ -460,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T09:29:31.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "838db4d7ee489c965202",
@@ -471,7 +548,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T09:04:00.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "692957d510d676fdd9dc",
@@ -482,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T09:00:53.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     },
     {
       "id": "752dec500b4517b9747a",
@@ -493,84 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T09:00:00.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "83900cc97c522dab5d52",
-      "title": "Bangladesh rock Australia as historic Test win in sight",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T08:50:56.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "838b79f26fb59f5fde3b",
-      "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T08:44:36.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "20faa9920d9761b8570c",
-      "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T08:32:07.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "c6434f1b78bce21d9ed6",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-15T08:29:20.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "1d84f0bdf462cf262ad1",
-      "title": "The women India’s biggest river project forgot",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T08:22:09.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "27e1422bbf7012b3768d",
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "source": "uecker.codeberg.page",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T07:59:42.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
-    },
-    {
-      "id": "553c5f2444cc9f86826e",
-      "title": "Arteta assures Arsenal fans over contract before Man City clash",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T07:44:35.000Z",
-      "discoveredAt": "2026-08-15T13:37:29.614Z"
+      "discoveredAt": "2026-08-15T14:32:58.320Z"
     }
   ]
 }
