@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T20:54:58.256Z",
+  "generatedAt": "2026-08-15T21:30:08.645Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "2a997206ce314340bd98",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T21:27:28.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "ff42b9432c374fc92f50",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T21:03:57.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
       "id": "be57cc06dde66fd81111",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
@@ -52,8 +74,41 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-15T20:32:33.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "publishedAt": "2026-08-15T20:58:31.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "5005616aa8d40a5962e4",
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T20:55:29.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "c5bb51af2e228ee5ca3b",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "source": "henrikkarlsson.xyz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T20:54:11.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "84acddbe4178d06369a9",
+      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-15T20:40:48.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "9d3e8903f42afdfb31d2",
@@ -64,7 +119,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:21:14.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "236ca0240ee435ea3865",
@@ -75,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:09:33.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "939568ce433aacf579eb",
@@ -86,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T20:07:07.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "ccd88797fef815d5d024",
@@ -97,7 +152,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T20:04:13.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "425963a30f2cdacd22f3",
@@ -108,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:02:27.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "ce8e6784e1429af30cbd",
@@ -119,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:00:15.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "f86fa7925e040cd8812c",
@@ -130,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T20:00:06.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "6dfea5778a5ea690bc84",
@@ -141,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T19:46:20.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "9451759e9926ca1fd9a8",
@@ -152,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:41:57.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "90ba3a9673a32e851e67",
@@ -163,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:39:07.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "948a30109573b9ee7306",
@@ -174,18 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T19:34:22.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "5d992a2b13e0b95c1b30",
-      "title": "AI in drug discovery — what it is, where we stand and the path forward",
-      "url": "https://www.nature.com/articles/s41573-026-01496-2",
-      "source": "nature.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T19:12:53.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "3b2dd0d63d580be5c57d",
@@ -196,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T19:10:06.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "724790fc78512b6b3337",
@@ -207,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:44:49.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "0b840a84911a611657c6",
@@ -218,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T18:21:32.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "823a5a19c6b4e5824aa7",
@@ -229,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:19:23.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "ba9e2d42d5d6446bcd37",
@@ -240,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "15588352eeb34a808476",
@@ -251,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T18:11:12.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "41036778d9fb6b865914",
@@ -262,7 +306,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T18:08:21.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "7d4c773588c9a2fabfb8",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-15T18:02:30.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
+    },
+    {
+      "id": "b4276977be3ef2ef5d44",
+      "title": "BriskDB",
+      "url": "https://github.com/schapman1974/briskdb",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-15T17:56:57.000Z",
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "0a794b5b6e03d5e6c1d5",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:49:42.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "7c0deddc08c5ce340119",
@@ -284,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:48:32.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -295,18 +361,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:47:42.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "f95f7fdefcf668bde1b4",
-      "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
       "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:27:57.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "7a70656688f765d07cb4",
@@ -317,7 +383,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:25:34.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "783813d7d2ff2344ee4a",
@@ -328,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T17:19:12.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "9ac757ccbae19edd634e",
@@ -339,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T17:14:38.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "0713d9552877613128ba",
@@ -350,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-15T17:04:43.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "5b7b48613c4de2c7cc8c",
@@ -361,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:39:52.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "29ce7be364fdca5f3286",
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "source": "nature.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T16:38:34.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "57687cf0b52bdf1d6d17",
@@ -383,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:33:05.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "eb6e707ed769694fc51e",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T16:17:43.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "900e3beb089ecee3a59c",
@@ -405,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:01:10.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "bc63fa130dfb8275d386",
@@ -416,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T16:00:01.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "cc46e9b7f6f7c44a6847",
@@ -427,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-15T15:58:53.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "054af26146e54e0caeb8",
@@ -438,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:54:15.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "3080bb32151ee44a9869",
@@ -449,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:50:06.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "05a53b6bc986902c1b90",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:48:07.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "fc60ee7c05dfe8b8adac",
@@ -471,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:34:38.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "8d9a5284668397e298e7",
@@ -482,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:32:38.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "ac2dda79e8e13f351724",
@@ -493,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:25:51.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "b4d2381df1a42c84ed1b",
@@ -504,73 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-15T15:15:45.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     },
     {
       "id": "1fa92ac3cd3d286d41e1",
-      "title": "Alaska candidate for US Senate seat rejects Kamala Harris’s unsolicited support",
+      "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
       "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-15T15:07:54.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "cb65d95341f0967e8670",
-      "title": "Heathrow airport roads reopen after flooding from burst water main",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:58:52.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "9f79f47f4b5f48946d66",
-      "title": "Thirty years after Tupac Shakur’s killing, can a murder trial offer justice?",
-      "url": "https://www.theguardian.com/music/2026/aug/15/tupac-shakur-duane-davis-murder-trial",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:40:47.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "edc71185679e7c3b30f8",
-      "title": "South Korea proposes talks to officially end war with North",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:40:15.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "26a76f1a6e1a68133084",
-      "title": "A Spectre Is Haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "source": "dampfkraft.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-15T14:34:04.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
-    },
-    {
-      "id": "56285bb68092ac585a9e",
-      "title": "The next Yemen war might be different",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-15T14:32:07.000Z",
-      "discoveredAt": "2026-08-15T20:54:58.256Z"
+      "discoveredAt": "2026-08-15T21:30:08.645Z"
     }
   ]
 }
