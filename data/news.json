@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T17:28:35.464Z",
+  "generatedAt": "2026-08-16T17:51:07.072Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -52,8 +52,19 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-16T17:18:56.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "publishedAt": "2026-08-16T17:44:23.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "38c3a4643d8aa0ffaafc",
+      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T17:18:00.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "8f6e32fae53aa050c232",
@@ -64,326 +75,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T17:08:20.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
-      "id": "1989d602bd588a4902fb",
-      "title": "What are we going to do ? The mom of a trans teen grapples with Trump Medicaid move",
-      "url": "https://www.krcu.org/2026-08-16/what-are-we-going-to-do-the-mom-of-a-trans-teen-grapples-with-trumps-medicaid-move",
-      "source": "krcu.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
+      "id": "b35c88605d267143b212",
+      "title": "Cristiano Ronaldo hints at retirement at end of season",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T17:03:18.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "0ef5795694b3dbb2263e",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "source": "rvembedded.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "e0f7d7269adb5668835a",
-      "title": "Flour Mill Community Farm marks 10th season with expansion project",
-      "url": "https://www.sprucegroveexaminer.com/life/sudburys-flour-mill-community-farm-marks-10th-season-with-expansion-project",
-      "source": "sprucegroveexaminer.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "492d793eb94a05dfb692",
-      "title": "2 charged after an alleged kidnapping in Georgetown",
-      "url": "https://www.live5news.com/2026/08/15/2-charged-after-an-alleged-kidnapping-georgetown/",
-      "source": "live5news.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "f34019535e33649d7670",
-      "title": "Promising Telecom Stocks To Consider – August 15th",
-      "url": "https://www.tickerreport.com/banking-finance/13546102/promising-telecom-stocks-to-consider-august-15th.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "13be67d8c6ffc078ebfd",
-      "title": "Nashville Sounds Blow Three - Run Lead , Fall 4 - 3 in Extras to Indianapolis Indians - Clarksville Online - Clarksville News , Sports , Events and Information",
-      "url": "https://www.clarksvilleonline.com/2026/08/15/nashville-sounds-blow-three-run-lead-fall-4-3-in-extras-to-indianapolis-indians/",
-      "source": "clarksvilleonline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "8080ff8d63dc89daa8a2",
-      "title": "Three arrested for attempting to gain unauthorised entry into 46th SADC Summit",
-      "url": "https://www.sanews.gov.za/south-africa/three-arrested-attempting-gain-unauthorised-entry-46th-sadc-summit",
-      "source": "sanews.gov.za",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "ec0a136c544e7721282e",
-      "title": "Thousands evacuated as Indonesia quake death toll rises to 53",
-      "url": "https://www.cinaradio.com/2026/08/16/thousands-evacuated-as-indonesia-quake-death-toll-rises-to-53/",
-      "source": "cinaradio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "fa5273cc0ba599928556",
-      "title": "Are ICE shock gloves a safer way to police or a danger to the public ?",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4688063/ice-bought-nonlethal-shock-gloves-officers-democrats-still-are-not-pleased/",
-      "source": "washingtonexaminer.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "43bc059007488f4a8ecd",
-      "title": "S & P 500 CEO pay jumps 21 % as Musk - style awards gain ground",
-      "url": "http://www.newyorkstatesman.com/news/279240311/s-p-500-ceo-pay-jumps-21-as-musk-style-awards-gain-ground",
-      "source": "newyorkstatesman.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "faea0a1bb4aa1dfe1c71",
-      "title": "Commentary : To understand the US economy , just board an airplane",
-      "url": "https://thebrunswicknews.com/news/national_news/commentary-to-understand-the-us-economy-just-board-an-airplane/article_e92bd12b-2af7-5bfb-a4a8-9c5873885afb.html",
-      "source": "thebrunswicknews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "5eec3a80251117249093",
-      "title": "From taekwondo champion to AIDS activist : DC Bishop Rainey Cheeks dies at 74",
-      "url": "https://wtop.com/dc/2026/08/from-taekwondo-champion-to-aids-activist-dcs-bishop-rainey-cheeks-dies-at-74/",
-      "source": "wtop.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "7847ebb46d373ceb7473",
-      "title": "A bus crash in Hungary kills 12 people , injures at least 10 others",
-      "url": "https://wtop.com/world/2026/08/a-bus-crash-in-hungary-kills-12-people-police-say/",
-      "source": "wtop.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "27316709e843941bc36c",
-      "title": "Colleton County bridge replacement project : SCDOT seeks public input",
-      "url": "https://www.live5news.com/2026/08/16/colleton-county-bridge-replacement-project-scdot-seeks-public-input/",
-      "source": "live5news.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "acc984c1a2353d8a826c",
-      "title": "Dont look now but Andrew Fischer is going to be a problem for the Brewers",
-      "url": "https://dairylandexpress.com/don-t-look-now-but-andrew-fischer-is-going-to-be-a-problem-for-the-brewers-01m03ckevm9f",
-      "source": "dairylandexpress.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "366900de0da4a185ce1c",
-      "title": "Air ambulance responds to Halstead incident with road closed",
-      "url": "https://www.chelmsfordcitynews.co.uk/news/26468815.air-ambulance-responds-halstead-incident-road-closed/",
-      "source": "chelmsfordcitynews.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "e14d86479d9230eb50de",
-      "title": "America Cup : A look at the Tudor Alinghi reconstruction",
-      "url": "https://www.yachtsandyachting.com/news/298912/Americas-Cup-Tudor-Alinghi-revealed",
-      "source": "yachtsandyachting.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "41184f3ca638cd70e415",
-      "title": "BWF World Championships return to India after 17 years ; Sindhu , Satwik - Chirag lead home charge",
-      "url": "http://www.southeastasiapost.com/news/279245386/bwf-world-championships-return-to-india-after-17-years-sindhu-satwik-chirag-lead-home-charge",
-      "source": "southeastasiapost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "8a5d309df1f3ea7127c8",
-      "title": "Rice University welcomes largest incoming undergraduate class in school history",
-      "url": "https://www.click2houston.com/news/local/2026/08/16/rice-university-welcomes-largest-incoming-undergraduate-class-in-school-history/",
-      "source": "click2houston.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "c98f54c0928a75b425d5",
-      "title": "THE Electric Vehicle ( EV ) Thread pt 16 : Energy Technology - Page 29 - Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/forums/viewtopic.php?p=1503920",
-      "source": "peakoil.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "7e03e0e524e327ee017d",
-      "title": "Shiner police chief to retire , successor named | The Victoria Advocate",
-      "url": "https://victoriaadvocate.com/2026/08/16/shiner-police-chief-to-retire-successor-named/",
-      "source": "victoriaadvocate.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "a95fe11a25f427b2120d",
-      "title": "Prep previews : Battle Mountain girl softball team brings high expectations , balance and fun to 2026 season",
-      "url": "https://www.vaildaily.com/news/prep-previews-battle-mountain-girls-softball-team-brings-high-expectations-balance-and-fun-to-2026-season/",
-      "source": "vaildaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "db1174eec224d86f8f1d",
-      "title": "Securities Class Action Lawsuit Filed Against Datavault AI Inc . ( DVLT ) ...",
-      "url": "https://www.pr-inside.com/securities-class-action-lawsuit-filed-against-datavault-ai-inc-dvlt-r5212872.htm",
-      "source": "pr-inside.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "ec9b79f02a46012361ea",
-      "title": "German companies cut US investment to three - year low , data show",
-      "url": "https://thefrontierpost.com/german-companies-cut-us-investment-to-three-year-low-data-show/",
-      "source": "thefrontierpost.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "e3077d83ade7145b6ee4",
-      "title": "Island nominations open for national philanthropy day awards in Victoria",
-      "url": "https://sookenewsmirror.com/2026/08/16/island-nominations-open-for-national-philanthropy-day-awards-in-victoria/",
-      "source": "sookenewsmirror.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "1f1d789fc03d28270b96",
-      "title": "Financial Contrast : Constellation Brands ( NYSE : STZ ) and Inflection Point Acquisition Corp . III ( NASDAQ : IPCX )",
-      "url": "https://www.tickerreport.com/banking-finance/13546112/financial-contrast-constellation-brands-nysestz-and-inflection-point-acquisition-corp-iii-nasdaqipcx.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "1a850aae044ac6c0c597",
-      "title": "Lewes railway closed for at least another ten day after derailment",
-      "url": "https://www.barryanddistrictnews.co.uk/news/national/26468972.lewes-railway-closed-for-least-another-ten-days-derailment/",
-      "source": "barryanddistrictnews.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "a165cdb3bec219e1d4e3",
-      "title": "Unimaginable los : Family seeks help after body of swimmer found in Lake Sam Rayburn",
-      "url": "https://fox4beaumont.com/news/unimaginable-loss-family-seeks-help-after-body-of-swimmer-found-in-lake-sam-rayburn",
-      "source": "fox4beaumont.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "5b5ae71ce8183ceb85ea",
-      "title": "The Roku TV Best Buy Shoppers Recommend The Most",
-      "url": "https://www.bgr.com/2233947/best-buy-roku-tv-owners-recommend-most/",
-      "source": "bgr.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
-    },
-    {
-      "id": "117fa301509c88f5821d",
-      "title": "Nexalin Technology , Inc . ( NASDAQ : NXL ) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13546116/nexalin-technology-inc-nasdaqnxl-short-interest-update-2.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "publishedAt": "2026-08-16T17:01:07.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "8f68a6e73981122f1de5",
@@ -394,7 +108,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:52:26.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "00868293bb3c489945b2",
@@ -405,7 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:28:00.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "a35b0a2d6fb6e34b78f4",
@@ -416,7 +130,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T16:27:54.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "2e8f1f8d5ec561c62eb9",
@@ -427,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T16:17:36.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "8895c6b21637b2e5c5ce",
@@ -438,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T16:14:55.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "b4e9b6ea8dbef657428b",
@@ -449,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:10:19.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "3168081a2f94ea98ea85",
@@ -460,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:00:29.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "5c96efa5fd2773b26dca",
@@ -471,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T15:51:26.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "3e4682c2422b9ff86947",
@@ -482,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T15:50:12.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "85405f4656b0cbcaf84c",
@@ -493,7 +207,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T15:47:58.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "0ebda196c3b257863ea8",
@@ -504,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T15:47:23.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "6b1218a5d577ceadfcaf",
@@ -515,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T15:42:53.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "4c7de44f2b08628de4e7",
@@ -526,7 +240,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T15:38:22.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "bb2b953e68c826f83bf0",
@@ -537,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T15:35:53.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "6501164733dc0c271cbf",
@@ -548,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T15:30:15.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -559,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T15:25:38.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     },
     {
       "id": "948a30109573b9ee7306",
@@ -570,7 +284,293 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T15:22:50.000Z",
-      "discoveredAt": "2026-08-16T17:28:35.464Z"
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "0808b2cfef2aea0708ea",
+      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:18:07.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "e9dd21da4958bf7185c0",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "source": "wptv.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T15:16:06.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "0b51bcbcdee8f4de2177",
+      "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:30.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "13917dce743c1bd71a8b",
+      "title": "Australian health experts fear US vaccine scepticism is catching on as ‘anything Trump says filters through’",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:29.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "b94f15303be3b0ebd47f",
+      "title": "The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:28.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "340cd633f0799be660b1",
+      "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:04.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "fe86c18b8e41df4a76e7",
+      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:55:51.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "47451c29630b8b7e9782",
+      "title": "GPS and the Lost Art of Getting Lost",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+      "source": "newyorker.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T14:53:14.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "16ac10544a8682f6bbc9",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "vectoral.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T14:44:55.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "4b522452d4c135fdf6a2",
+      "title": "‘The Mediterranean is a bridge, not a border’",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:40:38.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "2e2ed7a218c5a43c7510",
+      "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:35:15.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "dfa2b5cd61980bf2149b",
+      "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:29:18.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "e43487f0627089f1b41b",
+      "title": "Cambridge University defends its mental health support for Jason Arday",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:09:13.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "07e971245c3f82d4d78d",
+      "title": "Logies 2026: Sam Pang wins gold and Sam Neill wins posthumous best actor at Australia’s TV awards",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/logies-2026-sam-pang-gold-logie-sam-neill-win-awards",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:01:53.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "3d23d39aaccf12d9a224",
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:01:27.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "bfd662a5378a88f05aa7",
+      "title": "‘Absolutely manic’: hot weather puts unprecedented pressure on Greater Manchester police",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/absolutely-manic-hot-weather-puts-unprecedented-pressure-on-greater-manchester-police",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:00:27.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "d66f9285b7ae9e6afc23",
+      "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:53:20.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "3fc75916ac2a0566e4e9",
+      "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:44:29.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "45c343354fa3adcfa92d",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:34:38.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "695ccc677dab6ae37569",
+      "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:19:35.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "152b3d0b441892e60898",
+      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:18:28.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "32f660769b3ab817fcde",
+      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:17:57.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "90212d927f56e342641a",
+      "title": "Murder inquiry opens after death of man bitten by dog in West Yorkshire",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/murder-inquiry-death-man-bitten-by-dog-wakefield-west-yorkshire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:04:53.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "494aa09d809c50b53caf",
+      "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
+      "url": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:00:28.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "51ee1c37ee66cdf94aea",
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "source": "support.mozilla.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T12:58:10.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
+    },
+    {
+      "id": "2a997206ce314340bd98",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T12:53:43.000Z",
+      "discoveredAt": "2026-08-16T17:51:07.072Z"
     }
   ]
 }
