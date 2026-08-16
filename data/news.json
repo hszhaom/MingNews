@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:56:18.819Z",
+  "generatedAt": "2026-08-16T13:38:47.737Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -45,6 +45,94 @@
   ],
   "stories": [
     {
+      "id": "695ccc677dab6ae37569",
+      "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:19:35.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "152b3d0b441892e60898",
+      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:18:28.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "32f660769b3ab817fcde",
+      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:17:57.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "e43487f0627089f1b41b",
+      "title": "Cambridge University defends its mental health support for Jason Arday",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:16:38.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "0808b2cfef2aea0708ea",
+      "title": "Hurricane Lala skirts Hawaii’s Big Island as heavy wind and rain lash region",
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:09:03.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "90212d927f56e342641a",
+      "title": "Murder inquiry opens after death of man bitten by dog in West Yorkshire",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/murder-inquiry-death-man-bitten-by-dog-wakefield-west-yorkshire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:04:53.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "494aa09d809c50b53caf",
+      "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
+      "url": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:00:28.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "fdde15f6c3802bb99a48",
+      "title": "‘Our rota crew have the best summer’: parents share how they get through the school holiday",
+      "url": "https://www.theguardian.com/education/2026/aug/16/parents-childcare-school-holidays",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:00:26.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
       "id": "2a997206ce314340bd98",
       "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +141,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T12:53:43.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "689bf9903b52bf2dd733",
+      "title": "Is the industry ready for tokens-constrained work?",
+      "url": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+      "source": "blog.alaindichiappari.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T12:51:58.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "eb4edca3b5b878225e89",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T12:48:21.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "f7053cd9143e1bb6de1c",
@@ -64,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T12:37:21.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "486156f7b77dcb750438",
@@ -75,315 +185,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T12:35:31.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
-      "id": "b5a07a476f147f09b09c",
-      "title": "16 August 2026 – Brighton and Hove News",
-      "url": "https://www.brightonandhovenews.org/2026/08/16/",
-      "source": "brightonandhovenews.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "28b257921134cf70d837",
-      "title": "Doctors and women whove had it call for more attention on postpartum psychosis",
-      "url": "https://www.wmra.org/2026-08-16/doctors-and-women-whove-had-it-call-for-more-attention-on-postpartum-psychosis",
-      "source": "wmra.org",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "32fff3700abb07d2957c",
-      "title": "Federal judge rules Idaho abortion ban cannot apply when mother health threatened",
-      "url": "http://www.idahostatejournal.com/news/local/federal-judge-rules-idahos-abortion-ban-cannot-apply-when-mothers-health-threatened/article_6501111b-d29a-5ca4-9aff-2ba7c6b7dd2c.html",
-      "source": "idahostatejournal.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "a6546757cf170b347fce",
-      "title": "The US is suffering a strategic defeat against Iran",
-      "url": "https://www.royalgazette.com/opinion-writer/opinion/article/20260816/the-us-is-suffering-a-strategic-defeat-against-iran/",
-      "source": "royalgazette.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
+      "id": "4013095039a795d5bcaf",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "source": "scholar.google.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "51aa15d09e0a9c495e96",
-      "title": "Avocado pickers in Mexico welcome restart of exports to US , but security fears remain",
-      "url": "https://www.wfmj.com/news/consumer/avocado-pickers-in-mexico-welcome-restart-of-exports-to-us-but-security-fears-remain/article_d472e780-f30d-52f0-b05b-a064a229e2b5.html",
-      "source": "wfmj.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "79e614c7b61306348db6",
-      "title": "World Insights : War shrine tributes on surrender day reveal Japan lingering militarist obsession",
-      "url": "http://www.australianherald.com/news/279244684/world-insights-war-shrine-tributes-on-surrender-day-reveal-japan-lingering-militarist-obsession",
-      "source": "australianherald.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "3bcaf0f67bd0a58cdf5e",
-      "title": "Cathedral City sold as part of a £988 million dairy deal",
-      "url": "https://www.echo-news.co.uk/news/26468590.cathedral-city-sold-part-988-million-dairy-deal/",
-      "source": "echo-news.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "57c883471ac8c3115747",
-      "title": "PKR congress : Humbled leaders , reform carrots , and other highlights",
-      "url": "https://www.malaysiakini.com/news/782314",
-      "source": "malaysiakini.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "e288482034870c476aa3",
-      "title": "Unstoppable : Sam Fender and Olivia Dean Push united kingdom Chart Record Further with 21st Week at the Top",
-      "url": "https://www.foxcincinnati.com/2026/08/16/unstoppable-sam-fender-and-olivia-dean-push-uk-chart-record-further-with-21st-week-at-the-top/",
-      "source": "foxcincinnati.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "ceb43affcf96ae0b95b7",
-      "title": "Anti - terrorism measures hindering Muslim charitie humanitarian efforts : study",
-      "url": "https://toronto.citynews.ca/2026/08/16/anti-terrorism-measures-hindering-muslim-charities-humanitarian-efforts-study/",
-      "source": "toronto.citynews.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "8e0e3bb46976efe04aef",
-      "title": "Halton highway closures for planned roadwork on Aug . 16",
-      "url": "https://www.theifp.ca/news/halton-highway-closures-for-planned-roadwork-on-aug-16/article_d8a9cb8c-c663-569c-a9ea-01889ef03951.html",
-      "source": "theifp.ca",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "a357d6fac1e2d8f72a57",
-      "title": "Richard Denniss : Who Benefits from Australia Gas Wealth ?",
-      "url": "https://joy.org.au/joydrive/2026/08/16/richard-denniss-who-benefits-from-australias-gas-wealth/",
-      "source": "joy.org.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "0e5dbddfd36b07f5c842",
-      "title": "European Wealth Group ( LON : EWG ) Stock Price Passes Below Two Hundred Day Moving Average – What Next ?",
-      "url": "https://www.tickerreport.com/banking-finance/13545810/european-wealth-group-lonewg-stock-price-passes-below-two-hundred-day-moving-average-whats-next-2.html",
-      "source": "tickerreport.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "ddc2b35ca79a8ae22e36",
-      "title": "Singapore may be expected to tighten measures after US transshipment scam report : economists",
-      "url": "https://www.businesstimes.com.sg/international/global/singapore-may-be-expected-tighten-measures-after-us-transshipment-scam-report-economists",
-      "source": "businesstimes.com.sg",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "eea2ea59bd30b77b165e",
-      "title": "ਭਾਰਤ - ਪਾਕ ਸਰਹੱਦ ਤੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਧੂਮਧਾਮ ਨਾਲ ਮਨਾਇਆ - Independence Day celebrated with pomp and show at Indo - Pak border",
-      "url": "https://www.punjabijagran.com/punjab/fazilka-independence-day-celebrated-with-pomp-and-show-at-indopak-border-9667689.html",
-      "source": "punjabijagran.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "5cc4b43f64e24859ae9d",
-      "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 53",
-      "url": "https://www.newsday.com/news/nation/indonesia-flores-earthquake-landslide-q65090",
-      "source": "newsday.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "1e8545ed466643ef8c1b",
-      "title": "11 Phrases Mentally & Emotionally Childish People Usually Say In Casual Conversation",
-      "url": "https://www.yourtango.com/self/mentally-emotionally-childish-people-say-phrases-casual-conversation",
-      "source": "yourtango.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "81ddae9a77d4602a50f9",
-      "title": "Mosaic Family Wealth Partners LLC Invests $889 , 000 in Zoetis Inc . $ZTS",
-      "url": "https://www.themarketsdaily.com/2026/08/16/mosaic-family-wealth-partners-llc-invests-889000-in-zoetis-inc-zts.html",
-      "source": "themarketsdaily.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "4181ed4e7348594e59b9",
-      "title": "Thieves steal Renaissance artworks in Sicilian museum heist on Italian holiday",
-      "url": "https://www.chesterstandard.co.uk/news/national/26468605.thieves-steal-renaissance-artworks-sicilian-museum-heist-italian-holiday/",
-      "source": "chesterstandard.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "a10057c31dfac1a9c3d6",
-      "title": "Papua New Guineans to start serving in Aussie defence",
-      "url": "https://www.cessnockadvertiser.com.au/story/9331268/papua-new-guineans-to-start-serving-in-aussie-defence/",
-      "source": "cessnockadvertiser.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "bb0bffe0744c1a2eb475",
-      "title": "Air support kicks in as record Belgian wildfire jumps in size",
-      "url": "https://www.manilatimes.net/2026/08/16/world/air-support-kicks-in-as-record-belgian-wildfire-jumps-in-size/2406382",
-      "source": "manilatimes.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "b0f5c371fcf01f8cc0cc",
-      "title": "Iranian Parliament to debate Hormuz Strait oversight bills as top lawmaker mocks Trump threats",
-      "url": "http://www.jamaicantimes.com/news/279245198/iranian-parliament-to-debate-hormuz-strait-oversight-bills-as-top-lawmaker-mocks-trump-threats",
-      "source": "jamaicantimes.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "d3475912b01e6fd72d35",
-      "title": "Anwar defends himself , Nurul Izzah tells critics of PM global efforts to turn off TV",
-      "url": "https://www.malaysiakini.com/news/782284",
-      "source": "malaysiakini.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "0206ee28375da71cb895",
-      "title": "Dry for a couple of days , strong to severe storms return Tuesday",
-      "url": "https://www.kcrg.com/2026/08/16/dry-couple-days-strong-severe-storms-return-tuesday/",
-      "source": "kcrg.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "b9bf17daaf059df081af",
-      "title": "AP News Summary at 8 : 01 a . m . EDT",
-      "url": "https://www.cadillacnews.com/ap/national/ap-news-summary-at-8-01-a-m-edt/article_7ff03f8f-39ee-59d5-b6fe-e8ef71ab24be.html",
-      "source": "cadillacnews.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "2eef5ac824051231f216",
-      "title": "Sioux City First Female Police Officer , Janell Armstrong , Passes Away",
-      "url": "https://www.kcrg.com/2026/08/16/sioux-citys-first-female-police-officer-janell-armstrong-passes-away/",
-      "source": "kcrg.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "ba4b8f8341899d556fb8",
-      "title": "The two sides of Croydon which puts history against gentrification",
-      "url": "https://www.london-now.co.uk/news/26458296.two-sides-croydon-puts-history-gentrification/",
-      "source": "london-now.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "e3a019274113f1140090",
-      "title": "Experts , NAP weigh In on Mutharika eligibility amid age limit debate",
-      "url": "https://malawi24.com/2026/08/16/experts-nap-weigh-in-on-mutharikas-eligibility-amid-age-limit-debate/",
-      "source": "malawi24.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "publishedAt": "2026-08-16T12:22:20.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "206727c775a25253d210",
@@ -394,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T12:18:09.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "17439cd93245f7b5cc59",
@@ -405,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T12:00:25.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "61ed542ff4090cea0e51",
@@ -416,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T12:00:24.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "06798143a5c4520a0539",
@@ -427,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:54:55.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "018a8d98cd2865f800af",
@@ -438,7 +251,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T11:54:19.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "3fc75916ac2a0566e4e9",
@@ -449,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:42:52.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "5564454f71e7d4471a8f",
@@ -460,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:38:50.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "e4aa4d86d4ea496cc917",
@@ -471,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:35:25.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "31ebcb6cc39a7caf0065",
@@ -482,29 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:29:41.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "862d927b1a6305e5d723",
-      "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T11:27:22.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
-    },
-    {
-      "id": "8c13a623bb7a9165ff2a",
-      "title": "Leave your screen unlocked, meet developers paypal.com",
-      "url": "https://anthony.dev.profullstack.com/blog/012-post.html",
-      "source": "anthony.dev.profullstack.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T11:26:42.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "19ee7fff2c051221c10d",
@@ -515,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:14:23.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "cfa8d9a1b925e53ade5b",
@@ -526,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:07:55.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "b4e9b6ea8dbef657428b",
@@ -537,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:04:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "2243063dba0efd761f1b",
@@ -548,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:00:24.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "d2b25f40447ae89ce2d4",
@@ -559,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:00:00.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     },
     {
       "id": "4d156b1b74537b78702e",
@@ -570,7 +361,216 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T10:59:10.000Z",
-      "discoveredAt": "2026-08-16T12:56:18.819Z"
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "7c190dc03eff8237ffac",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:53:50.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "3e4682c2422b9ff86947",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:52:08.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "8a3963557fc9e8a7c61a",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:37:30.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "5ad040b8bbadaf1b676b",
+      "title": "Premier League: Key talking points heading into the new 2026-27 season",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:33:42.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "72eead67aed70896ccfb",
+      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:32:42.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "31dae9a6b15deb4d100d",
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:12:09.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "3817c148ed3d2141a70c",
+      "title": "The post-Hormuz era offers Africa a great opportunity",
+      "url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T10:09:32.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "77151b6e6c991cd78903",
+      "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:48:42.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "ff42b9432c374fc92f50",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:27:58.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "ee4e83942185172a5e45",
+      "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:24:22.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "0f4410f3be077db1b69a",
+      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:03:05.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "5840e2497c8a172c8b37",
+      "title": "NPR Senior Podcast Challenge: Official Rules",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:00:00.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "1166d5fb96b7d7c069c8",
+      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:00:00.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "995db27499566c511cfa",
+      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:00:00.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "4f16efeda23d9548ecf0",
+      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T09:00:00.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "93811c6c03b9e414c1bb",
+      "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T08:53:14.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "2887711b7f415946192a",
+      "title": "At least 12 people killed in Hungary bus crash",
+      "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T08:50:30.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "952a483030b4118b79bd",
+      "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T08:40:34.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
+    },
+    {
+      "id": "ca816dcabebedb0b58e6",
+      "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T08:39:38.000Z",
+      "discoveredAt": "2026-08-16T13:38:47.737Z"
     }
   ]
 }
