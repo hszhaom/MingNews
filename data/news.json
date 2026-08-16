@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T11:29:28.211Z",
+  "generatedAt": "2026-08-16T11:51:07.860Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,39 @@
   ],
   "stories": [
     {
+      "id": "e4aa4d86d4ea496cc917",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T11:35:25.000Z",
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
+    },
+    {
+      "id": "31ebcb6cc39a7caf0065",
+      "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
+      "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T11:29:41.000Z",
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
+    },
+    {
+      "id": "862d927b1a6305e5d723",
+      "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T11:27:22.000Z",
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
+    },
+    {
       "id": "19ee7fff2c051221c10d",
       "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
       "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
@@ -53,7 +86,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:14:23.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "cfa8d9a1b925e53ade5b",
@@ -64,7 +97,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:07:55.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
+    },
+    {
+      "id": "a59d26fe1fd85b8700ad",
+      "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+      "url": "https://news.ycombinator.com/item?id=49318906",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T11:05:47.000Z",
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "b4e9b6ea8dbef657428b",
@@ -75,7 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:04:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "2243063dba0efd761f1b",
@@ -86,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T11:00:24.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "d2b25f40447ae89ce2d4",
@@ -97,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T11:00:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "4d156b1b74537b78702e",
@@ -108,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T10:59:10.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "7c190dc03eff8237ffac",
@@ -119,7 +163,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T10:53:50.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "3e4682c2422b9ff86947",
@@ -130,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T10:52:08.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "8a3963557fc9e8a7c61a",
@@ -141,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T10:37:30.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "5ad040b8bbadaf1b676b",
@@ -152,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T10:33:42.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "72eead67aed70896ccfb",
@@ -163,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T10:32:42.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "31dae9a6b15deb4d100d",
@@ -174,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T10:12:09.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "3817c148ed3d2141a70c",
@@ -185,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T10:09:32.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "c761f7bfdd86ef6f6887",
@@ -196,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T10:09:09.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "77151b6e6c991cd78903",
@@ -207,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T09:48:42.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "ff42b9432c374fc92f50",
@@ -218,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T09:27:58.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "ee4e83942185172a5e45",
@@ -229,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T09:24:22.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "0f4410f3be077db1b69a",
@@ -240,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T09:03:05.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "684431e38c44b8d0155a",
@@ -251,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:22.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "a72d823895f4ccfba1cd",
@@ -262,18 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:22.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
-    },
-    {
-      "id": "777bd35662fffaa5f605",
-      "title": "King Charles and Prince William face £10m energy upgrade bill for estates",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/king-charles-and-prince-william-face-10m-energy-upgrade-bill-for-estates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T09:00:21.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "5840e2497c8a172c8b37",
@@ -284,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "1166d5fb96b7d7c069c8",
@@ -295,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "4f16efeda23d9548ecf0",
@@ -306,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "995db27499566c511cfa",
@@ -317,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T09:00:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "93811c6c03b9e414c1bb",
@@ -328,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T08:53:14.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "2887711b7f415946192a",
@@ -339,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T08:50:30.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "2a997206ce314340bd98",
@@ -350,18 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T08:49:32.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
-    },
-    {
-      "id": "4c3cde4825d063486177",
-      "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
-      "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T08:42:16.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "952a483030b4118b79bd",
@@ -372,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T08:40:34.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "ca816dcabebedb0b58e6",
@@ -383,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T08:39:38.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "f7053cd9143e1bb6de1c",
@@ -394,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T08:23:38.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "33aad414625da094e5a1",
@@ -405,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T08:11:47.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "bed04f2b0a3ddabcd138",
@@ -416,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T07:47:45.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "8fcd7a2359872e3f6fcb",
@@ -427,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T07:46:22.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "b7e49e27c6960fd75dda",
@@ -438,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T07:37:53.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "2c7b17318b452b634399",
@@ -449,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T07:04:29.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "cb857dd5f0f9c883c4c7",
@@ -460,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T06:40:50.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "222d45f7d658ebdecd8a",
@@ -471,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T06:10:58.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "cf014fe7276e68d41ef0",
@@ -482,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T06:06:31.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "78fbc0f045104a517db6",
@@ -493,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T06:00:18.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "56992fce95db56fb892b",
@@ -504,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T06:00:17.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "bbad8913779b31b28ac9",
@@ -515,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T05:14:00.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "40f7981e1b1c9f0a286a",
@@ -526,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T04:54:33.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "83a6d4cf2aead449dd17",
@@ -537,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T04:44:30.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     },
     {
       "id": "b72dcbfd8753eeb625b4",
@@ -548,29 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T04:43:21.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
-    },
-    {
-      "id": "6c335ae65243867598d6",
-      "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-      "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T04:35:26.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
-    },
-    {
-      "id": "39f5aa10d0bc64d1459e",
-      "title": "Chalmers rejects Hanson’s call for more super access saying One Nation ‘wants to destroy’ scheme – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T04:33:35.000Z",
-      "discoveredAt": "2026-08-16T11:29:28.211Z"
+      "discoveredAt": "2026-08-16T11:51:07.860Z"
     }
   ]
 }
