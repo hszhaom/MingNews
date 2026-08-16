@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T20:53:49.074Z",
+  "generatedAt": "2026-08-16T21:29:44.982Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "failed",
-      "count": 0
+      "status": "ok",
+      "count": 30
     },
     {
       "id": "hacker-news",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,380 @@
   ],
   "stories": [
     {
+      "id": "5517ec00a7fb2fbc5639",
+      "title": "Trump says US will scale back military drills with South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:27:42.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "068958bdfa6e70814604",
+      "title": "Australia politics live: Labor warned against changing work rights for visa holders amid ‘scapegoating’ of immigrants",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:24:17.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "5fd08f815aea167edcf0",
+      "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
+      "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:35.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "5ace73516b798dcb16fa",
+      "title": "Footage shows moment police arrest wanted man while he slept on roof",
+      "url": "https://www.warringtonguardian.co.uk/news/national/26469128.footage-shows-moment-police-arrest-wanted-man-slept-roof/",
+      "source": "warringtonguardian.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "83a0180dccbe81c24d81",
+      "title": "1 killed , 4 injured in shooting at park in Kentucky",
+      "url": "https://www.wboc.com/news/national/1-killed-4-injured-in-shooting-at-park-in-kentucky/article_6ff83817-5b6a-5bcf-8b80-4335f901cdef.html",
+      "source": "wboc.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "5f8ed737e9dcaffc8387",
+      "title": "Central Oregon investigation seizes 2 pounds of meth , leads to kidnapping charges",
+      "url": "https://midmichigannow.com/news/nation-world/central-oregon-investigation-seizes-2-pounds-of-meth-leads-to-kidnapping-charges",
+      "source": "midmichigannow.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "cae162cb46c7443e797e",
+      "title": "Hundreds of aid trucks enter Afghanistan from Pakistan as millions face acute hunger",
+      "url": "https://en.apa.az/asia/hundreds-of-aid-trucks-enter-afghanistan-from-pakistan-as-millions-face-acute-hunger-520541",
+      "source": "en.apa.az",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "ab3f660120608d262443",
+      "title": "At least 6 people have died from days of storms and record - setting flooding in Indiana",
+      "url": "https://www.news4jax.com/news/national/2026/08/16/at-least-6-people-have-died-from-days-of-storms-and-record-setting-flooding-in-indiana/",
+      "source": "news4jax.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "e00ff2098f73d287f10f",
+      "title": "US considers new sanctions on Brazilian judge , FT reports",
+      "url": "https://en.apa.az/america/us-considers-new-sanctions-on-brazilian-judge-ft-reports-520536",
+      "source": "en.apa.az",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "dbde63574846ee4dedaa",
+      "title": "Box Office : Spider - Man stays on top while two dino movies battle for third",
+      "url": "https://www.news4jax.com/entertainment/2026/08/16/box-office-spider-man-stays-on-top-while-two-dino-movies-battle-for-third/",
+      "source": "news4jax.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "6bc2a85f20b2e23e16bf",
+      "title": "Graham Platner to speak at labor rally , one of his first public events since ending Maine campaign",
+      "url": "https://www.benningtonbanner.com/ap/national/graham-platner-to-speak-at-labor-rally-one-of-his-first-public-events-since-ending/article_ac561a30-b8cb-5dba-8df2-5e2c45d27fb8.html",
+      "source": "benningtonbanner.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "41bc8c80c91ae74c27f6",
+      "title": "Paddleboarder dies on Colorado reservoir , second death in 9 days",
+      "url": "https://www.fox2detroit.com/news/paddleboarder-dies-colorado-reservoir-second-death-9-days",
+      "source": "fox2detroit.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "bb2377bc00aa2bd63110",
+      "title": "Local man worked in restoring a historic Candy Bomber airplane | News",
+      "url": "https://www.bryantimes.com/news/local-man-worked-in-restoring-a-historic-candy-bomber-airplane/article_00056cdd-347f-4fcd-a827-6be1137fd56d.html",
+      "source": "bryantimes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "a6da21a9c0138177932a",
+      "title": "One dead , two injured in wrong - way Wayne County crash",
+      "url": "https://www.thetimes-tribune.com/2026/08/16/one-dead-two-injured-in-wrong-way-wayne-county-crash/",
+      "source": "thetimes-tribune.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "9ba806affc2f2fd65951",
+      "title": "Ailing youth ends life on rly tracks",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/ailing-youth-ends-life-on-rly-tracks/articleshow/133281961.cms",
+      "source": "timesofindia.indiatimes.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "221a88b3414f3a5a2690",
+      "title": "Novak Djokovic reveals he secretly been suffering health issue for many year after on - court collapse",
+      "url": "http://www.femalefirst.co.uk/celebrity/novak-djokovic-reveals-secretly-suffering-health-issue-many-years-after-court-collapse-1449134.html",
+      "source": "femalefirst.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "science",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "afafb8b10c4bc479bc0e",
+      "title": "POLICE : Two dead in Goldsboro shooting",
+      "url": "https://www.witn.com/2026/08/16/police-two-dead-goldsboro-shooting/",
+      "source": "witn.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "eea186d82e7e2a38bb57",
+      "title": "Arsenal send strong message ahead of 2026 / 27 EPL season",
+      "url": "https://www.maravipost.com/arsenal-send-strong-message-ahead-of-2026-27-epl-season/",
+      "source": "maravipost.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "6f4d26af3060409b5a02",
+      "title": "Brazil Lula and Flávio Bolsonaro kick off their presidential campaigns",
+      "url": "https://www.wboc.com/news/international/brazils-lula-and-fl-vio-bolsonaro-kick-off-their-presidential-campaigns/article_9f02e699-c5bd-5d5d-8d59-9a259642011b.html",
+      "source": "wboc.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "548204a1f305449e06a7",
+      "title": "13 Best Food Deals For College Students",
+      "url": "https://www.buzzfeed.com/emilyhunt_/best-college-student-food-deals-2026",
+      "source": "buzzfeed.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "37133965bb8a4f5d79ba",
+      "title": "Pilot seriously injured in crash at Stow Maries aerodrome air show",
+      "url": "https://www.independent.co.uk/news/uk/home-news/plane-crash-stow-maries-aerodrome-air-show-b3033879.html",
+      "source": "independent.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "a2a5ec8eedd605a7654e",
+      "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
+      "url": "https://www.thesunchronicle.com/news/nation_world/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_772d31fb-7d6b-51c0-886b-2c9cc5d4cad8.html",
+      "source": "thesunchronicle.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "business",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "76f1195efcd2a761ecc9",
+      "title": "1 person seriously injured following bike crash in Dodge County",
+      "url": "https://fox11online.com/news/local/1-person-seriously-injured-following-bike-crash-in-dodge-county-town-of-lowell-one-juneau-man-county-highway-g-l-sheriffs-office-suzuki",
+      "source": "fox11online.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "71cb8b616fde3963a3a4",
+      "title": "Dan Walters : How California primary election reflects the perils facing the national Democratic Party – Daily Democrat",
+      "url": "https://www.dailydemocrat.com/2026/08/16/how-californias-primary-election-reflects-the-perils-facing-the-national-democratic-party/",
+      "source": "dailydemocrat.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "53eb8a9d58ea3f93aa00",
+      "title": "Wike signs 26 , 272 Certificates of Occupancy in Abuja in three years",
+      "url": "https://www.premiumtimesng.com/news/more-news/903460-wike-signs-26272-certificates-of-occupancy-in-abuja-in-three-years.html",
+      "source": "premiumtimesng.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "f6c8974040cb00047329",
+      "title": "Van Der Valk series 5 : Will Marc Warren Dutch detective be back ?",
+      "url": "https://www.tvguide.co.uk/articles/van-der-valk-series-5-will-the-dutch-detective-be-back-after-ambiguous-series-4-ending/",
+      "source": "tvguide.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "7e0429e1bd627823c386",
+      "title": "Selena Gomez lawyer hits back at completely meritles $1 . 2 million fraud claims",
+      "url": "http://www.femalefirst.co.uk/celebrity/selena-gomezs-lawyer-hits-back-completely-meritless-12-million-fraud-claims-1449129.html",
+      "source": "femalefirst.co.uk",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "8a74a8489417848e8b50",
+      "title": "Sam Neill honoured with posthumous award for role in The Twelve",
+      "url": "https://www.breakingnews.ie/entertainment/sam-neill-honoured-with-posthumous-award-for-role-in-the-twelve-1940639.html",
+      "source": "breakingnews.ie",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "c9499e01a9f914a4005f",
+      "title": "Echidna : John Hanscombe | Australia mounting toll of violence against women | Harden Murrumburrah Express",
+      "url": "https://www.hardenexpress.com.au/story/9330413/echidna-john-hanscombe-australias-mounting-toll-of-violence-against-women/",
+      "source": "hardenexpress.com.au",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "12f52a1d40b0a6265ec0",
+      "title": "It Not Brat Summer Anymore : Democrat Mary Peltola REJECTS Endorsement From Kamala Harris",
+      "url": "https://twitchy.com/grateful-calvin/2026/08/16/its-not-brat-summer-anymore-dem-mary-peltola-rejects-endorsement-from-kamala-harris-n2431348",
+      "source": "twitchy.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "45c54ee5dabd2e3534fe",
+      "title": "Letter to the editor : Why I vote Democratic",
+      "url": "https://www.dailydemocrat.com/2026/08/16/letter-to-the-editor-why-i-vote-democratic/",
+      "source": "dailydemocrat.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "a1e1b5ae186f0f94ff8e",
+      "title": "Oceanside reopens Crown Heights community center after $5M renovation",
+      "url": "https://timesofsandiego.com/community/2026/08/16/oceanside-reopens-crown-heights-community-center-after-5m-renovation/",
+      "source": "timesofsandiego.com",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "048f7f18f0c14103169a",
+      "title": "The election of grace : Discovering your God - given assignment",
+      "url": "https://www.thezimbabwean.co/2026/08/the-election-of-grace-discovering-your-god-given-assignment/",
+      "source": "thezimbabwean.co",
+      "sourceType": "gdelt",
+      "sourceId": "gdelt",
+      "topic": "world",
+      "publishedAt": "2026-08-16T21:00:00.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "1a67f35f7a4eaea05ffd",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
       "id": "0bec38b5f28b79541811",
       "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
       "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
@@ -53,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:46:01.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "bcc30bfa4deed58086c8",
@@ -64,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T20:38:58.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "419d419a5bd444b3d298",
@@ -75,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T20:38:40.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "e7161c705bb8ff437b2c",
@@ -86,7 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:36:32.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
+    },
+    {
+      "id": "38aef9b52f3f0ef15f44",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "bloomberg.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T20:31:16.000Z",
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "2a2407c03b0201039a51",
@@ -97,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:28:21.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "522cd925d6d3fe7a6901",
@@ -108,18 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T20:20:22.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "8852ca782d4126a32774",
-      "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
-      "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-      "source": "theintercept.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T20:05:24.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "7f5a73ae1fd228788cfe",
@@ -130,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:04:51.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "3e0a6804a2b4e824ac73",
@@ -141,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:02:09.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -152,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T20:01:51.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "cec5616b8aa8d06ab1c1",
@@ -163,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:58:31.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "1d1670d87b52dcba153d",
@@ -174,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:58:14.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "e70def7fc709063c57e7",
@@ -185,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:50:36.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     },
     {
       "id": "6b1218a5d577ceadfcaf",
@@ -196,381 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:39:03.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "3c5a4a7315efcd96488a",
-      "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:29:31.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "4796c073fe578a9310ea",
-      "title": "At least six people dead from days of storms and record flooding in Indiana",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:27:22.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "15af370147571ac7e093",
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:23:28.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "38c46aafdff7d7c4f33e",
-      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:18:24.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "cf6ec781d9fa6fab8609",
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "w4g1.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T19:04:26.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "3e4682c2422b9ff86947",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:03:04.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "948a30109573b9ee7306",
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:00:23.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "9008c74be5c90cf5cd62",
-      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-      "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:58:25.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "8fcef7d398866277fa17",
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "source": "buf.build",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:48:27.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "2a997206ce314340bd98",
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:46:12.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "c995cfb2e6d4e1595686",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:44:41.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "259c3cd2d072acbe3c2e",
-      "title": "‘It’s been very tough’: hope of progress in gruelling battle against south Wales wildfire",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/blaenavon-south-wales-wildfire-gruelling-battle-firefighters-military",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:27:39.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "8f68a6e73981122f1de5",
-      "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:23:26.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "0851ba680ea483b51044",
-      "title": "MathCode, Mathematical Coding Agent",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "source": "math-ai-org.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:17:10.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "62bd53e13b51293ad18d",
-      "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:46:21.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "89406491722be95b2ee0",
-      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:45:52.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "4c9891db77f49d3489cf",
-      "title": "Why are sandwiches more regulated than AI?",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:36:02.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "38c3a4643d8aa0ffaafc",
-      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:18:00.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "8f6e32fae53aa050c232",
-      "title": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:08:20.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "b35c88605d267143b212",
-      "title": "Cristiano Ronaldo hints at retirement at end of season",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T17:03:18.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "0ef5795694b3dbb2263e",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "source": "rvembedded.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T17:01:07.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "00868293bb3c489945b2",
-      "title": "Water companies in England and Wales explore ‘surge pricing’ during drought",
-      "url": "https://www.theguardian.com/business/2026/aug/16/water-companies-england-and-wales-explore-surge-pricing-bills-drought",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T16:28:00.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "a35b0a2d6fb6e34b78f4",
-      "title": "A good – and bad – week for Italy's art police and museum security",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-16T16:27:54.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "2e8f1f8d5ec561c62eb9",
-      "title": "Arsenal cruise to win over Manchester City in Community Shield",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T16:17:36.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "8895c6b21637b2e5c5ce",
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "source": "science.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T16:14:55.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "b4e9b6ea8dbef657428b",
-      "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T16:10:19.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "3168081a2f94ea98ea85",
-      "title": "Arron Banks hired private investigators to dig into Conservative party chair",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/arron-banks-hired-private-investigators-dig-into-conservative-party-chair",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T16:00:29.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "5c96efa5fd2773b26dca",
-      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:51:26.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "85405f4656b0cbcaf84c",
-      "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:47:58.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "0ebda196c3b257863ea8",
-      "title": "‘She is a hero’: 13-year-old survivor of Michigan shooting rampage called 911",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:47:23.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "4c7de44f2b08628de4e7",
-      "title": "What really happened in Ceuta? Why we may never find out",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:38:22.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "bb2b953e68c826f83bf0",
-      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:35:53.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "e9dd21da4958bf7185c0",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "source": "wptv.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T15:16:06.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
-    },
-    {
-      "id": "0b51bcbcdee8f4de2177",
-      "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T15:00:30.000Z",
-      "discoveredAt": "2026-08-16T20:53:49.074Z"
+      "discoveredAt": "2026-08-16T21:29:44.982Z"
     }
   ]
 }
