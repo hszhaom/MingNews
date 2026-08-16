@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T18:41:39.166Z",
+  "generatedAt": "2026-08-16T19:28:28.403Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "3e4682c2422b9ff86947",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T19:03:04.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "948a30109573b9ee7306",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T19:00:23.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "9008c74be5c90cf5cd62",
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T18:58:25.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "8fcef7d398866277fa17",
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "source": "buf.build",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T18:48:27.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "2a997206ce314340bd98",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T18:46:12.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "c995cfb2e6d4e1595686",
+      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T18:44:41.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "259c3cd2d072acbe3c2e",
+      "title": "‘It’s been very tough’: hope of progress in gruelling battle against south Wales wildfire",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/blaenavon-south-wales-wildfire-gruelling-battle-firefighters-military",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T18:27:39.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
       "id": "8f68a6e73981122f1de5",
       "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
       "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
@@ -53,348 +130,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T18:23:26.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
-      "id": "da9cc6e9e9463a5e3f1f",
-      "title": "Welcome Bellevision . com",
-      "url": "http://www.bellevision.com/?action=topnews&type=28789",
-      "source": "bellevision.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "7749c64b96eae1707d19",
-      "title": "Giants Preseason Report Card : Grading Every Linebacker , Defensive Back and Key Special Teamer vs . Vikings",
-      "url": "https://www.si.com/nfl/giants/onsi/giants-linebackers-secondary-special-teams-grades-vikings-01m05tn0c0dv",
-      "source": "si.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "f5b365f4686536d6928c",
-      "title": "BBC asks a US court for help in Trump defamation suit",
-      "url": "https://www.centralwesterndaily.com.au/story/9331290/bbc-asks-a-us-court-for-help-in-trump-defamation-suit/",
-      "source": "centralwesterndaily.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "8d96c3283d7cdb560a1d",
-      "title": "5 Green Lantern Facts That Will Help You Better Understand HBO Lanterns",
-      "url": "https://www.tvline.com/2237297/green-lantern-facts-help-understand-hbo-lanterns/",
-      "source": "tvline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "1150c7a3f40d4aa0da6c",
-      "title": "They will not be able to function for long with radical mindset : VHP leader Vinod Bansal condemns trolling of Faria Abdullah over temple visit",
-      "url": "http://www.arabherald.com/news/279245454/they-will-not-be-able-to-function-for-long-with-radical-mindset-vhp-leader-vinod-bansal-condemns-trolling-of-faria-abdullah-over-temple-visit",
-      "source": "arabherald.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "4cb3a4a5f89f495d6810",
-      "title": "Sheryl Crow Sets October Release for New Album Pick You Up",
-      "url": "https://www.superhits106.com/2026/08/16/sheryl-crow-sets-october-release-for-new-album-pick-you-up/",
-      "source": "superhits106.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "c4e3c2e9500d3661b1c5",
-      "title": "Would you like to be on the front page of the Nine OClock newspaper ? – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
-      "url": "https://nineoclock.ro/would-you-like-to-be-on-the-front-page-of-the-nine-oclock-newspaper-3/",
-      "source": "nineoclock.ro",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "bfec06f659d41d0f7770",
-      "title": "Prince Harry And Meghan Markle Urged To Disappear Professionally Following Latest Business Flop",
-      "url": "https://www.boredpanda.com/harry-and-meghan-advised-to-disappear-professionally-after-latest-business-fail/",
-      "source": "boredpanda.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "123a99a36962b6750711",
-      "title": "Book festival with curiosity and open - mindedness at its heart gets under way",
-      "url": "https://www.newsandstar.co.uk/news/national/26468913.book-festival-curiosity-open-mindedness-heart-gets-way/",
-      "source": "newsandstar.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "f013cc50d582d13b5cdc",
-      "title": "September 2026 New Rock Music Releases",
-      "url": "https://kool1079.com/ixp/295/p/september-2026-new-music-releases/",
-      "source": "kool1079.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "a89990a5a89e4eb49603",
-      "title": "Coin - Operated Elevators in Condominiums and Apartment Buildings Are Becoming More Common",
-      "url": "https://www.yahoo.com/news/world/articles/coin-operated-elevators-condominiums-apartment-162043988.html",
-      "source": "yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "culture",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "b98b01f46179f691c3ee",
-      "title": "Community Shield : Why I dropped Martinelli , Nwaneri against Man City - Arteta",
-      "url": "https://dailypost.ng/2026/08/16/community-shield-why-i-dropped-martinelli-nwaneri-against-man-city-arteta/",
-      "source": "dailypost.ng",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "ac305f8cd9ff0bc82e70",
-      "title": "Israel vows to go after Hezbollah as it names another killed",
-      "url": "https://www.thehindu.com/news/international/israel-vows-to-go-after-hezbollah-as-it-names-another-killed/article71353742.ece",
-      "source": "thehindu.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "d62fd1092970077205f7",
-      "title": "Child flown to hospital after being struck by vehicle in Cambria Co .",
-      "url": "https://wjactv.com/news/local/child-flown-to-hospital-after-being-struck-by-vehicle-in-cambria-co",
-      "source": "wjactv.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "2a6b7c1ccec4d66b559b",
-      "title": "Local student shares what America mean to him with winning essay",
-      "url": "https://myfox28columbus.com/news/local/america-250-ohio-field-trip-essay-contest-wellington-school-student-vikram-dasa",
-      "source": "myfox28columbus.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "e22ef9b5d335fc359e24",
-      "title": "Goldman Asks : Where Will Central Banks Store Their Gold ?",
-      "url": "https://www.zerohedge.com/news/2026-08-16/goldman-asks-where-will-central-banks-store-their-gold",
-      "source": "zerohedge.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "10e863a6327dda277155",
-      "title": "These Astros are under the most pressure with the AL West in the balance",
-      "url": "https://fansided.com/mlb/these-astros-are-under-the-most-pressure-with-the-al-west-in-the-balance-01m05gn39m99",
-      "source": "fansided.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "5185b297abf2fed91119",
-      "title": "Colombia asks Trump for tariff relief post - quake",
-      "url": "https://www.centralwesterndaily.com.au/story/9331300/colombia-asks-trump-for-tariff-relief-post-quake/",
-      "source": "centralwesterndaily.com.au",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "8e784f0969937f7c0057",
-      "title": "Save money on school uniforms at Sainsbury , Morrisons and M & S",
-      "url": "https://www.basingstokegazette.co.uk/news/26466703.save-money-school-uniforms-sainsburys-morrisons-m-s/",
-      "source": "basingstokegazette.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "38713c7b7f67c2415980",
-      "title": "UP CM Yogi pays tribute to Atal Bihari Vajpayee , recalls his Nation First politics",
-      "url": "http://www.austinglobe.com/news/279245636/up-cm-yogi-pays-tribute-to-atal-bihari-vajpayee-recalls-his-nation-first-politics",
-      "source": "austinglobe.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "498c5c094053b0774e1c",
-      "title": "Fact - check : Claims about Taylor Farm donations to Trump - aligned groups",
-      "url": "https://www.wesh.com/article/fact-check-taylor-farms-donations-trump-groups/73445595",
-      "source": "wesh.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "2019ca07c3899190e9dd",
-      "title": "Satya Nadella Microsoft Stock Jumped 18 % in a Week After Azure Annual Revenue Topped $100 Billion for the First Time . Is It Still a Buy ?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-stock-jumped-173700900.html",
-      "source": "finance.yahoo.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "947068d1361a9001ef7a",
-      "title": "India is emerging as an economic power : RS Deputy Chairman Harivansh says arms lobby upset over indigenous weapons",
-      "url": "http://www.shanghainews.net/news/279245465/india-is-emerging-as-an-economic-power-rs-deputy-chairman-harivansh-says-arms-lobby-upset-over-indigenous-weapons",
-      "source": "shanghainews.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "287e78200fefbc6064a3",
-      "title": "InPics | New fishing season kicks off in South China Sea",
-      "url": "http://www.shanghainews.net/news/279245438/inpics-new-fishing-season-kicks-off-in-south-china-sea",
-      "source": "shanghainews.net",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "012a944cb2de19afde81",
-      "title": "Former MLB pitcher Tommy John dies at 83",
-      "url": "https://www.wesh.com/article/tommy-john-dead/73445887",
-      "source": "wesh.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "2ec07bc7ab3d3caf3d03",
-      "title": "Gavin Cullen reacts as Cockhill Celtic knock ten - time winners Fairview Rangers out of FAI Junior Cup - Highland Radio",
-      "url": "https://highlandradio.com/2026/08/16/gavin-cullen-reacts-as-cockhill-celtic-knock-ten-time-winners-fairview-rangers-out-of-fai-junior-cup/",
-      "source": "highlandradio.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "8a922ecf523464f7a0f2",
-      "title": "Man Utd ready to change tack in transfer market to match Chelsea and Man City",
-      "url": "https://www.aol.co.uk/articles/man-utd-ready-change-tack-175119000.html",
-      "source": "aol.co.uk",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "business",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "0249053b818b1336d5ef",
-      "title": "5 Best Morena Baccarin TV Shows , Ranked",
-      "url": "https://www.tvline.com/2234510/morena-baccarin-best-tv-shows-ranked/",
-      "source": "tvline.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "e29d8bafb23c475d5a5a",
-      "title": "Weather Alerts – Gradick Communications",
-      "url": "https://gradickcommunications.com/weather-alerts/?alert_id=urn%3Aoid%3A2.49.0.1.840.0.0f8fbae5b7cdb82fff72ce03521bda48cbc32091.001.1",
-      "source": "gradickcommunications.com",
-      "sourceType": "gdelt",
-      "sourceId": "gdelt",
-      "topic": "science",
-      "publishedAt": "2026-08-16T18:15:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "3e4682c2422b9ff86947",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T18:04:25.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
-    },
-    {
-      "id": "146cb42a280c0a3c3343",
-      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-      "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-      "source": "lorekit.io",
+      "id": "0851ba680ea483b51044",
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "math-ai-org.github.io",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-16T18:03:09.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "publishedAt": "2026-08-16T18:17:10.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "ad4ca21a13bb0a4cf3c6",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source": "Hacker News",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T17:49:46.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "62bd53e13b51293ad18d",
@@ -405,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T17:46:21.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "89406491722be95b2ee0",
@@ -416,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T17:45:52.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "e70def7fc709063c57e7",
@@ -427,7 +185,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T17:44:23.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "4c9891db77f49d3489cf",
@@ -438,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T17:36:02.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "38c3a4643d8aa0ffaafc",
@@ -449,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T17:18:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "8f6e32fae53aa050c232",
@@ -460,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T17:08:20.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "b35c88605d267143b212",
@@ -471,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T17:03:18.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "0ef5795694b3dbb2263e",
@@ -482,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T17:01:07.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "00868293bb3c489945b2",
@@ -493,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:28:00.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "a35b0a2d6fb6e34b78f4",
@@ -504,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T16:27:54.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "2e8f1f8d5ec561c62eb9",
@@ -515,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T16:17:36.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "8895c6b21637b2e5c5ce",
@@ -526,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T16:14:55.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "b4e9b6ea8dbef657428b",
@@ -537,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:10:19.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "3168081a2f94ea98ea85",
@@ -548,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T16:00:29.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "5c96efa5fd2773b26dca",
@@ -559,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T15:51:26.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     },
     {
       "id": "85405f4656b0cbcaf84c",
@@ -570,7 +328,249 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T15:47:58.000Z",
-      "discoveredAt": "2026-08-16T18:41:39.166Z"
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "0ebda196c3b257863ea8",
+      "title": "‘She is a hero’: 13-year-old survivor of Michigan shooting rampage called 911",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:47:23.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "6b1218a5d577ceadfcaf",
+      "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:42:53.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "4c7de44f2b08628de4e7",
+      "title": "What really happened in Ceuta? Why we may never find out",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:38:22.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "bb2b953e68c826f83bf0",
+      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:35:53.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "82dc4f7633cba7a10f58",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:25:38.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "0808b2cfef2aea0708ea",
+      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:18:07.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "e9dd21da4958bf7185c0",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "source": "wptv.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T15:16:06.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "0b51bcbcdee8f4de2177",
+      "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:30.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "13917dce743c1bd71a8b",
+      "title": "Australian health experts fear US vaccine scepticism is catching on as ‘anything Trump says filters through’",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:29.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "b94f15303be3b0ebd47f",
+      "title": "The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:28.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "340cd633f0799be660b1",
+      "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T15:00:04.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "fe86c18b8e41df4a76e7",
+      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:55:51.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "16ac10544a8682f6bbc9",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "vectoral.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-16T14:44:55.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "4b522452d4c135fdf6a2",
+      "title": "‘The Mediterranean is a bridge, not a border’",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:40:38.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "2e2ed7a218c5a43c7510",
+      "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:35:15.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "dfa2b5cd61980bf2149b",
+      "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:29:18.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "e43487f0627089f1b41b",
+      "title": "Cambridge University defends its mental health support for Jason Arday",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:09:13.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "07e971245c3f82d4d78d",
+      "title": "Logies 2026: Sam Pang wins gold and Sam Neill wins posthumous best actor at Australia’s TV awards",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/logies-2026-sam-pang-gold-logie-sam-neill-win-awards",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:01:53.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "3d23d39aaccf12d9a224",
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:01:27.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "bfd662a5378a88f05aa7",
+      "title": "‘Absolutely manic’: hot weather puts unprecedented pressure on Greater Manchester police",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/absolutely-manic-hot-weather-puts-unprecedented-pressure-on-greater-manchester-police",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T14:00:27.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "d66f9285b7ae9e6afc23",
+      "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:53:20.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
+    },
+    {
+      "id": "3fc75916ac2a0566e4e9",
+      "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-16T13:44:29.000Z",
+      "discoveredAt": "2026-08-16T19:28:28.403Z"
     }
   ]
 }
