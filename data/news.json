@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T04:21:52.125Z",
+  "generatedAt": "2026-08-17T05:18:17.468Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,125 @@
   ],
   "stories": [
     {
+      "id": "99558c92dd729ad87380",
+      "title": "Heroes actress Hayden Panettiere dies aged 36",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:15:46.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
       "id": "068958bdfa6e70814604",
-      "title": "Australia politics live: Hill says using super to buy a home gets ‘gold medal for stupidest policy’ after Hanson reignites debate",
+      "title": "Australian politics live: Labor pledges new ‘opt-out register’ for gambling ads; Tehan booted from question time after telling Bowen to ‘cut the crap’ on renewable scheme",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-17T04:09:22.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "publishedAt": "2026-08-17T05:08:03.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "5517ec00a7fb2fbc5639",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:06:47.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "7f6578d74a772f201a51",
+      "title": "More women will die if domestic abusers leave prison early, victim’s parents warn",
+      "url": "https://www.theguardian.com/society/2026/aug/17/more-women-will-die-if-domestic-abusers-leave-prison-early-victims-parents-warn",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:00:47.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "fbff806532c7100db299",
+      "title": "Public in England and Wales wrongly think most killers are minority ethnic",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/17/public-in-england-and-wales-wrongly-think-most-killers-are-minority-ethnic",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:00:46.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "a21fe945eabbd6f3c5b9",
+      "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:58:47.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "1d1670d87b52dcba153d",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:50:56.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "bc31ce4e6972fc87a31f",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:41:31.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "54552331d39795b90ec0",
+      "title": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:39:58.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "bbc823ca23f79b1b8be1",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:34:09.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
+    },
+    {
+      "id": "1904a074c1f6da4e0998",
+      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T04:30:15.000Z",
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "81699bc5506068824cb1",
@@ -64,18 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:07:57.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "99558c92dd729ad87380",
-      "title": "Actress Hayden Panettiere dies aged 36, US media report",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T04:03:52.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "31129851303789b6eeae",
@@ -86,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:00:46.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "e70dc40bc8f0e4772014",
@@ -97,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:00:45.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "125e3f02d8d49ca5f1c1",
@@ -108,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T03:53:07.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "5c9645e983ad4b52be27",
@@ -119,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T03:41:30.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "61c2d669f3d9546b1c1a",
@@ -130,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T03:36:15.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "212643ec710d6e3b5cfd",
@@ -141,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T03:24:21.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "b0b6ca27933c6f2d3f1a",
@@ -152,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T03:21:37.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "86328d9d1207b00a2c38",
@@ -163,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T02:58:05.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "2c88b64a2269e359a303",
@@ -174,18 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T02:55:01.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "5517ec00a7fb2fbc5639",
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T02:51:27.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "b6340f6537f1da96c02f",
@@ -196,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T02:27:39.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "bb7e24f70fd0e359ef64",
@@ -207,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T02:22:04.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "252531143577b4a07c09",
@@ -218,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T01:45:36.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "250a6498c1e5279c8b92",
@@ -229,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:41:40.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "2e474140ce202bd659d6",
@@ -240,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:28:13.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "6fbf80653f876b0fd38d",
@@ -251,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:13:37.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "6ea569c698d4fff2337d",
@@ -262,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:48:21.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "915cf84eb7ba54a0003c",
@@ -273,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:35:29.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "2a997206ce314340bd98",
@@ -284,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:20:51.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "4abb39cebe9ff6ff325e",
@@ -295,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:17:57.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "6c62ce9f4375ca598249",
@@ -306,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:11:18.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "bd939fff27ba391933f4",
@@ -317,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:09:57.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "c5bd39e64924ea184257",
@@ -328,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:05:34.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "f754107b1853dad01513",
@@ -339,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:00:35.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "9b4724385d5c91f31aea",
@@ -350,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T23:59:10.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "32d55628ad7ef422bb21",
@@ -361,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T23:58:45.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "388fa1f453f5f75e1540",
@@ -372,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T23:58:34.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "0808b2cfef2aea0708ea",
@@ -383,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T23:45:12.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "79efbb054d4af9fc0fe9",
@@ -394,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T23:45:09.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "09db98fca676ddab3b89",
@@ -405,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T23:09:39.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "86ef97c92269964b11ea",
@@ -416,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T22:09:04.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "5629cd3d8a68d418eab1",
@@ -427,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T22:07:32.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "a669ca01a3345cabcbc5",
@@ -438,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:54:58.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "c3af9d8056370c35bc79",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:51:39.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "9dcc373052f3a103adab",
@@ -460,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:50:56.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "8f68a6e73981122f1de5",
@@ -471,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:27:03.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     },
     {
       "id": "674539bfc61dc1c5f687",
@@ -482,95 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:23:03.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "b2734aa02b6c0fb905b5",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T21:04:27.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "9c8390fee5877970fa42",
-      "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
-      "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T21:03:53.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "9cae02ef9ac197a350e0",
-      "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T21:02:08.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "5fd08f815aea167edcf0",
-      "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
-      "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T21:00:35.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "1a67f35f7a4eaea05ffd",
-      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T20:55:19.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "0bec38b5f28b79541811",
-      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T20:46:01.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "419d419a5bd444b3d298",
-      "title": "Multiple people dead as flooding continues in Indiana",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-16T20:38:40.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
-    },
-    {
-      "id": "e7161c705bb8ff437b2c",
-      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T20:36:32.000Z",
-      "discoveredAt": "2026-08-17T04:21:52.125Z"
+      "discoveredAt": "2026-08-17T05:18:17.468Z"
     }
   ]
 }
