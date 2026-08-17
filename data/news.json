@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T16:38:49.895Z",
+  "generatedAt": "2026-08-17T17:37:12.338Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,202 @@
   ],
   "stories": [
     {
+      "id": "538f598429b8210bff82",
+      "title": "Top Democrat slams Trump’s ‘inane, haphazard’ cuts to US-South Korea drills – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T17:16:10.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "435e4e6cfe04e7fcbfdd",
+      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T17:07:29.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "fb817127edf06ff9eeb7",
+      "title": "Amanda Abbington awarded five-figure sum by BBC over bullying allegations on Strictly",
+      "url": "https://www.theguardian.com/culture/2026/aug/17/amanda-abbington-settlement-bbc-giovanni-pernice-bullying-allegations-strictly-come-dancing",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T17:05:33.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "94bb7e4cd0e95652e6e2",
+      "title": "Tupac Shakur murder: trial of ex-gang leader accused of ordering killing begins",
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:54:43.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "9c1e4007392e6d9b2427",
+      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:50:15.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "610526ab61df6b400879",
+      "title": "US supreme court again rejects Trump’s bid to overturn E Jean Carroll verdict",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-e-jean-carroll-appeal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:49:35.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "ece26573cde1a28935c4",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:48:26.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "4f317d1eb39ab3937bd4",
+      "title": "British PM Burnham duped by White House impostor",
+      "url": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:48:24.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "c72d13d0e0402e307e6d",
+      "title": "Buy Your Friends Batteries",
+      "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+      "source": "domenkozar.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-17T16:45:11.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "488d5a728a3414c4bf54",
+      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:42:04.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "cec1c4a24b0051a1b043",
+      "title": "Labour MP under investigation by party over Covid loans to his businesses",
+      "url": "https://www.theguardian.com/politics/2026/aug/17/labour-mp-bayo-alaba-investigation-covid-loans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:41:21.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "9455464db268c8f7dfd5",
+      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
+      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:41:07.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "7fbaf5ad3e3510b4edb5",
+      "title": "Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:31:30.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "4078b18aa678b66a3a07",
+      "title": "War on Iran: Phase II, Day 37",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:27:48.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
       "id": "cc6f2328b83b596e9f99",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T16:26:34.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "ea08dc4d5ddff5d2db6e",
+      "title": "Somali army clashes with rebel forces for control of key city Baidoa",
+      "url": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:24:43.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "0bd72887a1080ad44df7",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:17:34.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
+    },
+    {
+      "id": "9f26e2d08203336a5364",
+      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T16:14:07.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "1d1670d87b52dcba153d",
@@ -64,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T16:02:58.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "fab9f5f92aeb60415f0b",
@@ -75,18 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T16:01:47.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "538f598429b8210bff82",
-      "title": "Top Democrat slams Trump’s ‘inane, haphazard’ cuts to US-South Korea drills – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T15:59:51.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "aa8d3994b9b45e9ec68d",
@@ -97,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:56:48.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "81a2033b875180880317",
@@ -108,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:54:57.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "75f9f4dc8375c55ef50d",
@@ -119,29 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T15:54:34.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "41e7d1a18e373b8e8150",
-      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T15:51:46.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "ece26573cde1a28935c4",
-      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T15:50:34.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "65739ef8dc778d66e4c3",
@@ -152,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:48:39.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "efe461fe9f4275777ae2",
@@ -163,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:36:25.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "5011c8f47292fe5f214a",
@@ -174,18 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T15:36:18.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "610526ab61df6b400879",
-      "title": "US supreme court again rejects Trump’s bid to overturn E Jean Carroll verdict",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-e-jean-carroll-appeal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T15:35:50.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "b17583c027147c4113a3",
@@ -196,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:33:42.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "24c3841377513ef68e71",
@@ -207,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:28:47.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "d4d7e24ffa444aca4016",
@@ -218,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T15:21:47.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "09c7c1ba5bf613e11b82",
@@ -229,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:13:40.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "6df5a1cbd2c4885b2cd9",
@@ -240,18 +383,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T15:08:17.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "6483451a27342845dc56",
-      "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+      "title": "Trump says US in contact with IRGC and calls on Iran to surrender",
       "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T15:06:14.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "e0d15dc3efa78b24ddbf",
@@ -262,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:00:03.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "5437abc2b535e4a9b6a0",
@@ -273,18 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:00:02.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "0831c5bca6423aa3e02d",
-      "title": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
-      "url": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T15:00:02.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "962072795523999f55ee",
@@ -295,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:00:01.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "0b8a7b928ff26bc4350d",
@@ -306,40 +438,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T15:00:00.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
-      "id": "9455464db268c8f7dfd5",
-      "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T14:59:49.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "736ea350cc420d162ba7",
-      "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T14:58:57.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "c7df2ddf59449ecaca15",
-      "title": "Jenrick says Reform would make long-term benefits claimants clean up high streets – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/17/housing-planning-changes-andy-burnham-angela-raynor-labour-conservatives-reform-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T14:54:04.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "id": "3d4b4eb8babd8a24dee8",
+      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "url": "https://saggar.marginalutility.dev/",
+      "source": "saggar.marginalutility.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-17T14:25:54.000Z",
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "a28fc3fd3105bab13101",
@@ -350,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T14:23:04.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "568edd02035970b56e43",
@@ -361,29 +471,29 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T14:21:25.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "76963b852e28c23f9b1b",
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "wiz.io",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T14:18:38.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "4eb47a0d13788290ad29",
-      "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+      "title": "Iran signals readiness for ‘US ground operations’ as strategy shifts gear",
       "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T14:15:17.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "de13e89a13b86a1f489a",
@@ -394,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T14:12:08.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "b8834e9f34dc14a045d5",
-      "title": "Show HN: Learn Flags Quiz",
-      "url": "https://flagquizzes.com/",
-      "source": "flagquizzes.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T14:11:17.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "542a76a9c63e47f353c2",
@@ -416,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T14:07:59.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "050c872c2a5c7335abb6",
@@ -427,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "bd939fff27ba391933f4",
@@ -438,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T14:07:31.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "4ccf6832f0279609a8c6",
@@ -449,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T14:04:25.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "d039b8674ea9516b9b94",
@@ -460,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T14:03:26.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     },
     {
       "id": "a5ccceefe6d4c5436eb5",
@@ -471,106 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T14:01:51.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "17056c89af99d597e8d9",
-      "title": "Ask HN: Alternatives to GitHub",
-      "url": "https://news.ycombinator.com/item?id=49331033",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T13:59:17.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "8d5b5dd74d73b8fde001",
-      "title": "How to ship a database every day",
-      "url": "https://turbopuffer.com/blog/control-plane",
-      "source": "turbopuffer.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T13:56:38.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "c279104b5fca3d5f8277",
-      "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-17T13:48:09.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "4f5a33c12fbbc92c8535",
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "source": "duckdb.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T13:46:27.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "5fd5a81e698ca21f47db",
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "source": "githubstatus.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T13:35:06.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "c157247a36d950568ef1",
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-17T13:31:13.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "51a2182c4f3d77ba0740",
-      "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-      "url": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-17T13:24:57.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "c579283d6100ae9699cc",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T13:16:50.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
-    },
-    {
-      "id": "516bfe68f914be9c9d8b",
-      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-      "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-17T13:07:19.000Z",
-      "discoveredAt": "2026-08-17T16:38:49.895Z"
+      "discoveredAt": "2026-08-17T17:37:12.338Z"
     }
   ]
 }
