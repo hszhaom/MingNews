@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T06:03:18.535Z",
+  "generatedAt": "2026-08-17T07:12:05.809Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,50 +45,6 @@
   ],
   "stories": [
     {
-      "id": "068958bdfa6e70814604",
-      "title": "Australian politics live: Tehan booted from question time after telling Bowen to ‘cut the crap’ on renewable scheme",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T05:47:57.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "ef10e53d806264d77cf2",
-      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sànchez?",
-      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T05:47:23.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "1904a074c1f6da4e0998",
-      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T05:46:45.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "99558c92dd729ad87380",
-      "title": "Heroes actress Hayden Panettiere dies aged 36",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T05:40:19.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
       "id": "c579283d6100ae9699cc",
       "title": "Ukrainian strikes kill six in Russia, acting governor says",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
@@ -96,8 +52,107 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-17T05:38:13.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "publishedAt": "2026-08-17T06:57:23.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "068958bdfa6e70814604",
+      "title": "Australian politics live: Tehan booted from question time after telling Bowen to ‘cut the crap’ on renewable scheme",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:40:27.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "ece26573cde1a28935c4",
+      "title": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:32:03.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "72869183199059b07529",
+      "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:28:05.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "5517ec00a7fb2fbc5639",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:24:31.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "7f6d395e3f3e077becb0",
+      "title": "Japan’s economy slows, missing growth forecasts",
+      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:14:39.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "6b442b6df96fb9467262",
+      "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T06:02:02.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "ef10e53d806264d77cf2",
+      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
+      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:47:23.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "1904a074c1f6da4e0998",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:46:45.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "0f04a36f6d34cc1784b7",
+      "title": "At least seven dead in ‘stampede-like’ incident at India temple",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T05:32:33.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "d61754dd90ae76ee8e04",
@@ -108,7 +163,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T05:23:44.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "5ff76f346fabb7bf52d3",
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "source": "newsletter.semianalysis.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-17T05:22:49.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "f63611e1cd98cc6f54d9",
@@ -119,7 +185,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-17T05:21:39.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
+    },
+    {
+      "id": "e76e49416a37f96dc16f",
+      "title": "Linear Algebra Done Right – Sheldon Axler",
+      "url": "https://linear.axler.net/",
+      "source": "linear.axler.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-17T05:21:34.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "7f934a8e860c2db42cdf",
@@ -130,18 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T05:16:18.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "5517ec00a7fb2fbc5639",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T05:06:47.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "7f6578d74a772f201a51",
@@ -152,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T05:00:47.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "fbff806532c7100db299",
@@ -163,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T05:00:46.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "a21fe945eabbd6f3c5b9",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T04:58:47.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "1d1670d87b52dcba153d",
@@ -185,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:50:56.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "bc31ce4e6972fc87a31f",
@@ -196,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:41:31.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "54552331d39795b90ec0",
@@ -207,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:39:58.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "bbc823ca23f79b1b8be1",
@@ -218,7 +284,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:34:09.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "81699bc5506068824cb1",
@@ -229,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:07:57.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "31129851303789b6eeae",
@@ -240,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:00:46.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "e70dc40bc8f0e4772014",
@@ -251,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T04:00:45.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "125e3f02d8d49ca5f1c1",
@@ -262,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T03:53:07.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "5c9645e983ad4b52be27",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T03:41:30.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "61c2d669f3d9546b1c1a",
@@ -284,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T03:36:15.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "212643ec710d6e3b5cfd",
@@ -295,18 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T03:24:21.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
-      "id": "b0b6ca27933c6f2d3f1a",
-      "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-      "url": "https://boston.conman.org/2026/08/11.1",
-      "source": "boston.conman.org",
+      "id": "d1b716ac63674bba6844",
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "source": "gimp.org",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-17T03:21:37.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "publishedAt": "2026-08-17T03:08:47.000Z",
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "86328d9d1207b00a2c38",
@@ -317,18 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T02:58:05.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "77a6ec2527e01b6b909f",
-      "title": "Strong Gravitational Lensing and Microlensing of Supernovae",
-      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-      "source": "infoscience.epfl.ch",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-17T02:55:20.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "2c88b64a2269e359a303",
@@ -339,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T02:55:01.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "b6340f6537f1da96c02f",
@@ -350,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T02:27:39.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "bb7e24f70fd0e359ef64",
@@ -361,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T02:22:04.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "252531143577b4a07c09",
@@ -372,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T01:45:36.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "250a6498c1e5279c8b92",
@@ -383,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:41:40.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "2e474140ce202bd659d6",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:28:13.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "6fbf80653f876b0fd38d",
@@ -405,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:13:37.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "6ea569c698d4fff2337d",
@@ -416,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:48:21.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "915cf84eb7ba54a0003c",
@@ -427,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:35:29.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "2a997206ce314340bd98",
@@ -438,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:20:51.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "4abb39cebe9ff6ff325e",
@@ -449,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:17:57.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "6c62ce9f4375ca598249",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:11:18.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "bd939fff27ba391933f4",
@@ -471,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:09:57.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "c5bd39e64924ea184257",
@@ -482,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:05:34.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "f754107b1853dad01513",
@@ -493,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:00:35.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "9b4724385d5c91f31aea",
@@ -504,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T23:59:10.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     },
     {
       "id": "32d55628ad7ef422bb21",
@@ -515,62 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T23:58:45.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "388fa1f453f5f75e1540",
-      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
-      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T23:58:34.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "0808b2cfef2aea0708ea",
-      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
-      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T23:45:12.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "79efbb054d4af9fc0fe9",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "source": "simonwillison.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T23:45:09.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "09db98fca676ddab3b89",
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T23:09:39.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
-    },
-    {
-      "id": "86ef97c92269964b11ea",
-      "title": "Thailand has a gun problem - 10 million of them",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T22:09:04.000Z",
-      "discoveredAt": "2026-08-17T06:03:18.535Z"
+      "discoveredAt": "2026-08-17T07:12:05.809Z"
     }
   ]
 }
