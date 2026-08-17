@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T01:50:47.966Z",
+  "generatedAt": "2026-08-17T03:08:52.385Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "5517ec00a7fb2fbc5639",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T02:51:27.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "068958bdfa6e70814604",
+      "title": "Australia politics live: Greens senator accuses Labor of backing gas industry and billionaires over ‘disabled people and our families’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T02:37:04.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "b6340f6537f1da96c02f",
+      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
+      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T02:27:39.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "bb7e24f70fd0e359ef64",
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T02:22:04.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "81699bc5506068824cb1",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-17T01:49:36.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "252531143577b4a07c09",
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "source": "meanhamster.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-17T01:45:36.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
+      "id": "250a6498c1e5279c8b92",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
+      "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-17T01:41:40.000Z",
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
+    },
+    {
       "id": "2e474140ce202bd659d6",
       "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
       "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
@@ -53,18 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:28:13.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "068958bdfa6e70814604",
-      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T01:20:13.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "6fbf80653f876b0fd38d",
@@ -75,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T01:13:37.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "6ea569c698d4fff2337d",
@@ -86,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:48:21.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "2a997206ce314340bd98",
@@ -97,18 +163,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:20:51.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "81699bc5506068824cb1",
-      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T00:19:53.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "4abb39cebe9ff6ff325e",
@@ -119,7 +174,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:17:57.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "386f3dce353dbad19709",
@@ -130,7 +185,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-17T00:14:10.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "6c62ce9f4375ca598249",
@@ -141,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:11:18.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "bd939fff27ba391933f4",
@@ -152,18 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-17T00:09:57.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "5517ec00a7fb2fbc5639",
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-17T00:06:05.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "c5bd39e64924ea184257",
@@ -174,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:05:34.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "f754107b1853dad01513",
@@ -185,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-17T00:00:35.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "9b4724385d5c91f31aea",
@@ -196,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T23:59:10.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "32d55628ad7ef422bb21",
@@ -207,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T23:58:45.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "388fa1f453f5f75e1540",
@@ -218,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T23:58:34.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "0808b2cfef2aea0708ea",
@@ -229,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T23:45:12.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "79efbb054d4af9fc0fe9",
@@ -240,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-16T23:45:09.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "09db98fca676ddab3b89",
@@ -251,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T23:09:39.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "86ef97c92269964b11ea",
@@ -262,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T22:09:04.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "5629cd3d8a68d418eab1",
@@ -273,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T22:07:32.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "a669ca01a3345cabcbc5",
@@ -284,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:54:58.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "c3af9d8056370c35bc79",
@@ -295,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:51:39.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "9dcc373052f3a103adab",
@@ -306,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:50:56.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "8f68a6e73981122f1de5",
@@ -317,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:27:03.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "674539bfc61dc1c5f687",
@@ -328,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:23:03.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "b2734aa02b6c0fb905b5",
@@ -339,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:04:27.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "9c8390fee5877970fa42",
@@ -350,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:03:53.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "9cae02ef9ac197a350e0",
@@ -361,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T21:02:08.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "5fd08f815aea167edcf0",
@@ -372,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T21:00:35.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "1a67f35f7a4eaea05ffd",
@@ -383,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:55:19.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "0bec38b5f28b79541811",
@@ -394,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:46:01.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "419d419a5bd444b3d298",
@@ -405,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T20:38:40.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "e7161c705bb8ff437b2c",
@@ -416,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:36:32.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "2a2407c03b0201039a51",
@@ -427,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:28:21.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "522cd925d6d3fe7a6901",
@@ -438,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-16T20:20:22.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "7f5a73ae1fd228788cfe",
@@ -449,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:04:51.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "3e0a6804a2b4e824ac73",
@@ -460,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T20:02:09.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "82dc4f7633cba7a10f58",
@@ -471,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T20:01:51.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "cec5616b8aa8d06ab1c1",
@@ -482,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:58:31.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "1d1670d87b52dcba153d",
@@ -493,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:58:14.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "e70def7fc709063c57e7",
@@ -504,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:50:36.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "6b1218a5d577ceadfcaf",
@@ -515,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-16T19:39:03.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     },
     {
       "id": "3c5a4a7315efcd96488a",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-16T19:29:31.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "4796c073fe578a9310ea",
-      "title": "At least six people dead from days of storms and record flooding in Indiana",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:27:22.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "15af370147571ac7e093",
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:23:28.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "38c46aafdff7d7c4f33e",
-      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-16T19:18:24.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
-    },
-    {
-      "id": "cf6ec781d9fa6fab8609",
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "w4g1.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-16T19:04:26.000Z",
-      "discoveredAt": "2026-08-17T01:50:47.966Z"
+      "discoveredAt": "2026-08-17T03:08:52.385Z"
     }
   ]
 }
