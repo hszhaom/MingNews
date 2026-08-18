@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T19:53:57.365Z",
+  "generatedAt": "2026-08-18T20:34:22.135Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,37 @@
   ],
   "stories": [
     {
-      "id": "06d6631c1e72d2a7f66f",
-      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+      "id": "6d87261e8dce440d61f1",
+      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:27:57.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "e69ede4aabb35e72bd89",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:27:44.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "92f1e7cacb933a644a12",
+      "title": "Russian missile strike kills 10 civilians in Kharkiv",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-18T19:46:39.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "publishedAt": "2026-08-18T20:26:01.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "ca9611a3f6dae33ce905",
@@ -63,30 +85,140 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T19:38:00.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "publishedAt": "2026-08-18T20:25:10.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
-      "id": "9114f67d16efee4bb6f5",
-      "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting – latest updates",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "id": "885959b98c26087dcf41",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:21:49.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "021b69fdb7d11b4a98b7",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T19:36:39.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "publishedAt": "2026-08-18T20:20:11.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
-      "id": "aab381f31a3e94e8ed40",
-      "title": "Minnesota sues Texas to force extradition of ICE agent accused of lying about shooting",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/minnesota-ice-agent-lawsuit-texas",
+      "id": "48692e38bdbb9078a5f3",
+      "title": "Trump and Carney speak ahead of US tariff deadline",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:19:27.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "a76dbe558f8564ea1eb6",
+      "title": "Trump administration to rescind rule protecting old-growth forests",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T19:35:37.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "publishedAt": "2026-08-18T20:13:31.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "efcbc273ce6c3ca7cfdf",
+      "title": "US sanctions International Criminal Court president and trial lawyer",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:09:07.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "2645e454dde10f2b7233",
+      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:04:18.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "f6ac6afeb994a7aa9e66",
+      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T20:01:35.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "1420e0b97f6540a671d8",
+      "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:56:48.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "55ec242e7f0858cabce2",
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:52:32.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "6d82f944719881083c17",
+      "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:51:27.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "e4f0a8aa221afd039605",
+      "title": "Turkish politician Melih Meric stabbed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:51:17.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
+    },
+    {
+      "id": "06d6631c1e72d2a7f66f",
+      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:46:39.000Z",
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "1552027d48b2c56685f0",
@@ -97,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T19:30:29.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "5ed9a76f78377cc92d23",
@@ -108,18 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T19:29:51.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "6d87261e8dce440d61f1",
-      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:27:49.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "37f4503e8fa57f47a328",
@@ -130,29 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:22:45.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "bd82a9a44ecdef67db5a",
-      "title": "US man posed as doctor in fraudulent scheme to profit from Ozempic, prosecutors say",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/doctor-ozempic-fraud-indictment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:19:10.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "885959b98c26087dcf41",
-      "title": "US announces new sanctions on top ICC figures",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:18:30.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "d7758aec11815b0dfbf5",
@@ -163,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:09:23.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "e0507c62f53a7f497408",
@@ -174,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T18:44:06.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "3df0b1881b0ff12936ae",
@@ -185,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T18:33:11.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "c4b9311fe6648055bd4d",
@@ -196,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T18:32:24.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "b1496d9a51bae8cf3f04",
@@ -207,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T18:17:35.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "980337b8e230e10be157",
@@ -218,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T18:14:59.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "e095c142bfe7a9bd9d25",
@@ -229,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T18:11:53.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "c99f54343031ec1f5174",
@@ -240,18 +339,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T18:07:21.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "4f95e9325249284a4c5a",
-      "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+      "title": "Rodri signs for Barcelona as World Cup winner transfers from Man City",
       "url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T18:01:12.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "5b4ccfccf79439a0d097",
@@ -262,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:55:26.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "a0b5f752b85521bfc1fd",
@@ -273,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:54:46.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "fc9e649267ed32375f68",
@@ -284,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:51:46.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "e99dd3c5a928da0e08c3",
@@ -295,7 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T17:39:29.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "59cbebb9f51778158800",
@@ -306,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:34:44.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "67020b17632e8428f873",
@@ -317,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:32:31.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "d975dad9da538d937085",
@@ -328,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "3456fc3714e68fe61451",
@@ -339,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:22:38.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "b5b46c3ed4431bdb5b72",
@@ -350,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:15:39.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "584aa9aa3376793b822c",
@@ -361,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:00:29.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "736cfb810dabdea096cd",
@@ -372,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T16:26:42.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "e6e44929d2688a790a60",
@@ -383,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:26:22.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "9c00e152f0241b5e9558",
@@ -394,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:22:54.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "42af6d1d33ed2af2e4ab",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:21:49.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "76678e521db16a88d21d",
@@ -416,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:12:15.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "18566f0592d16b57f861",
@@ -427,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:09:49.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "b84c98e90e61b311bbd0",
@@ -438,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:03:24.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "2ac06f68f50938c39af3",
@@ -449,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:30.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "412e23a5fdd407024cf2",
@@ -460,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:00.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     },
     {
       "id": "9f7d5e32136afac6d103",
@@ -471,106 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:42.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "1452f0572af516615729",
-      "title": "Palestinian living in caves older than Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:53:38.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "9c3e6ece957a3efec12f",
-      "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:53:12.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "4d69cafa651bc6a021bd",
-      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:45:00.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "b02095f7ddb281d47b3d",
-      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:19:40.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "c28a837ea892f947a80f",
-      "title": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
-      "url": "https://www.theguardian.com/books/2026/aug/18/christopher-berry-dee-dropped-publisher-allegations-abuse",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:14:30.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "85490b270dfdfd37d720",
-      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:14:17.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "fd9293b186d46ff89c33",
-      "title": "US cites India on voter IDs, but are elections under Modi clean?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:04:24.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "cca586b0c3211c84d4ed",
-      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:00:50.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
-    },
-    {
-      "id": "74e6055039f7237ab85b",
-      "title": "Heavy rain on dry ground may cause UK floods but will not reverse drought",
-      "url": "https://www.theguardian.com/environment/2026/aug/18/heavy-rain-forecast-will-not-reverse-widespread-drought-conditions-uk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:00:04.000Z",
-      "discoveredAt": "2026-08-18T19:53:57.365Z"
+      "discoveredAt": "2026-08-18T20:34:22.135Z"
     }
   ]
 }
