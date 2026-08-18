@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T17:36:42.253Z",
+  "generatedAt": "2026-08-18T17:59:16.553Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
+      "id": "6d87261e8dce440d61f1",
+      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:44:21.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
       "id": "9114f67d16efee4bb6f5",
-      "title": "Tupac Shakur murder trial: gang leader in court accused of orchestrating 1996 killing of rap star",
+      "title": "Tupac Shakur murder trial: medical expert gives evidence on rapper’s autopsy – latest updates",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T17:25:55.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "publishedAt": "2026-08-18T17:43:56.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "885959b98c26087dcf41",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:40:09.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "e99dd3c5a928da0e08c3",
+      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:39:29.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "59cbebb9f51778158800",
+      "title": "The British state has recast protest as terrorism",
+      "url": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:34:44.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "be92bb5e4e2c45360d8a",
+      "title": "Teenager dies after falling in abandoned high-rise tower in New Orleans",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:31:30.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "d975dad9da538d937085",
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "source": "asmedigitalcollection.asme.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T17:24:53.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "3456fc3714e68fe61451",
+      "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:22:38.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "3426d329cf8212f9db90",
@@ -64,7 +141,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:04:33.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
+    },
+    {
+      "id": "684bacf7345eca9fd1a8",
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "source": "support.claude.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T17:02:15.000Z",
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "584aa9aa3376793b822c",
@@ -75,29 +163,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:00:29.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "6d87261e8dce440d61f1",
-      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T16:58:40.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "850258eb8ed156d5317a",
-      "title": "Degraded performance for multiple models",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "source": "status.claude.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T16:28:20.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "2254722616504c3db9f7",
@@ -108,7 +174,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T16:27:41.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "736cfb810dabdea096cd",
@@ -119,7 +185,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T16:26:42.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "e6e44929d2688a790a60",
@@ -130,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:26:22.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "9c00e152f0241b5e9558",
@@ -141,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:22:54.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "42af6d1d33ed2af2e4ab",
@@ -152,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:21:49.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "76678e521db16a88d21d",
@@ -163,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:12:15.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "18566f0592d16b57f861",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:09:49.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "c4d65bc13ad571deb1ca",
@@ -185,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:07:03.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "b84c98e90e61b311bbd0",
@@ -196,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:03:24.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "2ac06f68f50938c39af3",
@@ -207,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:30.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "412e23a5fdd407024cf2",
@@ -218,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:00.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "9f7d5e32136afac6d103",
@@ -229,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:42.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "1452f0572af516615729",
@@ -240,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:38.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "9c3e6ece957a3efec12f",
@@ -251,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:12.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "4d69cafa651bc6a021bd",
@@ -262,18 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:45:00.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "e1dc4f39fa3fd430a562",
-      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T15:28:57.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "b02095f7ddb281d47b3d",
@@ -284,7 +339,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T15:19:40.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "c28a837ea892f947a80f",
@@ -295,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:14:30.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "85490b270dfdfd37d720",
@@ -306,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:14:17.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "fd9293b186d46ff89c33",
@@ -317,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:04:24.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "cca586b0c3211c84d4ed",
@@ -328,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:00:50.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "74e6055039f7237ab85b",
@@ -339,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:00:04.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "c2d688c9feeaef691411",
@@ -350,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T14:54:44.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "f050a835a3ac1f29e16d",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:49:56.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "e2ada3c6633c9ed57048",
@@ -372,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:46:59.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "3561c6e12d6c97a0b947",
@@ -383,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:29:11.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "311dd0d625315455e3dd",
@@ -394,18 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T14:24:50.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "7b123930ba2b275914aa",
-      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-      "source": "theconversation.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T14:06:50.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "9ba846ea2b244ce3a804",
@@ -416,18 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:01:47.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "bb1dfb3da69de61feabc",
-      "title": "What to know about Gaza working groups and their mandate?",
+      "title": "Disarmament, humanitarian aid at centre of new Gaza ‘working groups’",
       "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T13:58:58.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "7dd6883fb792557b293c",
@@ -438,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T13:51:33.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "e003b13d86aaa3fbf291",
@@ -449,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T13:38:23.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "d899cdc061573baac2d2",
@@ -460,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T13:34:12.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "651ddd04f61807a86726",
@@ -471,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T13:30:49.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "17f7c9600e74a5943a37",
@@ -482,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T13:22:38.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "b1a1f8ba5dc01e5b78cb",
@@ -493,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T13:21:43.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "98873e3ab9cd5c6b3206",
@@ -504,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T13:18:40.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "eb65c9214211626dda8a",
@@ -515,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T13:13:54.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     },
     {
       "id": "a3fbcec28491047cce2e",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T13:12:56.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "dc243c56a320b22fd9db",
-      "title": "Palestinian-American confronts Israeli settler at his besieged home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:11:21.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "e6d4f397868b8c30b0be",
-      "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:06:20.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "e0874f29a0339b2b35f4",
-      "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T12:47:41.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
-    },
-    {
-      "id": "6860f5582798eb1e2987",
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "source": "philo.gay",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T12:43:54.000Z",
-      "discoveredAt": "2026-08-18T17:36:42.253Z"
+      "discoveredAt": "2026-08-18T17:59:16.553Z"
     }
   ]
 }
