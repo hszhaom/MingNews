@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:31:05.232Z",
+  "generatedAt": "2026-08-18T23:52:35.010Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 33,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,17 +45,6 @@
   ],
   "stories": [
     {
-      "id": "9a9ae3966db013619ef8",
-      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already ‘dirty and nasty’; NDIS reforms to pass parliament today",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T23:18:29.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
-    },
-    {
       "id": "6d87261e8dce440d61f1",
       "title": "Florida, Wyoming and Alaska hold primary elections; California voters to select successor for Eric Swalwell’s seat – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
@@ -63,8 +52,41 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T23:17:15.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "publishedAt": "2026-08-18T23:44:03.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
+    },
+    {
+      "id": "9a9ae3966db013619ef8",
+      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already ‘dirty and nasty’; NDIS reforms to pass parliament today",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:39:56.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
+    },
+    {
+      "id": "311125791294d2a2ab37",
+      "title": "Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:32:53.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
+    },
+    {
+      "id": "fbd859f47bfd488ccb23",
+      "title": "Boyfriend of Hayden Panettiere was at apartment when actor died",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/18/hayden-panettiere-death-boyfriend",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:23:16.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "9114f67d16efee4bb6f5",
@@ -75,7 +97,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:06:46.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "2d26570b14edb9416ecb",
@@ -86,7 +108,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:01:03.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "85c1da109a7124e8be7f",
@@ -97,18 +119,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T22:55:50.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
-    },
-    {
-      "id": "08234383ca9e8831d6c5",
-      "title": "The Microsoft Rebrand Registry",
-      "url": "https://www.msrebrandregistry.com/analysis.html",
-      "source": "msrebrandregistry.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T22:33:50.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "3426d329cf8212f9db90",
@@ -119,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:33:26.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "fefea72178d304c30c09",
@@ -130,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "abfd45e3826bd625eda1",
@@ -141,7 +152,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
+    },
+    {
+      "id": "f1f07dab4d198ae8e688",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T22:25:46.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "aaa6b2ac623a508f92cd",
@@ -152,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:23:44.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "8224fd888a8e053aa2e0",
@@ -163,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:21:59.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "e213f6a78e54f4e647f6",
@@ -174,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:18:50.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "7a3ac8f24e1e86f83238",
@@ -185,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:11:07.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "2945203a1fdaa46fd889",
@@ -196,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:10:48.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "75bb8d6c5587bf665d9f",
@@ -207,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "26ed078844ac8285a485",
@@ -218,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T22:06:10.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "3af3a3ae6575ffebcc06",
@@ -229,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T22:00:21.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "8cf057cfa71fed3220f4",
@@ -240,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:50:43.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "9d46ade5d1942892b74e",
@@ -251,18 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T21:50:33.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
-    },
-    {
-      "id": "d64734a17563000cede1",
-      "title": "Harvard to pay $53m over theft and sale of human remains from medical school",
-      "url": "https://www.theguardian.com/education/2026/aug/18/harvard-human-remains-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T21:44:31.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "feba1c4bb0a57e1e0cf6",
@@ -273,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:47.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "e07e6336bdc412a58c00",
@@ -284,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:07.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "5ed9026458adee14c264",
@@ -295,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:25:06.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "a715efeef631addfe924",
@@ -306,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:24:52.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "2335b295c04177ec8e5e",
@@ -317,18 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T21:14:21.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
-    },
-    {
-      "id": "594123b44a0b83f8427f",
-      "title": "Companies promote incompetent employees to management to limit damage they do",
-      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-      "source": "lawsofsoftwareengineering.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T21:13:30.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "605494544a4ec7a3de5e",
@@ -339,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:59.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "d9976fa4f228907e6a04",
@@ -350,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:04.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "8cc9f2fb040e4e78bb8c",
@@ -361,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:53:44.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "ca176919756a9e595d85",
@@ -372,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:48:09.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "f1c229e91b1ba4b36430",
@@ -383,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:45:42.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "c53d52253774df96d820",
@@ -394,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:41:50.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "9c00e152f0241b5e9558",
@@ -405,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:39:36.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "33c76bd22a76baae74e0",
@@ -416,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:39:15.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "e69ede4aabb35e72bd89",
@@ -427,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:27:44.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "92f1e7cacb933a644a12",
@@ -438,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:26:01.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
-    },
-    {
-      "id": "ca9611a3f6dae33ce905",
-      "title": "Man accused of attacking duo at New York City synagogue charged with federal hate crimes",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/nyc-synagogue-federal-hate-crime-charges",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:25:10.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "885959b98c26087dcf41",
@@ -460,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:21:49.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "48692e38bdbb9078a5f3",
@@ -471,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:19:27.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "efcbc273ce6c3ca7cfdf",
@@ -482,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:09:07.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "2645e454dde10f2b7233",
@@ -493,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T20:04:18.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "1420e0b97f6540a671d8",
@@ -504,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:56:48.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "55ec242e7f0858cabce2",
@@ -515,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T19:52:32.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "6d82f944719881083c17",
@@ -526,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T19:51:27.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "e4f0a8aa221afd039605",
@@ -537,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:51:17.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "06d6631c1e72d2a7f66f",
@@ -548,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:46:39.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "5ed9a76f78377cc92d23",
@@ -559,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T19:29:51.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     },
     {
       "id": "37f4503e8fa57f47a328",
@@ -570,7 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T19:22:45.000Z",
-      "discoveredAt": "2026-08-18T23:31:05.232Z"
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
+    },
+    {
+      "id": "d7758aec11815b0dfbf5",
+      "title": "US judge says government can revoke deportation protections for Ethiopians",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T19:09:23.000Z",
+      "discoveredAt": "2026-08-18T23:52:35.010Z"
     }
   ]
 }
