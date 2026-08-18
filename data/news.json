@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T17:59:16.553Z",
+  "generatedAt": "2026-08-18T18:51:51.229Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "6d87261e8dce440d61f1",
-      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "id": "e0507c62f53a7f497408",
+      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
+      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T17:44:21.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "publishedAt": "2026-08-18T18:44:06.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "9114f67d16efee4bb6f5",
@@ -63,8 +63,140 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T17:43:56.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "publishedAt": "2026-08-18T18:40:23.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "6a0ca282e3642dbac711",
+      "title": "US sanctions international criminal court president and prosecutor",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:37:59.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "6d87261e8dce440d61f1",
+      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:33:35.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "3df0b1881b0ff12936ae",
+      "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:33:11.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "c4b9311fe6648055bd4d",
+      "title": "Israeli strike on Gaza City cafe kills six, including child",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:32:24.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "b1496d9a51bae8cf3f04",
+      "title": "Police attack Indonesian student protesters, arresting at least 21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:17:35.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "e095c142bfe7a9bd9d25",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "source": "ikea.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T18:11:53.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "c99f54343031ec1f5174",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T18:07:21.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "4f95e9325249284a4c5a",
+      "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:01:12.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "51f57031b7275d909696",
+      "title": "San Diego Padres minor-league staffer detained by ICE after arrest in Texas",
+      "url": "https://www.theguardian.com/sport/2026/aug/18/padres-coach-oswaldo-pirela-detained-ice-el-paso",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T18:00:48.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "5b4ccfccf79439a0d097",
+      "title": "Nigeria hospital collapses after rain washed away its foundations",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:55:26.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "a0b5f752b85521bfc1fd",
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:54:46.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
+    },
+    {
+      "id": "fc9e649267ed32375f68",
+      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+      "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T17:51:46.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "885959b98c26087dcf41",
@@ -75,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:40:09.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "e99dd3c5a928da0e08c3",
@@ -86,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T17:39:29.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "59cbebb9f51778158800",
@@ -97,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:34:44.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "be92bb5e4e2c45360d8a",
@@ -108,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:31:30.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "d975dad9da538d937085",
@@ -119,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "3456fc3714e68fe61451",
@@ -130,29 +262,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T17:22:38.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
-      "id": "3426d329cf8212f9db90",
-      "title": "Florida to carry out its 13th execution this year in US’s busiest death chamber",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/florida-13th-execution-william-frances-silvia",
-      "source": "The Guardian",
+      "id": "b5b46c3ed4431bdb5b72",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T17:04:33.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "publishedAt": "2026-08-18T17:15:39.000Z",
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "684bacf7345eca9fd1a8",
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
       "source": "support.claude.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T17:02:15.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "584aa9aa3376793b822c",
@@ -163,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T17:00:29.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "2254722616504c3db9f7",
@@ -174,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T16:27:41.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "736cfb810dabdea096cd",
@@ -185,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T16:26:42.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "e6e44929d2688a790a60",
@@ -196,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:26:22.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "9c00e152f0241b5e9558",
@@ -207,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:22:54.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "42af6d1d33ed2af2e4ab",
@@ -218,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:21:49.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "76678e521db16a88d21d",
@@ -229,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:12:15.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "18566f0592d16b57f861",
@@ -240,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T16:09:49.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "c4d65bc13ad571deb1ca",
-      "title": "Penn State students accused of running cocaine-trafficking ring at fraternity houses",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/penn-state-cocaine-trafficking-ring",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T16:07:03.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "b84c98e90e61b311bbd0",
@@ -262,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:03:24.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "2ac06f68f50938c39af3",
@@ -273,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:30.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "412e23a5fdd407024cf2",
@@ -284,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T16:00:00.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "9f7d5e32136afac6d103",
@@ -295,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:42.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "1452f0572af516615729",
@@ -306,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:38.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "9c3e6ece957a3efec12f",
@@ -317,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:53:12.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "4d69cafa651bc6a021bd",
@@ -328,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:45:00.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "b02095f7ddb281d47b3d",
@@ -339,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-18T15:19:40.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "c28a837ea892f947a80f",
@@ -350,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:14:30.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "85490b270dfdfd37d720",
@@ -361,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:14:17.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "fd9293b186d46ff89c33",
@@ -372,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T15:04:24.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "cca586b0c3211c84d4ed",
@@ -383,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:00:50.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "74e6055039f7237ab85b",
@@ -394,18 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T15:00:04.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "c2d688c9feeaef691411",
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "url": "https://arxiv.org/abs/2607.22738",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T14:54:44.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "f050a835a3ac1f29e16d",
@@ -416,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:49:56.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "e2ada3c6633c9ed57048",
@@ -427,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:46:59.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "3561c6e12d6c97a0b947",
@@ -438,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:29:11.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "311dd0d625315455e3dd",
@@ -449,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T14:24:50.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     },
     {
       "id": "9ba846ea2b244ce3a804",
@@ -460,117 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T14:01:47.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "bb1dfb3da69de61feabc",
-      "title": "Disarmament, humanitarian aid at centre of new Gaza ‘working groups’",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:58:58.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "7dd6883fb792557b293c",
-      "title": "Yemeni government escalates attacks against Houthis: What’s next?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:51:33.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "e003b13d86aaa3fbf291",
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "source": "opensource.posit.co",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T13:38:23.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "d899cdc061573baac2d2",
-      "title": "UK risks running out of gas by 2030s, ministers told",
-      "url": "https://www.theguardian.com/business/2026/aug/18/uk-risks-running-out-of-gas-2030s",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:34:12.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "651ddd04f61807a86726",
-      "title": "Labour urges Gambling Commission to investigate firms linked to Reform UK donors",
-      "url": "https://www.theguardian.com/politics/2026/aug/18/labour-gambling-commission-investigate-firms-linked-reform-uk-donors",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:30:49.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "17f7c9600e74a5943a37",
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "source": "seths.blog",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T13:22:38.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "b1a1f8ba5dc01e5b78cb",
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:21:43.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "98873e3ab9cd5c6b3206",
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "source": "quantum5.ca",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T13:18:40.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "eb65c9214211626dda8a",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:13:54.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
-    },
-    {
-      "id": "a3fbcec28491047cce2e",
-      "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T13:12:56.000Z",
-      "discoveredAt": "2026-08-18T17:59:16.553Z"
+      "discoveredAt": "2026-08-18T18:51:51.229Z"
     }
   ]
 }
