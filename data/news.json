@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T06:59:54.459Z",
+  "generatedAt": "2026-08-19T07:48:43.702Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,103 @@
   ],
   "stories": [
     {
+      "id": "9a9ae3966db013619ef8",
+      "title": "Australia news live: defence join search for missing 18-year-old bushwalker; Marcia Langton tells antisemitism royal commission racism needs to be tackled in ‘coordinated way’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T07:44:15.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "e629b9ea74f2c151869b",
+      "title": "Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T07:39:14.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "397afd804473b432e07c",
+      "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
+      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T07:25:26.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "b5d9afbc72cf857aabb1",
+      "title": "Labor thinks it can win elections defending super. For Hanson, it’s just another way to deprive Taylor of political oxygen",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/labor-thinks-it-can-win-elections-defending-super-for-hanson-its-just-another-way-to-deprive-taylor-of-political-oxygen",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T07:21:44.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "3bc02c64742477d2bb66",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T07:14:50.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "0d8d006699b99f11a076",
+      "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:57:51.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "a4e68d9cb818c4b4863a",
+      "title": "Show HN: Privacy focused client side password generator",
+      "url": "https://password-generator.aaqa.dev/",
+      "source": "password-generator.aaqa.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T06:55:36.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "182fc859128edca7ec9a",
+      "title": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:52:34.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
       "id": "2e521a531b06f2d4bba8",
-      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "title": "Erin Patterson challenges convictions over mushroom lunch – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T06:36:24.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "2ee2f4f8e93166ccaba2",
@@ -64,18 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T06:27:30.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "9a9ae3966db013619ef8",
-      "title": "Australia news live: defence force personnel join search for missing 18-year-old bushwalker Lily Hooper",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T06:27:19.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "58814fd2f0bbd5bcd69a",
@@ -86,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T06:24:23.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "7012e06a565caac24ab9",
@@ -97,18 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T06:16:53.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "397afd804473b432e07c",
-      "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
-      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T06:01:13.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "b835740cdcb3a6866a5f",
@@ -119,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T05:59:44.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "b1773512c5af66c693b6",
@@ -130,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:53:53.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "0d0f36edd902c964eeed",
@@ -141,18 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:40:29.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "e57aef356717f884014c",
-      "title": "Catholic schools chief denies wiping critical evidence after performing factory reset on phone, Icac hears",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/catholic-schools-nsw-chief-wiped-phone-icac-evidence-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T05:36:23.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "eb355a58a04df1eac971",
@@ -163,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T05:23:03.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "47852ca9e7981c1a660d",
@@ -174,7 +229,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T05:12:54.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
+    },
+    {
+      "id": "a63919e0ba4d1ecb72ec",
+      "title": "Thai teen found in suitcase died from suffocation, police reveal",
+      "url": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:04:27.000Z",
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "6978f40715862b177055",
@@ -185,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:04:00.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "59cc90c9f881e1331959",
@@ -196,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:00:39.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "c266ab10d74a8b12e6c8",
@@ -207,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:00:06.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "928ca54d282e21f7c743",
@@ -218,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T04:59:32.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "b73047abeaa230ebe9af",
@@ -229,29 +295,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-19T04:55:08.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "6a75a442b7d764775d8c",
-      "title": "NSW judge says anti-Israel graffiti case went ‘haywire’ when vandalism was labelled antisemitic",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/justice-desmond-fagan-sydney-anti-israel-graffiti-incorrectly-labelled-antisemitic-supreme-court-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T04:54:53.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "3bc02c64742477d2bb66",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T04:44:41.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "e9333e5546470272d218",
@@ -262,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:31:11.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "92d5d16e6bd9c899044e",
@@ -273,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T04:25:26.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "7b6bbcf5c2ec4ad5697f",
@@ -284,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:01:04.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "c1c1d05387c9ed18bdcb",
@@ -295,18 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:00:05.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "ae0e3aace0c2d6cb1c08",
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:56:35.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "414a998ffa4ff5548b8b",
@@ -317,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:47:12.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "3dfe44085704d8157d80",
@@ -328,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:44:44.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "bd3e1e30bef3b9d0485a",
@@ -339,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:42:28.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "95730a7775804422e0bd",
@@ -350,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:36:59.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "1a75c330ba7af176503d",
@@ -361,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:34:40.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "48e2821b7d842889c5b0",
@@ -372,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:25:33.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "354cf6b401f7b2aedca3",
@@ -383,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:20:24.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "f9aaef5ff3068417a71e",
@@ -394,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:12:06.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "ce34461a333a2d547de1",
@@ -405,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:04:07.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "0ae869618acea9773686",
@@ -416,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:00:35.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "979d4473cfe65c63849b",
@@ -427,18 +471,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T02:41:50.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "55d502bdd0ce565d7998",
-      "title": "Trump pauses 50-percent tariff on Canada in last-minute deal",
+      "title": "Trump pauses 50 percent tariffs on Canada in last-minute deal",
       "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T02:35:15.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "ded7b2dca1622b5e7d4d",
@@ -449,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T02:24:34.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "ed21b88bda8eb0be3333",
@@ -460,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T02:18:25.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "51a3108fc9092f9376fa",
@@ -471,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T02:00:43.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "72270d8ce63c3843f97e",
@@ -482,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T01:58:33.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "dbce497b64424f23f8f2",
@@ -493,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T01:58:28.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "6d87261e8dce440d61f1",
@@ -504,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T01:55:42.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "b0f32f07be7323dc054e",
@@ -515,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T01:36:40.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     },
     {
       "id": "3984c021d478f9541e32",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:53:34.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "c1988a4f03c454b1ae1c",
-      "title": "US ambassador to Israel calls settler violence ‘terror’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:49:10.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "da7b93e6dd5a5954af2b",
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T00:48:23.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "21e9324ad2191ab59b0f",
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:48:16.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
-    },
-    {
-      "id": "9114f67d16efee4bb6f5",
-      "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:35:18.000Z",
-      "discoveredAt": "2026-08-19T06:59:54.459Z"
+      "discoveredAt": "2026-08-19T07:48:43.702Z"
     }
   ]
 }
