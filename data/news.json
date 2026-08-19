@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:52:35.010Z",
+  "generatedAt": "2026-08-19T01:47:59.090Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,59 +45,246 @@
   ],
   "stories": [
     {
+      "id": "2e521a531b06f2d4bba8",
+      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T01:42:02.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
       "id": "6d87261e8dce440d61f1",
-      "title": "Florida, Wyoming and Alaska hold primary elections; California voters to select successor for Eric Swalwell’s seat – live",
+      "title": "Florida primaries live: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T23:44:03.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "publishedAt": "2026-08-19T01:32:43.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "9a9ae3966db013619ef8",
-      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already ‘dirty and nasty’; NDIS reforms to pass parliament today",
+      "title": "Australia politics live: One Nation files three years of overdue financial returns hours before deadline",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-18T23:39:56.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "publishedAt": "2026-08-19T01:25:53.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "aa8c28b98f02ee9637b3",
+      "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T01:00:01.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "9be4293a1a9bad1ee6f2",
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "source": "bfi.uchicago.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T00:53:51.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "3984c021d478f9541e32",
+      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:53:34.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "c1988a4f03c454b1ae1c",
+      "title": "US ambassador to Israel calls settler violence ‘terror’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:49:10.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "da7b93e6dd5a5954af2b",
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T00:48:23.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "9114f67d16efee4bb6f5",
+      "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:35:18.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "6eb73f63ff0ede3235e6",
+      "title": "Cerebras CS4",
+      "url": "https://www.cerebras.ai/cs4",
+      "source": "cerebras.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T00:28:18.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "7b53881df0751854aabe",
+      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:26:21.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "0e0b4ca51e573886cb5a",
+      "title": "Quebec separatist says no independence referendum while Trump in office",
+      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:17:01.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "21f1847146b0f479238d",
+      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+      "source": "konstantintkachuk.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T00:11:35.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "397b6936024bb53be9fb",
+      "title": "Trump-backed Byron Donalds to face Democrat David Jolly in race to succeed Florida governor DeSantis",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:08:33.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "d8347e5ca7c603f32b63",
+      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:07:37.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "4b02d0345f805f76a3d4",
+      "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "6e6af1109229e1d81db8",
+      "title": "Ten-year-old girl found three days after she was reported missing in Perth suburbs",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:59:56.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "59f5f4c03ad565a2d817",
+      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:59:43.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "ae9ff81d78c6e4280d28",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc/",
+      "source": "modelmap.cc",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T23:57:36.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "086507d579a99587f883",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-18T23:51:49.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
+    },
+    {
+      "id": "c641de733b2549a0a4ba",
+      "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
+      "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-18T23:45:16.000Z",
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "311125791294d2a2ab37",
-      "title": "Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
+      "title": "US senator Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
       "url": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:32:53.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "fbd859f47bfd488ccb23",
-      "title": "Boyfriend of Hayden Panettiere was at apartment when actor died",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/18/hayden-panettiere-death-boyfriend",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T23:23:16.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "9114f67d16efee4bb6f5",
-      "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – latest updates",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T23:06:46.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "2d26570b14edb9416ecb",
@@ -108,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:01:03.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "85c1da109a7124e8be7f",
@@ -119,18 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T22:55:50.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "3426d329cf8212f9db90",
-      "title": "Florida carries out its 13th execution this year in US’s busiest death chamber",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/florida-13th-execution-william-frances-silvia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T22:33:26.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "fefea72178d304c30c09",
@@ -141,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "abfd45e3826bd625eda1",
@@ -152,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "f1f07dab4d198ae8e688",
@@ -163,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:25:46.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "aaa6b2ac623a508f92cd",
@@ -174,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:23:44.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "8224fd888a8e053aa2e0",
@@ -185,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:21:59.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "e213f6a78e54f4e647f6",
@@ -196,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:18:50.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "7a3ac8f24e1e86f83238",
@@ -207,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:11:07.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "2945203a1fdaa46fd889",
@@ -218,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:10:48.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "75bb8d6c5587bf665d9f",
@@ -229,29 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "26ed078844ac8285a485",
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "url": "https://artificialanalysis.ai/models/glm-5-3",
-      "source": "artificialanalysis.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T22:06:10.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "3af3a3ae6575ffebcc06",
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh/",
-      "source": "fx.sh",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T22:00:21.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "8cf057cfa71fed3220f4",
@@ -262,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:50:43.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "9d46ade5d1942892b74e",
@@ -273,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T21:50:33.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "feba1c4bb0a57e1e0cf6",
@@ -284,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:47.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "e07e6336bdc412a58c00",
@@ -295,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:07.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "5ed9026458adee14c264",
@@ -306,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:25:06.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "a715efeef631addfe924",
@@ -317,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:24:52.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "2335b295c04177ec8e5e",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "source": "cdn.kuber.studio",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T21:14:21.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "605494544a4ec7a3de5e",
@@ -339,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:59.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "d9976fa4f228907e6a04",
@@ -350,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:04.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "8cc9f2fb040e4e78bb8c",
@@ -361,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:53:44.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "ca176919756a9e595d85",
@@ -372,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:48:09.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "f1c229e91b1ba4b36430",
@@ -383,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:45:42.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "c53d52253774df96d820",
@@ -394,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:41:50.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "9c00e152f0241b5e9558",
@@ -405,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:39:36.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "33c76bd22a76baae74e0",
@@ -416,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T20:39:15.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     },
     {
       "id": "e69ede4aabb35e72bd89",
@@ -427,150 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T20:27:44.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "92f1e7cacb933a644a12",
-      "title": "Russian missile strike kills 10 civilians in Kharkiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:26:01.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "885959b98c26087dcf41",
-      "title": "US announces new sanctions on top ICC figures",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:21:49.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "48692e38bdbb9078a5f3",
-      "title": "Trump and Carney speak ahead of US tariff deadline",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:19:27.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "efcbc273ce6c3ca7cfdf",
-      "title": "US sanctions International Criminal Court president and trial lawyer",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:09:07.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "2645e454dde10f2b7233",
-      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:04:18.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "1420e0b97f6540a671d8",
-      "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:56:48.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "55ec242e7f0858cabce2",
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:52:32.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "6d82f944719881083c17",
-      "title": "ABC and Disney sue FCC, alleging First Amendment violations",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:51:27.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "e4f0a8aa221afd039605",
-      "title": "Turkish politician Melih Meric stabbed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:51:17.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "06d6631c1e72d2a7f66f",
-      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:46:39.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "5ed9a76f78377cc92d23",
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "source": "about.iceland.co.uk",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T19:29:51.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "37f4503e8fa57f47a328",
-      "title": "The ‘witch-hunt’ of Jason Arday",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:22:45.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
-    },
-    {
-      "id": "d7758aec11815b0dfbf5",
-      "title": "US judge says government can revoke deportation protections for Ethiopians",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T19:09:23.000Z",
-      "discoveredAt": "2026-08-18T23:52:35.010Z"
+      "discoveredAt": "2026-08-19T01:47:59.090Z"
     }
   ]
 }
