@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T13:04:10.702Z",
+  "generatedAt": "2026-08-19T13:52:58.676Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,160 @@
   ],
   "stories": [
     {
+      "id": "f96aa35ca83e93b744cf",
+      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:44:57.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "817323f1a32fc82b4029",
+      "title": "Lewes derailment: images show track defect before incident on hottest day",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/19/lewes-derailment-network-rail-gtr-images-track-defect-before-incident",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:33:07.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "e629b9ea74f2c151869b",
+      "title": "Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:31:21.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "d01316b60643ec0915cf",
+      "title": "Government rough sleeping funding may not ‘be enough’ to tackle problem, says Burnham – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/19/andy-burnham-homelessness-rough-sleeping-christmas-labour-tories-reform-prisons-north-sea-oil-uk-politics-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:25:17.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "59ad685c44174d53be3e",
+      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:24:34.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "a54025b7a8ecd3b09014",
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+      "source": "raphaelbauer.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T13:21:21.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "bfcd5f931f813dbd1874",
+      "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:20:08.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "9f5dd2289716a1018bfb",
+      "title": "More than 20 tons of squid spilled on to Rhode Island highway during traffic accident",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/squid-spill-rhode-island-highway",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:19:06.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "08f54739c80c515d9199",
+      "title": "Hawaii crews work to restore power to thousands after Lala outages",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/hawaii-power-outages-storm-lala-damage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:18:21.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "71f775558bfda132f017",
+      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:11:51.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "7b53881df0751854aabe",
+      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:08:35.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "c1fb08ea43c2f9bfd4dc",
+      "title": "Why aid entering Gaza may not reach those who need it",
+      "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:01:39.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "053faf30baa5ddd572bb",
+      "title": "War on Iran: Iran allegedly targets the UAE",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:01:05.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "0979a529ee10c84ce30f",
+      "title": "Palestinian factions explore broad alliance for November elections",
+      "url": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T13:00:43.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
       "id": "3231b4985fdf476dc59a",
       "title": "Six tourists and pilot killed in Kenya helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +207,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T13:00:09.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "7639fc85c2a7c935f3c2",
+      "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+      "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T12:59:57.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "423a58d8b08911ddd617",
+      "title": "US war on Iran puts Cambodian children’s education at risk",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T12:56:52.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "39ae636d15aa1d100cd5",
@@ -64,18 +240,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:54:14.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
-      "id": "1a333ea484a564693b9c",
-      "title": "Former Fauci adviser pleads guilty to conspiracy to conceal Covid-19 records",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/former-fauci-covid-adviser-pleads-guilty",
-      "source": "The Guardian",
+      "id": "bc54e53b7527306778c0",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-19T12:50:37.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "publishedAt": "2026-08-19T12:47:53.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
+    },
+    {
+      "id": "529d961e9185046604c2",
+      "title": "What’s happening in Lebanon’s ‘pilot zones’?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T12:47:52.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "4704dfebd23f6f45f918",
@@ -86,29 +273,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:46:40.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "29656240b6a0db57c2cf",
-      "title": "Andy Burnham warns of dangers of open-water swimming after ‘terrible family tragedy’ in Sussex",
+      "title": "Burnham issues open-water swimming warning after ‘terrible family tragedy’ in Sussex",
       "url": "https://www.theguardian.com/uk-news/2026/aug/19/andy-burnham-dangers-open-water-swimming-family-tragedy-sussex",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:45:20.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "d01316b60643ec0915cf",
-      "title": "Government rough sleeping funding may not ‘be enough’ to tackle problem, says Burnham – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/19/andy-burnham-homelessness-rough-sleeping-christmas-labour-tories-reform-prisons-north-sea-oil-uk-politics-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T12:44:35.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "7a705b4ce5fbb10dcf00",
@@ -119,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:41:46.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "b6188fe262f205c35b65",
@@ -130,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T12:38:22.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "65db4253dd05287faa67",
@@ -141,18 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T12:37:40.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "d19e4a50a932f10c106b",
-      "title": "ICC decries latest US sanctions as ‘flagrant attack’ on court’s independence",
-      "url": "https://www.theguardian.com/law/2026/aug/19/icc-decries-us-sanctions-president-prosecutor",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T12:35:03.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "a8f442440dba3d621e6f",
@@ -163,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:27:00.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "fb8ca98e21138d9c47ed",
@@ -174,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:25:30.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "53879daf35d318c44d07",
@@ -185,18 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T12:19:52.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "71f775558bfda132f017",
-      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T12:16:02.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "cefb44c71687472d1b60",
@@ -207,18 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T12:11:04.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "e629b9ea74f2c151869b",
-      "title": "Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T11:57:57.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "e7a555dbf6ec5a5461fb",
@@ -229,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T11:47:44.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "6c6010f3362c46aac33a",
@@ -240,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T11:47:35.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "3e61e6c454e5aaf693b9",
@@ -251,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T11:46:58.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "067314ac4950bb5e56a4",
@@ -262,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T11:45:21.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "46f931e1d287e6cecf48",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T11:40:52.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "fcf16492d560749540ea",
@@ -284,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T11:36:54.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "e412965c8c5577314204",
@@ -295,18 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T11:30:40.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "594a21ee81b3dc9e37bc",
-      "title": "Republican senator Dan Sullivan and Democrat Mary Peltola advance in Alaska Senate primary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/alaska-senate-primary-results",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T11:22:16.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "eb9f121d00e74b2f1c20",
@@ -317,18 +449,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T11:22:09.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
-      "id": "e87390ba907704a2e450",
-      "title": "Trainline, Virgin Atlantic and Red Driving School investigated over hidden fees",
-      "url": "https://www.theguardian.com/business/2026/aug/19/trainline-virgin-atlantic-driving-school-investigated-hidden-ticket-fees",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T11:14:33.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "id": "a6c08c0e1e935114c811",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "sprocketfox.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T11:21:50.000Z",
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "13c63fcf9036330c34f1",
@@ -339,7 +471,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-19T11:14:31.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "0a4e679da30223cc7b3e",
@@ -350,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T11:14:25.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "3bc02c64742477d2bb66",
@@ -361,7 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T11:00:21.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "9ee2bad0cf972666acc2",
@@ -372,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T10:59:09.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "263892242113d029e156",
@@ -383,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T10:57:57.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "1ab6a4d593eb8b3b097d",
@@ -394,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T10:53:01.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "00bb1f1de7768388ca1a",
@@ -405,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T10:47:33.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "8359e0f19444d704eef0",
@@ -416,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T10:47:22.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "e57aef356717f884014c",
@@ -427,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T10:25:11.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     },
     {
       "id": "a30d1040b884ebb8330e",
@@ -438,139 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T10:24:26.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "e5e0f7db117d7508c47e",
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "source": "theremin.bizibah.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T10:15:00.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "a1b491c4aa6295de8c3e",
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T10:10:09.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "24f20ddb3480f7a5ad16",
-      "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T10:02:16.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "47127afaa0ccef69db2c",
-      "title": "How India's blocking of a film exposing real-life police abuses backfired",
-      "url": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-19T10:02:00.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "7ad50249bfcc2577e6ac",
-      "title": "Striking hospital employees sound alarm over workplace violence",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-19T10:00:00.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "1a2fa9e407649f8a500c",
-      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "url": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:48:16.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "a44bfe5d7ac67f14e3c7",
-      "title": "At least six killed in Russian air attacks on Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:34:38.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "fc865c4ea1a39cf0c4dd",
-      "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:29:41.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "e0723b7b2cce41942857",
-      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:29:40.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "8ab3643bcd4437d0d7fd",
-      "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:26:16.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "ef273d3b0d70069ff3b9",
-      "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:23:17.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
-    },
-    {
-      "id": "66a14cbb0f16f042058d",
-      "title": "Cars swept downhill as flash floods hit northern Chile",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T09:22:30.000Z",
-      "discoveredAt": "2026-08-19T13:04:10.702Z"
+      "discoveredAt": "2026-08-19T13:52:58.676Z"
     }
   ]
 }
