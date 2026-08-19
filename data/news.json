@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T05:39:11.196Z",
+  "generatedAt": "2026-08-19T06:59:54.459Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 36,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,114 @@
   ],
   "stories": [
     {
+      "id": "2e521a531b06f2d4bba8",
+      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:36:24.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "2ee2f4f8e93166ccaba2",
+      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:27:30.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
       "id": "9a9ae3966db013619ef8",
-      "title": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; Victorian Liberals pledge to ‘throw open doors to gas’",
+      "title": "Australia news live: defence force personnel join search for missing 18-year-old bushwalker Lily Hooper",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-19T05:28:26.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "publishedAt": "2026-08-19T06:27:19.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "58814fd2f0bbd5bcd69a",
+      "title": "SpaceX Starship the talk of remote Australian island as Elon Musk’s engineers sent to retrieve it",
+      "url": "https://www.theguardian.com/science/2026/aug/19/elon-musk-spacex-starship-lands-christmas-island-australia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:24:23.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "7012e06a565caac24ab9",
+      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:16:53.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "397afd804473b432e07c",
+      "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
+      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T06:01:13.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "b835740cdcb3a6866a5f",
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:59:44.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "b1773512c5af66c693b6",
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:53:53.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "0d0f36edd902c964eeed",
+      "title": "In cutting joint drills, Trump has given South Korea’s president what he wants. So why does Seoul look so uneasy?",
+      "url": "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:40:29.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "e57aef356717f884014c",
+      "title": "Catholic schools chief denies wiping critical evidence after performing factory reset on phone, Icac hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/catholic-schools-nsw-chief-wiped-phone-icac-evidence-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:36:23.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "eb355a58a04df1eac971",
@@ -64,18 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T05:23:03.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "2e521a531b06f2d4bba8",
-      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T05:17:45.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "47852ca9e7981c1a660d",
@@ -86,7 +174,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T05:12:54.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "6978f40715862b177055",
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:04:00.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "59cc90c9f881e1331959",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T05:00:39.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "c266ab10d74a8b12e6c8",
@@ -97,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T05:00:06.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "928ca54d282e21f7c743",
@@ -108,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T04:59:32.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "b73047abeaa230ebe9af",
@@ -119,7 +229,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-19T04:55:08.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "6a75a442b7d764775d8c",
@@ -130,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:54:53.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "3bc02c64742477d2bb66",
@@ -141,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:44:41.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "e9333e5546470272d218",
@@ -152,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:31:11.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "92d5d16e6bd9c899044e",
@@ -163,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T04:25:26.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "7b6bbcf5c2ec4ad5697f",
@@ -174,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:01:04.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "c1c1d05387c9ed18bdcb",
@@ -185,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T04:00:05.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "ae0e3aace0c2d6cb1c08",
@@ -196,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:56:35.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "414a998ffa4ff5548b8b",
@@ -207,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:47:12.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "3dfe44085704d8157d80",
@@ -218,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:44:44.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "bd3e1e30bef3b9d0485a",
@@ -229,29 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:42:28.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "b1773512c5af66c693b6",
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T03:39:41.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "182fc859128edca7ec9a",
-      "title": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T03:37:34.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "95730a7775804422e0bd",
@@ -262,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:36:59.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "1a75c330ba7af176503d",
@@ -273,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:34:40.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "48e2821b7d842889c5b0",
@@ -284,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:25:33.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "354cf6b401f7b2aedca3",
@@ -295,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T03:20:24.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "f9aaef5ff3068417a71e",
@@ -306,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:12:06.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "ce34461a333a2d547de1",
@@ -317,29 +405,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:04:07.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "0ae869618acea9773686",
-      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
       "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T03:00:35.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "3f5402091561c22d8373",
-      "title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying’ Indigenous people",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T02:46:18.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "979d4473cfe65c63849b",
@@ -350,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T02:41:50.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "55d502bdd0ce565d7998",
@@ -361,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T02:35:15.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "ded7b2dca1622b5e7d4d",
@@ -372,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T02:24:34.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "ed21b88bda8eb0be3333",
@@ -383,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T02:18:25.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "51a3108fc9092f9376fa",
@@ -394,7 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T02:00:43.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "72270d8ce63c3843f97e",
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "url": "https://github.com/katiahayati/lucasartsifier/",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T01:58:33.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "dbce497b64424f23f8f2",
@@ -405,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T01:58:28.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "6d87261e8dce440d61f1",
@@ -416,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T01:55:42.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "b0f32f07be7323dc054e",
@@ -427,18 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T01:36:40.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "9be4293a1a9bad1ee6f2",
-      "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "source": "bfi.uchicago.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T00:53:51.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "3984c021d478f9541e32",
@@ -449,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:53:34.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "c1988a4f03c454b1ae1c",
@@ -460,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:49:10.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "da7b93e6dd5a5954af2b",
@@ -471,7 +548,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T00:48:23.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
+    },
+    {
+      "id": "21e9324ad2191ab59b0f",
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T00:48:16.000Z",
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     },
     {
       "id": "9114f67d16efee4bb6f5",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T00:35:18.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "6eb73f63ff0ede3235e6",
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "source": "cerebras.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T00:28:18.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "7b53881df0751854aabe",
-      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:26:21.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "0e0b4ca51e573886cb5a",
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:17:01.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "397b6936024bb53be9fb",
-      "title": "Trump-backed Byron Donalds to face Democrat David Jolly in race to succeed Florida governor DeSantis",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:08:33.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "d8347e5ca7c603f32b63",
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:07:37.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "4b02d0345f805f76a3d4",
-      "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "59f5f4c03ad565a2d817",
-      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T23:59:43.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
-    },
-    {
-      "id": "086507d579a99587f883",
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T23:51:49.000Z",
-      "discoveredAt": "2026-08-19T05:39:11.196Z"
+      "discoveredAt": "2026-08-19T06:59:54.459Z"
     }
   ]
 }
