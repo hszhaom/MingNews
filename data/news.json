@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:47:59.090Z",
+  "generatedAt": "2026-08-19T03:06:37.853Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,17 @@
   ],
   "stories": [
     {
+      "id": "0ae869618acea9773686",
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T03:00:35.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
       "id": "2e521a531b06f2d4bba8",
       "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
@@ -52,30 +63,129 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-19T01:42:02.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "6d87261e8dce440d61f1",
-      "title": "Florida primaries live: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-19T01:32:43.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "publishedAt": "2026-08-19T02:54:18.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "9a9ae3966db013619ef8",
-      "title": "Australia politics live: One Nation files three years of overdue financial returns hours before deadline",
+      "title": "Australia politics live: Liberal senator to back Pocock’s amendments to ‘fatally flawed’ gambling bill; real wages go backwards",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-19T01:25:53.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "publishedAt": "2026-08-19T02:51:05.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "3f5402091561c22d8373",
+      "title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying” Indigenous people",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T02:46:18.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "ae0e3aace0c2d6cb1c08",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T02:41:36.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "55d502bdd0ce565d7998",
+      "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T02:35:15.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "ded7b2dca1622b5e7d4d",
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "source": "economist.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T02:24:34.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "ed21b88bda8eb0be3333",
+      "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T02:18:25.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "51a3108fc9092f9376fa",
+      "title": "US refineries taking in half of Venezuela’s oil output, official says",
+      "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-19T02:00:43.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "dbce497b64424f23f8f2",
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "source": "openlogi.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T01:58:28.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "6d87261e8dce440d61f1",
+      "title": "Florida primaries: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T01:55:42.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "3bc02c64742477d2bb66",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-19T01:31:15.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
+    },
+    {
+      "id": "ac28b1c17ad57a27e0e0",
+      "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+      "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+      "source": "lithub.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-19T01:22:45.000Z",
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "aa8c28b98f02ee9637b3",
@@ -86,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T01:00:01.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "9be4293a1a9bad1ee6f2",
@@ -97,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T00:53:51.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "3984c021d478f9541e32",
@@ -108,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:53:34.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "c1988a4f03c454b1ae1c",
@@ -119,18 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:49:10.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "da7b93e6dd5a5954af2b",
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T00:48:23.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "9114f67d16efee4bb6f5",
@@ -141,18 +240,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T00:35:18.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "6eb73f63ff0ede3235e6",
-      "title": "Cerebras CS4",
+      "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
       "source": "cerebras.ai",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-19T00:28:18.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "7b53881df0751854aabe",
@@ -163,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T00:26:21.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "0e0b4ca51e573886cb5a",
@@ -174,18 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:17:01.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "21f1847146b0f479238d",
-      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
-      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-      "source": "konstantintkachuk.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T00:11:35.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "397b6936024bb53be9fb",
@@ -196,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T00:08:33.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "d8347e5ca7c603f32b63",
@@ -207,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T00:07:37.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "4b02d0345f805f76a3d4",
@@ -218,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "6e6af1109229e1d81db8",
@@ -229,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:59:56.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "59f5f4c03ad565a2d817",
@@ -240,18 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T23:59:43.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "ae9ff81d78c6e4280d28",
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc/",
-      "source": "modelmap.cc",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-18T23:57:36.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "086507d579a99587f883",
@@ -262,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T23:51:49.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "c641de733b2549a0a4ba",
@@ -273,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T23:45:16.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "311125791294d2a2ab37",
@@ -284,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:32:53.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "2d26570b14edb9416ecb",
@@ -295,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T23:01:03.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "85c1da109a7124e8be7f",
@@ -306,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T22:55:50.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "fefea72178d304c30c09",
@@ -317,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "abfd45e3826bd625eda1",
@@ -328,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:30:02.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "f1f07dab4d198ae8e688",
@@ -339,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:25:46.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "aaa6b2ac623a508f92cd",
@@ -350,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:23:44.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "8224fd888a8e053aa2e0",
@@ -361,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:21:59.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "e213f6a78e54f4e647f6",
@@ -372,18 +449,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:18:50.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "7a3ac8f24e1e86f83238",
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:11:07.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "2945203a1fdaa46fd889",
@@ -394,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-18T22:10:48.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "75bb8d6c5587bf665d9f",
@@ -405,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "8cf057cfa71fed3220f4",
@@ -416,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:50:43.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "9d46ade5d1942892b74e",
@@ -427,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-18T21:50:33.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "feba1c4bb0a57e1e0cf6",
@@ -438,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:47.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "e07e6336bdc412a58c00",
@@ -449,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:26:07.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "5ed9026458adee14c264",
@@ -460,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:25:06.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "a715efeef631addfe924",
@@ -471,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:24:52.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "605494544a4ec7a3de5e",
@@ -482,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:59.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     },
     {
       "id": "d9976fa4f228907e6a04",
@@ -493,84 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-18T21:03:04.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "8cc9f2fb040e4e78bb8c",
-      "title": "WHO: Ebola can be contained in months if enough funding is provided",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:53:44.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "ca176919756a9e595d85",
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:48:09.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "f1c229e91b1ba4b36430",
-      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:45:42.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "c53d52253774df96d820",
-      "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:41:50.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "9c00e152f0241b5e9558",
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:39:36.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "33c76bd22a76baae74e0",
-      "title": "Liberia to take 1,200 deportees from the US",
-      "url": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:39:15.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
-    },
-    {
-      "id": "e69ede4aabb35e72bd89",
-      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-18T20:27:44.000Z",
-      "discoveredAt": "2026-08-19T01:47:59.090Z"
+      "discoveredAt": "2026-08-19T03:06:37.853Z"
     }
   ]
 }
