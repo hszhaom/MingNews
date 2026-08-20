@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:58:53.381Z",
+  "generatedAt": "2026-08-20T13:05:53.709Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -52,19 +52,118 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T11:43:09.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "publishedAt": "2026-08-20T12:59:49.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
-      "id": "be37e52efb69b1275bf9",
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "source": "franciscotrindade.me",
+      "id": "a80178730dcde5f9e02d",
+      "title": "‘Republicans ran up the tab’: Democrats outraged over $40tn national debt – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:58:13.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "56c66716693c6c3d38fe",
+      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:55:20.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "cadc94681732a0a4b489",
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:54:48.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "a47281cb624fe5198ebf",
+      "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
+      "url": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:47:18.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "2792479260fc67bf587d",
+      "title": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
+      "url": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:40:04.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "78fe4951cb56808e1870",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:38:35.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "e5b0b10a12d945d70bed",
+      "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
+      "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:34:11.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "2f9a189daaaaf4aad068",
+      "title": "GCSE results: girls still ahead but gender gap narrows as hundreds of thousands of pupils receive grades – as it happened",
+      "url": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:26:10.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "71f92317418cf6e952f7",
+      "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:21:52.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "cba58727ea88e064aba5",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "source": "simedw.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-20T11:42:20.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "publishedAt": "2026-08-20T12:04:38.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "ceb35d6e2efa6da690c7",
@@ -74,8 +173,52 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T11:38:54.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "publishedAt": "2026-08-20T12:03:39.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "91d738124898412070b4",
+      "title": "Bangladesh’s government under pressure as youth demand jobs",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T11:49:36.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "bf923ef4544521fbcda0",
+      "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+      "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T11:48:18.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "503d0ad39e68c5e5c012",
+      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
+      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T11:45:21.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "36a872c6ecbf62a20dea",
+      "title": "Israel is betting on Islamophobia to save its standing in the West",
+      "url": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T11:44:15.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "9eab25c90775e3da5e76",
@@ -86,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:33:44.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "30120e6ffb4ae2cfb2b1",
@@ -97,40 +240,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T11:30:18.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "a80178730dcde5f9e02d",
-      "title": "‘Republicans ran up the tab’: Democrats outraged over $40tn national debt – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:29:25.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "2f9a189daaaaf4aad068",
-      "title": "GCSE results: girls still ahead but gender gap narrows as hundreds of thousands of pupils receive grades – latest updates",
-      "url": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:28:29.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "2c10ef71d5a86ca1ea24",
-      "title": "GCSE results: almost one in four boys in England get top grades in maths",
-      "url": "https://www.theguardian.com/education/2026/aug/20/gcse-results-almost-one-in-four-boys-in-england-get-top-grades-in-maths",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:21:51.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "d76a1e5a4d9c99ae8d47",
@@ -141,18 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:21:50.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "cadc94681732a0a4b489",
-      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:16:47.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "19f95d39c2c270ab2124",
@@ -163,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:08:19.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "45875f72c806688ef69f",
@@ -174,7 +273,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:06:54.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "3610856e0c1fd406f401",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "source": "research.google",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T11:03:29.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "a49d2fc859cdd58ff9ba",
@@ -185,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "3231b4985fdf476dc59a",
@@ -196,18 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:41:25.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "6076ffadc1e81fdf6062",
-      "title": "If this is true, the hyperscalers are toast",
-      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-      "source": "klementoninvesting.substack.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T10:38:06.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "f1e0646321eaa3d59d04",
@@ -218,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:32:31.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "36163183dadc029038a5",
@@ -229,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:30:52.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "58cf86bd0883486fa63a",
@@ -240,18 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:25:29.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
-      "id": "a47281cb624fe5198ebf",
-      "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
-      "url": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T10:20:04.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "id": "beb13dba8a15b4ffcb37",
+      "title": "Risk Engineering",
+      "url": "https://risk-engineering.org/",
+      "source": "risk-engineering.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T10:18:58.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "16f9a0274f9d4a13b4e4",
@@ -262,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T10:16:08.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "b1a13a8b3c7e7745f0e0",
@@ -273,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:14:47.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "c329814efe7e1121bea8",
@@ -284,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T10:14:30.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "4d2c69fe91798f7293b3",
@@ -295,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T10:08:52.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "56aae09354538e2d9607",
@@ -306,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:07:48.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "93a803267b373acb676a",
@@ -317,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:57:07.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "395a5ab5d52ba7c5f53f",
@@ -328,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:51:31.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "f3bf9de4107c350cc43b",
@@ -339,18 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:34:50.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "41a3e5cbe1d87b94fcda",
-      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-      "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:25:57.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "41402ea065a7baa57c02",
@@ -361,7 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T09:24:45.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "be9ac3e705e84ed6829c",
@@ -372,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:23:42.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "04f0ec094a51362ca7dd",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T09:20:17.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "366bbf987e70e2ea230d",
@@ -394,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:13:18.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "573ded3af7cb15d38c12",
@@ -405,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T09:08:58.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "d8069d349ccd0cf40f01",
@@ -416,18 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T09:01:47.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "eba61c05af98f1a79dcb",
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "511e20e074bbe5613a03",
@@ -438,29 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "1fe2f00272f834d42b41",
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "61f2055a8b5654d8bb2a",
-      "title": "Disabled adults learn and work in their communities. That right is under threat",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "4258fcad2cf4f2f25436",
@@ -471,7 +526,40 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "1fe2f00272f834d42b41",
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "eba61c05af98f1a79dcb",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
+    },
+    {
+      "id": "61f2055a8b5654d8bb2a",
+      "title": "They grew up with disability rights. Now, they're fighting to keep them",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     },
     {
       "id": "57dd36ef822651ae9861",
@@ -482,95 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T08:52:29.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "aadb1312c321d35a291d",
-      "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
-      "url": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:51:39.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "155af2daa705698d3104",
-      "title": "Tech billionaires push back against proposed wealth tax in California",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:45:47.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "485220188203c1ae7690",
-      "title": "Are ships through more willing to defy Iran or the US? What the data shows",
-      "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:43:17.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "33020eac2fa54a62782a",
-      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:27:55.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "433fcd5a364944820274",
-      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:24:04.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "22bc845755c614ff892f",
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "source": "dontpastetheai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T08:20:44.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "475d2dff673b83d09c89",
-      "title": "Video shows Russian missile strike on Ukrainian capital",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:18:15.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
-    },
-    {
-      "id": "d426888d4c5e880d25e5",
-      "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:16:47.000Z",
-      "discoveredAt": "2026-08-20T11:58:53.381Z"
+      "discoveredAt": "2026-08-20T13:05:53.709Z"
     }
   ]
 }
