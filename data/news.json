@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T03:06:00.908Z",
+  "generatedAt": "2026-08-20T03:55:23.526Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -52,19 +52,30 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T02:59:43.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "publishedAt": "2026-08-20T03:42:52.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
-      "id": "3539b8d2a4c0173c84aa",
-      "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+      "id": "9eab25c90775e3da5e76",
+      "title": "Kyiv comes under Russian missile attack, killing at least six",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T02:54:48.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "publishedAt": "2026-08-20T03:38:25.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "f019fe358e1e7ca4f24b",
+      "title": "Two 17-year-olds from Sydney private school among three charged over alleged rape of teenage girl",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:29:40.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "366bbf987e70e2ea230d",
@@ -74,8 +85,85 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T02:16:49.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "publishedAt": "2026-08-20T03:22:57.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "05c8e9f3f41df747bfde",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:16:22.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "336996e1a9db79bbc028",
+      "title": "Impassioned Jacqui Lambie reveals health struggle as she condemns Labor’s ‘callous disregard for veterans’",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/jacqui-lambie-prolapse-emotional-speech-female-veterans-cap",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:14:02.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "257ef6a3f45c71d35a07",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:12:07.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "aff80ae785d90d73ff8a",
+      "title": "Canada and US say they are finalising a trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:10:48.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "19f95d39c2c270ab2124",
+      "title": "Former Liberian vice president charged in drug-trafficking probe",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:09:24.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "3539b8d2a4c0173c84aa",
+      "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T03:09:01.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
+    },
+    {
+      "id": "bd856578665015c9b36d",
+      "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T02:50:17.000Z",
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "cb9afc2f3b90f615041f",
@@ -86,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T02:16:17.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "7ea64fd883ad7099ce32",
@@ -97,7 +185,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T02:05:20.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "110e85ac86c82a063238",
@@ -108,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T01:56:41.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "e629b9ea74f2c151869b",
@@ -119,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T01:55:29.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "78f736af2d22245bc140",
@@ -130,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T01:51:37.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "6c2db7e94e547a12b723",
@@ -141,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T01:37:08.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "766e85846204022f1dcf",
@@ -152,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T01:29:12.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "a118aef5efe0cb216a10",
@@ -163,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T01:28:29.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "03a12038083d581ca2bc",
@@ -174,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T00:57:42.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "36163183dadc029038a5",
@@ -185,18 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T00:53:20.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "257ef6a3f45c71d35a07",
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T00:48:57.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "c52054fbac8bbce37e84",
@@ -207,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T00:41:12.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "9b4f7e9ea34823fa57b2",
@@ -218,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T00:35:11.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "bc24714ad111c8332402",
@@ -229,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T00:34:13.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "d35b0cb7f9b2302d9011",
@@ -240,18 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T00:26:59.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "aff80ae785d90d73ff8a",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T00:18:01.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "1ddef95b35e8e138fc67",
@@ -262,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T00:14:17.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "bcd6d39c81b9716c9618",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T00:12:59.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "b1f6d0bddd4a422a620d",
@@ -284,18 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T00:06:05.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "f019fe358e1e7ca4f24b",
-      "title": "Three boys charged over alleged rape of teenage girl in Sydney home",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T00:05:58.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "b972477fc0123572e26e",
@@ -306,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T00:00:00.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "289fbb64a5b1dc4fd8b9",
@@ -317,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:59:16.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "66f62287791d65c79c19",
@@ -328,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:56:47.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "8ca013af45551507d618",
@@ -339,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:55:33.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "bac722a482929e6c8905",
@@ -350,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:51:12.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "93079d370d2b867216e9",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:48:52.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "e32855909616586572fe",
@@ -372,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T23:48:06.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "d76f17ccdfea02eec51a",
@@ -383,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:24:43.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "3587cb80e3070f24820a",
@@ -394,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:21:32.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "f0d4f60ae389f2667bb5",
@@ -405,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-19T23:19:12.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "36f057ec1ddeede0a91d",
@@ -416,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T23:18:32.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "d4685049ef7cbbc642de",
@@ -427,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T23:11:14.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "5397552ab355dc86c9a6",
@@ -438,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T23:01:36.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "a2d7920943eedd8f7f7f",
@@ -449,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T22:39:32.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "09a6d718bd85622ac424",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T22:01:26.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "380ec8965f026d4c03d7",
@@ -471,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T21:35:34.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "3231b4985fdf476dc59a",
@@ -482,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-19T21:32:15.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "45405727d921653b0274",
@@ -493,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-19T21:30:33.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "2939e5a18e23c87f34bc",
@@ -504,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-19T21:27:51.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     },
     {
       "id": "fb4f918c25bbc1686ede",
@@ -515,62 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-19T21:22:17.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "81fc29235d3810b06bad",
-      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-19T21:20:15.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "3c042057ca5b7cce008e",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T21:19:50.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "a8f075e6856ea05230b7",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "source": "os8088.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-19T21:11:31.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "b2d4f472559f01048ada",
-      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T21:10:39.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
-    },
-    {
-      "id": "852a9d59562eec3e9fdb",
-      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-19T21:09:15.000Z",
-      "discoveredAt": "2026-08-20T03:06:00.908Z"
+      "discoveredAt": "2026-08-20T03:55:23.526Z"
     }
   ]
 }
