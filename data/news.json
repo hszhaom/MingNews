@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T14:48:22.984Z",
+  "generatedAt": "2026-08-20T15:43:40.623Z",
   "sources": [
     {
       "id": "gdelt",
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "711ba274ae65291264f6",
-      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-      "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T14:40:51.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "id": "cd5d17946e93023b166d",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T15:29:52.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "09523f683853cee9bea6",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T15:26:02.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "a80178730dcde5f9e02d",
@@ -63,8 +74,173 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T14:40:42.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "publishedAt": "2026-08-20T15:25:17.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "cadc94681732a0a4b489",
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:21:52.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "c42961ece8840f46f28c",
+      "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+      "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:21:38.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "9991203ec0b78b1d57a0",
+      "title": "Stars and Stripes publisher could be fired before planned retirement, sources say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/stars-and-stripes-publisher-firing-uss-abraham-lincoln",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:18:58.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "87c0010b065c40014ca0",
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:18:21.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "e598167ab19930cbadad",
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:16:44.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "e55f74633d470736f70b",
+      "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+      "url": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:08:16.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "e075608cb62b50705fda",
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:07:57.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "71cde8506c0e487354a5",
+      "title": "UK politics: Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:04:44.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "b094395d596f9d568cad",
+      "title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:00:54.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "7d2d7d1ea8c7f735da72",
+      "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:00:43.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "94984ee30bd12da660ca",
+      "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "e19ddde457d6c5e24584",
+      "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T14:57:25.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "1b2a9563e99bb74cccfd",
+      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+      "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T14:55:47.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "a8e3c1c8bda245ea57b2",
+      "title": "Governments brace for historic El Nino impacts on global weather extremes",
+      "url": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T14:45:55.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
+    },
+    {
+      "id": "711ba274ae65291264f6",
+      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+      "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T14:40:51.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "08ab98f38e59aead00f0",
@@ -75,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T14:36:41.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "e692b5ae80b57d9c79bc",
@@ -86,40 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T14:36:35.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "71cde8506c0e487354a5",
-      "title": "Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T14:34:56.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "e075608cb62b50705fda",
-      "title": "At least 13 workers killed in landslide at Colombian gold mine",
-      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T14:34:15.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "ad375fd86a353f24e03e",
-      "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
-      "url": "https://www.bbc.com/news/articles/clyq011414eo",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T14:18:16.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "3f1ef0e65ac6c187f708",
@@ -130,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T14:14:39.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "f9d03dc39d91c42f4dc1",
@@ -141,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T14:13:34.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "dee94a9dd5edec1c5e8e",
@@ -152,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T14:10:01.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "acf4cd57263162cdc871",
@@ -163,40 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T14:08:09.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "e19ddde457d6c5e24584",
-      "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T14:06:32.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "2841680f52abfa37853f",
-      "title": "Stwipe Acquires OpenWouter",
-      "url": "https://stwipe.com/",
-      "source": "stwipe.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T14:04:46.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "cadc94681732a0a4b489",
-      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T14:04:14.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "ca6670353723e3d8ec94",
@@ -207,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T14:00:57.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "170c747e3f72806959f3",
@@ -218,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T14:00:54.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "abdaab3b91cc1a2dee53",
@@ -229,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T13:56:59.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "45875f72c806688ef69f",
@@ -240,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T13:56:25.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "a895fdda8440cb6e2cea",
@@ -251,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:39:38.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "a741a1d4684ca0b84d35",
@@ -262,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:32:55.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "ffb2d30bbc94ba4a07c8",
@@ -273,18 +383,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T13:24:32.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "36970f46cf3c61815984",
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "source": "safedep.io",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T13:23:12.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "ead138000f17702cc3a5",
@@ -295,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:18:35.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "08edad8fd9da745ac324",
@@ -306,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:18:31.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "30b4053a553d1b3cabab",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:14:14.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "9eb9ba82af8cc7ff1595",
@@ -328,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:13:24.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "9ee98805837c2237594e",
@@ -339,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:10:50.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "febb33b97a0715092e62",
@@ -350,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T13:05:05.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "d5ca7e36dcb555e48e29",
@@ -361,29 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T13:04:15.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "7cbc5d68df1972627390",
-      "title": "This California town booted out its leaders – what happens if they refuse to leave?",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/california-avenal-council-election-recall-crisis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T13:00:53.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "e47276d30883161ff826",
-      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
-      "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-      "source": "therevelator.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T12:58:31.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "053ac62ad353ce53521e",
@@ -394,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T12:57:33.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "f658afa7c64743806bcb",
@@ -405,18 +493,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T12:55:30.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
-      "id": "56c66716693c6c3d38fe",
-      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T12:55:20.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "id": "dc9fcaafe4d2b44e7ff0",
+      "title": "Xorg-Server 26.0.99.901",
+      "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+      "source": "lists.x.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T12:50:16.000Z",
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "b2f0e04c512365fd8569",
@@ -427,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T12:46:35.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "78fe4951cb56808e1870",
@@ -438,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:38:35.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "e5b0b10a12d945d70bed",
@@ -449,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:34:11.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "71f92317418cf6e952f7",
@@ -460,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:21:52.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "cba58727ea88e064aba5",
@@ -471,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T12:04:38.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     },
     {
       "id": "ceb35d6e2efa6da690c7",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:03:39.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "91d738124898412070b4",
-      "title": "Bangladesh’s government under pressure as youth demand jobs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:49:36.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "bf923ef4544521fbcda0",
-      "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-      "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:48:18.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "503d0ad39e68c5e5c012",
-      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
-      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:45:21.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "36a872c6ecbf62a20dea",
-      "title": "Israel is betting on Islamophobia to save its standing in the West",
-      "url": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:44:15.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "9eab25c90775e3da5e76",
-      "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:33:44.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "30120e6ffb4ae2cfb2b1",
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:30:18.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "d76a1e5a4d9c99ae8d47",
-      "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:21:50.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
-    },
-    {
-      "id": "19f95d39c2c270ab2124",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T11:08:19.000Z",
-      "discoveredAt": "2026-08-20T14:48:22.984Z"
+      "discoveredAt": "2026-08-20T15:43:40.623Z"
     }
   ]
 }
