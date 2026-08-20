@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T13:05:53.709Z",
+  "generatedAt": "2026-08-20T13:56:29.457Z",
   "sources": [
     {
       "id": "gdelt",
@@ -17,9 +17,9 @@
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
-      "status": "fallback",
-      "count": 28,
-      "transport": "native-rss"
+      "status": "ok",
+      "count": 29,
+      "transport": "rsshub"
     },
     {
       "id": "guardian-world",
@@ -31,9 +31,9 @@
     {
       "id": "npr-news",
       "sourceType": "rsshub",
-      "status": "fallback",
+      "status": "ok",
       "count": 10,
-      "transport": "native-rss"
+      "transport": "rsshub"
     },
     {
       "id": "al-jazeera",
@@ -45,26 +45,191 @@
   ],
   "stories": [
     {
+      "id": "a895fdda8440cb6e2cea",
+      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:39:38.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "a741a1d4684ca0b84d35",
+      "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:32:55.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
       "id": "71cde8506c0e487354a5",
-      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+      "title": "Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T12:59:49.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "publishedAt": "2026-08-20T13:30:01.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "cadc94681732a0a4b489",
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:27:05.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "ffb2d30bbc94ba4a07c8",
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T13:24:32.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "36970f46cf3c61815984",
+      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "safedep.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T13:23:12.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "ead138000f17702cc3a5",
+      "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+      "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:18:35.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "08edad8fd9da745ac324",
+      "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+      "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:18:31.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "30b4053a553d1b3cabab",
+      "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:14:14.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "9eb9ba82af8cc7ff1595",
+      "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:13:24.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "a80178730dcde5f9e02d",
-      "title": "‘Republicans ran up the tab’: Democrats outraged over $40tn national debt – live",
+      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-20T12:58:13.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "publishedAt": "2026-08-20T13:13:01.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "9ee98805837c2237594e",
+      "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+      "url": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:10:50.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "febb33b97a0715092e62",
+      "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+      "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:05:05.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "d4d53760b26e43c10c8d",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:04:15.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "7cbc5d68df1972627390",
+      "title": "This California town booted out its leaders – what happens if they refuse to leave?",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/california-avenal-council-election-recall-crisis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T13:00:53.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "053ac62ad353ce53521e",
+      "title": "Migrant women face sexual assault in Ceuta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/migrant-women-face-sexual-assault-in-ceuta?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:57:33.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "f658afa7c64743806bcb",
+      "title": "FIFA’s Infantino under threat of no-confidence vote by regional bodies",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:55:30.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "56c66716693c6c3d38fe",
@@ -75,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:55:20.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "cadc94681732a0a4b489",
-      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T12:54:48.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "a47281cb624fe5198ebf",
@@ -97,7 +251,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:47:18.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
+    },
+    {
+      "id": "b2f0e04c512365fd8569",
+      "title": "Alarms blare in South Korea during annual air raid defence drill",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-20T12:46:35.000Z",
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "2792479260fc67bf587d",
@@ -108,18 +273,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:40:04.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "78fe4951cb56808e1870",
+      "id": "0236e9d04b08084e8b32",
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:38:35.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "e5b0b10a12d945d70bed",
@@ -130,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:34:11.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "2f9a189daaaaf4aad068",
@@ -141,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:26:10.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "71f92317418cf6e952f7",
@@ -152,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:21:52.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "cba58727ea88e064aba5",
@@ -163,7 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T12:04:38.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "ceb35d6e2efa6da690c7",
@@ -174,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T12:03:39.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "91d738124898412070b4",
@@ -185,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:49:36.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "bf923ef4544521fbcda0",
@@ -196,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:48:18.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "503d0ad39e68c5e5c012",
@@ -207,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:45:21.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "36a872c6ecbf62a20dea",
@@ -218,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:44:15.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "9eab25c90775e3da5e76",
@@ -229,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:33:44.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "30120e6ffb4ae2cfb2b1",
@@ -240,7 +405,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-20T11:30:18.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "d76a1e5a4d9c99ae8d47",
@@ -251,29 +416,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:21:50.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "19f95d39c2c270ab2124",
+      "id": "d49becd8c4b9fcd1d0e6",
       "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:08:19.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "45875f72c806688ef69f",
+      "id": "3cc4887a73697f56edc7",
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T11:06:54.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "3610856e0c1fd406f401",
@@ -284,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T11:03:29.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "a49d2fc859cdd58ff9ba",
@@ -295,40 +460,40 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T11:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "3231b4985fdf476dc59a",
+      "id": "15c2eb53b7f01fffce3c",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:41:25.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "f1e0646321eaa3d59d04",
+      "id": "d5afe94b6df71640bc9d",
       "title": "Four workers dead after being hit by train in Japan",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:32:31.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "36163183dadc029038a5",
+      "id": "8385b790d43a962f3583",
       "title": "Israel opens up bids for highly sensitive West Bank settlement project",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:30:52.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "58cf86bd0883486fa63a",
@@ -339,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:25:29.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "beb13dba8a15b4ffcb37",
@@ -350,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T10:18:58.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "16f9a0274f9d4a13b4e4",
@@ -361,18 +526,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T10:16:08.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "b1a13a8b3c7e7745f0e0",
+      "id": "7cc521f205acee89fa0a",
       "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:14:47.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "c329814efe7e1121bea8",
@@ -383,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T10:14:30.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
       "id": "4d2c69fe91798f7293b3",
@@ -394,183 +559,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T10:08:52.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     },
     {
-      "id": "56aae09354538e2d9607",
+      "id": "d7addd86f3d7e0bdc665",
       "title": "Ex-Zambian minister killed in security raid on opposition",
-      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T10:07:48.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "93a803267b373acb676a",
-      "title": "Israel admits its soldiers opened fire at car carrying five-year-old Hind Rajab | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/first-thing-israel-admits-its-soldiers-opened-fire-at-car-carrying-five-year-old-hind-rajab",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:57:07.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "395a5ab5d52ba7c5f53f",
-      "title": "From ‘elation’ to ‘terrible news’ in 10 minutes: how the confusion over missing bushwalker Lily Hooper unfolded",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:51:31.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "f3bf9de4107c350cc43b",
-      "title": "Missing teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:34:50.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "41402ea065a7baa57c02",
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:24:45.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "be9ac3e705e84ed6829c",
-      "title": "Drug-dealing, makeshift weapons and a ‘culture of fear’ at Villawood detention centre, report warns",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/villawood-detention-centre-conditions-report-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:23:42.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "04f0ec094a51362ca7dd",
-      "title": "How conflict is making life more expensive for Iranians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:20:17.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "366bbf987e70e2ea230d",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:13:18.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "573ded3af7cb15d38c12",
-      "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-      "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:08:58.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "d8069d349ccd0cf40f01",
-      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
-      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:01:47.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "511e20e074bbe5613a03",
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "4258fcad2cf4f2f25436",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "1fe2f00272f834d42b41",
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "eba61c05af98f1a79dcb",
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "61f2055a8b5654d8bb2a",
-      "title": "They grew up with disability rights. Now, they're fighting to keep them",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
-    },
-    {
-      "id": "57dd36ef822651ae9861",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T08:52:29.000Z",
-      "discoveredAt": "2026-08-20T13:05:53.709Z"
+      "discoveredAt": "2026-08-20T13:56:29.457Z"
     }
   ]
 }
