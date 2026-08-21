@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T07:02:03.294Z",
+  "generatedAt": "2026-08-21T07:52:39.766Z",
   "sources": [
     {
       "id": "gdelt",
@@ -17,9 +17,9 @@
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
-      "status": "fallback",
-      "count": 29,
-      "transport": "native-rss"
+      "status": "ok",
+      "count": 31,
+      "transport": "rsshub"
     },
     {
       "id": "guardian-world",
@@ -31,9 +31,9 @@
     {
       "id": "npr-news",
       "sourceType": "rsshub",
-      "status": "fallback",
+      "status": "ok",
       "count": 10,
-      "transport": "native-rss"
+      "transport": "rsshub"
     },
     {
       "id": "al-jazeera",
@@ -45,15 +45,15 @@
   ],
   "stories": [
     {
-      "id": "06abd8a608bcfc191734",
-      "title": "We’ll never be royals: the California town where Prince Harry and Meghan lived says goodbye",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan",
-      "source": "The Guardian",
+      "id": "b84ec3505a651348a8a8",
+      "title": "El Niño set to be &#39;strongest in living memory&#39;, says Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T07:00:28.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "publishedAt": "2026-08-21T07:43:30.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "909145401ea37628f98a",
@@ -63,19 +63,96 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T06:55:38.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "publishedAt": "2026-08-21T07:34:43.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "413dea5c13425da9e362",
+      "id": "08752fb840253eb99d28",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "source": "remapradio.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T07:23:27.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "db5e45816e5e92d1ea24",
+      "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
+      "url": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T07:12:54.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "7945dd9ed98cb71f8d1c",
+      "title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T07:11:46.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "dfaf5f3b3a815bf30676",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T07:06:16.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "06abd8a608bcfc191734",
+      "title": "We’ll never be royals: the California town where Prince Harry and Meghan lived says goodbye",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T07:00:28.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "f72ba3377b6d1c49d19c",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "source": "encore.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T06:59:40.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "96d6be955d3daf2da85c",
+      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+      "url": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T06:56:19.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "d290c8e9be13726c91b4",
       "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T06:46:08.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "d2f9364d45fdacc23771",
@@ -86,18 +163,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T06:41:33.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "526b783d052b9cc02624",
-      "title": "'Survival mode': Indiana residents endure a ninth day without power",
+      "title": "&#39;Survival mode&#39;: Indiana residents endure a ninth day without power",
       "url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T06:40:26.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "6fb90239b53534f85b01",
@@ -108,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T06:34:11.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "e50a0fbf3b3872fbdc0e",
@@ -119,18 +196,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T06:06:54.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "917d0398e5d7e0419239",
-      "title": "Israeli settler attacks shift to heart of territory earmarked for Palestinian state",
+      "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
       "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T06:00:26.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "4209096845207a82cc63",
@@ -141,29 +218,29 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T05:49:48.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "3231ffb9e3b1cd0d38ac",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "id": "c72bdeee7eb8928b8f5c",
+      "title": "Hong Kong&#39;s Tiananmen activists guilty in national security trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T05:47:32.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "a2366782170fef1d8a68",
-      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+      "title": "Jurors hear &#39;Keffe D&#39; say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T05:41:15.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "3ff60315c57bf02ceb4f",
@@ -174,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T05:39:39.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "2070d62298904ed264de",
@@ -185,18 +262,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T05:31:34.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "7fbc99ead62cc9867262",
+      "id": "ecb8933c4691692694f4",
       "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T05:30:18.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "cf306dc943967fddd4e3",
@@ -207,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T05:02:52.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "8f53f08075909ea2f113",
@@ -218,7 +295,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T05:01:25.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
+    },
+    {
+      "id": "08a9f48e269de635488a",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T05:00:57.000Z",
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "7f5821f5ed8b9dc99a34",
@@ -229,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T05:00:25.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "e8d3b4b141ba768bff53",
@@ -240,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T04:54:01.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "0fb1a7489a66bb84a361",
@@ -251,18 +339,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T04:47:56.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "eb73c409a98c6c4196c7",
+      "id": "d311e572a52e944aee5f",
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T04:27:13.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "f0024114997029d1de7e",
@@ -273,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T04:12:08.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "dcc2644528fdd78114c5",
@@ -284,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T04:00:25.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "2b7fd61382445a9c264f",
@@ -295,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T04:00:24.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "d84ad7c22abc179bee83",
@@ -306,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T03:50:15.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "444de06efdb002eb1495",
@@ -317,29 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T03:28:02.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "2204ba57be324ff739c0",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T03:17:43.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "7be96c31445db4aece10",
-      "title": "Alleged rapist arrested after returning to Brisbane crime scene that night, police say",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/alleged-rapist-arrested-after-returning-to-brisbane-scene-police-say-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T03:14:19.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "1b088c03d4e3a53e1395",
@@ -350,29 +416,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T03:08:09.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "747defcf611b60237ede",
+      "id": "27a8662b87d56bf2eef5",
       "title": "Japan executes man who killed five in Pachinko parlour fire",
-      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T02:49:27.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "f2f548552624a6a8e7f9",
+      "id": "acc16f41cf9ff3cc7860",
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T02:33:27.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "c0cb3840a88b61bc0c02",
@@ -383,18 +449,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T02:11:33.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
-      "id": "3a722af563660550679b",
+      "id": "76bcd602c314b359edc7",
       "title": "US sanctions more Cuban companies and officials",
-      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T02:06:28.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "a80178730dcde5f9e02d",
@@ -405,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T01:51:26.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "2a14b2006c3c8a03c335",
@@ -416,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T01:38:37.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "e5019b78cee03ca693ae",
@@ -427,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T01:12:02.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "6c7a2374efc94c0a1837",
@@ -438,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T01:11:39.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "223c69c322bf496f1762",
@@ -449,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T01:06:30.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "6a498a13496ab39f1add",
@@ -460,29 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T00:44:46.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "07ca21740f8fa834b09b",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T00:33:21.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "11420ee9c5978f87e4e6",
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "source": "jacob.gold",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T00:28:37.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "a5af8b15bebcbd8abeab",
@@ -493,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:24:56.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "553ffe5b6cb2a1fb5cbb",
@@ -504,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:23:47.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "4724e2bd8592f33dc705",
@@ -515,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:13:47.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     },
     {
       "id": "cabd10be312c253467f4",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T00:12:37.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "0a6915ad1ab7beaa1735",
-      "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T00:04:10.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "96ff8e85008fea21c28a",
-      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "f84cbbf9d5e402e9cb34",
-      "title": "Ox Alpha",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "source": "openrouter.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T23:56:35.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
-    },
-    {
-      "id": "aa4a06de328a87e9b9dd",
-      "title": "Why Nigeria's one-time political giant may face extinction",
-      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T23:21:22.000Z",
-      "discoveredAt": "2026-08-21T07:02:03.294Z"
+      "discoveredAt": "2026-08-21T07:52:39.766Z"
     }
   ]
 }
