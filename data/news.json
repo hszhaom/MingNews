@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T20:35:22.354Z",
+  "generatedAt": "2026-08-21T20:56:41.760Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,39 @@
   ],
   "stories": [
     {
+      "id": "07a53490b13ac9948fa1",
+      "title": "One killed in sword attack at Swedish school",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T20:56:19.000Z",
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
+    },
+    {
+      "id": "79ec1b7c8628bb5debb5",
+      "title": "Tunisian protesters call for President Kais Saied to step down",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T20:35:07.000Z",
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
+    },
+    {
+      "id": "5f155aba934f1f249e72",
+      "title": "Can a humanitarian disaster be averted in Somalia?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T20:27:14.000Z",
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
+    },
+    {
       "id": "a38c008a23be1b044518",
       "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
@@ -53,7 +86,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T20:16:59.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "973927434ef337a31282",
@@ -64,7 +97,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T20:12:33.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "82eb42e4444ebdfacb1d",
@@ -75,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T20:07:40.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "f53a6b20595e3995a4f3",
@@ -86,7 +119,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T20:05:32.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "fe4470cc56774c9e97ec",
@@ -97,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T20:03:35.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "f01c5777848a516f2cd3",
@@ -108,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:52:34.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "2d20e68bd42ce2dbce89",
@@ -119,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T19:51:48.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "283e888a5540d959285b",
@@ -130,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:50:49.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "d8cfd88b4fd70dac16ca",
@@ -141,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:49:56.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "c240dd6c3b5ba6cb0251",
@@ -152,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:48:13.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "1dbf2b2e7c3d13413ad6",
@@ -163,7 +196,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:42:51.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
+    },
+    {
+      "id": "e6098a650b9132083911",
+      "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
+      "url": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
+      "source": "wespiser.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T19:35:17.000Z",
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "1199e1e3a50355a2cd69",
@@ -174,7 +218,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:34:27.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
+    },
+    {
+      "id": "9e36b3cb1727bbc55b4b",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T19:31:47.000Z",
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "a5f8bb6954879ae5b0fa",
@@ -185,18 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:29:20.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
-    },
-    {
-      "id": "07a53490b13ac9948fa1",
-      "title": "One killed in sword attack at Swedish school",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T19:22:05.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "c3f18ab588d09daad777",
@@ -207,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:21:08.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "1f1a6beb3907be17cf3d",
@@ -218,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:20:17.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "0fa121f667c3fbe96e42",
@@ -229,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:16:26.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "48509d8e86eb2cf36e3e",
@@ -240,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:14:42.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "4db9d0774aa2ad2b8e87",
@@ -251,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:14:07.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "904aa49928ed963d1eb2",
@@ -262,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T19:08:30.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "d38d2bb766ffeae6983c",
@@ -273,18 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T19:00:42.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
-    },
-    {
-      "id": "9d70b9e9fa4c2e147294",
-      "title": "Tumble Forth – from assembly to OS with C compiler",
-      "url": "https://tumbleforth.hardcoded.net/",
-      "source": "tumbleforth.hardcoded.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T18:59:52.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "fe1d9b21e9cefd3e529b",
@@ -295,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T18:55:22.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "f034ee1587ce0876cae1",
@@ -306,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T18:48:28.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "f0d3e16bd4b1f7b014cb",
@@ -317,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T18:47:48.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "ef7f5f1bdc061566c271",
@@ -328,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T18:40:21.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "44ae2f890a98465c0ab9",
@@ -339,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T18:40:11.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "46b6a8516986c3e13d89",
@@ -350,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T18:36:34.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "6d0344efa8476986894d",
@@ -361,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T18:29:31.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "deaeb0e671f5c9db82b4",
@@ -372,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T18:27:15.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "e7753ca81d6fc6d656ef",
@@ -383,18 +416,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T18:25:40.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "b813b2d7ca12285c290e",
-      "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
       "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T18:17:40.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "639363791bdb2c9becea",
@@ -405,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T18:09:38.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "29a88a6f6de997721ee7",
@@ -416,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T18:07:51.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "a72d2165fd6a59d3b26e",
@@ -427,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T17:58:22.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "28f7a2f2cd539d321920",
@@ -438,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T17:52:08.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "ac8e73d168bcd9264176",
@@ -449,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T17:38:06.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "8160b38efff1bc9622b9",
@@ -460,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T17:29:17.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "ce997c55155b28d38d42",
@@ -471,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T17:17:55.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "f21581eecfcd82f3324e",
@@ -482,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:58:28.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "2ee469df12f5c4618596",
@@ -493,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:53:57.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "041c5e0a406465920d08",
@@ -504,7 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T16:40:59.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "ec83772e8d43780b0b27",
@@ -515,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:38:15.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "b728dfb84c599caab4b6",
@@ -526,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:27:32.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     },
     {
       "id": "9027ea879e4273923f27",
@@ -537,40 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:26:53.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
-    },
-    {
-      "id": "acd943a5b9656967c52b",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "source": "bandarlabs.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T16:25:25.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
-    },
-    {
-      "id": "12497ba04804083322dc",
-      "title": "England thrash Pakistan by an innings and 103 runs in first Test",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T16:24:39.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
-    },
-    {
-      "id": "b7fbfe418d874ea221b7",
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T16:20:55.000Z",
-      "discoveredAt": "2026-08-21T20:35:22.354Z"
+      "discoveredAt": "2026-08-21T20:56:41.760Z"
     }
   ]
 }
