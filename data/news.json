@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T01:52:05.608Z",
+  "generatedAt": "2026-08-21T03:11:47.529Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,103 @@
   ],
   "stories": [
     {
-      "id": "a80178730dcde5f9e02d",
-      "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "source": "The Guardian",
+      "id": "3231ffb9e3b1cd0d38ac",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T01:42:12.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "publishedAt": "2026-08-21T02:59:46.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "909145401ea37628f98a",
-      "title": "Australia news live: Catholic Schools NSW chief executive Dallas McInerney sacked after Icac appearance; Brethren church denies paying far-right activists",
+      "title": "Australia news live: Brethren church denies paying far-right activists; Russian dual citizen charged with alleged foreign interference",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T01:38:44.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "publishedAt": "2026-08-21T02:57:39.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "444de06efdb002eb1495",
+      "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
+      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T02:45:42.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "f2f548552624a6a8e7f9",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T02:33:27.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "e50a0fbf3b3872fbdc0e",
+      "title": "Catholic Schools NSW boss sacked after appearance at Icac inquiry into alleged Liberal party corruption",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/catholic-schools-nsw-ceo-dallas-mcinerney-sacked-after-icac-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T02:17:39.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "c0cb3840a88b61bc0c02",
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T02:11:33.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "3a722af563660550679b",
+      "title": "US sanctions more Cuban companies and officials",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T02:06:28.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "a80178730dcde5f9e02d",
+      "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T01:51:26.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "2a14b2006c3c8a03c335",
+      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T01:38:37.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "097de5bfa30003cdab6d",
@@ -75,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T01:16:24.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "e5019b78cee03ca693ae",
@@ -86,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T01:12:02.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "6c7a2374efc94c0a1837",
@@ -97,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T01:11:39.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "223c69c322bf496f1762",
@@ -108,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T01:06:30.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "6a498a13496ab39f1add",
@@ -119,18 +196,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T00:44:46.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
-      "id": "7889a92643fcdad267df",
-      "title": "It is a sign of the times that Amazon gets to call this fair use",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "source": "observationalepidemiology.blogspot.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T00:34:32.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "id": "07ca21740f8fa834b09b",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T00:33:21.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "11420ee9c5978f87e4e6",
@@ -141,7 +218,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T00:28:37.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "a5af8b15bebcbd8abeab",
@@ -152,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:24:56.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "553ffe5b6cb2a1fb5cbb",
@@ -163,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:23:47.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "ac14c9adbb03805e325a",
@@ -174,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T00:15:12.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "4724e2bd8592f33dc705",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T00:13:47.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "cabd10be312c253467f4",
@@ -196,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T00:12:37.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "96ff8e85008fea21c28a",
@@ -207,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T00:00:00.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "f84cbbf9d5e402e9cb34",
@@ -218,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-20T23:56:35.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "aa4a06de328a87e9b9dd",
@@ -229,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T23:21:22.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "5c65f9f80b9b4731e6ec",
@@ -240,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T23:19:56.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "98f589e8fc44c4b9202a",
@@ -251,7 +328,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T23:16:45.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "b0cdae571b32c41f2655",
+      "title": "Why the US economy is ringing alarm bells",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-20T23:15:15.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "6ab3d66b489fc16d621c",
@@ -262,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T23:07:10.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "e1c394857f53ee7a44cd",
@@ -273,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T23:01:15.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "3e04c84e1da03a0cc8b0",
@@ -284,7 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T22:51:51.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
+    },
+    {
+      "id": "cb2878459dd14e6d1c0a",
+      "title": "Detecting scraper bots through scroll behaviour",
+      "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+      "source": "niki.cat",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-20T22:47:52.000Z",
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "b44483fdb883d1efec10",
@@ -295,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T22:45:40.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "eb73c409a98c6c4196c7",
@@ -306,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T22:43:42.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "9eab25c90775e3da5e76",
@@ -317,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-20T22:15:02.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "3dd4009ac7b3a8c0b87c",
@@ -328,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T22:01:26.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "a8ddb6e87180c48c3272",
@@ -339,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T21:18:10.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "f849376110a5b0e685c8",
@@ -350,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T21:03:30.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "09c542a8aefa403a9f13",
@@ -361,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T20:41:31.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "e9b2f9b1d7e82664ab8e",
@@ -372,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:37:25.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "41c5b069b33fecb2354b",
@@ -383,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:36:51.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "f050716136aa15ef6076",
@@ -394,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:32:13.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "cf7251a7d6dae9035ab6",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:28:44.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "5dcccf2a45ef1997d9ce",
@@ -416,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T20:27:36.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "5ddfd8b53d827f054043",
@@ -427,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:27:27.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "645152a36c810bd8b55e",
@@ -438,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:10:42.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "5ce411eaeae770a4ac88",
@@ -449,18 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-20T20:08:29.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "4202cfe045215827ade3",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "source": "blog.curiousquail.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T20:07:26.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "ef2cba1534046e0a8001",
@@ -471,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T20:05:53.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     },
     {
       "id": "dd27fe8dd492f1b7c44f",
@@ -482,95 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-20T19:59:54.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "3edafe5825893e1254c5",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:57:59.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "ae5970c5192a6f47cfdc",
-      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:54:19.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "6f918168f323f96364c8",
-      "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:45:08.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "f77009f354b84931d0f4",
-      "title": "Could US sanctions destroy the International Criminal Court?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:38:29.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "02ed539fac86d3e4ab53",
-      "title": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source": "github.blog",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-20T19:22:24.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "5b2645eddc1533d9eb24",
-      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:22:20.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "580921a054f4a3e8e3e1",
-      "title": "Walmart sees sales drop as US consumer spending retreats",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:18:38.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
-    },
-    {
-      "id": "53cd2d51cf05bb9eb19e",
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-20T19:15:09.000Z",
-      "discoveredAt": "2026-08-21T01:52:05.608Z"
+      "discoveredAt": "2026-08-21T03:11:47.529Z"
     }
   ]
 }
