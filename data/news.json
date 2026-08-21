@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T13:54:42.849Z",
+  "generatedAt": "2026-08-21T14:48:24.013Z",
   "sources": [
     {
       "id": "gdelt",
@@ -17,9 +17,9 @@
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
-      "status": "fallback",
-      "count": 27,
-      "transport": "native-rss"
+      "status": "ok",
+      "count": 30,
+      "transport": "rsshub"
     },
     {
       "id": "guardian-world",
@@ -31,9 +31,9 @@
     {
       "id": "npr-news",
       "sourceType": "rsshub",
-      "status": "fallback",
+      "status": "ok",
       "count": 10,
-      "transport": "native-rss"
+      "transport": "rsshub"
     },
     {
       "id": "al-jazeera",
@@ -52,8 +52,239 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T13:37:10.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "publishedAt": "2026-08-21T14:44:39.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "33d080a98107990262ac",
+      "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:44:08.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "774e17d7aa4bfc25f47b",
+      "title": "Corruption charges dropped against South Africa&#39;s police intelligence boss",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:38:05.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "83cb76a01ab650ec4aaa",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:35:50.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "dbf4bdca32889d76eafc",
+      "title": "Several injured after sword attack at Swedish school",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:32:18.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "193a9c7a66bf903df05a",
+      "title": "Palestine Action ‘Barclays five’ will not be sentenced as terrorists",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/palestine-action-barclays-five-will-not-be-sentenced-as-terrorists",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:30:26.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "cf285649fc4c609671f5",
+      "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
+      "url": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:23:22.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "056012f083f810ab0aa6",
+      "title": "Airbus bows to remote working demands after series of strikes",
+      "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:20:08.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "4f3188b030203999924e",
+      "title": "‘We’re not remotely prepared’: Labour MPs fear party has gone soft on climate crisis",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/labour-mps-fear-party-gone-soft-climate-crisis-andy-burnham",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:19:39.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "93201a1370b9ae703ad5",
+      "title": "Meghan as the next Bond? Five roles that almost certainly don’t lie behind UK return",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/meghan-markle-james-bond-five-roles-may-lie-behind-uk-return",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:18:37.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "ad9c753d2b575e6cf920",
+      "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:18:23.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "4203e95c9ba326e72edf",
+      "title": "First ever Fat Marmot Week to kick off in effort to raise money for research",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/fat-marmot-week-research-funding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:17:55.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "e80589f8af0f53d4f58b",
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:17:17.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "a439eb24a8432587363f",
+      "title": "What We Lost When Search Stopped Making Us Think",
+      "url": "https://blog.8ball.space/what-we-lost-when-search/",
+      "source": "blog.8ball.space",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T14:16:17.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "3de12e8dc1a36561462c",
+      "title": "Burnham to dispatch 100 Whitehall officials to help regional mayors",
+      "url": "https://www.theguardian.com/politics/2026/aug/21/burnham-to-dispatch-100-whitehall-officials-to-help-regional-mayors",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:08:23.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "968488f179c8538f42dc",
+      "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
+      "url": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
+      "source": "runnersworld.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T14:06:34.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "c7c31351f28704a64121",
+      "title": "War on Iran: The US could focus on economically isolating Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:59:28.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "578010e7f32a1bc43265",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog",
+      "source": "kagi.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:56:37.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "452a67623409f061243f",
+      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+      "source": "invertingvision.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:52:53.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "8ca076b278ec5467bf2b",
+      "title": "Several people injured in sword attack at school in Sweden",
+      "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:48:09.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "39704610acfd1a4b0b28",
+      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+      "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:47:26.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "57580fb379a825620572",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:44:43.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "4bbcdbb6ffbfab096b0b",
@@ -64,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:35:17.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "491a11b15cb561cdab1c",
@@ -75,18 +306,73 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:34:53.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
-      "id": "33d080a98107990262ac",
-      "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-      "source": "The Guardian",
+      "id": "372331e8128ff741d0c5",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T13:27:18.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "publishedAt": "2026-08-21T13:32:28.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "b86aedb337ed9a1eb0e0",
+      "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
+      "url": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:30:36.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "9e450c98805f52f9cc05",
+      "title": "Liverpool preview: Five key questions heading into 2026-27 season",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:29:28.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "efbb956de9ae1cbd326e",
+      "title": "Weddings in Gaza offer rare moments of joy amid genocide",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T13:29:19.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "099954dc3e7395f444cb",
+      "title": "What Happens When the Cost of Intelligence Drops 100x",
+      "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+      "source": "catalystneuro.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:24:28.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "b89b4d884a813c58e88b",
+      "title": "Convite",
+      "url": "https://www.guidavid.com/writing/convite",
+      "source": "guidavid.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:21:13.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "b6024395b30855b158b1",
@@ -97,18 +383,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:12:07.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
-      "id": "ddd28b541fd45b0d43f3",
+      "id": "4671a34b716a3c78d556",
+      "title": "I accidentally logged phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "source": "lina.sh",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:11:28.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "dfaf5f3b3a815bf30676",
       "title": "Five missing after fire in Swiss Alpine town",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:10:39.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "b3d4c8057bbde873ecd4",
@@ -119,29 +416,29 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:09:46.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
-      "id": "9cb077c97e64c56d5c5e",
+      "id": "e4fca15e2e699e562705",
+      "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "source": "precastreinforced.co.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T13:07:26.000Z",
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
+    },
+    {
+      "id": "ac7bf8bd97358d633cb8",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:07:00.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "77be52b6ab3c24917daf",
-      "title": "Prince Harry and others ordered to pay interim £9.5m to Daily Mail publisher",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:06:27.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "0915cad2d1f5a76b6e92",
@@ -152,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:04:32.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "050d147f29110f424277",
@@ -163,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:04:31.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "9e49ed29b0ea7dc98dc7",
@@ -174,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:01:54.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "0c7413eaaeb206ef1577",
@@ -185,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:54:44.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "5cb9e0fb436099a85fba",
@@ -196,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:48:17.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "193a9c7a66bf903df05a",
-      "title": "Palestine Action ‘Barclays five’ will not be sentenced as terrorists",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/palestine-action-barclays-five-will-not-be-sentenced-as-terrorists",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:42:26.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "06398ef058dee93dfdc8",
@@ -218,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:32:03.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "fc6c1d8478222425efef",
@@ -229,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T12:25:07.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "8c339c9a23571f1455be",
@@ -240,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:25:04.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "e1e0fc9d514c9cb954c7",
@@ -251,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:17:21.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "3458f4145566aa2fa3ff",
@@ -262,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:12:35.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "e147a1e12074ada65744",
@@ -273,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:08:19.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     },
     {
       "id": "41cf08d3f075848a12a5",
@@ -284,293 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:05:51.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "d2d3ebb7aa48538a9668",
-      "title": "Jamie and Jools Oliver pay themselves £1.5m dividend as profits almost halve",
-      "url": "https://www.theguardian.com/food/2026/aug/21/jamie-oliver-pays-dividend-profits-halve-cookery-school",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:02:48.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "5c9d13938df396e69861",
-      "title": "How a Swedish Palestinian minister raised controversy with Star of David",
-      "url": "https://www.aljazeera.com/news/2026/8/21/how-a-swedish-palestinian-minister-raised-controversy-with-star-of-david?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:01:36.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "c2266a3a02dd1347bb02",
-      "title": "Rise in migrant deaths as 19 bodies found along Arizona border last month",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:00:35.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "a6b1cdf138ab163b6755",
-      "title": "‘It could only have been one person’: top former detective says system failed the murdered journalist Lyra McKee",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/21/lyra-mckee-murder-northern-ireland",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:00:34.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "1a6db402a95c70f9c72b",
-      "title": "Sister of ex-Pakistan PM Khan says he is being tortured in jail",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-clip-imran-khan-sister-pk?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:00:32.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "78fe0650ccbdf54c2956",
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "url": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:57:37.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "55d513b8128809c545e2",
-      "title": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-      "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:57:21.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "825cc28280e6d7fedfef",
-      "title": "I'm Becoming AI-Blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "cymerys.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T11:48:05.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "025bf22b7da20d57e29e",
-      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-      "source": "ixuvo.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T11:43:38.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "e7993143ba8f30e626df",
-      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:42:10.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "056012f083f810ab0aa6",
-      "title": "Airbus bows to remote working demands after series of strikes",
-      "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:37:23.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "e587bbafa100b645d2f9",
-      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:25:10.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "189ff7ee40b930d31521",
-      "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
-      "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:15:54.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "d8c6e505516afba8eced",
-      "title": "Who does the law serve in the occupied West Bank?",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:12:32.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "e462c268438563d88dbf",
-      "title": "US aircraft carrier arrives to relieve USS Lincoln amid reports of poor living conditions | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/first-thing-us-aircraft-carrier-arrives-middle-east-relieve-uss-lincoln",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:08:23.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "a50df963ba6939e0cd7e",
-      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-      "url": "https://github.com/yaroslav/kino",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T11:06:25.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "bbb04398c8a178d183da",
-      "title": "Daily Mail accused of stalking woman mistaken as White Stripes drummer Meg White",
-      "url": "https://www.theguardian.com/music/2026/aug/21/meg-white-daily-mail-white-stripes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T11:00:33.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "99f7869c0fa8e3010751",
-      "title": "Charter plane crash near Alaskan military site kills 8",
-      "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:59:50.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "bf94ac334bd5ccce7a5e",
-      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:59:37.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "620aa1982d2af61f55ee",
-      "title": "Serie A: Key talking points heading into the new 2026-27 season",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:56:43.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "5dcccf2a45ef1997d9ce",
-      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:48:01.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "eb73c409a98c6c4196c7",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:46:09.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "444de06efdb002eb1495",
-      "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
-      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:43:59.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "074ef87072ed7aa8b472",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "source": "api-docs.deepseek.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T10:33:56.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "63d47256db15592d4dea",
-      "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-      "url": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T10:10:52.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
-    },
-    {
-      "id": "b3b7f51fd1dcc7e800ca",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "source": "annas-archive.pk",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T10:05:46.000Z",
-      "discoveredAt": "2026-08-21T13:54:42.849Z"
+      "discoveredAt": "2026-08-21T14:48:24.013Z"
     }
   ]
 }
