@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T10:40:13.007Z",
+  "generatedAt": "2026-08-21T11:35:24.413Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "9cb077c97e64c56d5c5e",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:31:51.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "e587bbafa100b645d2f9",
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:25:10.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
       "id": "33d080a98107990262ac",
       "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
@@ -52,8 +74,151 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T10:24:31.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "publishedAt": "2026-08-21T11:24:45.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "f53a6b20595e3995a4f3",
+      "title": "Democrats rally behind progressive Aisha Wahab after win in California special election – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:18:11.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "189ff7ee40b930d31521",
+      "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:15:54.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "d8c6e505516afba8eced",
+      "title": "Who does the law serve in the occupied West Bank?",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:12:32.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "e462c268438563d88dbf",
+      "title": "First Thing: US aircraft carrier arrives to relieve USS Lincoln amid reports of poor living conditions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/first-thing-us-aircraft-carrier-arrives-middle-east-relieve-uss-lincoln",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:08:23.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "bbb04398c8a178d183da",
+      "title": "Daily Mail accused of stalking woman mistaken as White Stripes drummer Meg White",
+      "url": "https://www.theguardian.com/music/2026/aug/21/meg-white-daily-mail-white-stripes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:00:33.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "3e59e8484ea1134a01fc",
+      "title": "He has a work permit, a coffee shop – and an ICE ankle monitor: ‘Is this America?’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T11:00:33.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "99f7869c0fa8e3010751",
+      "title": "Charter plane crash near Alaskan military site kills 8",
+      "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:59:50.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "bf94ac334bd5ccce7a5e",
+      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:59:37.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "620aa1982d2af61f55ee",
+      "title": "Serie A: Key talking points heading into the new 2026-27 season",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:56:43.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "5dcccf2a45ef1997d9ce",
+      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:48:01.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "eb73c409a98c6c4196c7",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:46:09.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "444de06efdb002eb1495",
+      "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
+      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T10:43:59.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "074ef87072ed7aa8b472",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "api-docs.deepseek.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T10:33:56.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "b3d4c8057bbde873ecd4",
@@ -64,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T10:13:50.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "63d47256db15592d4dea",
@@ -75,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T10:10:52.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "abf1d23ebf8b600b0129",
@@ -86,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T10:03:17.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "a368f229a7c2cae6b849",
@@ -97,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T10:01:49.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "23797ba88605abd34078",
@@ -108,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T10:01:17.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "f15c185e87a8cbd43cd3",
@@ -119,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T10:00:31.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "708219152a6605aa94f8",
@@ -130,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T10:00:31.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "ab30b3e31ca486a9b073",
@@ -141,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T09:53:47.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "41ce03e660b1ac990b3e",
@@ -152,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T09:45:14.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "3a4481fa888a4c445879",
@@ -163,18 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T09:40:04.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "444de06efdb002eb1495",
-      "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
-      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T09:16:34.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "167b8df9185023c6a325",
@@ -185,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T09:11:55.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "e8579559b0e6e41dd771",
@@ -196,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T09:01:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "5fb8a74a325d9f74d7ec",
@@ -207,18 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T09:00:30.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "059ab4cf220e74ab3e13",
-      "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "d6bcf3526a09514a57e6",
@@ -229,18 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T09:00:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "c1b11ba5c39f35580500",
-      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "1c6176f90d3afe7104d2",
@@ -251,7 +383,29 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T09:00:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "059ab4cf220e74ab3e13",
+      "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "c1b11ba5c39f35580500",
+      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "ed6b5375760793b34a6c",
@@ -262,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T08:58:10.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "2c452ec3a383a6a45cef",
@@ -273,7 +427,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T08:46:00.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
+    },
+    {
+      "id": "6fcd4f9fef3124c15b9f",
+      "title": "Mom and best friend remember girl killed in a mass shooting one year later",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-21T08:44:49.000Z",
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "f3f0e786556148e0a81a",
@@ -284,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T08:42:20.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "223e6e65b8b43809d9dd",
@@ -295,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T08:41:13.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "b0cdae571b32c41f2655",
@@ -306,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T08:38:18.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "efd4d1bbaa8533e6c84a",
@@ -317,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T08:34:06.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "b32d198539a9fe54018e",
@@ -328,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T08:19:21.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "3986d520ac2f437e4d88",
@@ -339,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T08:05:26.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "c365172f1dda5f2692ea",
@@ -350,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T07:58:41.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "71cf6b6f771a7cecef32",
@@ -361,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T07:56:21.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "8124a8ef61452cb7bb43",
@@ -372,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T07:37:35.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "909145401ea37628f98a",
@@ -383,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T07:34:43.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "08752fb840253eb99d28",
@@ -394,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T07:23:27.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     },
     {
       "id": "db5e45816e5e92d1ea24",
@@ -405,172 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T07:12:54.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "7945dd9ed98cb71f8d1c",
-      "title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T07:11:46.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "ddd28b541fd45b0d43f3",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T07:06:16.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "06abd8a608bcfc191734",
-      "title": "We’ll never be royals: the California town where Prince Harry and Meghan lived says goodbye",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T07:00:28.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "f72ba3377b6d1c49d19c",
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "source": "encore.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T06:59:40.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "96d6be955d3daf2da85c",
-      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
-      "url": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:56:19.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "413dea5c13425da9e362",
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:46:08.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "d2f9364d45fdacc23771",
-      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:41:33.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "526b783d052b9cc02624",
-      "title": "'Survival mode': Indiana residents endure a ninth day without power",
-      "url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:40:26.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "bffca0b3d10d021f9cef",
-      "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:33:32.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "e50a0fbf3b3872fbdc0e",
-      "title": "Former NSW Liberal minister tells Icac ‘cult took over the party’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/catholic-schools-nsw-ceo-dallas-mcinerney-sacked-after-icac-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:06:54.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "917d0398e5d7e0419239",
-      "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-      "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T06:00:26.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "4209096845207a82cc63",
-      "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T05:49:48.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "3231ffb9e3b1cd0d38ac",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T05:47:32.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "a2366782170fef1d8a68",
-      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-21T05:41:15.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
-    },
-    {
-      "id": "3ff60315c57bf02ceb4f",
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "source": "philipdick.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T05:39:39.000Z",
-      "discoveredAt": "2026-08-21T10:40:13.007Z"
+      "discoveredAt": "2026-08-21T11:35:24.413Z"
     }
   ]
 }
