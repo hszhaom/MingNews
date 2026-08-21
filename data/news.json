@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T14:48:24.013Z",
+  "generatedAt": "2026-08-21T15:42:59.032Z",
   "sources": [
     {
       "id": "gdelt",
@@ -17,9 +17,9 @@
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
-      "status": "ok",
+      "status": "fallback",
       "count": 30,
-      "transport": "rsshub"
+      "transport": "native-rss"
     },
     {
       "id": "guardian-world",
@@ -31,9 +31,9 @@
     {
       "id": "npr-news",
       "sourceType": "rsshub",
-      "status": "ok",
+      "status": "fallback",
       "count": 10,
-      "transport": "rsshub"
+      "transport": "native-rss"
     },
     {
       "id": "al-jazeera",
@@ -45,6 +45,28 @@
   ],
   "stories": [
     {
+      "id": "07a53490b13ac9948fa1",
+      "title": "Several injured after sword attack at Swedish school",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:26:24.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "ad06feec47f85150ddde",
+      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:22:48.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
       "id": "f53a6b20595e3995a4f3",
       "title": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
@@ -52,8 +74,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-21T14:44:39.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "publishedAt": "2026-08-21T15:15:05.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "e45c126f9e399d1898c2",
+      "title": "c100",
+      "url": "https://caligra.com/c100/",
+      "source": "caligra.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T15:14:07.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "0827bb91662e80e14a5e",
+      "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:13:31.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "42d5a41d398ff09340c1",
+      "title": "Firebombs thrown at supercars outside Birmingham wedding venue",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/firebombs-supercars-birmingham-wedding-venue",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:13:18.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "f07c386492b478fb0029",
+      "title": "Neutrogena responds to criticism over how brand deal with Hayden Panettiere ended",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:09:49.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "e80589f8af0f53d4f58b",
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:03:34.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "a39e5f0dbc84400a4f79",
+      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:00:39.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "968744caaf54adc68c0a",
+      "title": "Cults, setups, and devastating rumours: years after their downfalls, these former NSW MPs are exacting their revenge",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/cults-setups-and-devastating-rumours-years-after-their-downfalls-these-former-nsw-mps-are-exacting-their-revenge-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:00:37.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "b3d4c8057bbde873ecd4",
+      "title": "Gun stash in German forest believed to be linked to Russia, say reports",
+      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:51:05.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "5b122215955deb7ca599",
+      "title": "Iraq’s solar villages show how to build an energy transition that lasts",
+      "url": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:50:08.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "33d080a98107990262ac",
@@ -64,40 +185,62 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:44:08.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "774e17d7aa4bfc25f47b",
-      "title": "Corruption charges dropped against South Africa&#39;s police intelligence boss",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o",
+      "id": "34807c4a213c73385f41",
+      "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:38:45.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "2399511e2a84b94ff530",
+      "title": "Corruption charges dropped against South Africa's police intelligence boss",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:38:05.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "83cb76a01ab650ec4aaa",
+      "id": "b586e898f2f9b2ce19bd",
+      "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T14:36:24.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "03cf7e1d3b36dbe43f38",
       "title": "Tornadoes touch down in New York and Delaware",
-      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:35:50.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "dbf4bdca32889d76eafc",
-      "title": "Several injured after sword attack at Swedish school",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T14:32:18.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "id": "fd654dd805583d2c6fd4",
+      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T14:31:52.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "193a9c7a66bf903df05a",
@@ -108,18 +251,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:30:26.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "cf285649fc4c609671f5",
+      "id": "e3a1dbae8717a2bcd349",
       "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
-      "url": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o",
+      "url": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:23:22.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "056012f083f810ab0aa6",
@@ -130,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:20:08.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "4f3188b030203999924e",
@@ -141,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:19:39.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "93201a1370b9ae703ad5",
@@ -152,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:18:37.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "ad9c753d2b575e6cf920",
@@ -163,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T14:18:23.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "4203e95c9ba326e72edf",
@@ -174,18 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:17:55.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "e80589f8af0f53d4f58b",
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T14:17:17.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "a439eb24a8432587363f",
@@ -196,29 +328,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T14:16:17.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "3de12e8dc1a36561462c",
-      "title": "Burnham to dispatch 100 Whitehall officials to help regional mayors",
-      "url": "https://www.theguardian.com/politics/2026/aug/21/burnham-to-dispatch-100-whitehall-officials-to-help-regional-mayors",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T14:08:23.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "968488f179c8538f42dc",
-      "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
-      "url": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
-      "source": "runnersworld.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T14:06:34.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "c7c31351f28704a64121",
@@ -229,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:59:28.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "578010e7f32a1bc43265",
@@ -240,18 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:56:37.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "452a67623409f061243f",
-      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "source": "invertingvision.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T13:52:53.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "8ca076b278ec5467bf2b",
@@ -262,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:48:09.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "39704610acfd1a4b0b28",
@@ -273,18 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:47:26.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "57580fb379a825620572",
+      "id": "c4a5f2899685b1a26e4a",
       "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:44:43.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "4bbcdbb6ffbfab096b0b",
@@ -295,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:35:17.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "491a11b15cb561cdab1c",
@@ -306,18 +405,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:34:53.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "372331e8128ff741d0c5",
+      "id": "53f768d77a09b0dec6c8",
       "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:32:28.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "b86aedb337ed9a1eb0e0",
@@ -328,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:30:36.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "9e450c98805f52f9cc05",
@@ -339,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:29:28.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "efbb956de9ae1cbd326e",
@@ -350,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:29:19.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "099954dc3e7395f444cb",
@@ -361,18 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:24:28.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "b89b4d884a813c58e88b",
-      "title": "Convite",
-      "url": "https://www.guidavid.com/writing/convite",
-      "source": "guidavid.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T13:21:13.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "b6024395b30855b158b1",
@@ -383,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:12:07.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "4671a34b716a3c78d556",
@@ -394,29 +482,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:11:28.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "dfaf5f3b3a815bf30676",
+      "id": "ddd28b541fd45b0d43f3",
       "title": "Five missing after fire in Swiss Alpine town",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:10:39.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "b3d4c8057bbde873ecd4",
-      "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
-      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:09:46.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "e4fca15e2e699e562705",
@@ -427,18 +504,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:07:26.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
-      "id": "ac7bf8bd97358d633cb8",
+      "id": "9cb077c97e64c56d5c5e",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T13:07:00.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "0915cad2d1f5a76b6e92",
@@ -449,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:04:32.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "050d147f29110f424277",
@@ -460,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T13:04:31.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "9e49ed29b0ea7dc98dc7",
@@ -471,7 +548,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T13:01:54.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
+    },
+    {
+      "id": "f60c206e285aa2594aa5",
+      "title": "Yes/No/Cancel causes Aspirin sales to soar",
+      "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+      "source": "martin.kleppmann.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T12:58:46.000Z",
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     },
     {
       "id": "0c7413eaaeb206ef1577",
@@ -482,95 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T12:54:44.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "5cb9e0fb436099a85fba",
-      "title": "China rejects US claim that Myanmar analyst wrongfully detained",
-      "url": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:48:17.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "06398ef058dee93dfdc8",
-      "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:32:03.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "fc6c1d8478222425efef",
-      "title": "Home Office could be blocked from deporting trafficking victims to Albania",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:25:07.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "8c339c9a23571f1455be",
-      "title": "Humanoid crashes during speed test as China’s robotics industry grows",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:25:04.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "e1e0fc9d514c9cb954c7",
-      "title": "Six-year-old child dies after being slapped by teacher in India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:17:21.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "3458f4145566aa2fa3ff",
-      "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:12:35.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "e147a1e12074ada65744",
-      "title": "Bayern Munich’s Musiala collapsed on-field as a result of medication change",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/jamal-musiala-neurological-disorder-collapse-vincent-kompany-bayern-munich-football?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:08:19.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
-    },
-    {
-      "id": "41cf08d3f075848a12a5",
-      "title": "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
-      "url": "https://www.aljazeera.com/news/2026/8/21/pti-accuses-pakistan-government-of-defying-ex-pm-imran-khan-hospital-order?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T12:05:51.000Z",
-      "discoveredAt": "2026-08-21T14:48:24.013Z"
+      "discoveredAt": "2026-08-21T15:42:59.032Z"
     }
   ]
 }
