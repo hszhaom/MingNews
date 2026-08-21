@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T16:46:47.656Z",
+  "generatedAt": "2026-08-21T17:38:01.066Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "8160b38efff1bc9622b9",
+      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T17:29:17.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "ce997c55155b28d38d42",
+      "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+      "url": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T17:17:55.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "c2266a3a02dd1347bb02",
+      "title": "Rise in migrant deaths as 19 bodies found along Arizona border last month",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T17:14:29.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "f21581eecfcd82f3324e",
+      "title": "Migrants clash with French police as they attempt to cross the Channel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:58:28.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "2ee469df12f5c4618596",
+      "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:53:57.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "f53a6b20595e3995a4f3",
+      "title": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:53:26.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "bddf3fe5fb11411241d0",
+      "title": "First deportation flight lands in Haiti after TPS suspension",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/haiti-deportation-tps",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:53:18.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
       "id": "041c5e0a406465920d08",
       "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
@@ -53,7 +130,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-21T16:40:59.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "ec83772e8d43780b0b27",
+      "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+      "url": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:38:15.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "07a53490b13ac9948fa1",
@@ -64,7 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:32:37.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "0cad90ff501b1578eded",
@@ -75,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:27:32.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "b728dfb84c599caab4b6",
@@ -86,7 +174,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:27:32.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "9027ea879e4273923f27",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T16:26:53.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "acd943a5b9656967c52b",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "source": "bandarlabs.github.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T16:25:25.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "12497ba04804083322dc",
@@ -97,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:24:39.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "b7fbfe418d874ea221b7",
@@ -108,7 +218,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:20:55.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "6adf65cf3d6659d517f2",
+      "title": "What happens when a GPU reads memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "source": "blog.doubleword.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-21T16:16:42.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "7ade1a2a09896882961b",
@@ -119,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:15:39.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "d660a5d2f1b26ffc530a",
@@ -130,18 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:15:11.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "491a11b15cb561cdab1c",
-      "title": "Backlash as US navy carrier set to honor Black war hero may reportedly be renamed after Trump",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T16:14:08.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "ab30b3e31ca486a9b073",
@@ -152,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T16:05:09.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "d6a57e38035e0b575169",
@@ -163,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T16:03:47.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "1a25238702d45fea87a3",
@@ -174,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T16:00:54.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "23181814cd83bf9a997a",
@@ -185,7 +295,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T16:00:02.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
+    },
+    {
+      "id": "09a55579576497ce1e25",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-21T15:58:57.000Z",
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "7d7fc8580492600fec59",
@@ -196,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T15:57:54.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "33d080a98107990262ac",
@@ -207,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:54:48.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "9026ebd89ab14b1b06b4",
@@ -218,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T15:31:33.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "97caf3880267fe15ec66",
@@ -229,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T15:25:42.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "e2e3ec900a95b22a6094",
@@ -240,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T15:23:32.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "ad06feec47f85150ddde",
@@ -251,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:22:48.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "404ef0e0d6981e27f75e",
@@ -262,29 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T15:17:04.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "f53a6b20595e3995a4f3",
-      "title": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T15:15:05.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "e45c126f9e399d1898c2",
-      "title": "c100",
-      "url": "https://caligra.com/c100/",
-      "source": "caligra.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T15:14:07.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "0827bb91662e80e14a5e",
@@ -295,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T15:13:31.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "42d5a41d398ff09340c1",
@@ -306,18 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:13:18.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "f07c386492b478fb0029",
-      "title": "Neutrogena responds to criticism over how brand deal with Hayden Panettiere ended",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T15:09:49.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "e80589f8af0f53d4f58b",
@@ -328,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:03:34.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "a39e5f0dbc84400a4f79",
@@ -339,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:00:39.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "968744caaf54adc68c0a",
@@ -350,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T15:00:37.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "b3d4c8057bbde873ecd4",
@@ -361,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:51:05.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "5b122215955deb7ca599",
@@ -372,18 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T14:50:08.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "2369ec84ac88b24ee746",
-      "title": "I came to write THAT paper with Leslie Lamport",
-      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-      "source": "lawrencecpaulson.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T14:46:01.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "34807c4a213c73385f41",
@@ -394,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T14:38:45.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "2399511e2a84b94ff530",
@@ -405,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:38:05.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "b586e898f2f9b2ce19bd",
@@ -416,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-21T14:36:24.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "03cf7e1d3b36dbe43f38",
@@ -427,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:35:50.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "193a9c7a66bf903df05a",
@@ -438,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:30:26.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "605332df5a733ce8713b",
@@ -449,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-21T14:27:37.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "e3a1dbae8717a2bcd349",
@@ -460,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:23:22.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "056012f083f810ab0aa6",
@@ -471,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:20:08.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "4f3188b030203999924e",
@@ -482,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:19:39.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     },
     {
       "id": "93201a1370b9ae703ad5",
@@ -493,84 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-21T14:18:37.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "ad9c753d2b575e6cf920",
-      "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T14:18:23.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "a439eb24a8432587363f",
-      "title": "What We Lost When Search Stopped Making Us Think",
-      "url": "https://blog.8ball.space/what-we-lost-when-search/",
-      "source": "blog.8ball.space",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T14:16:17.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "c7c31351f28704a64121",
-      "title": "War on Iran: The US could focus on economically isolating Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:59:28.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "578010e7f32a1bc43265",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog",
-      "source": "kagi.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-21T13:56:37.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "8ca076b278ec5467bf2b",
-      "title": "Several people injured in sword attack at school in Sweden",
-      "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:48:09.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "39704610acfd1a4b0b28",
-      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:47:26.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
-    },
-    {
-      "id": "c4a5f2899685b1a26e4a",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-21T13:44:43.000Z",
-      "discoveredAt": "2026-08-21T16:46:47.656Z"
+      "discoveredAt": "2026-08-21T17:38:01.066Z"
     }
   ]
 }
