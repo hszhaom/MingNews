@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T13:39:06.976Z",
+  "generatedAt": "2026-08-22T14:32:00.682Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,105 @@
   ],
   "stories": [
     {
+      "id": "dcbaa0b358f54c3a9eb0",
+      "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T14:19:06.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "1930e8be6cbf3d1a4d4d",
+      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T14:10:05.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "dbb034d101fd35462c4a",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T14:04:57.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "a0a2171262e790dc5e32",
+      "title": "Nebraska school district asks police to stop using shock gloves on students",
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T14:00:55.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "2ed5a318d2dfd1e25cbe",
+      "title": "Man Utd humiliated at Hull to open Premier League account",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:54:02.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "2363d26622904cb04b28",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:48:06.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "53af2228294386a8da24",
+      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:44:02.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "b654951967882f4fea46",
+      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+      "url": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:35:57.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "8a4d5416ea3b9763cd77",
+      "title": "The New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "source": "blog.modelcontextprotocol.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T13:31:34.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
       "id": "1557a1ae750ee77c002c",
       "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
       "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
@@ -53,7 +152,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T13:24:06.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "723ba01d0ab173f0857c",
+      "title": "Is Trump making Latin America great again?",
+      "url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:23:56.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "d8cfd88b4fd70dac16ca",
@@ -64,7 +174,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T13:13:16.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "1a8af3b371eabefada7c",
+      "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+      "url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T13:10:45.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "96e2ca77315d3dc48e11",
@@ -75,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:51:55.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "5edf50cf3764aa91009a",
@@ -86,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:47:55.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "38495c8621fa9d107414",
@@ -97,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:47:10.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "4388b0288bccd0bd34ca",
@@ -108,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:37:26.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "7a2426970a9afb7d4e2b",
@@ -119,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:31:00.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "48376705629d0eaf00c7",
@@ -130,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:25:16.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "f52e3a0bfe6b257975df",
@@ -141,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:20:46.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "bde980a5690a69c6ceae",
@@ -152,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:13:28.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "993b0a627210525b08dc",
@@ -163,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:09:09.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "b7b0d526f8f1610bfcae",
@@ -174,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T12:07:06.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "6619a285ed542633f3a0",
@@ -185,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-22T12:00:00.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "660db4e58ffe7076fa8c",
@@ -196,7 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T11:58:55.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
+    },
+    {
+      "id": "4d83d5e2071aa199a5bd",
+      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+      "source": "zaksa.zip",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T11:39:12.000Z",
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "072b96658545b2642d53",
@@ -207,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T11:30:51.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "3a6832082b4ea226e868",
@@ -218,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T11:15:39.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "ddede46d827c7e27ca5b",
@@ -229,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T11:00:02.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "f837b8be029383b4ffe4",
@@ -240,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T10:26:09.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "45f15bfd48e8b17520f8",
@@ -251,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T10:13:56.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "a25862faf6202e5034c2",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T10:13:48.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "369cc9802e66e2d4ae3c",
@@ -273,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T10:09:11.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "d8848c5e1fd8b381fae2",
@@ -284,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T10:01:18.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "200db8964ec80c3202a0",
@@ -295,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T09:54:03.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "05f3bf7cd20089a6bedb",
@@ -306,18 +438,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T09:51:50.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "e1a317553b63e42ad925",
-      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
       "source": "computer.org",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T09:49:57.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "c248308cd463dc290e03",
@@ -328,18 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T09:49:14.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "dbb034d101fd35462c4a",
-      "title": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T09:45:27.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "ef1bd0be7a8a1c5b7abe",
@@ -350,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T09:14:09.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "7897823cab184bf820ac",
@@ -361,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T09:00:04.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "751f27c777e3c9b5910a",
@@ -372,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T09:00:02.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "42c0a3ea7951afff667a",
@@ -383,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T08:53:17.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "8d284c5ac0f87f1ccf9e",
@@ -394,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T08:40:49.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "29a3c47cb914ab840aea",
@@ -405,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T08:30:31.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "07abeeb83f0951e4140e",
@@ -416,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T08:01:55.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "6c375687b84f7e2df7d6",
@@ -427,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T08:00:58.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "8a972d0300142cf77c5b",
@@ -438,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T08:00:30.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     },
     {
       "id": "53e63496d9cfb25f66c7",
@@ -449,128 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T07:53:57.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "6aea17d35d8565a67343",
-      "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T07:41:21.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "ddc09676b1755abfc832",
-      "title": "Libya’s brain drain, 15 years after Tripoli fell",
-      "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T07:41:10.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "9f9bdbe9d353feda1c82",
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T07:35:08.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "2caa64d6533ea8a15d35",
-      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T07:11:27.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "d38d2bb766ffeae6983c",
-      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T06:45:46.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "2c6549ffeea55b67140f",
-      "title": "Sorrow as community pays tribute to ‘shining light’ Lily Hooper after NSW hiking tragedy",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T05:59:38.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "57ec1511f235dea535eb",
-      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T05:55:46.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "d798a38e3f9ce94ee629",
-      "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-      "url": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T05:36:39.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "192658d1f7aff88a456e",
-      "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
-      "url": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T05:35:50.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "d462f2e041283bde8b3a",
-      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-22T04:36:27.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
-    },
-    {
-      "id": "e91b40530bab74097339",
-      "title": "Inundated Philippine communities seek answers over flood control funds",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T04:36:26.000Z",
-      "discoveredAt": "2026-08-22T13:39:06.976Z"
+      "discoveredAt": "2026-08-22T14:32:00.682Z"
     }
   ]
 }
