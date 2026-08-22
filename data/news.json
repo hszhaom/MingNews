@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T16:56:02.767Z",
+  "generatedAt": "2026-08-22T17:30:29.418Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,61 @@
   ],
   "stories": [
     {
+      "id": "f6dce409a4994b1f3d6e",
+      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+      "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+      "source": "cnn.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T17:09:27.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "1930e8be6cbf3d1a4d4d",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T17:02:06.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "33e354a2033bc20bc8f5",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T16:58:49.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "b6fa8691aa14c6c7d8ba",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T16:57:19.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "f813116bfb941c3d632a",
+      "title": "South Korea sending first container ship through Arctic route",
+      "url": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T16:46:22.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
       "id": "08c432427f9a7990c47b",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +108,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:45:02.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "f232fee5f606210ef43f",
@@ -64,7 +119,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T16:41:43.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "e380ff9295e336c4e071",
@@ -75,7 +130,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T16:30:09.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "79189f209600a18c2fb7",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "source": "cnbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T16:23:09.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "1bf58cd1635b28226ca7",
@@ -86,7 +152,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:20:51.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "34eb6a8294a76ad63a80",
@@ -97,7 +163,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T16:17:54.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "96e4168ac695634c10cb",
+      "title": "Learning about \"The Unix Time-Sharing System\"",
+      "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+      "source": "playtechnique.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T16:11:16.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "93952c79ff9d5adb0425",
@@ -108,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T16:10:21.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "5edf50cf3764aa91009a",
@@ -119,7 +196,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:09:07.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
+    },
+    {
+      "id": "5628cbcc91724a69f4b2",
+      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
+      "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T16:08:23.000Z",
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "0909bcb53e4ef2d6a0a5",
@@ -130,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:00:07.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "7bb04e18fd8a39be68f2",
@@ -141,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:00:07.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "61958786cdcc9e1213e3",
@@ -152,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T15:48:27.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "567ef8c156fd6b4e0b0e",
@@ -163,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T15:46:48.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "aaf731f758ebbc781426",
@@ -174,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T15:45:40.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "2abdf02e5e7a95f0ae5c",
@@ -185,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T15:44:00.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "4c8ddb4f7557ceafc94f",
@@ -196,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T15:30:49.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "d588168fb05dad4edc95",
@@ -207,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T15:08:38.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "f83cb012d1e02700cfed",
@@ -218,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T14:54:07.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "f8d2db27489015e70265",
@@ -229,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T14:37:40.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "8d284c5ac0f87f1ccf9e",
@@ -240,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T14:35:11.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "dcbaa0b358f54c3a9eb0",
@@ -251,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T14:19:06.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "1930e8be6cbf3d1a4d4d",
-      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T14:10:05.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "12970b18560139f6a141",
@@ -273,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T14:08:19.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "dbb034d101fd35462c4a",
@@ -284,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T14:04:57.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "a0a2171262e790dc5e32",
@@ -295,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T14:00:55.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "2ed5a318d2dfd1e25cbe",
@@ -306,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T13:54:02.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "2363d26622904cb04b28",
@@ -317,7 +394,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T13:48:06.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "53af2228294386a8da24",
@@ -328,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T13:44:02.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "b654951967882f4fea46",
@@ -339,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T13:35:57.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "8a4d5416ea3b9763cd77",
@@ -350,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T13:31:34.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "1557a1ae750ee77c002c",
@@ -361,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T13:24:06.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "723ba01d0ab173f0857c",
@@ -372,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T13:23:56.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "d8cfd88b4fd70dac16ca",
@@ -383,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T13:13:16.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "1a8af3b371eabefada7c",
@@ -394,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T13:10:45.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "96e2ca77315d3dc48e11",
@@ -405,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:51:55.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "38495c8621fa9d107414",
@@ -416,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:47:10.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "4388b0288bccd0bd34ca",
@@ -427,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:37:26.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "7a2426970a9afb7d4e2b",
@@ -438,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:31:00.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "48376705629d0eaf00c7",
@@ -449,18 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T12:25:16.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "bde980a5690a69c6ceae",
-      "title": "Andy Burnham says he wants to bring men’s World Cup back to UK in 2042",
-      "url": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T12:13:28.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "993b0a627210525b08dc",
@@ -471,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T12:09:09.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "b7b0d526f8f1610bfcae",
@@ -482,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T12:07:06.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "6619a285ed542633f3a0",
@@ -493,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-22T12:00:00.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     },
     {
       "id": "660db4e58ffe7076fa8c",
@@ -504,73 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T11:58:55.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "072b96658545b2642d53",
-      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T11:30:51.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "3a6832082b4ea226e868",
-      "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T11:15:39.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "ddede46d827c7e27ca5b",
-      "title": "US kindergarten vaccination rates dip as exemptions hit record high",
-      "url": "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T11:00:02.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "45f15bfd48e8b17520f8",
-      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
-      "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T10:13:56.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "a25862faf6202e5034c2",
-      "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
-      "url": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T10:13:48.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
-    },
-    {
-      "id": "369cc9802e66e2d4ae3c",
-      "title": "Manchester City preview: Five key questions heading into 2026-27 season",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T10:09:11.000Z",
-      "discoveredAt": "2026-08-22T16:56:02.767Z"
+      "discoveredAt": "2026-08-22T17:30:29.418Z"
     }
   ]
 }
