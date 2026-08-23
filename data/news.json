@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T23:51:34.043Z",
+  "generatedAt": "2026-08-23T01:55:35.367Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,80 @@
   "stories": [
     {
       "id": "2a3ef1662467e237123e",
-      "title": "Australia news live: Victorian Liberals announce plan for new appeals court to ensure tougher sentences",
+      "title": "Australia news live: One Nation MP gives ‘hat tip’ to Albanese for rice factory rescue plan; Liberals flag radical redesign of Victorian appeals court",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-22T23:43:43.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "publishedAt": "2026-08-23T01:43:45.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "116eede2f1838349568b",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T01:34:15.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "278b41933d51a2ea8627",
+      "title": "Fur seal‘s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+      "url": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T00:42:49.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "8aa8b744167a5c124791",
+      "title": "Software Engineering in the Agentic Era",
+      "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+      "source": "simonwillison.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T00:20:21.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "93505b7872d3ae4badb2",
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T00:00:17.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "1275009607166b8f022d",
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T00:00:00.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "f94f3913e857b8edaac3",
+      "title": "Iran threatens countries that join US ‘economic D-Day’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-22T23:56:32.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "81b2b5d8b29f14e9097d",
@@ -64,7 +130,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T23:26:15.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "47f023d7f71d85b7890d",
@@ -75,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T22:29:07.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "11e9d27303eedaddc8bc",
@@ -86,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T22:14:27.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "292fe9ac0ee5e6eda0ec",
@@ -97,7 +163,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:55:06.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "0db0c9afc6e92e949611",
@@ -108,7 +174,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T21:52:05.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "1ae39cbbfb62df531435",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T21:42:42.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "e4f88bfbfc0e5ed642d3",
@@ -119,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:27:22.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "d2cf45d7aaa8a72d99f6",
@@ -130,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T21:23:18.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "9edf9a6615f6cb72efa7",
@@ -141,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:02:29.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "00028d5ee08c45aab0dd",
@@ -152,7 +229,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-22T20:53:19.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "aa0d3114dbd5b1d201c3",
@@ -163,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T20:49:17.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "c53bc3ac7366c6f25705",
@@ -174,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:42:12.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "6740fa861bd797ddfb62",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:40:38.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "08c432427f9a7990c47b",
@@ -196,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:10:00.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "3a0c8e12620c981646ed",
@@ -207,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T20:05:52.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "1bf58cd1635b28226ca7",
@@ -218,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:02:46.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "04676dcd3c31873482af",
@@ -229,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:40:58.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "39e37b3f1df97f347ec0",
@@ -240,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:29:08.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "f0305b9cb43849c87769",
@@ -251,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:24:51.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "f55fcdaeb57fac0e4932",
@@ -262,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:24:00.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "82bff146e251080924b3",
-      "title": "English ↔ Claudish Translator",
-      "url": "https://programasweights.com/claudish",
-      "source": "programasweights.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T19:19:15.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "7120f9dc8b38beca8f5f",
@@ -284,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:18:02.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "6e79ab429aec5fde8ab7",
@@ -295,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:13:02.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "31e565cecfe1375d1b07",
@@ -306,18 +372,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T19:07:46.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
-      "id": "1ed10f47b192ae6ffeea",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "source": "lapcatsoftware.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T19:04:41.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "id": "9153049be0675f61a32e",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T19:03:03.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "0f526864aade28e66b56",
@@ -328,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:00:25.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "ccbbeb2d51c1dc115092",
@@ -339,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T18:35:48.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "aeaa56a784568f6092d5",
@@ -350,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T18:29:24.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "53de3fca829591e91689",
@@ -361,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T18:14:16.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "c4b029773f3755531e20",
@@ -372,18 +438,51 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T18:11:55.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "22bf6650257782ac685a",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "source": "marcua.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T18:11:40.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "068c7e8ae3f03d5c8e6f",
-      "title": "Scrap",
+      "title": "Scrap (2006)",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
       "source": "twitter.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T18:08:56.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "4301fc5e7f1098467a5f",
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "source": "rwwgreene.substack.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T18:08:25.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
+    },
+    {
+      "id": "e8aaa053331cdcfee5f8",
+      "title": "Reading Maps – Journeys from fiction drawn on the real world",
+      "url": "https://readingmaps.com/",
+      "source": "readingmaps.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-22T17:59:09.000Z",
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "5d733605720f556e5118",
@@ -394,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T17:58:15.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "27e9d784536cb4291460",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T17:54:52.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "578a602374731380e5d8",
@@ -416,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T17:52:42.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "4a2488c1d10c9ef3da66",
@@ -427,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T17:47:02.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "eed87f4553483b10a95e",
@@ -438,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T17:34:28.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "1930e8be6cbf3d1a4d4d",
@@ -449,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T17:02:06.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "b6fa8691aa14c6c7d8ba",
@@ -460,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T16:57:19.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     },
     {
       "id": "f813116bfb941c3d632a",
@@ -471,106 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T16:46:22.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "f232fee5f606210ef43f",
-      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:41:43.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "e380ff9295e336c4e071",
-      "title": "Espanyol 1-2 Real Madrid: La Liga – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:30:09.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "34eb6a8294a76ad63a80",
-      "title": "How is the pro-Israel lobby influencing US elections?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:17:54.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "5edf50cf3764aa91009a",
-      "title": "Two police officers killed in North Yorkshire crash named",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:09:07.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "5628cbcc91724a69f4b2",
-      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
-      "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:08:23.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "0909bcb53e4ef2d6a0a5",
-      "title": "Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T16:00:07.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "2abdf02e5e7a95f0ae5c",
-      "title": "40,000 bottles of eye drops across the US recalled over issues with sterility of product",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T15:44:00.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "d588168fb05dad4edc95",
-      "title": "Indiana residents endure 11th day without power after storms topple power lines",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T15:08:38.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
-    },
-    {
-      "id": "f83cb012d1e02700cfed",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "source": "quantumi.sh",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T14:54:07.000Z",
-      "discoveredAt": "2026-08-22T23:51:34.043Z"
+      "discoveredAt": "2026-08-23T01:55:35.367Z"
     }
   ]
 }
