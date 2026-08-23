@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T17:51:44.903Z",
+  "generatedAt": "2026-08-23T18:43:18.966Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 37,
+      "count": 38,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,94 @@
   ],
   "stories": [
     {
+      "id": "995cca8312c621d3e834",
+      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T18:22:15.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "f7b43bd3e635344a6d9b",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T18:17:37.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "a738d05bb6c3c2f1d3e0",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T18:17:34.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "76f6d975788e15b89ec8",
+      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T18:15:22.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "3c298065bebf8c30951f",
+      "title": "Tunisia sees protests after migrant boat sinking kills eight",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T17:57:48.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "7b84602fdf522b612bd8",
+      "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T17:55:52.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "88be778c91756e83b650",
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T17:55:52.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
+      "id": "bcc36011adddd08ec9e1",
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T17:53:31.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
+    },
+    {
       "id": "49471153b4ffceadc22c",
       "title": "France links sharp rise in drownings to heatwaves",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +141,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T17:39:33.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "eb68e0f5394deb9cfb21",
@@ -64,29 +152,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T17:35:01.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
-      "id": "7b84602fdf522b612bd8",
-      "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T17:33:41.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "a738d05bb6c3c2f1d3e0",
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T17:31:29.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "id": "eb4497b24aa84b090eed",
+      "title": "We must not grant AI agents legal personhood",
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "source": "ft.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T17:25:03.000Z",
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "d32f038a17f53c18e0d2",
@@ -97,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T17:24:46.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "a68c38d7bdcbe1302ac1",
@@ -108,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T17:18:26.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "2254883bff0f0d49964e",
@@ -119,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T17:18:25.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "02dd4cd856772473b304",
@@ -130,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T17:14:41.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "a8f51c08c3696b1ebbab",
@@ -141,7 +218,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T16:55:37.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "fbab5d42b6123ffbbbdd",
@@ -152,7 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T16:54:10.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "8d2583a8f870e44e01b9",
@@ -163,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T16:50:00.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "778bf2cc27d927c75387",
@@ -174,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T16:47:49.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "18dd4a619334d2e91325",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T16:35:39.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "8ba34749db81575e3afc",
@@ -196,7 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T16:24:21.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "65a6ddad9c0834a33eda",
@@ -207,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T16:15:30.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "cc873c5d8bff20e32329",
@@ -218,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T16:12:55.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "99e1836fb3befd510839",
@@ -229,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T16:07:01.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "2ba4603bf810ad9c98cc",
@@ -240,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T15:59:08.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "ac42e5b28d05ad8f6974",
@@ -251,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:54:36.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "ec58e36fb10a0b5919e7",
@@ -262,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:54:32.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "8740355b5266e707a885",
@@ -273,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T15:50:18.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "6747bd1cc91e6bff4753",
@@ -284,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:42:04.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "9840d2240b88fc9938d3",
@@ -295,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:38:16.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "b1ed296e7f19ebc5d382",
@@ -306,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:25:47.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "f68b1a5ee94f3da963b3",
@@ -317,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T15:13:31.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "df8003bd0d4ffff94ee8",
@@ -328,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:37.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "b11b6cd4ff062de4ea5f",
@@ -339,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:36.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "e99949e41296b956a353",
@@ -350,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:36.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "334e27b377b32f12b089",
@@ -361,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:35.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "07d2e3d79301b263a627",
@@ -372,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:35.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "49060c0fc901f9c4ff41",
@@ -383,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:46:56.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "a6ece8d73059586cf61f",
@@ -394,18 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:38:25.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "a40ece9080321bf596b2",
-      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T14:32:56.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "c3e4c98bcfa146f70b22",
@@ -416,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:25:18.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "fabfd4ffa95840121c1d",
@@ -427,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:24:21.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "217d546d8e6d495ea432",
@@ -438,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "9c80d3eb41c89cbe1ec0",
@@ -449,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T14:17:18.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "429f4024dcaf3c6f0345",
@@ -460,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:56:40.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "158866ec240f8dc83d22",
@@ -471,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:56:11.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "c6404fb58b2cf55265b4",
@@ -482,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T13:51:10.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "c2a9deb2ecc89f75faba",
@@ -493,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:50:02.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     },
     {
       "id": "52d54f46a8f9ed7b3297",
@@ -504,73 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:37:50.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "85b0374888e55503aa56",
-      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T13:35:06.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "4fb6d323b593aeeac463",
-      "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T13:33:39.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "f5288944774cf68bf8eb",
-      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T13:20:57.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "2f5d600dc675f7accad2",
-      "title": "Dozens of attacks in southern Thailand wound three people",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T13:08:37.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "6c3cf14941604a7256cd",
-      "title": "AI fraud costing victims millions of dollars",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T13:08:06.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
-    },
-    {
-      "id": "c0486c254f2290486977",
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "source": "securelist.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T13:05:38.000Z",
-      "discoveredAt": "2026-08-23T17:51:44.903Z"
+      "discoveredAt": "2026-08-23T18:43:18.966Z"
     }
   ]
 }
