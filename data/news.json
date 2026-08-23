@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T15:53:10.179Z",
+  "generatedAt": "2026-08-23T16:36:47.511Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 35,
+      "count": 36,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,92 @@
   ],
   "stories": [
     {
+      "id": "65a6ddad9c0834a33eda",
+      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-23T16:15:30.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "cc873c5d8bff20e32329",
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T16:12:55.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "99e1836fb3befd510839",
+      "title": "Can Nigeria cash in on Iran war?",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T16:07:01.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "ac42e5b28d05ad8f6974",
+      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T15:54:36.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "ec58e36fb10a0b5919e7",
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T15:54:32.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "8740355b5266e707a885",
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "source": "studyfinds.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T15:50:18.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
+      "id": "6747bd1cc91e6bff4753",
+      "title": "Gaza families search for children missing after years of war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T15:42:04.000Z",
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
+    },
+    {
       "id": "9840d2240b88fc9938d3",
-      "title": "Iran government signals fuel price hike on eve of new US sanctions",
+      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
       "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:38:16.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "b1ed296e7f19ebc5d382",
@@ -64,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T15:25:47.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "f68b1a5ee94f3da963b3",
@@ -75,7 +152,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T15:13:31.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "df8003bd0d4ffff94ee8",
@@ -86,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:37.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "b11b6cd4ff062de4ea5f",
@@ -97,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:36.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "e99949e41296b956a353",
@@ -108,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:36.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "334e27b377b32f12b089",
@@ -119,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:35.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "07d2e3d79301b263a627",
@@ -130,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:35.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "49471153b4ffceadc22c",
@@ -141,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T15:00:17.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "18dd4a619334d2e91325",
@@ -152,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:53:13.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "49060c0fc901f9c4ff41",
@@ -163,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:46:56.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "a6ece8d73059586cf61f",
@@ -174,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:38:25.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "a40ece9080321bf596b2",
@@ -185,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:32:56.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "c3e4c98bcfa146f70b22",
@@ -196,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T14:25:18.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "fabfd4ffa95840121c1d",
@@ -207,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:24:21.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "217d546d8e6d495ea432",
@@ -218,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "9c80d3eb41c89cbe1ec0",
@@ -229,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T14:17:18.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "429f4024dcaf3c6f0345",
@@ -240,18 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:56:40.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "869ec081dde610637984",
-      "title": "Death to px, long live ch",
-      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-      "source": "shkspr.mobi",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T13:56:27.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "158866ec240f8dc83d22",
@@ -262,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:56:11.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "c6404fb58b2cf55265b4",
@@ -273,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T13:51:10.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "c2a9deb2ecc89f75faba",
@@ -284,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:50:02.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "52d54f46a8f9ed7b3297",
@@ -295,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:37:50.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "85b0374888e55503aa56",
@@ -306,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:35:06.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "4fb6d323b593aeeac463",
@@ -317,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:33:39.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "a80db5f6596bbf9de6a7",
@@ -328,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:25:20.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "f5288944774cf68bf8eb",
@@ -339,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:20:57.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "2f5d600dc675f7accad2",
@@ -350,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:08:37.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "6c3cf14941604a7256cd",
@@ -361,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T13:08:06.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "c0486c254f2290486977",
@@ -372,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T13:05:38.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "728288f53e24fd4664d6",
@@ -383,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T13:01:11.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "76b3c55b50c41fcca60e",
@@ -394,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:56:43.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "016cef994c746bb21b8e",
@@ -405,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:52:08.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "7dc195c8f9770151a0b4",
@@ -416,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:51:15.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "e9728c9035767b13b825",
@@ -427,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T12:50:09.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "f6ced1511e56e565e6c4",
@@ -438,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T12:48:05.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "2a9f2ebaf5f2ae5de694",
@@ -449,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:47:06.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "3eee0200f057e91687a7",
@@ -460,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:36:54.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "a7df4391afc311a16659",
@@ -471,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:25:40.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "9a9a1fc28b8fb1fa4ee7",
@@ -482,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:19:12.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "2854dcd9add4ac59ade1",
@@ -493,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:13:20.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     },
     {
       "id": "c31a2e0ef3cc8714dbe8",
@@ -504,73 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:13:04.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "69a1ea5b60cbe4bc476c",
-      "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T12:02:08.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "54afa4d581c2ac589bbf",
-      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T12:00:32.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "7b481a7b96c9abe81296",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T11:50:59.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "36382af45a81dad79c88",
-      "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-      "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T11:50:22.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "dba4e1d584636ad10d33",
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T11:50:12.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
-    },
-    {
-      "id": "6445c559e37a2983f9dc",
-      "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T11:44:18.000Z",
-      "discoveredAt": "2026-08-23T15:53:10.179Z"
+      "discoveredAt": "2026-08-23T16:36:47.511Z"
     }
   ]
 }
