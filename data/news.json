@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T12:57:20.112Z",
+  "generatedAt": "2026-08-23T13:40:19.684Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 35,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,83 @@
   ],
   "stories": [
     {
+      "id": "a80db5f6596bbf9de6a7",
+      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:25:20.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "f5288944774cf68bf8eb",
+      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:20:57.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "18dd4a619334d2e91325",
+      "title": "Tributes paid to officers killed in A66 crash as police name five in other car",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:15:04.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "2f5d600dc675f7accad2",
+      "title": "Dozens of attacks in southern Thailand wound three people",
+      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:08:37.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "6c3cf14941604a7256cd",
+      "title": "AI fraud costing victims millions of dollars",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:08:06.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "c0486c254f2290486977",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "source": "securelist.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T13:05:38.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "728288f53e24fd4664d6",
+      "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
+      "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T13:01:11.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
       "id": "76b3c55b50c41fcca60e",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
@@ -53,7 +130,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:56:43.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "016cef994c746bb21b8e",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T12:52:08.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "7dc195c8f9770151a0b4",
+      "title": "Wicker Man director's sons complete their late father's film trilogy",
+      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T12:51:15.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "e9728c9035767b13b825",
@@ -64,7 +163,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T12:50:09.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "f6ced1511e56e565e6c4",
@@ -75,18 +174,40 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T12:48:05.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "2a9f2ebaf5f2ae5de694",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
       "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:47:06.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "3eee0200f057e91687a7",
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T12:36:54.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
+    },
+    {
+      "id": "a7df4391afc311a16659",
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T12:25:40.000Z",
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "9a9a1fc28b8fb1fa4ee7",
@@ -97,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:19:12.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "2854dcd9add4ac59ade1",
@@ -108,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:13:20.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "c31a2e0ef3cc8714dbe8",
@@ -119,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:13:04.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "69a1ea5b60cbe4bc476c",
@@ -130,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T12:02:08.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "54afa4d581c2ac589bbf",
@@ -141,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T12:00:32.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "7b481a7b96c9abe81296",
@@ -152,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:50:59.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "158866ec240f8dc83d22",
@@ -163,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:50:36.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "36382af45a81dad79c88",
@@ -174,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T11:50:22.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "dba4e1d584636ad10d33",
@@ -185,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:50:12.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "6445c559e37a2983f9dc",
@@ -196,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T11:44:18.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "1329416cd13aa7268d9d",
@@ -207,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:26:40.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "7412491c992951fa09b9",
@@ -218,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T11:06:38.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "cefd706b1b9756da6a77",
@@ -229,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:00:32.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "2ab60a9e0510ed11f0d9",
@@ -240,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:00:31.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "6aea04f1ade8f2781aa0",
@@ -251,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:00:31.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "203b2928200cc1d0ec96",
@@ -262,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T11:00:18.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "2a3703b5e10a89b7e813",
@@ -273,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T11:00:16.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "aa96f401a30eabb49aaa",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T10:56:21.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "6ebe6a07ef12cc1698cb",
@@ -295,18 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T10:48:55.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "18dd4a619334d2e91325",
-      "title": "‘These were brave officers’: tributes paid to police among seven killed in A66 crash",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T10:43:55.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "3dc43d73a86aa5272d59",
@@ -317,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T10:41:05.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "3b4daabe0559b703cd6d",
@@ -328,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T10:39:30.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "728288f53e24fd4664d6",
-      "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
-      "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T10:37:39.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "bf896d60ebb3ffe59311",
@@ -350,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T10:14:48.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "8558d02589ff502be648",
@@ -361,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T10:02:51.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "e8a5cb684987567421da",
@@ -372,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T10:00:30.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "735fa6898745d36a42d6",
@@ -383,18 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T10:00:30.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "33146a7c091fb846b3bb",
-      "title": "‘I hate Democrats, but I love Abdul’: voters who left over Gaza return for progressive push",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T10:00:29.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "960cfe27e31006a04e36",
@@ -405,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T10:00:20.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "e8f3d214f99ae66c40a6",
@@ -416,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T09:43:47.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "bb31ca9ee2ae5f4f0fbc",
-      "title": "The Sloppification of Peptides",
-      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-      "source": "henryaj.substack.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T09:32:54.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "1f9340956b333ac3338a",
@@ -438,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T09:27:40.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "686872f7be2e80f43b76",
@@ -449,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T09:21:12.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "1585ade4078c0bd155dc",
@@ -460,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T09:13:23.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "49060c0fc901f9c4ff41",
@@ -471,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T09:07:44.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "e43c0e56f698de53b81b",
@@ -482,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T09:00:28.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     },
     {
       "id": "0b8c9349bfc9667f506f",
@@ -493,84 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T09:00:00.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "bb79d79ef9f2d73121b2",
-      "title": "Israeli wounded in occupied West Bank stabbing",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T08:38:01.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "19ad9955add08698224b",
-      "title": "Mayors to get new powers over planning decisions under Burnham proposals",
-      "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T08:17:19.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "d91e8923457ceb37d3b3",
-      "title": "Flooding across Caracas, Venezuela, after heavy rains",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T08:08:27.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "6ef5496c07b9aa24a801",
-      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T08:07:54.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "7a00f7bb1fbed179107d",
-      "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T08:03:41.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "a6244b4b19ca481ecb4c",
-      "title": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T07:46:52.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
-    },
-    {
-      "id": "1d8a0ee686791051b58b",
-      "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T07:38:42.000Z",
-      "discoveredAt": "2026-08-23T12:57:20.112Z"
+      "discoveredAt": "2026-08-23T13:40:19.684Z"
     }
   ]
 }
