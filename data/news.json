@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T04:19:03.331Z",
+  "generatedAt": "2026-08-23T05:04:42.057Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
+      "id": "5edf50cf3764aa91009a",
+      "title": "Two police officers killed in North Yorkshire crash named",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T04:38:18.000Z",
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
+    },
+    {
       "id": "2a3ef1662467e237123e",
-      "title": "Australia news live: Swans fans turn up to support women’s team; Victorian premier rejects Liberals’ ‘thought bubble’ on criminal court reform",
+      "title": "Swans fans turn up to support women’s team – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T04:13:07.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "d444d8d6a2bda40bf30c",
@@ -64,7 +75,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T04:00:59.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "ca1cc51b9690438d2373",
@@ -75,7 +86,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T04:00:22.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
+    },
+    {
+      "id": "a60052537ddd9619dd61",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T03:44:19.000Z",
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "3ce8dc8eac9f690a832a",
@@ -86,7 +108,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T03:42:22.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "158866ec240f8dc83d22",
@@ -97,7 +119,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T03:34:27.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
+    },
+    {
+      "id": "7dc96f572507ae0429c2",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "source": "nappertime.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T03:32:25.000Z",
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "427abff877a8b9f2692e",
@@ -108,7 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T03:21:03.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "98b279ae2f523afd7083",
@@ -119,7 +152,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T03:16:19.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "b74e2345182525b01e77",
@@ -130,7 +163,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T03:13:16.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "4114b7bba7a7df9adbaa",
@@ -141,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T03:12:58.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "60eeb1d56215495ae512",
@@ -152,7 +185,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T02:34:49.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
+    },
+    {
+      "id": "7f6c265bb8f9719f60c9",
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "source": "henry.codes",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T02:33:22.000Z",
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "4b791521ac8a3138b0b2",
@@ -163,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T02:14:52.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "790b0b3fe2fade8c4857",
@@ -174,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T01:51:47.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "0db0c9afc6e92e949611",
@@ -185,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T01:49:47.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "116eede2f1838349568b",
@@ -196,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T01:34:15.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "01d473cac289429606b5",
@@ -207,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T00:56:03.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "278b41933d51a2ea8627",
@@ -218,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T00:42:49.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "93505b7872d3ae4badb2",
@@ -229,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T00:00:17.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "1275009607166b8f022d",
@@ -240,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T00:00:00.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "f94f3913e857b8edaac3",
@@ -251,18 +295,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T23:56:32.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "81b2b5d8b29f14e9097d",
-      "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+      "title": "Iran warns of retaliation against countries joining US ‘economic war’",
       "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T23:26:15.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
+    },
+    {
+      "id": "ec27ed0e728356f59ca8",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-22T23:22:02.000Z",
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "47f023d7f71d85b7890d",
@@ -273,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T22:29:07.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "11e9d27303eedaddc8bc",
@@ -284,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-22T22:14:27.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "292fe9ac0ee5e6eda0ec",
@@ -295,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:55:06.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "1ae39cbbfb62df531435",
@@ -306,7 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T21:42:42.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "e4f88bfbfc0e5ed642d3",
@@ -317,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:27:22.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "d2cf45d7aaa8a72d99f6",
@@ -328,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T21:23:18.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "9edf9a6615f6cb72efa7",
@@ -339,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T21:02:29.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "00028d5ee08c45aab0dd",
@@ -350,7 +405,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-22T20:53:19.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "aa0d3114dbd5b1d201c3",
@@ -361,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T20:49:17.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "c53bc3ac7366c6f25705",
@@ -372,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:42:12.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "6740fa861bd797ddfb62",
@@ -383,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:40:38.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "08c432427f9a7990c47b",
@@ -394,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:10:00.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "3a0c8e12620c981646ed",
@@ -405,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T20:05:52.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "1bf58cd1635b28226ca7",
@@ -416,7 +471,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T20:02:46.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "04676dcd3c31873482af",
@@ -427,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:40:58.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "39e37b3f1df97f347ec0",
@@ -438,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:29:08.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "f0305b9cb43849c87769",
@@ -449,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:24:51.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "f55fcdaeb57fac0e4932",
@@ -460,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:24:00.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "7120f9dc8b38beca8f5f",
@@ -471,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:18:02.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "6e79ab429aec5fde8ab7",
@@ -482,18 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:13:02.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
-    },
-    {
-      "id": "31e565cecfe1375d1b07",
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "source": "mail-index.netbsd.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T19:07:46.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "9153049be0675f61a32e",
@@ -504,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-22T19:03:03.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "0f526864aade28e66b56",
@@ -515,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T19:00:25.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     },
     {
       "id": "ccbbeb2d51c1dc115092",
@@ -526,51 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-22T18:35:48.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
-    },
-    {
-      "id": "aeaa56a784568f6092d5",
-      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
-      "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-22T18:29:24.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
-    },
-    {
-      "id": "53de3fca829591e91689",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "source": "forum.level1techs.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T18:14:16.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
-    },
-    {
-      "id": "c4b029773f3755531e20",
-      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
-      "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-22T18:11:55.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
-    },
-    {
-      "id": "8e5d8548a302fbb1dc36",
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "source": "thinkinginpython.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-22T18:10:49.000Z",
-      "discoveredAt": "2026-08-23T04:19:03.331Z"
+      "discoveredAt": "2026-08-23T05:04:42.057Z"
     }
   ]
 }
