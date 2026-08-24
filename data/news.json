@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T22:37:39.412Z",
+  "generatedAt": "2026-08-24T23:30:13.660Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
@@ -45,26 +45,92 @@
   ],
   "stories": [
     {
+      "id": "b4aeeb80bd5c97191672",
+      "title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
+      "url": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:01:41.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
       "id": "2f9bb2702fd3e67de2f5",
-      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; power line repairs cause Sydney trains chaos",
+      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; Aria bans AI music from charts",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T22:28:49.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "publishedAt": "2026-08-24T23:01:10.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "ef2025516b881e133ed3",
+      "title": "NAACP denounces supreme court decision to allow Trump administration to restrict mail-in voting – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:00:59.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "10bc30da97572f62fbf8",
+      "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:00:53.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "3cfe2e5681cd99e38b98",
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T22:46:02.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "c190f3c77d4667a4d627",
+      "title": "US Supreme Court sides with Trump administration on mail voting",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T22:40:04.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "47dda34427f8ebdb3e64",
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T22:32:26.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "8c0084d32f4b784ae2fa",
-      "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
       "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T22:22:13.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "46760258fc850a2c1349",
@@ -75,18 +141,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:19:08.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "ef2025516b881e133ed3",
-      "title": "NAACP denounces supreme court decision to allow Trump administration to restrict mail-in voting – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T22:17:25.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "caecc570422438d1fc3d",
@@ -97,18 +152,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T22:13:40.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
-      "id": "56bc2da7f19c1a550998",
-      "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T21:53:38.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "id": "2a7d7322802e5e56b1a2",
+      "title": "Moon",
+      "url": "https://ciechanow.ski/moon/",
+      "source": "ciechanow.ski",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T22:06:02.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "9e9ac683572374c9e299",
@@ -119,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T21:40:48.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "062414625aad811db3f6",
@@ -130,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:35:10.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "4995944ebb4f21925e12",
@@ -141,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:32:24.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "5bd3ea26ab0e8fa15b27",
@@ -152,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T21:30:39.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "b3652a2fe54f8bcdd341",
@@ -163,7 +218,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T21:29:28.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
+    },
+    {
+      "id": "69ff01952b6a59d083f8",
+      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-24T21:17:31.000Z",
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "c601293ce6c8e671f38e",
@@ -174,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:12:06.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "581acfbd4954d1669391",
@@ -185,7 +251,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T21:03:06.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "300ed4f3e102ca9c5f93",
@@ -196,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T21:01:38.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "eefafbbfa2fba99e49c2",
@@ -207,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T20:56:51.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "013623e09869099ef332",
@@ -218,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:54:38.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "688a3903878c446fcbad",
@@ -229,7 +295,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T20:53:45.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "be12d58168b0c1818224",
@@ -240,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:48:21.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "5eff722676e684593366",
@@ -251,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:48:09.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "6ed9e4d1e5c4538f9a65",
@@ -262,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:47:24.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "bf5684df3d916fb3dae0",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:45:51.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "9a698a3d2222ba5abdda",
@@ -284,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:23:39.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "92378aad66666c584074",
@@ -295,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:03:48.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "da329d59c77561e9e6c9",
@@ -306,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:00:18.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "54b31438163a4bf64d36",
@@ -317,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:46:42.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "499fc9ffc209e7b15121",
@@ -328,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:44:23.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "1cd711b3df3de0bc8bfc",
@@ -339,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:21:01.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "53d975e083eaf7f3df88",
@@ -350,7 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T19:19:08.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "4d9e4d3bd6d7ee144b74",
@@ -361,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:18:00.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "375bd938398a0571026b",
@@ -372,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T19:12:35.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "5e0a27f48076fb0355c2",
@@ -383,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:09:45.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "74db650e4e91fbb27c84",
@@ -394,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T19:04:06.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "113584368e849150c920",
@@ -405,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T19:03:06.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "747f90ae46e86e4d5040",
@@ -416,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:00:55.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "79efdba97ff5894d0e80",
@@ -427,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T19:00:36.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "a3ade4db974090770236",
@@ -438,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T18:58:12.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "e83126f9b8b2f8476c48",
@@ -449,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T18:57:57.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "436eca6963f79f829d95",
@@ -460,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T18:55:43.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "5835ab88f996206c594f",
@@ -471,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T18:46:09.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "d867f30dbc36216040ca",
@@ -482,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T18:37:24.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "addf488311b8474d7b43",
@@ -493,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T18:22:18.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     },
     {
       "id": "8f44f11f4d03624bd32c",
@@ -504,73 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T18:22:14.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "e7fc125443490cb921ec",
-      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:16:14.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "6832c3a91f5f75693af5",
-      "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
-      "url": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:02:50.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "bb0848957783cedd0114",
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "source": "smithsonianmag.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T17:57:13.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "86ff2aec28ddf51587c1",
-      "title": "Trump administration announces global economic war on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T17:53:00.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "1ca7d59ef3dea95d17c0",
-      "title": "Twelve people arrested after A66 crash that killed seven including two police officers",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T17:51:54.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
-    },
-    {
-      "id": "dc619a63eae7543b944f",
-      "title": "Reform would evict social housing tenants over unkempt gardens",
-      "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T17:40:02.000Z",
-      "discoveredAt": "2026-08-24T22:37:39.412Z"
+      "discoveredAt": "2026-08-24T23:30:13.660Z"
     }
   ]
 }
