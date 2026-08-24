@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T05:21:56.231Z",
+  "generatedAt": "2026-08-24T06:06:16.465Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 43,
+      "count": 44,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,72 @@
   ],
   "stories": [
     {
+      "id": "bd4cbea6a201cc05b161",
+      "title": "Australia news live: Woman dies after car crashes into Melbourne cafe; five arrested as police raid CFMEU headquarters",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:53:22.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
+      "id": "c2aa24ed45e6c6309729",
+      "title": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:42:44.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
+      "id": "928ba0ad25db9e66ce4b",
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:40:48.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
+      "id": "fe0c188601283080d078",
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:31:53.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
+      "id": "028ec5a3471205383276",
+      "title": "Guests joked Alan Jones and alleged victim looked ‘like a great couple’ at luncheon, court hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/24/alan-jones-trial-jason-morrison-2gb-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:28:50.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
+      "id": "f52f1cc6bf80c0f0a8f8",
+      "title": "New Zealand to consider banning children under 16 from social media",
+      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T05:22:19.000Z",
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
+    },
+    {
       "id": "4bc9cc391c2004bd6acf",
       "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
@@ -53,18 +119,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:16:57.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "e6249d087852d2cca8a1",
-      "title": "OpenAI web interface to Claude down, again",
-      "url": "https://news.ycombinator.com/item?id=49415393",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T05:10:49.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "f9a0efb174ea9c656877",
@@ -75,18 +130,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:09:22.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "bd4cbea6a201cc05b161",
-      "title": "Australia news live: Albanese promises ‘no change’ to WA’s share of GST; five arrested as police raid CFMEU headquarters",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T05:06:43.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "27c3faa7e6668b9e1ec0",
@@ -97,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:01:52.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "238de4d2993f1d1ffda5",
@@ -108,18 +152,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:01:17.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "e311b086486b97e3e73c",
-      "title": "Air conditioning push favoured over emissions cuts in five European nations, survey finds",
+      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
       "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:53.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "2b4271900c6c529fde6c",
@@ -130,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:52.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "1df495ac377c67766f64",
@@ -141,7 +185,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:52.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "4089a93b10bc1dab2b28",
@@ -152,7 +196,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:22.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "4e72200a4a08e6d543a5",
@@ -163,7 +207,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T04:27:57.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "5eeab992155d011cf92a",
@@ -174,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:19:46.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "a0d9168ca4a564c557cf",
@@ -185,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:18:16.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "ec3e55a35e37002f0e80",
@@ -196,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:02:59.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "ae6a5df6d9222dfa6f6a",
@@ -207,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:02:14.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "136f589f41c7b9155f67",
@@ -218,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:01:50.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "451b31d97cabd613894c",
@@ -229,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:00:52.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "3c11952e78894e9b3ab8",
@@ -240,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:00:51.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "312d33469e1c158f41d5",
@@ -251,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T03:56:59.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "e16875cb050ca02c6bf8",
@@ -262,7 +306,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T03:55:35.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "a2c43fa36436e5732b17",
@@ -273,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T03:47:04.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "bfde749c87185cb8e568",
@@ -284,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:55:39.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "40748607f5d7b3f8a181",
@@ -295,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:09:40.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "70a09ec7fe05f3b223f2",
@@ -306,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:02:28.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "adb5d5180c6b27d1e29e",
@@ -317,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T01:51:40.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "75fa29967ee07b1c194e",
@@ -328,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T01:34:41.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "de0468fe48eba3e0e799",
@@ -339,18 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T01:33:14.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "fe0c188601283080d078",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T00:34:59.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "d45459cb925d3cd78cf9",
@@ -361,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:30:00.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "c5e828753289fec8aa89",
@@ -372,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:12:21.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "9ecbf22b9654242c743e",
@@ -383,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "993a2942122a7a99d64f",
@@ -394,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "b243d2cee0aca7d64c43",
@@ -405,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "a83bf39e8b86e2fa934e",
@@ -416,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "a895c739bfa512f348c4",
@@ -427,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T22:41:04.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "e31a05c4208da57848bd",
@@ -438,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:17:53.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "563ed414c99dce9cc4ff",
@@ -449,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:16:53.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "7c4c101fe3647537c430",
@@ -460,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:45:05.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "d0eb4431eb4d69cebf37",
@@ -471,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T21:41:17.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "ea2b4aeb990d6e1f3e39",
@@ -482,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:34:53.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "33385d004b3b5dbe3fda",
@@ -493,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:27:57.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "de0c5672855c0920fc47",
@@ -504,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:23:05.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "d833d4934f86564d231f",
@@ -515,7 +548,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T21:21:23.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "082620b730ad02ffee78",
@@ -526,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:08:17.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     },
     {
       "id": "0dfc9b911dfda3c2a7ab",
@@ -537,40 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T20:30:50.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "361e9f6caf2aa0978cf8",
-      "title": "Is Israel about to split the occupied West Bank in half?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T20:23:01.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "a738d05bb6c3c2f1d3e0",
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T20:19:36.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
-    },
-    {
-      "id": "28294070275b1a199510",
-      "title": "Severe winds toss four aircraft across Italian airport tarmac",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T20:00:22.000Z",
-      "discoveredAt": "2026-08-24T05:21:56.231Z"
+      "discoveredAt": "2026-08-24T06:06:16.465Z"
     }
   ]
 }
