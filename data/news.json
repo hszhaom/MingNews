@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T10:19:38.133Z",
+  "generatedAt": "2026-08-24T11:04:29.204Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,103 @@
   ],
   "stories": [
     {
+      "id": "fe2bd85fe462c810fc11",
+      "title": "Minister tells social media firms to take down dangerous driving content in wake of fatal A66 crash in Middlesbrough – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:59:15.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "5a74257bc5584a43965b",
+      "title": "Minister tells social media firms to remove posts that ‘celebrate’ dangerous driving after A66 crash",
+      "url": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:50:36.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "ef2025516b881e133ed3",
+      "title": "Hakeem Jeffries meeting with Jared Kushner sparks backlash amongst Democrats ahead of midterm elections – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:50:08.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "f7d050945ec73a631b7a",
+      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:49:24.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "dbc7f4499fd3720627c4",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:40:22.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "68d3aae88b1a663f9725",
+      "title": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
+      "url": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:38:07.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
       "id": "0a82e8045aecdb305e3b",
-      "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
+      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T10:14:36.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "publishedAt": "2026-08-24T10:36:41.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "6011e3d059f4f89644c3",
+      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:23:11.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "a2925285924deb508432",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:22:45.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "16d75c9207ba6660b2c9",
@@ -64,7 +152,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T10:11:34.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
+    },
+    {
+      "id": "6150fd628d0661378e0d",
+      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T10:11:19.000Z",
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "c03c9fd13e9b22d6544b",
@@ -75,7 +174,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T10:08:40.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "1a84f2b4d37361a226d8",
@@ -86,18 +185,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T10:05:22.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "fe2bd85fe462c810fc11",
-      "title": "Minister tells social media firms to take down dangerous driving content in wake of fatal A66 crash in Middlesbrough – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T10:02:24.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "2dd8efd86ec3a8cce797",
@@ -108,7 +196,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T10:00:32.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "aae0dda6354bd61acbc0",
@@ -119,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T10:00:30.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "64dd8b7449c628c11e6a",
@@ -130,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:58:03.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "e985f05315fcfd27567b",
@@ -141,7 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T09:47:22.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "77e98b22f92603e627e4",
@@ -152,7 +240,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:44:57.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "6c9f1f88e1a32319a585",
@@ -163,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:44:41.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "46f9cdb0d24e98de75fd",
@@ -174,7 +262,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T09:36:13.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "36434443cf5f8e79e9b4",
@@ -185,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:33:07.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "de90b9df176f2cd74d9c",
@@ -196,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:29:26.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "041ea2b4525503c753f2",
@@ -207,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:11:46.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "bc4ae216b31067c6d8ea",
@@ -218,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:10:12.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "b9fe3687f9bc4af57640",
@@ -229,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T09:08:25.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "f7b43bd3e635344a6d9b",
@@ -240,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T09:03:43.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "eae5355b03be2cd6eade",
@@ -251,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T09:00:29.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "d1f6f883dacb009ffaa9",
@@ -262,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T09:00:00.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "ec3e55a35e37002f0e80",
@@ -273,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T08:57:50.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "9e5358d19f9ed7bffb3b",
@@ -284,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T08:53:36.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "6b03c7f2bd5127f6d488",
@@ -295,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T08:46:19.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "981ab516b477d9ec8eec",
@@ -306,7 +394,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T08:46:05.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "2d1b6fafdf296489a6bc",
@@ -317,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T08:45:10.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "c38054fd622bf325fd6b",
@@ -328,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T08:32:46.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "560d36ee3ab23028d709",
@@ -339,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T08:31:55.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "e841b9346f3daadc2d35",
@@ -350,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T08:29:54.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "6c7fd8dd1102637160a3",
@@ -361,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T08:18:12.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "7f90141c5d0f9071e67f",
@@ -372,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T08:13:17.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "bd4cbea6a201cc05b161",
@@ -383,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T08:12:17.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "729982f72360c7f57f75",
@@ -394,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T07:57:15.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "7a23a63957f73b7d777e",
@@ -405,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T07:43:15.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "3d53164225e7946fac7b",
@@ -416,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T07:43:09.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "25c5aad0331978954126",
@@ -427,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T07:26:15.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "00f8cb359696839dae0d",
@@ -438,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T07:25:48.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "44c272c4234e883fc282",
@@ -449,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T07:19:32.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "89d15a0e0ee52474e380",
@@ -460,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T07:08:07.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "f9a0efb174ea9c656877",
@@ -471,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T07:00:53.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     },
     {
       "id": "92be02b030be42036e0e",
@@ -482,95 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T07:00:00.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "82a5037ddf8ab87e9090",
-      "title": "Andreessen Horowitz is investing billions into a bleak future",
-      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "source": "modelrepublic.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T06:57:01.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "675cea276ef5298eca9e",
-      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T06:55:58.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "739e41d85dc907ddcbfc",
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "url": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T06:55:31.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "f3f0869e25784a981442",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T06:55:06.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "69a9e91d61e534894baa",
-      "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
-      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T06:30:37.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "7f204604484459cd6c99",
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "source": "medicine.washu.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T06:30:07.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "7105baa80d5edcd0489f",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T06:25:31.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
-    },
-    {
-      "id": "6d3f568b5e472c5835aa",
-      "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T06:18:32.000Z",
-      "discoveredAt": "2026-08-24T10:19:38.133Z"
+      "discoveredAt": "2026-08-24T11:04:29.204Z"
     }
   ]
 }
