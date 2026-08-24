@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T06:06:16.465Z",
+  "generatedAt": "2026-08-24T07:16:57.059Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 44,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,158 @@
   ],
   "stories": [
     {
+      "id": "f9a0efb174ea9c656877",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T07:00:53.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "675cea276ef5298eca9e",
+      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:55:58.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "739e41d85dc907ddcbfc",
+      "title": "UK graduate job vacancies plunge to lowest in a decade",
+      "url": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:55:31.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "f3f0869e25784a981442",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:55:06.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
       "id": "bd4cbea6a201cc05b161",
-      "title": "Australia news live: Woman dies after car crashes into Melbourne cafe; five arrested as police raid CFMEU headquarters",
+      "title": "Australia news live: woman dies after car crashes into Melbourne restaurant; five arrested as police raid CFMEU headquarters",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T05:53:22.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "publishedAt": "2026-08-24T06:54:41.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "69a9e91d61e534894baa",
+      "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:30:37.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "7f204604484459cd6c99",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "source": "medicine.washu.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T06:30:07.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "7105baa80d5edcd0489f",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T06:25:31.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "6d3f568b5e472c5835aa",
+      "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:18:32.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "ebb0ccabd91f562af02f",
+      "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:11:36.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "e2df1831e0bd661d301f",
+      "title": "Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:09:24.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "da8550a7f0f62050899d",
+      "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:08:15.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "931e21245585f8fa4680",
+      "title": "Wild beaver kits born in Norfolk for first time in more than 500 years",
+      "url": "https://www.theguardian.com/world/2026/aug/24/wild-beaver-kit-pair-born-norfolk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T06:00:55.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
+    },
+    {
+      "id": "371ccb488a541c1512a4",
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "source": "rte.ie",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T05:47:27.000Z",
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "c2aa24ed45e6c6309729",
@@ -64,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:42:44.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "928ba0ad25db9e66ce4b",
@@ -75,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:40:48.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "fe0c188601283080d078",
@@ -86,7 +229,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:31:53.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "028ec5a3471205383276",
@@ -97,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:28:50.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "f52f1cc6bf80c0f0a8f8",
@@ -108,29 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:22:19.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "4bc9cc391c2004bd6acf",
-      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T05:16:57.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "f9a0efb174ea9c656877",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T05:09:22.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "27c3faa7e6668b9e1ec0",
@@ -141,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:01:52.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "238de4d2993f1d1ffda5",
@@ -152,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:01:17.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "e311b086486b97e3e73c",
@@ -163,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:53.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "2b4271900c6c529fde6c",
@@ -174,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:52.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "1df495ac377c67766f64",
@@ -185,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:52.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "4089a93b10bc1dab2b28",
@@ -196,18 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T05:00:22.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "4e72200a4a08e6d543a5",
-      "title": "Nearly 3M Teslas recalled in China over hidden door handles",
-      "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T04:27:57.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "5eeab992155d011cf92a",
@@ -218,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:19:46.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "a0d9168ca4a564c557cf",
@@ -229,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:18:16.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "ec3e55a35e37002f0e80",
@@ -240,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:02:59.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "ae6a5df6d9222dfa6f6a",
@@ -251,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T04:02:14.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "136f589f41c7b9155f67",
@@ -262,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:01:50.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "451b31d97cabd613894c",
@@ -273,18 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T04:00:52.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "3c11952e78894e9b3ab8",
-      "title": "Most English secondary schools are breaking healthy food rules, finds report",
-      "url": "https://www.theguardian.com/education/2026/aug/24/most-english-secondary-schools-are-breaking-healthy-food-rules-finds-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T04:00:51.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "312d33469e1c158f41d5",
@@ -295,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T03:56:59.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "e16875cb050ca02c6bf8",
@@ -306,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T03:55:35.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "a2c43fa36436e5732b17",
@@ -317,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T03:47:04.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "bfde749c87185cb8e568",
@@ -328,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:55:39.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "40748607f5d7b3f8a181",
@@ -339,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:09:40.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "70a09ec7fe05f3b223f2",
@@ -350,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:02:28.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "adb5d5180c6b27d1e29e",
@@ -361,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T01:51:40.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "75fa29967ee07b1c194e",
@@ -372,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T01:34:41.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "de0468fe48eba3e0e799",
@@ -383,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T01:33:14.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "d45459cb925d3cd78cf9",
@@ -394,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:30:00.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "c5e828753289fec8aa89",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:12:21.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "9ecbf22b9654242c743e",
@@ -416,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "993a2942122a7a99d64f",
@@ -427,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "b243d2cee0aca7d64c43",
@@ -438,18 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "a83bf39e8b86e2fa934e",
-      "title": "UK productivity growing faster than official figures suggest, thinktank finds",
-      "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "a895c739bfa512f348c4",
@@ -460,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T22:41:04.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "e31a05c4208da57848bd",
@@ -471,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:17:53.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     },
     {
       "id": "563ed414c99dce9cc4ff",
@@ -482,95 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:16:53.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "7c4c101fe3647537c430",
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:45:05.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "d0eb4431eb4d69cebf37",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T21:41:17.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "ea2b4aeb990d6e1f3e39",
-      "title": "Will Donald Trump’s new sanctions against Iran work?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:34:53.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "33385d004b3b5dbe3fda",
-      "title": "Serbia requests international assistance to battle wildfires",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:27:57.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "de0c5672855c0920fc47",
-      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:23:05.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "d833d4934f86564d231f",
-      "title": "Learning to live in a post-American world",
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:21:23.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "082620b730ad02ffee78",
-      "title": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T21:08:17.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
-    },
-    {
-      "id": "0dfc9b911dfda3c2a7ab",
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "source": "cntraveler.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T20:30:50.000Z",
-      "discoveredAt": "2026-08-24T06:06:16.465Z"
+      "discoveredAt": "2026-08-24T07:16:57.059Z"
     }
   ]
 }
