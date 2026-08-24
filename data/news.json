@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T03:12:34.413Z",
+  "generatedAt": "2026-08-24T04:24:36.327Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 39,
+      "count": 42,
       "transport": "native-rss"
     },
     {
@@ -46,25 +46,124 @@
   "stories": [
     {
       "id": "bd4cbea6a201cc05b161",
-      "title": "Australia news live: KMPG axes hundreds of staff in wake of audit leaks scandal; jobseeker now barely two-thirds of pension",
+      "title": "Australia news live: AFL chief says ‘actions of a few’ don’t define the game; five arrested as police raid CFMEU headquarters",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T02:49:02.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "publishedAt": "2026-08-24T04:11:25.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
-      "id": "ebc319f810b0a37d9fdd",
-      "title": "Fastmail Pricing Changes",
-      "url": "https://www.fastmail.com/pricing/us/",
-      "source": "fastmail.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T02:39:51.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "id": "f9a0efb174ea9c656877",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:06:54.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "ec3e55a35e37002f0e80",
+      "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+      "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:02:59.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "ae6a5df6d9222dfa6f6a",
+      "title": "‘We know this movie’: Iran mocks latest US sanctions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:02:14.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "136f589f41c7b9155f67",
+      "title": "Photo of Disraeli among missing parliamentary works of art, FoI request finds",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/photo-of-disraeli-among-missing-parliamentary-works-of-art-foi-request-finds",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:01:50.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "451b31d97cabd613894c",
+      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
+      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:00:52.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "3c11952e78894e9b3ab8",
+      "title": "Most English secondary schools are breaking healthy food rules, finds report",
+      "url": "https://www.theguardian.com/education/2026/aug/24/most-english-secondary-schools-are-breaking-healthy-food-rules-finds-report",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T04:00:51.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "312d33469e1c158f41d5",
+      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+      "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T03:56:59.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "a2c43fa36436e5732b17",
+      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+      "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-24T03:47:04.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "238de4d2993f1d1ffda5",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T03:27:11.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "bfde749c87185cb8e568",
+      "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-24T02:55:39.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "40748607f5d7b3f8a181",
@@ -75,7 +174,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:09:40.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "70a09ec7fe05f3b223f2",
@@ -86,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T02:02:28.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "adb5d5180c6b27d1e29e",
@@ -97,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T01:51:40.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "75fa29967ee07b1c194e",
@@ -108,7 +207,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T01:34:41.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "de0468fe48eba3e0e799",
@@ -119,7 +218,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T01:33:14.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "cf863db67f1e9b3a218e",
+      "title": "The first search engine for Internet-connected devices",
+      "url": "https://www.shodan.io/",
+      "source": "shodan.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T00:52:21.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "fe0c188601283080d078",
@@ -130,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T00:34:59.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "d45459cb925d3cd78cf9",
@@ -141,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:30:00.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "c5e828753289fec8aa89",
@@ -152,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:12:21.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "9ecbf22b9654242c743e",
@@ -163,7 +273,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "993a2942122a7a99d64f",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "source": "pantel.is",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-23T23:18:17.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
+    },
+    {
+      "id": "4bc9cc391c2004bd6acf",
+      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-23T23:07:10.000Z",
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "b243d2cee0aca7d64c43",
@@ -174,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "a83bf39e8b86e2fa934e",
@@ -185,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "d653c77106e93f58c472",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T23:01:45.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "a895c739bfa512f348c4",
@@ -207,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T22:41:04.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "e31a05c4208da57848bd",
@@ -218,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:17:53.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "563ed414c99dce9cc4ff",
@@ -229,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T22:16:53.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "7c4c101fe3647537c430",
@@ -240,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:45:05.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "d0eb4431eb4d69cebf37",
@@ -251,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T21:41:17.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "ea2b4aeb990d6e1f3e39",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:34:53.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "33385d004b3b5dbe3fda",
@@ -273,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:27:57.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "de0c5672855c0920fc47",
@@ -284,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:23:05.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "d833d4934f86564d231f",
@@ -295,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-23T21:21:23.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "082620b730ad02ffee78",
@@ -306,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T21:08:17.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "ea6b10ebca940c4c95b1",
@@ -317,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T21:00:42.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "0dfc9b911dfda3c2a7ab",
@@ -328,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T20:30:50.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "361e9f6caf2aa0978cf8",
@@ -339,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T20:23:01.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "a738d05bb6c3c2f1d3e0",
@@ -350,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T20:19:36.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "28294070275b1a199510",
@@ -361,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T20:00:22.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "18dd4a619334d2e91325",
-      "title": "Families release pictures of police officers killed in A66 crash in which five others died",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T19:55:13.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "da2bbbc0bd6e91e14fb2",
@@ -383,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T19:52:12.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "283c331d6a3486e1a4f9",
@@ -394,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T19:40:11.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "2a3703b5e10a89b7e813",
@@ -405,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-23T19:32:59.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "b36cfabda6fb05696e2f",
@@ -416,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T19:29:32.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "bc30580ad84ca1f0b959",
@@ -427,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-23T19:27:17.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "d354d3ee177b5e603207",
@@ -438,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-23T19:23:29.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     },
     {
       "id": "08c432427f9a7990c47b",
@@ -449,128 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-23T19:11:30.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "f68773d319f05c9123bd",
-      "title": "Zhou Bo: China’s alternative to Western power",
-      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T19:00:56.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "e9efb1a56858e76ceeca",
-      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T18:47:11.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "0b98e0b166a94c7b6902",
-      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T18:27:46.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "995cca8312c621d3e834",
-      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T18:22:15.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "f7b43bd3e635344a6d9b",
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T18:17:37.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "149a75083aa9a72b4c6c",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source": "ft.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T18:16:37.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "76f6d975788e15b89ec8",
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T18:15:22.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "02a4bcd125aae9cefdf6",
-      "title": "Explain it to me like I'm ten",
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "source": "timharford.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T18:08:13.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "d9678b8041f918c45d4a",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "source": "fabiensanglard.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-23T17:59:52.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "3c298065bebf8c30951f",
-      "title": "Tunisia sees protests after migrant boat sinking kills eight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-23T17:57:48.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
-    },
-    {
-      "id": "7b84602fdf522b612bd8",
-      "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-23T17:55:52.000Z",
-      "discoveredAt": "2026-08-24T03:12:34.413Z"
+      "discoveredAt": "2026-08-24T04:24:36.327Z"
     }
   ]
 }
