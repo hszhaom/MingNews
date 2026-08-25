@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T04:19:17.038Z",
+  "generatedAt": "2026-08-25T05:08:06.267Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "17746094b25fe57d7082",
-      "title": "Coogee shark attack victim describes moment she came to face-to-face with ‘monster’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-      "source": "The Guardian",
+      "id": "b8a7ca73c5619bf5602b",
+      "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+      "source": "NPR News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "npr-news",
       "topic": "world",
-      "publishedAt": "2026-08-25T04:13:05.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "publishedAt": "2026-08-25T04:56:29.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "124db812f4d46d7606f3",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T04:54:01.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "2f9bb2702fd3e67de2f5",
@@ -63,8 +74,52 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-25T04:04:20.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "publishedAt": "2026-08-25T04:49:32.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "8696c78143fb622d71c0",
+      "title": "Syrian president thanks nation for getting off US state terror list",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T04:38:24.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "829f5134a8fb24aa8137",
+      "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+      "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T04:38:20.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "e556d85f637fdf2c6816",
+      "title": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+      "url": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T04:17:06.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "17746094b25fe57d7082",
+      "title": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T04:13:05.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "1149b5c94e10296470b5",
@@ -75,7 +130,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T04:00:49.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "e920e05045a9e14a81fa",
@@ -86,7 +141,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T04:00:48.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "4a5f953419e4fa56d76b",
@@ -97,7 +152,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T04:00:48.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "ca16308dfb3cf7823e67",
@@ -108,7 +163,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T04:00:47.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "cab1a4ca3b7e44d81773",
@@ -119,7 +174,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T03:59:43.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "d1eb3b4cfcd92c51507d",
@@ -130,7 +185,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T03:56:30.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "253f6697afdfe3b4de0c",
@@ -141,7 +196,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T03:54:19.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "375bd938398a0571026b",
@@ -152,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T03:50:06.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "79efdba97ff5894d0e80",
@@ -163,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T03:45:59.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "9d4c273e7100a45a4f6d",
@@ -174,7 +229,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T03:29:38.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "52eb445055153d43330e",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T03:07:34.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "9325898e542de8d6f8de",
@@ -185,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T02:54:40.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "fa603d74b024b7fb71e0",
@@ -196,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T02:53:48.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "21ace222da0eb969efb0",
@@ -207,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T02:49:22.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "94c4f2badd28609d5d3a",
@@ -218,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T02:11:08.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "bbf474158e49a30d6de5",
@@ -229,7 +295,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T02:08:57.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "ef2025516b881e133ed3",
@@ -240,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T01:55:36.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "ce6935aacce000140085",
@@ -251,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T01:51:16.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "4bc9cc391c2004bd6acf",
@@ -262,7 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T01:48:24.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "556e29cccec14dfefc23",
@@ -273,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T01:46:26.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "899859226156106ea49d",
@@ -284,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T01:45:35.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "dd533d791d33a203f873",
@@ -295,7 +361,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T01:40:39.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
+    },
+    {
+      "id": "8563a024344045e70efd",
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "source": "daily.jstor.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T01:35:00.000Z",
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "a332671eb617425f7483",
@@ -306,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T01:28:27.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "2e5523ddba843eee19ef",
@@ -317,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T01:10:44.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "c5ea08dabb1b8cd0c26a",
@@ -328,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T01:01:44.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "c07791f9cc260f577822",
@@ -339,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T00:51:59.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "23d8af39d5a63d52c017",
@@ -350,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T00:34:47.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "2d1f591ea718c9f01e0a",
@@ -361,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T00:34:29.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "b0f112396df36a7ad6d8",
@@ -372,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T00:18:42.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "20faf729c882b94256cb",
@@ -383,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T00:17:25.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "f53cace98e5cbab64966",
@@ -394,18 +471,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T00:16:35.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "67266f7d7cecdbbbd218",
-      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T00:00:00.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "cf0a5365569d1f4afd92",
@@ -416,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:56:41.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "238de4d2993f1d1ffda5",
@@ -427,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:53:32.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "b259003d91ec5b81c4c5",
@@ -438,7 +515,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:36:58.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "b4aeeb80bd5c97191672",
@@ -449,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:01:41.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "17737e382f9a8aaf2c26",
@@ -460,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T23:00:37.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "3cfe2e5681cd99e38b98",
@@ -471,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:46:02.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "c190f3c77d4667a4d627",
@@ -482,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:40:04.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     },
     {
       "id": "47dda34427f8ebdb3e64",
@@ -493,84 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:32:26.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "8c0084d32f4b784ae2fa",
-      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-24T22:22:13.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "46760258fc850a2c1349",
-      "title": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
-      "url": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T22:19:08.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "caecc570422438d1fc3d",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "source": "developer.apple.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T22:13:40.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "9ead26cedf7616f89357",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T22:13:20.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "2a7d7322802e5e56b1a2",
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "source": "ciechanow.ski",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T22:06:02.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "9e9ac683572374c9e299",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T21:40:48.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
-    },
-    {
-      "id": "062414625aad811db3f6",
-      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T21:35:10.000Z",
-      "discoveredAt": "2026-08-25T04:19:17.038Z"
+      "discoveredAt": "2026-08-25T05:08:06.267Z"
     }
   ]
 }
