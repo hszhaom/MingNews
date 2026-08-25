@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T16:50:03.118Z",
+  "generatedAt": "2026-08-25T17:39:53.216Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,7 +12,7 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
@@ -45,17 +45,6 @@
   ],
   "stories": [
     {
-      "id": "2c634aa73879e96f9fc2",
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T16:49:31.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
       "id": "0276c5304c6980ecaa26",
       "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
@@ -63,8 +52,162 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-25T16:43:12.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "publishedAt": "2026-08-25T17:21:47.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "d11fef79fbcc328f4147",
+      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "url": "https://github.com/leodeim/vpsmon",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T17:13:59.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "70741c00dade3d8a3042",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T17:11:21.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "511f26044648295804f7",
+      "title": "Multiple people killed in shooting at Montana home also set on fire, officials say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/billings-montana-shooting-home-fire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T17:09:19.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "3c3e8796ed88352248ec",
+      "title": "Canada hits US with counter-tariffs targeting hundreds of products",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T17:08:54.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "25847b3565db870be77d",
+      "title": "Nitter project received cease and desist",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T17:08:21.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "b3477100d51ce4f7afd7",
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T17:02:49.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "252e0515785b89c7f9a4",
+      "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T17:02:29.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "6302b588161ed28de892",
+      "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+      "url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+      "source": "ceres.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T16:58:31.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "2c634aa73879e96f9fc2",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:56:20.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "b31a3741780e1ff7886a",
+      "title": "Revealed: How undercover agents spied on anti-ICE protesters in Minnesota",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ice-signal-chat-minnesota",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:56:15.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "42ab1d8770931d139ad5",
+      "title": "Louisiana supreme court justice wins rare $300,000 defamation trial against newspaper",
+      "url": "https://www.theguardian.com/media/2026/aug/25/louisiana-supreme-court-defamation-advocate-newspaper",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:56:05.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "292bfc9de204993c8ae0",
+      "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:55:29.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "2f2cd9ee15c6de155469",
+      "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:55:08.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "bb00e934598219a73584",
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "source": "rorz.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T16:53:33.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "33eb6a77ec2be939ca3a",
@@ -75,7 +218,40 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T16:43:08.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "ad7a5eb45d201c8e71ad",
+      "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+      "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T16:39:24.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "64e5a3976e9279bde2e7",
+      "title": "SpaceX – Starbase, LA",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "source": "spacex.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T16:37:52.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "49a4eac9ae7460f335d0",
+      "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "source": "blog.master.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T16:35:36.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "bc093f0afc68ef68b072",
@@ -86,18 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T16:28:01.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "709a289c6d552c79cf53",
-      "title": "Anthropic Sees over $30T in Potential Revenue",
-      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
-      "source": "wsj.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T16:20:11.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "0324ff3c727ae4d447dd",
@@ -108,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T16:17:44.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "d35fa63ce3050e31f372",
@@ -119,7 +284,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T16:09:08.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "43f54a3befe1253d1bb9",
@@ -130,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T16:04:25.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "5a9836673a58dde793a5",
@@ -141,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T16:00:09.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "d8d075341d3b2b7c1762",
@@ -152,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:59:22.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "3144af929c716a6e0dc4",
@@ -163,18 +328,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:58:20.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "f829d1d5d65adf0764fb",
-      "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T15:56:15.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "85a6d2c07f5d8341327e",
@@ -185,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:52:42.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "1993276062b378e31856",
@@ -196,18 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:47:56.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "1efe40bb28ea816a3f78",
-      "title": "Judge rejects Ghislaine Maxwell’s sex-trafficking appeal, calling claims ‘demonstrably meritless’",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/ghislaine-maxwell-sex-trafficking-appeal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T15:46:22.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "18a661b2b9e5befe582f",
@@ -218,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:42:43.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "4e1bf19a6337aa35004e",
@@ -229,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:42:21.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "eb122f9b971a8fd97f72",
-      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T15:41:13.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "71d08a984f811f8ae5b1",
@@ -251,7 +383,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:30:25.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
+    },
+    {
+      "id": "547aece2f08ec020933c",
+      "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+      "source": "dl.acm.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T15:26:45.000Z",
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "0a88bdcf7ab3a33d2472",
@@ -262,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:24:31.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "8a406f0a2d23a9e671ec",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:23:17.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "d04aa1e3a61d07368cdd",
@@ -284,7 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-25T15:20:18.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "5ccafc0cac9ac94c2d40",
@@ -295,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:18:50.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "69632898f8bdcd9ca498",
@@ -306,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:17:05.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "c17ec712a94cb803234c",
@@ -317,18 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:12:00.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "4ab02edbaad3a8ba6a93",
-      "title": "Beyond Good and Evil: Nietzsche and the Great War",
-      "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-      "source": "historytoday.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T15:09:20.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "49d64ed586960ae0084d",
@@ -339,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:09:10.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "ee4a80cd30d2ffd36e99",
@@ -350,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:05:00.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "15885db278268c9e70c3",
@@ -361,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:03:46.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "10c873a2ff17280d8101",
@@ -372,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T15:02:04.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "c9152cdd5c9116ba3604",
@@ -383,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:00:19.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "d7774f7fe837ec8d2356",
@@ -394,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T15:00:18.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "1240515c683d085bb499",
@@ -405,7 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-25T14:59:12.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "90c9a9b4c323dfaa1ea2",
@@ -416,18 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:53:45.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "7b1bff0cd0994cb902ef",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "source": "arstechnica.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T14:48:58.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "182259ebf1733ebcfbb9",
@@ -438,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:43:12.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     },
     {
       "id": "ff343b899e2930b050e8",
@@ -449,128 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:40:54.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "41a72a02c5d5a1bb5eaf",
-      "title": "Several states will decide voter ID ballot measures this year",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:40:36.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "7c43a530c0e52915574c",
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "source": "e360.yale.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T14:29:32.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "c257fa36f743142dcf14",
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "source": "imkylelambert.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T14:20:36.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "dca5a1f525f95f705183",
-      "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-      "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-      "source": "erathos.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T14:18:29.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "6760f81238b43a300823",
-      "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-      "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:17:06.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "d718e7b141e878e4851c",
-      "title": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
-      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:17:02.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "8c28f8202a1ecb5851a6",
-      "title": "US military transport plane arrives in Moscow in rare occurrence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:16:10.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "00a48b5a211fabfd7f75",
-      "title": "How can a heavily indebted football club afford Mo Salah?",
-      "url": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:14:39.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "4efddb8200af76f6275a",
-      "title": "‘The Trump-Putin relationship is the biggest mystery in international politics’: foreign correspondent Luke Harding answered your questions",
-      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:06:25.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "d557636d17aec0bc8875",
-      "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
-      "url": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:04:44.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
-    },
-    {
-      "id": "15a460a7c7ed3ead94fe",
-      "title": "‘I love rats but we can’t live with them’: the headache of rising rodent populations around the world",
-      "url": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:00:38.000Z",
-      "discoveredAt": "2026-08-25T16:50:03.118Z"
+      "discoveredAt": "2026-08-25T17:39:53.216Z"
     }
   ]
 }
