@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T23:52:43.616Z",
+  "generatedAt": "2026-08-25T01:46:55.539Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,26 @@
   ],
   "stories": [
     {
-      "id": "375bd938398a0571026b",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "2f9bb2702fd3e67de2f5",
+      "title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "source": "The Guardian",
       "sourceType": "rsshub",
-      "sourceId": "bbc-world",
+      "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T23:48:25.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "publishedAt": "2026-08-25T01:35:24.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "a332671eb617425f7483",
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T01:28:27.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "ef2025516b881e133ed3",
@@ -63,19 +74,173 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T23:44:23.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "publishedAt": "2026-08-25T01:18:48.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
-      "id": "2f9bb2702fd3e67de2f5",
-      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; Aria bans AI music from charts",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "id": "2e5523ddba843eee19ef",
+      "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-24T23:38:24.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "publishedAt": "2026-08-25T01:10:44.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "c5ea08dabb1b8cd0c26a",
+      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T01:01:44.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "a91c0cac4cb61cc2205b",
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "source": "plicara.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T00:52:27.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "c07791f9cc260f577822",
+      "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
+      "url": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:51:59.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "21ace222da0eb969efb0",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:40:06.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "23d8af39d5a63d52c017",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "2d1f591ea718c9f01e0a",
+      "title": "DRC’s constitutional battle: The fight over the 2028 vote",
+      "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:34:29.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "b0f112396df36a7ad6d8",
+      "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+      "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:18:42.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "20faf729c882b94256cb",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "f53cace98e5cbab64966",
+      "title": "Moment tornado tears through southern France",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:16:35.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "67266f7d7cecdbbbd218",
+      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "cf0a5365569d1f4afd92",
+      "title": "Massachusetts woman suspected of killing police officer husband found dead",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:56:41.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "238de4d2993f1d1ffda5",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:53:32.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "375bd938398a0571026b",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:48:25.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "b259003d91ec5b81c4c5",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T23:36:58.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "b4aeeb80bd5c97191672",
@@ -86,7 +251,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:01:41.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "10bc30da97572f62fbf8",
@@ -97,7 +262,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T23:00:53.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "17737e382f9a8aaf2c26",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-24T23:00:37.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "3cfe2e5681cd99e38b98",
@@ -108,18 +284,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:46:02.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "c190f3c77d4667a4d627",
-      "title": "US Supreme Court sides with Trump administration on mail voting",
+      "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
       "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:40:04.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "47dda34427f8ebdb3e64",
@@ -130,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:32:26.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "8c0084d32f4b784ae2fa",
@@ -141,18 +317,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T22:22:13.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "46760258fc850a2c1349",
-      "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
+      "title": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
       "url": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T22:19:08.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "caecc570422438d1fc3d",
@@ -163,7 +339,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T22:13:40.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
+    },
+    {
+      "id": "9ead26cedf7616f89357",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-24T22:13:20.000Z",
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "2a7d7322802e5e56b1a2",
@@ -174,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T22:06:02.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "9e9ac683572374c9e299",
@@ -185,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T21:40:48.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "062414625aad811db3f6",
@@ -196,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:35:10.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "4995944ebb4f21925e12",
@@ -207,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:32:24.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "5bd3ea26ab0e8fa15b27",
@@ -218,18 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-24T21:30:39.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "b3652a2fe54f8bcdd341",
-      "title": "Target apologizes for ‘offensive’ Halloween costume after backlash",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T21:29:28.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "69ff01952b6a59d083f8",
@@ -240,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T21:17:31.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "c601293ce6c8e671f38e",
@@ -251,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T21:12:06.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "581acfbd4954d1669391",
@@ -262,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T21:03:06.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "300ed4f3e102ca9c5f93",
@@ -273,18 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-24T21:01:38.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "eefafbbfa2fba99e49c2",
-      "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T20:56:51.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "013623e09869099ef332",
@@ -295,18 +460,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:54:38.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "688a3903878c446fcbad",
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
       "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-24T20:53:45.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "be12d58168b0c1818224",
@@ -317,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:48:21.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "5eff722676e684593366",
@@ -328,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:48:09.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "6ed9e4d1e5c4538f9a65",
@@ -339,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:47:24.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "bf5684df3d916fb3dae0",
@@ -350,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:45:51.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "9a698a3d2222ba5abdda",
@@ -361,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:23:39.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "92378aad66666c584074",
@@ -372,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:03:48.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "da329d59c77561e9e6c9",
@@ -383,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T20:00:18.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "54b31438163a4bf64d36",
@@ -394,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:46:42.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     },
     {
       "id": "499fc9ffc209e7b15121",
@@ -405,172 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-24T19:44:23.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "1cd711b3df3de0bc8bfc",
-      "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:21:01.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "53d975e083eaf7f3df88",
-      "title": "Oceans hit highest temperature on record",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "source": "bbc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T19:19:08.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "4d9e4d3bd6d7ee144b74",
-      "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:18:00.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "5e0a27f48076fb0355c2",
-      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:09:45.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "74db650e4e91fbb27c84",
-      "title": "Man arrested on suspicion of arson after fire at car park used by Gatwick passengers",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:04:06.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "113584368e849150c920",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "boydkane.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T19:03:06.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "747f90ae46e86e4d5040",
-      "title": "Israel threatens attacks in Gaza over children’s kites",
-      "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:00:55.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "79efdba97ff5894d0e80",
-      "title": "Victorian premier Ben Carroll pushes ahead with rail loop plan after hinting at pause",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T19:00:36.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "a3ade4db974090770236",
-      "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:58:12.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "e83126f9b8b2f8476c48",
-      "title": "US threatens severe sanctions against countries with economic ties to Iran",
-      "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:57:57.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "436eca6963f79f829d95",
-      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:55:43.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "5835ab88f996206c594f",
-      "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:46:09.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "d867f30dbc36216040ca",
-      "title": "Anger, Anxiety and Agency",
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "source": "lucumr.pocoo.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-24T18:37:24.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "addf488311b8474d7b43",
-      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
-      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:22:18.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
-    },
-    {
-      "id": "8f44f11f4d03624bd32c",
-      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-24T18:22:14.000Z",
-      "discoveredAt": "2026-08-24T23:52:43.616Z"
+      "discoveredAt": "2026-08-25T01:46:55.539Z"
     }
   ]
 }
