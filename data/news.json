@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T14:56:56.837Z",
+  "generatedAt": "2026-08-25T15:53:47.607Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,215 @@
   ],
   "stories": [
     {
+      "id": "2c634aa73879e96f9fc2",
+      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:43:50.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "0276c5304c6980ecaa26",
+      "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:42:38.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "eb122f9b971a8fd97f72",
+      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:41:13.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "71d08a984f811f8ae5b1",
+      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:30:25.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "d35fa63ce3050e31f372",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:27:56.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "0a88bdcf7ab3a33d2472",
+      "title": "Nine years of Rohingya refugee crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:24:31.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "2bdab5be337a9dcc6460",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "source": "blog.coredump.cx",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T15:23:41.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "8a406f0a2d23a9e671ec",
+      "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:23:17.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "d04aa1e3a61d07368cdd",
+      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:20:18.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "69632898f8bdcd9ca498",
+      "title": "Qatar says US sanctions on Iran are unilateral",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:17:05.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "c17ec712a94cb803234c",
+      "title": "US launches Economic war on Iran",
+      "url": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:12:00.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "4ab02edbaad3a8ba6a93",
+      "title": "Beyond Good and Evil: Nietzsche and the Great War",
+      "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+      "source": "historytoday.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T15:09:20.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "49d64ed586960ae0084d",
+      "title": "One year since Gaza journalist killed by Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:09:10.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "ee4a80cd30d2ffd36e99",
+      "title": "Badenoch plotted to remove Sunak as PM months before election, book claims",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/kemi-badenoch-rishi-sunak-conservatives-anthony-seldon-book",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:05:00.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "15885db278268c9e70c3",
+      "title": "No, the Democratic Party is not shifting on Israel",
+      "url": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:03:46.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "10c873a2ff17280d8101",
+      "title": "Root ‘hacked off’ by England cricket team after police handcuff Carse",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/root-hacked-off-by-england-cricket-team-after-police-handcuff-carse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:02:04.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "c9152cdd5c9116ba3604",
+      "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:00:19.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "d7774f7fe837ec8d2356",
+      "title": "One Nation’s Malcolm Roberts ‘in two minds’ about whether gay people should be equal",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/one-nation-malcolm-roberts-two-minds-gay-equal-rights-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T15:00:18.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "1240515c683d085bb499",
+      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-25T14:59:12.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
       "id": "33eb6a77ec2be939ca3a",
       "title": "Two unvaccinated people die of measles in Pennsylvania",
       "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
@@ -53,7 +262,40 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:54:34.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "90c9a9b4c323dfaa1ea2",
+      "title": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+      "url": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-25T14:53:45.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "7b1bff0cd0994cb902ef",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "arstechnica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-25T14:48:58.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
+    },
+    {
+      "id": "83141540f1a4af087e4d",
+      "title": "New York business group sues Mamdani over city-owned grocery stores plan",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-25T14:48:54.000Z",
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "182259ebf1733ebcfbb9",
@@ -64,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:43:12.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "ff343b899e2930b050e8",
@@ -75,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:40:54.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "41a72a02c5d5a1bb5eaf",
@@ -86,7 +328,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-25T14:40:36.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "42ab1d8770931d139ad5",
@@ -97,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:37:10.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "7c43a530c0e52915574c",
@@ -108,29 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T14:29:32.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "0276c5304c6980ecaa26",
-      "title": "Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:28:35.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "d35fa63ce3050e31f372",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:22:46.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "c257fa36f743142dcf14",
@@ -141,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T14:20:36.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "dca5a1f525f95f705183",
@@ -152,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T14:18:29.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "6760f81238b43a300823",
@@ -163,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:17:06.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "d718e7b141e878e4851c",
@@ -174,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:17:02.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "8c28f8202a1ecb5851a6",
@@ -185,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:16:10.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "00a48b5a211fabfd7f75",
@@ -196,18 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:14:39.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "71d08a984f811f8ae5b1",
-      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T14:12:33.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "4efddb8200af76f6275a",
@@ -218,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:06:25.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "d557636d17aec0bc8875",
@@ -229,29 +438,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T14:04:44.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "15a460a7c7ed3ead94fe",
-      "title": "‘Not any old vermin’: rats numbers are on the rise thanks to global heating – and poison may not be the answer",
+      "title": "‘I love rats but we can’t live with them’: the headache of rising rodent populations around the world",
       "url": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T14:00:38.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "87c1695a1d849e101124",
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
-      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "source": "businessinsider.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T14:00:27.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "ffbbc137c3ebcc614b06",
@@ -262,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:42:14.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "e0dc4142e2a8865fffa9",
@@ -273,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:26:22.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "ea62a3f63d1d54d322ae",
@@ -284,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:25:21.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "a03698e81ec34fe3063a",
@@ -295,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:23:37.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "fd8cfbd78fe3a521a906",
@@ -306,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T13:21:18.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "6d88b6d0bdfbf83c254c",
@@ -317,18 +515,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-25T13:20:11.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "f742b715193667b125ca",
-      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "source": "apple.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T13:13:00.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "f34d3047dfd44b9e434f",
@@ -339,29 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:10:24.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "1f1984500b0fd7787fc9",
-      "title": "Mother and two-year-old daughter killed by lightning strike in Florida",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T13:05:23.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "540b53bf706d4d7a42e3",
-      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "source": "apple.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T13:03:17.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "0c6b106ff3944d57453e",
@@ -372,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-25T13:01:22.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     },
     {
       "id": "4ce3da57dc7ba1030375",
@@ -383,194 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-25T13:01:17.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "b8e08a9ee5782260e40c",
-      "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
-      "url": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:59:32.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "1fd231f58b0d34f246f3",
-      "title": "What to expect in elections in South Carolina, Georgia and Oklahoma",
-      "url": "https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:58:23.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "3e7a587086c55475afe3",
-      "title": "Tottenham sign Brazilian winger Savinho from Manchester City",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/tottenham-sign-brazilian-winger-savinho-from-manchester-city?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:48:38.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "d50f40f5b74c183c3d13",
-      "title": "France's tax agency got hacked (in French)",
-      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "source": "cybernetica.fr",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T12:44:35.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "7ad13fc45410d75987d7",
-      "title": "Third drone and suspected military explosives found near Leipzig airport",
-      "url": "https://www.theguardian.com/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:37:24.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "98ad4cfda928bcd8f99f",
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-      "source": "9to5mac.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-25T12:33:00.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "b9ab897a6a429991caa3",
-      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:31:53.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "96c0658add02b9b88b44",
-      "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:30:45.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "f43d815e4e4c894c72b3",
-      "title": "Andrew Tate rented supercars to appear ‘uberwealthy’, says his lawyer",
-      "url": "https://www.theguardian.com/news/2026/aug/25/andrew-tate-rented-supercars-to-appear-uberwealthy-says-his-lawyer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:25:05.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "21f7d4671e0016357351",
-      "title": "How water becomes a weapon of war",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:20:37.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "59ebb8e2059a2f1aa3d2",
-      "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
-      "url": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:17:56.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "1fab3491fff5e1ac8e86",
-      "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
-      "url": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:15:19.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "e9f2842b2177dc82a513",
-      "title": "US fossil fuel lobbyists also represent hundreds of cities fighting for climate damages",
-      "url": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T12:00:35.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "91dfcc973b27dc3fec9c",
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T11:54:40.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "9f63d01c63c547f36a1e",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T11:54:03.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "0829fef06c118fce075a",
-      "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
-      "url": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T11:53:58.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
-    },
-    {
-      "id": "0921b080b96099e8acaa",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-25T11:53:36.000Z",
-      "discoveredAt": "2026-08-25T14:56:56.837Z"
+      "discoveredAt": "2026-08-25T15:53:47.607Z"
     }
   ]
 }
