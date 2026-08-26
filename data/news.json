@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T09:52:30.729Z",
+  "generatedAt": "2026-08-26T10:46:53.590Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,17 @@
   ],
   "stories": [
     {
+      "id": "0b622774818341c4e075",
+      "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:43:45.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
       "id": "67797df517e854dc3810",
       "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
@@ -52,19 +63,129 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T09:42:23.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "publishedAt": "2026-08-26T10:37:10.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "e85d6aab643260710028",
+      "title": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:33:43.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "a117387b00096c0565a3",
+      "title": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/dominic-perrottets-sister-in-law-denies-lying-under-oath-to-protect-husband-over-allegedly-donations-icac-hears-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:16:23.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "a9c204e117f936d5f4d5",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "source": "bloomberg.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "0c0493f9bb156a769360",
+      "title": "New data shows record number of arrests and deportations of immigrants in the US",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/record-arrests-deportations-immigrants",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:00:42.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "40375040a60b4a5a37f6",
+      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:00:41.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "66130018e5f7b2a6cc25",
+      "title": "Sonya Massey’s family says death of sheriff’s deputy who killed her ‘doesn’t feel like justice’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/sonya-massey-family-sean-grayson-death",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:00:40.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "dbd835ee9fcb9f95bf34",
+      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+      "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:00:05.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "2563ebea638e26bbb7ef",
-      "title": "Extreme heat linked to deaths of over 40,000 people in England since 1988",
+      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
       "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T09:41:31.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "publishedAt": "2026-08-26T09:51:23.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "ac707bc607a26e678dde",
+      "title": "Tributes pour in after country music legend Dolly Parton dies",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T09:49:44.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "79e82b12453e92c8d65a",
+      "title": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+      "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T09:48:36.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "247ed0ec86e413de35bc",
+      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T09:47:08.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "11eb3fc193dad8dada41",
@@ -75,29 +196,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T09:38:23.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
-      "id": "812cb0fa69e0b9783eb9",
-      "title": "Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race",
-      "source": "The Guardian",
+      "id": "24d7a66add0bce459a6b",
+      "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+      "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+      "source": "Al Jazeera English",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "al-jazeera",
       "topic": "world",
-      "publishedAt": "2026-08-26T09:30:39.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "ac707bc607a26e678dde",
-      "title": "Tributes pour in after country music legend Dolly Parton dies – latest updates",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:21:16.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "publishedAt": "2026-08-26T09:36:08.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "d0934ad3e749fad0d4b8",
@@ -108,7 +218,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:20:33.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "8de164b9c3e79f94572a",
@@ -119,7 +229,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:02:00.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "0f6429ef679060f4712f",
@@ -130,18 +240,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T09:01:49.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "75e4b788bd60afb6b3c4",
-      "title": "Soaring summer power bills spark protests -- and even disconnections",
+      "title": "Soaring summer power bills spark protests — and even disconnections",
       "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:01:00.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "8080df50e654ec64d6ca",
@@ -152,7 +262,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:39.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "8de0c0659c7a0e908a0e",
@@ -163,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:35.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "a7e163e9ef0a6982ea4d",
@@ -174,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:00.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "c3c8edeb5da3f1f3a71d",
@@ -185,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:59:15.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "c5e2a3d985d276652437",
@@ -196,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:57:46.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "823e907716c7b20f17ca",
@@ -207,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:55:23.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "ba55787ffb357529a967",
@@ -218,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:54:35.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "8ccde2ba54817573dc71",
@@ -229,7 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:48:43.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "863a856987e0c4d4dba1",
+      "title": "Canada's retaliation tests the limit of American power under Trump",
+      "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T08:47:18.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "628144b6746689194ac1",
@@ -240,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:46:53.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "ec27f5288447b0f6af4a",
@@ -251,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:42:28.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "d548e64399a40e009ed8",
@@ -262,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:39:17.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "7b7b23b2b6bb5af566da",
@@ -273,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:34:29.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "1cfa4fb09641171c5878",
@@ -284,7 +405,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:18:55.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "9d18d081979b93340da0",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T08:17:45.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "d3d9a385fdc417ab1ca5",
@@ -295,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:12:53.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "5cbc62522a973e2c316d",
@@ -306,7 +438,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:04:13.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "bf7136fe7bad2ffe53b7",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T08:01:56.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "71e35544c6976c0fd391",
@@ -317,18 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:47:42.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "95641baca5d10a4624ec",
-      "title": "Celebrity tributes pour in for Dolly Parton: ‘a gift to the world’",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-death-celebrity-reactions",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:46:12.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "294c443d0141fc1c2c46",
@@ -339,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:43:36.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "c09146027b2cc3d71b4f",
@@ -350,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:41:02.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "6d8248acc97671e464e6",
@@ -361,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T07:38:30.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "ed6c163602c3ba546cf3",
@@ -372,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T07:36:52.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "b8402645046fb8c353a8",
@@ -383,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T07:34:59.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "0c6ffa67516a51a5d259",
@@ -394,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T07:30:00.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "15e797579a8a89ef16cb",
@@ -405,7 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:26:45.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
+    },
+    {
+      "id": "575315e59021a00245f6",
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T07:26:03.000Z",
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "d6ad0e5e1c62283e5d55",
@@ -416,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:20:06.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     },
     {
       "id": "6d7d95279f81a4eea67d",
@@ -427,150 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T07:18:07.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "747014530a4988c5d56b",
-      "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:17:56.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "01d61b85ddd3ffc82ee2",
-      "title": "At least 14 newborn babies die in fire at Pakistan hospital’s maternity ward",
-      "url": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:05:43.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "6a5409d3c2dae2b308ee",
-      "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:00:37.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "c2f573e9d4892b399116",
-      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T06:44:23.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "5db7177f377137a25d17",
-      "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T06:31:58.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "591d7982a3037ef84a34",
-      "title": "Iran, Oman agree on new temporary route in Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T06:02:13.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "d1fbfbfb26816ad5e08b",
-      "title": "Wednesday briefing: How Canada has turned a trade dispute into a defence of its sovereignty",
-      "url": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:47:32.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "30c9158766944e14703b",
-      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:45:58.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "cecee728262cc7a92918",
-      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:45:34.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "1199883a5408af365543",
-      "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:20:17.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "f34d1b989941c8b0f0b4",
-      "title": "Fireworks factory goes up in smoke in Mexico",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:17:40.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "3c43568d3d258485c018",
-      "title": "Massive natural gas leak in Wisconsin puts community on alert",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T05:15:51.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
-    },
-    {
-      "id": "c5f9c7930c15d52a7f0e",
-      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "source": "spectrum.ieee.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T05:09:07.000Z",
-      "discoveredAt": "2026-08-26T09:52:30.729Z"
+      "discoveredAt": "2026-08-26T10:46:53.590Z"
     }
   ]
 }
