@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T11:38:29.991Z",
+  "generatedAt": "2026-08-26T13:10:35.479Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,26 @@
   ],
   "stories": [
     {
-      "id": "17d33cd49a8889882333",
-      "title": "The heart, hope and steely determination behind a musical legacy",
-      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T11:32:11.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "0b622774818341c4e075",
-      "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "id": "21eb9087c65a7e9ef0ac",
+      "title": "Channel 5 drama to examine how Nicola Sturgeon’s ex-husband stole SNP funds",
+      "url": "https://www.theguardian.com/politics/2026/aug/26/channel-5-drama-nicola-sturgeon-peter-murrell-snp",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T11:26:23.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "publishedAt": "2026-08-26T13:00:13.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "9273994e99b64c556c78",
+      "title": "AWS Acquires DuckDB",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "source": "ducklabs.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T12:59:26.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "67797df517e854dc3810",
@@ -74,19 +74,294 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T11:25:36.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "publishedAt": "2026-08-26T12:59:10.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "b90ce025dc5cb9815d0d",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "qwen.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T12:52:12.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "ce16038cdc3d5376c86c",
+      "title": "Women using HRT at lower risk of dementia, study suggests",
+      "url": "https://www.theguardian.com/society/2026/aug/26/women-hrt-lower-risk-dementia-study",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:51:42.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "c19136c978b3e057f942",
+      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:51:08.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "a5a39ecb23d58c5e2647",
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "source": "entropicthoughts.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T12:48:37.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "fc96c256d1b369bb6865",
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "gatesnotes.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T12:47:47.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "930d6f8f34a6c046ab87",
+      "title": "Deadly flash floods sweep through northern Nepal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:44:14.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "0b622774818341c4e075",
+      "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:40:34.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "ba5f8c493d9f68de29ef",
+      "title": "CCTV captures terrifying mudslide engulfing Nepal-China border",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:36:34.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "dbcc41eb7b9a5342f36e",
+      "title": "First Thing: Pause on US immigrant visa leaves thousands of applicants in limbo",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/first-thing-pause-us-immigrant-visa-leaves-thousands-applicants-in-limbo",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:33:09.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "c487942c17b2573069d0",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:32:47.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "46e5c9ff1303f3a1c626",
+      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:27:19.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "5669520419925c013eec",
+      "title": "When is the Champions League draw, which teams are in, and what are the dates?",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:24:07.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "ee5bb3c0cb41dc2b452a",
+      "title": "Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas",
+      "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:22:53.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "7c694594b8c66f097aa5",
+      "title": "England footballer Sterling charged with dangerous driving after collision",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:22:18.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "b59351a339f91fadf147",
+      "title": "Omarchy development practices lead to predictable security issues",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "source": "blog.happyfellow.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T12:17:43.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "560c2f7eb1d9a2d0aacd",
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:17:12.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "c3d32ce9fb96e95d8c7b",
+      "title": "Murder investigation launched after two die in Middlesbrough house fire",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:09:08.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "dfc758fc0bc2425de659",
+      "title": "Iran, Oman agree on temporary Hormuz route: What we know",
+      "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:05:09.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "400c0067f07f6cfa3334",
+      "title": "Dead whale washes ashore on beach in Mexico",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:04:22.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "2c985da442cffcb46d32",
+      "title": "Hope and concern swirls for Ohioans around ‘world’s largest datacenter’",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T12:00:12.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "2563ebea638e26bbb7ef",
+      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:45:41.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "b01e843b01b2f1e1c862",
+      "title": "Why India is sharing missile secrets with its private sector",
+      "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:32:35.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "17d33cd49a8889882333",
+      "title": "The heart, hope and steely determination behind a musical legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:32:11.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "a27018681e8317d7d0f8",
+      "title": "Mother and daughter detained by ICE in hospital after car crash",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:25:08.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
+    },
+    {
+      "id": "d29da9a952e3519ac10b",
+      "title": "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
+      "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:24:34.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "529814c71871da240607",
-      "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+      "title": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
       "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T11:06:28.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "8a60e80ee95b6950b511",
@@ -97,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T11:05:46.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "9496c7d98da68bb1d3ee",
@@ -108,7 +383,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:02:22.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "f218151ed7ae95d662ab",
@@ -119,7 +394,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:12.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "28da4bca69a101393eec",
@@ -130,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:12.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "30c6bbc6295bef715389",
@@ -141,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:11.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "fb586a988ac87f509134",
@@ -152,40 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:11.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "2563ebea638e26bbb7ef",
-      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:55:34.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "c19136c978b3e057f942",
-      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:45:44.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "07c36ca1dc0ba2c3d4f0",
-      "title": "U.S. gov't moves to suppress pushback on data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-      "source": "tomshardware.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T10:44:40.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "50772c86a32f94c44f70",
@@ -196,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:42:01.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "e85d6aab643260710028",
-      "title": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:33:43.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "b3865af0fc0113477de4",
@@ -218,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:29:46.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "def1c5ea3427d5e07878",
@@ -229,7 +460,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:29:36.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "8dc94f8ab8769dd58960",
@@ -240,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:28:52.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "13cff13023565ee7d6ee",
-      "title": "It's Not the End of Programming",
-      "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-      "source": "mathstodon.xyz",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T10:25:33.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "a117387b00096c0565a3",
@@ -262,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:16:23.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "8a40d13bde7492bab205",
@@ -273,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T10:07:02.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "a9c204e117f936d5f4d5",
@@ -284,18 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "0c0493f9bb156a769360",
-      "title": "New data shows record number of arrests and deportations of immigrants in the US",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/record-arrests-deportations-immigrants",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:00:42.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "40375040a60b4a5a37f6",
@@ -306,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:00:41.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "dbd835ee9fcb9f95bf34",
@@ -317,18 +526,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:00:05.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "79e82b12453e92c8d65a",
-      "title": "At least eight killed, hundreds missing after Nepal flash flood",
+      "title": "At least 22 killed, hundreds missing after Nepal flash flood",
       "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:48:36.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "11eb3fc193dad8dada41",
@@ -339,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T09:38:23.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
       "id": "24d7a66add0bce459a6b",
@@ -350,227 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:36:08.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     },
     {
-      "id": "d0934ad3e749fad0d4b8",
-      "title": "The Bulgarian village that fears becoming an Iranian target",
-      "url": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:20:33.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "8de164b9c3e79f94572a",
-      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:02:00.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "75e4b788bd60afb6b3c4",
-      "title": "Soaring summer power bills spark protests — and even disconnections",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:01:00.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "8080df50e654ec64d6ca",
-      "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:00:39.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "8de0c0659c7a0e908a0e",
-      "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:00:35.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "a7e163e9ef0a6982ea4d",
-      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:00:00.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "c3c8edeb5da3f1f3a71d",
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "source": "johan-sjolen.github.io",
+      "id": "9a9716f307fb16d3e42b",
+      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+      "url": "https://news.ycombinator.com/item?id=49446210",
+      "source": "Hacker News",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-08-26T08:59:15.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "c5e2a3d985d276652437",
-      "title": "Oldinsurancemaps.net is now a Charter Project",
-      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "source": "openstreetmap.us",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T08:57:46.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "823e907716c7b20f17ca",
-      "title": "US immigration agents arrested more than 49,500 people in July",
-      "url": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:55:23.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "ba55787ffb357529a967",
-      "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-      "url": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:54:35.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "8ccde2ba54817573dc71",
-      "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:48:43.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "863a856987e0c4d4dba1",
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:47:18.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "628144b6746689194ac1",
-      "title": "Thousands in Japan are pulling this historic castle back into place",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:46:53.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "ec27f5288447b0f6af4a",
-      "title": "Lindsey Graham’s sister up for election to his US Senate seat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/lindsey-grahams-sister-up-for-election-to-his-us-senate-seat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:42:28.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "d548e64399a40e009ed8",
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "source": "lighthousenewsletter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T08:39:17.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "7b7b23b2b6bb5af566da",
-      "title": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
-      "url": "https://www.theguardian.com/football/2026/aug/26/raheem-sterling-charged-with-dangerous-driving-and-nitrous-oxide-possession",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:34:29.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "1cfa4fb09641171c5878",
-      "title": "Trump’s Korean gambit exposes a shifting East Asian order",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:18:55.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "9d18d081979b93340da0",
-      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:17:45.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "d3d9a385fdc417ab1ca5",
-      "title": "Now you seafood, now you don’t: $350k worth of oysters vanish without a trace in NSW",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/now-you-seafood-now-you-dont-350k-worth-of-oysters-vanish-without-a-trace-in-nsw",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:12:53.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
-    },
-    {
-      "id": "5cbc62522a973e2c316d",
-      "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:04:13.000Z",
-      "discoveredAt": "2026-08-26T11:38:29.991Z"
+      "publishedAt": "2026-08-26T09:34:38.000Z",
+      "discoveredAt": "2026-08-26T13:10:35.479Z"
     }
   ]
 }
