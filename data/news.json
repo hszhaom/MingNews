@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T10:46:53.590Z",
+  "generatedAt": "2026-08-26T11:38:29.991Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,17 @@
   ],
   "stories": [
     {
+      "id": "17d33cd49a8889882333",
+      "title": "The heart, hope and steely determination behind a musical legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:32:11.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
       "id": "0b622774818341c4e075",
       "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
@@ -52,8 +63,8 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T10:43:45.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "publishedAt": "2026-08-26T11:26:23.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "67797df517e854dc3810",
@@ -63,8 +74,129 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T10:37:10.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "publishedAt": "2026-08-26T11:25:36.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "529814c71871da240607",
+      "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:06:28.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "8a60e80ee95b6950b511",
+      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:05:46.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "9496c7d98da68bb1d3ee",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:02:22.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "f218151ed7ae95d662ab",
+      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:00:12.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "28da4bca69a101393eec",
+      "title": "Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:00:12.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "30c6bbc6295bef715389",
+      "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
+      "url": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:00:11.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "fb586a988ac87f509134",
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T11:00:11.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "2563ebea638e26bbb7ef",
+      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:55:34.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "c19136c978b3e057f942",
+      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:45:44.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "07c36ca1dc0ba2c3d4f0",
+      "title": "U.S. gov't moves to suppress pushback on data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+      "source": "tomshardware.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T10:44:40.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "50772c86a32f94c44f70",
+      "title": "Infantino has no future at FIFA, says European Leagues chief",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:42:01.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "e85d6aab643260710028",
@@ -75,7 +207,51 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:33:43.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "b3865af0fc0113477de4",
+      "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+      "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:29:46.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "def1c5ea3427d5e07878",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:29:36.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "8dc94f8ab8769dd58960",
+      "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+      "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T10:28:52.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "13cff13023565ee7d6ee",
+      "title": "It's Not the End of Programming",
+      "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+      "source": "mathstodon.xyz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T10:25:33.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "a117387b00096c0565a3",
@@ -86,7 +262,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:16:23.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
+    },
+    {
+      "id": "8a40d13bde7492bab205",
+      "title": "Beyond Recall and the Illusion of Competence",
+      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "source": "var0.xyz",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T10:07:02.000Z",
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "a9c204e117f936d5f4d5",
@@ -97,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "0c0493f9bb156a769360",
@@ -108,7 +295,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:00:42.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "40375040a60b4a5a37f6",
@@ -119,18 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:00:41.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "66130018e5f7b2a6cc25",
-      "title": "Sonya Massey’s family says death of sheriff’s deputy who killed her ‘doesn’t feel like justice’",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/sonya-massey-family-sean-grayson-death",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:00:40.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "dbd835ee9fcb9f95bf34",
@@ -141,51 +317,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:00:05.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "2563ebea638e26bbb7ef",
-      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:51:23.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "ac707bc607a26e678dde",
-      "title": "Tributes pour in after country music legend Dolly Parton dies",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:49:44.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "79e82b12453e92c8d65a",
-      "title": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+      "title": "At least eight killed, hundreds missing after Nepal flash flood",
       "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:48:36.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "247ed0ec86e413de35bc",
-      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:47:08.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "11eb3fc193dad8dada41",
@@ -196,18 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T09:38:23.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "24d7a66add0bce459a6b",
-      "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+      "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
       "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:36:08.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "d0934ad3e749fad0d4b8",
@@ -218,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:20:33.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "8de164b9c3e79f94572a",
@@ -229,18 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:02:00.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "0f6429ef679060f4712f",
-      "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-      "url": "https://www.globalsolo.global/data/banking-access-index",
-      "source": "globalsolo.global",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T09:01:49.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "75e4b788bd60afb6b3c4",
@@ -251,18 +383,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:01:00.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "8080df50e654ec64d6ca",
-      "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+      "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
       "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:39.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "8de0c0659c7a0e908a0e",
@@ -273,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:35.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "a7e163e9ef0a6982ea4d",
@@ -284,7 +416,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T09:00:00.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "c3c8edeb5da3f1f3a71d",
@@ -295,7 +427,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:59:15.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "c5e2a3d985d276652437",
@@ -306,7 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:57:46.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "823e907716c7b20f17ca",
@@ -317,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:55:23.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "ba55787ffb357529a967",
@@ -328,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:54:35.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "8ccde2ba54817573dc71",
@@ -339,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:48:43.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "863a856987e0c4d4dba1",
@@ -350,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:47:18.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "628144b6746689194ac1",
@@ -361,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:46:53.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "ec27f5288447b0f6af4a",
@@ -372,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:42:28.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "d548e64399a40e009ed8",
@@ -383,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T08:39:17.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "7b7b23b2b6bb5af566da",
@@ -394,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:34:29.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "1cfa4fb09641171c5878",
@@ -405,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:18:55.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "9d18d081979b93340da0",
@@ -416,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:17:45.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "d3d9a385fdc417ab1ca5",
@@ -427,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T08:12:53.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     },
     {
       "id": "5cbc62522a973e2c316d",
@@ -438,139 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T08:04:13.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "bf7136fe7bad2ffe53b7",
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T08:01:56.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "71e35544c6976c0fd391",
-      "title": "US Army Black Hawk helicopter crashes in Colorado",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:47:42.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "294c443d0141fc1c2c46",
-      "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-      "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:43:36.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "c09146027b2cc3d71b4f",
-      "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:41:02.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "6d8248acc97671e464e6",
-      "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:38:30.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "ed6c163602c3ba546cf3",
-      "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-      "url": "https://rupertlinacre.com/buslens/",
-      "source": "rupertlinacre.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T07:36:52.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "b8402645046fb8c353a8",
-      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:34:59.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "0c6ffa67516a51a5d259",
-      "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-      "url": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:30:00.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "15e797579a8a89ef16cb",
-      "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:26:45.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "575315e59021a00245f6",
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:26:03.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "d6ad0e5e1c62283e5d55",
-      "title": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:20:06.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
-    },
-    {
-      "id": "6d7d95279f81a4eea67d",
-      "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T07:18:07.000Z",
-      "discoveredAt": "2026-08-26T10:46:53.590Z"
+      "discoveredAt": "2026-08-26T11:38:29.991Z"
     }
   ]
 }
