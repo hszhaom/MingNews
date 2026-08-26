@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T13:10:35.479Z",
+  "generatedAt": "2026-08-26T14:21:43.209Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,235 @@
   ],
   "stories": [
     {
-      "id": "21eb9087c65a7e9ef0ac",
-      "title": "Channel 5 drama to examine how Nicola Sturgeon’s ex-husband stole SNP funds",
-      "url": "https://www.theguardian.com/politics/2026/aug/26/channel-5-drama-nicola-sturgeon-peter-murrell-snp",
+      "id": "e800ee9ae57a1b53ea96",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "source": "z.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T14:08:50.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "c19136c978b3e057f942",
+      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T13:00:13.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "publishedAt": "2026-08-26T14:07:38.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "67797df517e854dc3810",
+      "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T14:02:11.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "0b622774818341c4e075",
+      "title": "Trump claims CIA director’s surprise visit to Russia is ‘semi-routine’ despite mounting speculation – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T14:00:07.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "6fd308e8537c53d4f70d",
+      "title": "Devon man becomes first person to swim Switzerland’s 10 largest lakes",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/26/devon-man-becomes-first-person-to-swim-switzerlands-10-largest-lakes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:58:06.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "9496c7d98da68bb1d3ee",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:55:22.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "55ffcca1f00b585fc219",
+      "title": "Children in Gaza fear flying their kites after Israeli threat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:53:09.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "cd5262165f0317e9c4ba",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:49:55.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "c81a7d59cabba0621a06",
+      "title": "Why northern Mozambique’s surging violence is worsening displacement crisis",
+      "url": "https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:49:05.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "b8bb1fc0b39866ec697a",
+      "title": "Dolly Parton didn't just write hits — she created an American songbook",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:46:34.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "41d62a4ccfbae538a611",
+      "title": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
+      "url": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:44:36.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "5b8a73dab737028a5387",
+      "title": "Inquest opens into death of former Cambridge professor Jason Arday",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/26/coroner-opens-inquest-due-to-circumstances-surrounding-jason-arday-death",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:44:13.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "c3d32ce9fb96e95d8c7b",
+      "title": "Police not ruling out links to A66 crash after two killed in Middlesbrough house fire",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:39:01.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "5aa407c8d16652adbbae",
+      "title": "Callaway apologises after golf ad slammed for depicting domestic violence",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:36:32.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "c306aa33190330baffd5",
+      "title": "ICE agent embroiled in interstate extradition dispute after allegedly shooting Venezuelan man",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:34:09.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "07302fbcf9fc922e0acf",
+      "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:33:39.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "e0c560c5d0cc10e42255",
+      "title": "Meta reaches $16.68B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "source": "reuters.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T13:28:32.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "821f5b5a52efbd1347a6",
+      "title": "A teacher’s slap, student’s death revive India’s corporal punishment debate",
+      "url": "https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:22:58.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "ce16038cdc3d5376c86c",
+      "title": "Women using HRT at lower risk of dementia, study suggests",
+      "url": "https://www.theguardian.com/society/2026/aug/26/women-hrt-lower-risk-dementia-study",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:16:30.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "961cf6c5276febdf08b3",
+      "title": "ICC chief urges Japan to counter US pressure on the court",
+      "url": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:15:59.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
+    },
+    {
+      "id": "f363e52beed3df582484",
+      "title": "Duke and Duchess of Sussex have arrived back in UK, say reports",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/26/duke-duchess-sussex-back-in-uk-prince-harry-meghan",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T13:08:56.000Z",
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "9273994e99b64c556c78",
@@ -64,18 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T12:59:26.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "67797df517e854dc3810",
-      "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T12:59:10.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "b90ce025dc5cb9815d0d",
@@ -86,29 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T12:52:12.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "ce16038cdc3d5376c86c",
-      "title": "Women using HRT at lower risk of dementia, study suggests",
-      "url": "https://www.theguardian.com/society/2026/aug/26/women-hrt-lower-risk-dementia-study",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T12:51:42.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "c19136c978b3e057f942",
-      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T12:51:08.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "a5a39ecb23d58c5e2647",
@@ -119,18 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-26T12:48:37.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "fc96c256d1b369bb6865",
-      "title": "Bill Gates: The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "source": "gatesnotes.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T12:47:47.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "930d6f8f34a6c046ab87",
@@ -141,18 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:44:14.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "0b622774818341c4e075",
-      "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T12:40:34.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "ba5f8c493d9f68de29ef",
@@ -163,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:36:34.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "dbcc41eb7b9a5342f36e",
@@ -174,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T12:33:09.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "c487942c17b2573069d0",
@@ -185,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T12:32:47.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "46e5c9ff1303f3a1c626",
@@ -196,7 +361,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T12:27:19.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "5669520419925c013eec",
@@ -207,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:24:07.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "ee5bb3c0cb41dc2b452a",
@@ -218,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:22:53.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "7c694594b8c66f097aa5",
@@ -229,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:22:18.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "b59351a339f91fadf147",
-      "title": "Omarchy development practices lead to predictable security issues",
-      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-      "source": "blog.happyfellow.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T12:17:43.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "560c2f7eb1d9a2d0aacd",
@@ -251,18 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T12:17:12.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "c3d32ce9fb96e95d8c7b",
-      "title": "Murder investigation launched after two die in Middlesbrough house fire",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T12:09:08.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "dfc758fc0bc2425de659",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:05:09.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "400c0067f07f6cfa3334",
@@ -284,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T12:04:22.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "2c985da442cffcb46d32",
@@ -295,18 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T12:00:12.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "2563ebea638e26bbb7ef",
-      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T11:45:41.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "b01e843b01b2f1e1c862",
@@ -317,18 +449,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T11:32:35.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "17d33cd49a8889882333",
-      "title": "The heart, hope and steely determination behind a musical legacy",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
       "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:32:11.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "a27018681e8317d7d0f8",
@@ -339,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T11:25:08.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "d29da9a952e3519ac10b",
@@ -350,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T11:24:34.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "529814c71871da240607",
@@ -361,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T11:06:28.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "8a60e80ee95b6950b511",
@@ -372,18 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-26T11:05:46.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "9496c7d98da68bb1d3ee",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T11:02:22.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "f218151ed7ae95d662ab",
@@ -394,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:12.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "28da4bca69a101393eec",
@@ -405,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:12.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "30c6bbc6295bef715389",
@@ -416,18 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T11:00:11.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "fb586a988ac87f509134",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T11:00:11.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "50772c86a32f94c44f70",
@@ -438,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:42:01.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "b3865af0fc0113477de4",
@@ -449,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-26T10:29:46.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     },
     {
       "id": "def1c5ea3427d5e07878",
@@ -460,117 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T10:29:36.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "8dc94f8ab8769dd58960",
-      "title": "Is Japan trying to build bridges with China after Taiwan spat?",
-      "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:28:52.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "a117387b00096c0565a3",
-      "title": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/dominic-perrottets-sister-in-law-denies-lying-under-oath-to-protect-husband-over-allegedly-donations-icac-hears-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:16:23.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "8a40d13bde7492bab205",
-      "title": "Beyond Recall and the Illusion of Competence",
-      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-      "source": "var0.xyz",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T10:07:02.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "a9c204e117f936d5f4d5",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "source": "bloomberg.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T10:04:55.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "40375040a60b4a5a37f6",
-      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:00:41.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "dbd835ee9fcb9f95bf34",
-      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T10:00:05.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "79e82b12453e92c8d65a",
-      "title": "At least 22 killed, hundreds missing after Nepal flash flood",
-      "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:48:36.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "11eb3fc193dad8dada41",
-      "title": "Transport regulator investigating two more incidents at Sydney airport, taking tally to six in a month – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:38:23.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "24d7a66add0bce459a6b",
-      "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T09:36:08.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
-    },
-    {
-      "id": "9a9716f307fb16d3e42b",
-      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-      "url": "https://news.ycombinator.com/item?id=49446210",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T09:34:38.000Z",
-      "discoveredAt": "2026-08-26T13:10:35.479Z"
+      "discoveredAt": "2026-08-26T14:21:43.209Z"
     }
   ]
 }
