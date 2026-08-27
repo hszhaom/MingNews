@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T22:27:32.584Z",
+  "generatedAt": "2026-08-27T03:31:46.464Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,465 @@
   "stories": [
     {
       "id": "d129de33ad0c85ee7e07",
-      "title": "News live: dozens of Australians believed to be among hundreds missing in Nepal flash floods",
+      "title": "Australia news live: most banks now predict another rate hike; Ken Henry delivers warning over ‘stupid’ GST deal",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-26T22:14:58.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "publishedAt": "2026-08-27T03:25:27.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "0df60f4784f3cf8483e8",
+      "title": "Nepal flash flood live updates: more than 500 missing in Tibet, reports China, amid search for hundreds of tourists",
+      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T03:22:59.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "3ca39907f920191fa754",
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:54:04.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "ff221b993d152f7b46a1",
+      "title": "Anthony Albanese says 34 Australians among hundreds of people missing in deadly Nepal flash floods",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:43:02.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "f3541cbca84d885813b8",
+      "title": "At least one dead after car crashes into crowd in northern France",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:42:17.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "016a34fa64d446958b3d",
+      "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:42:05.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "479b9479d561a21139ce",
+      "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+      "url": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:33:08.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "a1e4a4cdcfcf22ef673d",
+      "title": "Kusama Yayoi Dies at 97",
+      "url": "https://news.jp/i/1465528042000662661",
+      "source": "news.jp",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-27T02:21:18.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "cde1b6a8da7d0e877983",
+      "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:17:59.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "3e78589b92a20f5df3ae",
+      "title": "Brazil sues chat platform Discord over failure to protect child users",
+      "url": "https://www.aljazeera.com/news/2026/8/27/brazil-sues-chat-platform-discord-over-failure-to-protect-child-users?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:11:21.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "51817b38d4e2805d0743",
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:10:18.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "100afbd6ec634c2b59be",
+      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T02:07:32.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "0e7fcd599cd48fb0cfbc",
+      "title": "Nepal floods: children as young as 11 among Australian tour group missing after flash flooding",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:58:23.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "0b622774818341c4e075",
+      "title": "Democratic states sue to block postal service from carrying out Trump’s mail-in voting order – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:56:32.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "a5abb65c0b4b4e490593",
+      "title": "Northern Nigeria’s female basketball players chase bigger dreams",
+      "url": "https://www.aljazeera.com/news/2026/8/27/northern-nigerias-female-basketball-players-chase-bigger-dreams?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:54:14.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "e85cf5658048fc549c56",
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "source": "projects.laion.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-27T01:50:26.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "cb7e4bbf99b47a30a897",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-27T01:46:22.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "0911e1629a90e98c6585",
+      "title": "‘No transparency’: Labor to scrap levy secretly placed on Victorian public transport fares",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:38:00.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "e40f51c6b4863225396f",
+      "title": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
+      "url": "https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:31:43.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "a00d61a271911ea40e1f",
+      "title": "Police investigate death of teenage girl two days after alleged ‘sexual choking’ act in Sydney",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/sydney-16yo-girl-death-suspected-sexual-choking-asphyxiation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:31:36.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "4b5e5bbe3c54f8bba715",
+      "title": "Pro-Israel Democrats picked for top roles on key US House committee",
+      "url": "https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:24:33.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "a0a5d9029f108df5d787",
+      "title": "Is Mark Ruffalo anti-Semitic?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:19:39.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "aec1fae1b903de5c43ba",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "businessinsider.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-27T01:12:55.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "af3d2c758571fc9468c7",
+      "title": "Busy Philipps reveals brain tumour diagnosis: ‘I’m grateful to be alive’",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/27/busy-philipps-reveals-brain-tumour-diagnosis-im-grateful-to-be-alive",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:09:43.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "bb9eae59b75841b3e61d",
+      "title": "Construction worker documents moment he survives Nepal mudslide",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/construction-worker-documents-moment-he-survives-nepal-mudslide?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:09:01.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "b9c1643cfc32d60bd0f0",
+      "title": "Syria’s president makes first Visa payment after sanctions removal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T01:08:19.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "71eda1fdcf78363393b1",
+      "title": "Key witness in Meta trial says terms of settlement insufficient to halt apps’ harms to teenagers",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-witness-settlement",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-27T00:37:10.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "b1d0864b4ceb56f3e32c",
+      "title": "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
+      "url": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T00:07:14.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "3942c98d550d9798a0d4",
+      "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "637a3623554fabe96047",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "source": "mturk.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T23:55:44.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "b796d709e94e0fc31470",
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "source": "iamwillwang.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T23:50:15.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "b954c60dcbaa8cc2d55c",
+      "title": "World Health Organization says Ebola outbreak in Uganda is over",
+      "url": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:46:49.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "4be32bbc3f0a2ca1a6df",
+      "title": "Spain’s tomato food fight leaves thousands covered in pulp",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:23:18.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "b98b97371a43662acf22",
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:11:24.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "cd153b9ea940f1afe9ff",
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:08:43.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "6d921063a2503715ee56",
+      "title": "The question dominating Indian politics: Is it worse when women swear?",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:03:31.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "411e7a2f81c16cf91e2a",
+      "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+      "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-26T23:01:25.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "1d068c3d80b955bc8ac0",
+      "title": "Barcelona vs Athletic Club: La Liga – prediction, teams, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T22:56:33.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "ca5850e47ce3a70daffb",
+      "title": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
+      "url": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T22:49:49.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "2c57f87210524de3235f",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "source": "nhess.copernicus.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T22:44:03.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "8b80e6afb1fb88a3a0fb",
+      "title": "Tribe accuses US federal agents of ‘trespassing’ on indigenous border land",
+      "url": "https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T22:38:33.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "42d80e9bc1cdfc2151e8",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "source": "asahilinux.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-26T22:35:02.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     },
     {
       "id": "2871cdec69f0ec7d6aaa",
@@ -64,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T22:14:01.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     },
     {
       "id": "37b3fcc9aef1c789c7a2",
@@ -75,7 +526,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T22:11:49.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
+    },
+    {
+      "id": "5cc288ff2577d782e4a8",
+      "title": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-26T22:04:48.000Z",
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     },
     {
       "id": "a77267b010afa3676e4d",
@@ -86,29 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-26T22:02:18.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "0b622774818341c4e075",
-      "title": "Democratic states sue to block postal service from carrying out Trump’s mail-in voting order – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T22:01:32.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "8253fb5588cbe3f54758",
-      "title": "Final witness in Lindsay Clancy trial says he doesn’t believe she heard a voice during killings",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/lindsay-clancy-trial-fbi-psychiatrist-final-witness",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:52:51.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     },
     {
       "id": "787d6b3712ac6bd979d7",
@@ -119,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T21:42:16.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     },
     {
       "id": "1ba6e7480506d4e3d8ef",
@@ -130,447 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-26T21:30:23.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "aaa58ec0f31e91001763",
-      "title": "Plug-in balcony solar panels to go on sale in UK for first time",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:30:23.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "7bd1fcebd7e7704ac902",
-      "title": "Meta agrees to $17B settlement in landmark child-safety case",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:21:14.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "ff221b993d152f7b46a1",
-      "title": "Dozens of Australians believed to be among hundreds of people missing in Nepal flash floods",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:16:41.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "2015600356013518641c",
-      "title": "Video: Survivors recount moment flash floods hit Nepal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:15:45.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "00ca68ab579f102232f7",
-      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:11:42.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "b5224e36cd3f990b1a7c",
-      "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:09:57.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "a9e4a3b05dd31f13ecfb",
-      "title": "Palestinians demand return of 1,700 bodies held by Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T21:07:50.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "667f7dc76b3506af6b78",
-      "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
-      "url": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T20:59:10.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "09f4b49c2702e3765e42",
-      "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers",
-      "url": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T20:45:35.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "e09e7565ae42d4643c80",
-      "title": "What’s behind the SDF’s deal with Damascus?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T20:37:11.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "bff69a9b6a6725ec40fe",
-      "title": "mold: A Parallel Linker",
-      "url": "https://arxiv.org/abs/2608.23228",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T20:37:02.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "05defc477472d74ae4a1",
-      "title": "Brazil’s Flavio Bolsonaro to institute debt ceiling if elected president",
-      "url": "https://www.aljazeera.com/news/2026/8/26/brazils-flavio-bolsonaro-to-institute-debt-ceiling-if-elected-president?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T20:13:52.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "d912f02e663b9ed3d109",
-      "title": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T20:05:57.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "4e7e86b3e6c32480ee96",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "source": "acceptmarkdown.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T19:45:59.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "c306aa33190330baffd5",
-      "title": "Judge blocks Minnesota bid to extradite Texas ICE agent accused of shooting man",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:45:28.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "7900b268d52a5beeea11",
-      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "url": "https://isgithubcooked.com/",
-      "source": "isgithubcooked.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T19:43:48.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "a9557fa7fd94d7848e36",
-      "title": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:41:35.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "2b7f8dfdbe0edf6ebeb1",
-      "title": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
-      "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:31:34.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "558e2cf0622511855305",
-      "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-      "url": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:25:04.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "846643aa30fd93d353df",
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-      "source": "actinideinc.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T19:23:01.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "a3e61ba80fb381852944",
-      "title": "German airport workers die from malaria caught from plane-riding mosquito",
-      "url": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:21:26.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "fac6f28db30a69a51876",
-      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:19:46.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "d8e6fd2ea6146d975999",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "source": "openai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T19:15:23.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "9ee93be8bb7447fbf472",
-      "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
-      "url": "https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:12:51.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "1b870697e570b3a8a2b1",
-      "title": "Israeli forces install new gate, isolating Palestinian village",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:09:38.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "2c8921d7cefe665c1864",
-      "title": "Burnham drops support for political funding cap aimed at curbing mega-donors",
-      "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T19:08:19.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "5cd7ecf91033a401675d",
-      "title": "Wes Streeting describes ‘unbelievable volume’ of homophobic abuse since becoming defence secretary",
-      "url": "https://www.theguardian.com/politics/2026/aug/26/wes-streeting-homophobic-abuse-uk-defence-secretary",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:41:22.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "c19136c978b3e057f942",
-      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:28:51.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "9496c7d98da68bb1d3ee",
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:22:41.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "917757d6b430ea202813",
-      "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
-      "url": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:19:14.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "53d2d71933b9ca071948",
-      "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:15:21.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "b1c47edf3f4ffece72ba",
-      "title": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:13:54.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "dc94103d2b80426fd022",
-      "title": "US imposes sanctions on Palestine Action and other left-wing groups",
-      "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:08:50.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "ab9e9d84e104765cbc97",
-      "title": "Immigration arrests soar, hitting 50,000 in July",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:08:05.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "d55af16044a7614fea08",
-      "title": "Trump says Iran war will continue for as long as necessary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T18:07:37.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "e2f800cf55605b30e984",
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T17:42:22.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "2a035b8156a55a8ecb1c",
-      "title": "An ongoing 3D-printer AGPL violation",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "source": "lwn.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-26T17:41:40.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "6ba2822423dabd1c727a",
-      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-      "url": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T17:36:13.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "2d14d0114ab5e58ebdb4",
-      "title": "States try new tactics to bring down high hospital prices",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-26T17:29:13.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
-    },
-    {
-      "id": "9a7bdeecd47dc934b64b",
-      "title": "US inflation holds at 3.7 percent in July, above Fed target",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-26T17:28:33.000Z",
-      "discoveredAt": "2026-08-26T22:27:32.584Z"
+      "discoveredAt": "2026-08-27T03:31:46.464Z"
     }
   ]
 }
