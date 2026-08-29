@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T10:23:56.131Z",
+  "generatedAt": "2026-08-29T15:17:01.116Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,466 @@
   ],
   "stories": [
     {
+      "id": "b7867d1cc526d36be05e",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T15:13:42.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "03495316a72708949549",
+      "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T15:07:53.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "5d376f015664ea21b62e",
+      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T15:06:07.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "94b3325071edf881bccc",
+      "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
+      "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T15:00:37.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "333e649a48445a6079d4",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:43:04.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "1ffaff1ffb2832440da9",
+      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:33:45.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "1ae4e8a664c4f1a40583",
+      "title": "Sarah Ferguson to return to UK after relocating amid Epstein revelations",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/sarah-ferguson-relocation-uk-jeffrey-epstein",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:32:34.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "913b4d6986b1d9367b86",
+      "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
+      "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:27:21.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "eab63d452e54f1692f61",
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:22:19.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "de15af4cd39177b7c702",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "source": "uecker.codeberg.page",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-29T14:20:33.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "4c7da772e7655a76993e",
+      "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:19:23.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "0bf09fb0a34e26c19626",
+      "title": "FBI no longer treating applicants’ experience with sex workers as automatic bar against hiring",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:17:26.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "781ecaa3e79f1a952244",
+      "title": "‘Their whole village has disappeared’: frantic hunt for survivors in Kathmandu hospital",
+      "url": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:11:10.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "61b2b9be2cd54ba21a30",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "lwn.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "aeedba455df0c83e60ff",
+      "title": "People stranded for days on dilapidated Nigerian highway",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T14:01:46.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "50656d867b1fbf2d6ea2",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:55:55.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "5fb584716bb1589facea",
+      "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:51:16.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "a3748e7584c81a57191f",
+      "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+      "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:34:02.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "0e186c9560d629c3134b",
+      "title": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:33:29.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "1207b3431a4f96c5643b",
+      "title": "Mladic died a happy man. He won",
+      "url": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:30:56.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "f9beb66a76a5f9be7bbc",
+      "title": "Cells for arrested offenders may run out without early prison release, says Labour",
+      "url": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:25:12.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "d687156010d4ac68bf8c",
+      "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:11:41.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "2e8034019de361bc2447",
+      "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:10:47.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "bd6727f9b76e6d28c32a",
+      "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T13:10:04.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "d7a0600e6157d7914545",
+      "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+      "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:58:25.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "f89cdd96e5f4584d2517",
+      "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:56:27.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "fd3a87256fe5862f0daf",
+      "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
+      "url": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:50:21.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "a896d0da59a04ae7505b",
+      "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:45:48.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "3432c715ff8afcc807e2",
+      "title": "Formula One champion Lando Norris extends McLaren contract until 2030",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:34:03.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "3aac60741f9b57efdca7",
+      "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+      "url": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:02:57.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "f06ec58bacdbd0382a3b",
+      "title": "US officials urge swimmers to be cautious amid surge in drowning deaths",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:00:28.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "b6642f2b4c2969b41277",
+      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years in Future Library",
+      "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:00:26.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "526d2ffaf544a8aa0392",
+      "title": "Opinion: Remembering Dolly Parton",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "33ea076591c0159735f9",
+      "title": "The bridges of Rwanda open up new worlds",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-29T11:54:36.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "1090298a5847b2a2bf4c",
+      "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T11:30:00.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "97b5fa3ee59369f01e25",
+      "title": "‘I wanted to find the slowest fashion imaginable’: the woman growing her own dress",
+      "url": "https://www.theguardian.com/fashion/2026/aug/29/slow-fashion-why-one-woman-growing-her-own-dress",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-29T11:00:26.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "68b4a426b46b012c8d56",
+      "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-29T11:00:00.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "2f4366ea1199b86acfea",
+      "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T10:49:31.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "59ca2869a606adbc33ef",
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T10:36:11.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "bc26c759537487aef1e5",
+      "title": "Far-right commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T10:10:23.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
+      "id": "b4b882f12c3570bd9a72",
+      "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-29T10:09:26.000Z",
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
+    },
+    {
       "id": "ca72d9cd4d348bc0c28d",
-      "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
       "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-29T10:00:24.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "94b3325071edf881bccc",
-      "title": "Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead",
-      "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T10:00:12.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "db1890247a85a3920af5",
@@ -75,18 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-29T10:00:00.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "913b4d6986b1d9367b86",
-      "title": "Nepal-Tibet floods: number of missing climbs to nearly 3,000 as search for survivors enters fourth day – latest updates",
-      "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T09:52:01.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "1d3eca20caca8154f528",
@@ -97,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-29T09:45:37.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "333e649a48445a6079d4",
-      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T09:38:07.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "77462a311ac5ea4344d1",
@@ -119,18 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-29T09:26:35.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "8a135d9f7b5fc290abf1",
-      "title": "You Know GDPR Is Good Based on Who Hates It",
-      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-      "source": "matduggan.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-29T09:19:22.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "99c0cc126ab4d0790c2d",
@@ -141,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-29T09:05:30.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "5495277caae5fb8bdbbb",
@@ -152,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-29T09:00:00.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     },
     {
       "id": "7456b9b879e1aaf8eb68",
@@ -163,414 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-29T09:00:00.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "ab644d492ce9731149c2",
-      "title": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T08:51:07.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "90d5b4e1b657a46c41ae",
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T08:48:34.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "62dbf3ee847a15d1fa3c",
-      "title": "Liverpool vs Nottingham Forest LIVE: Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T08:33:04.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "724ed7845503ad6f5091",
-      "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
-      "url": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T08:00:22.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "b45fc43b50f0cab76ddd",
-      "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T07:33:34.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "482f3e33ad05f4f65146",
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T07:11:04.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "bba6d31ace3ec839a8ac",
-      "title": "India and Pakistan are united in spending citizen lives like pocket change",
-      "url": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T07:08:23.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "5a91070f83daa95c8103",
-      "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
-      "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T07:00:21.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "9f74759941854c14d291",
-      "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T06:25:19.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "a953635b92139e91de42",
-      "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-      "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T06:11:58.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "6c66c63ff1adf27b93d4",
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "source": "chipsandcheese.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-29T06:06:51.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "ab5f0e46ecd5dad7b925",
-      "title": "Households could save up to £173 a year by switching to fixed energy deal",
-      "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T06:00:21.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "cd85910d64f940b4fd11",
-      "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
-      "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T06:00:20.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "63c2ab76c43870b930e5",
-      "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:27:25.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "ade52b145a769062d9e4",
-      "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
-      "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:18:46.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "a57d5c922f1f3315accb",
-      "title": "Plug-in solar panels could save households up to $370 a year – if Australia made them legal as in the UK",
-      "url": "https://www.theguardian.com/environment/2026/aug/29/plug-in-solar-panels-could-save-households-370-a-year-and-experts-say-australia-should-copy-the-uk-in-legalising-them",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:13:27.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "d19c0470a2313639562a",
-      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:00:19.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "7c18475ab5df9d9e46c8",
-      "title": "Hilarity, unease and relief: games show China is not over the finish line in humanoid robot race",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:00:19.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "8cffe823908e9e904527",
-      "title": "Ireland will be united, says Gordon Brown",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T05:00:18.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "915b79706ef0224ddb03",
-      "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
-      "url": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T04:30:27.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "863ff4a573be5a81f9c4",
-      "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T04:16:01.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "622dc6023559bc227e76",
-      "title": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T04:14:51.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "e3fd81250fa7a98570f8",
-      "title": "‘The butcher may be gone, but to many he is a hero’: victims condemn glorification of Mladić",
-      "url": "https://www.theguardian.com/world/2026/aug/29/bosnia-reaction-death-ratko-mladic",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T04:00:17.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "7ecd64a00deb79c19751",
-      "title": "What we know about the Australians missing in the Nepal floods",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T03:54:59.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "a530abfe5bd1c2480dc0",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T03:54:11.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "e3414ce3f4a45a6c552e",
-      "title": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T03:49:58.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "5493682fa54827a7606b",
-      "title": "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T03:48:25.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "56c9118f5d01f6003ed2",
-      "title": "Nepal and China resume flood rescue as death toll surpasses 600",
-      "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T03:35:58.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "b7867d1cc526d36be05e",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T02:42:27.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "85bb97d4ff539aee9ccc",
-      "title": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
-      "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T02:38:27.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "ab1a63cd15848f9b0628",
-      "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-      "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T02:32:51.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "6fd2644d171d94622cd8",
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-29T02:23:37.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "d1e0c4e6f354c5e6ffca",
-      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-29T02:07:55.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "b3e6d019e3bdea9907f1",
-      "title": "National Park Service supports Trump’s arch even though it would have ‘adverse effects’ on other DC monuments, report says – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-29T01:56:21.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "cdad860e128deb5dbbac",
-      "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
-      "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-29T01:50:03.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "44629c2142e7f890fdea",
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "url": "https://www.kumander.org/",
-      "source": "kumander.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-29T01:48:15.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
-    },
-    {
-      "id": "dacd64b8ccca0019547e",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "source": "openai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-29T01:47:53.000Z",
-      "discoveredAt": "2026-08-29T10:23:56.131Z"
+      "discoveredAt": "2026-08-29T15:17:01.116Z"
     }
   ]
 }
