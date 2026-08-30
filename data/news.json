@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T16:35:48.098Z",
+  "generatedAt": "2026-08-30T19:25:40.311Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 28,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,336 @@
   ],
   "stories": [
     {
+      "id": "0122bc68463ecccd7d78",
+      "title": "Trump ‘border czar’ denies that Milo Yiannopoulos was deported for political reasons",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T19:04:44.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "0626a88acd05ea99d1ae",
+      "title": "Captain and crew arrested after at least eight die in Northern Cyprus ferry disaster – latest updates",
+      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T19:03:22.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "55a703d50e9c44f7bb7a",
+      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:57:22.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "48e8bbf4a5f7f0b5cf9d",
+      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:53:53.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "df342197947b1441a39e",
+      "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:51:33.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "ac18d431b2bad93eda6d",
+      "title": "Prisons ‘one major event from disaster’ after U-turn on early release scheme",
+      "url": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:50:27.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "3d62fe2dc3622a9c9204",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-30T18:49:08.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "97e81e0e0be9506985bd",
+      "title": "Man killed by falling sign at Christian festival named as church pays tribute",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:42:34.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "add91c5f62dd13171ab3",
+      "title": "Photos: Devastation from the Nepal-China floods",
+      "url": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:34:59.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "00e57af2f54f00bdbd68",
+      "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
+      "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:34:21.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "2de88ed2e8c64bddd2d9",
+      "title": "Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/fernandes-hat-trick-fires-man-utd-in-seven-goal-thriller-with-ipswich?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:33:39.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "8c0ca5cb5229b79a122c",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:31:17.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "d6692da0deefde9bd30f",
+      "title": "First images of Maduro in US custody released since his abduction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/first-images-of-maduro-in-us-custody-released-since-his-abduction?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:28:01.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "5a46ae97cc1e0a7f22d4",
+      "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+      "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T18:19:03.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "0170c2ed0df5a8fe17ce",
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "url": "https://openrun.dev/blog/litestream/",
+      "source": "openrun.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-30T18:05:06.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "36271f6bec2226815610",
+      "title": "Nepal’s flood survivors search for missing loved ones",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:57:08.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "09abdc45e1e63ecb7f63",
+      "title": "‘GB News wouldn’t touch him’: Milo Yiannopoulos will struggle to fit in with UK right wing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/milo-yiannopoulos-struggle-fit-uk-right-wing",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:50:02.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "daf3d567c0452ce7a58f",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:49:31.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "bbb6c662553702f3199f",
+      "title": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
+      "url": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:44:57.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "608f4d1bf0ef9e6191ff",
+      "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
+      "url": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:22:06.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "606eddec6adb19aacfe5",
+      "title": "Zambia opposition leader Brian Mundubile charged with treason",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/zambia-opposition-leader-brian-mundubile-charged-with-treason?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:18:45.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "eab17a1f18113870a676",
+      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:16:52.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "16d0074c2f679c3dc41b",
+      "title": "Headteacher saves 900 children from deadly flash flood in Nepal",
+      "url": "https://www.theguardian.com/world/2026/aug/30/headteacher-saves-children-flash-flood-nepal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:15:01.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "14747dd76c0ab2609bfb",
+      "title": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "url": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:13:57.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "2583153698ff3aa5ce05",
+      "title": "Zambian opposition leader charged with treason",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:06:15.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "8b3eb11682a5e8be1d81",
+      "title": "Death toll nears 800 after Himalayan glacier collapse",
+      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-nears-800-after-himalayan-glacier-collapse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T17:00:45.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "b9ada11259792a2af572",
+      "title": "Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’",
+      "url": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T16:57:21.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "49f6f92a0bb357617e33",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T16:48:13.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "039012e2a70a50f6042a",
+      "title": "‘The river has taken everything’: people return to remains of their homes in Nepal",
+      "url": "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T16:39:38.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
+      "id": "d09b2b25b7364a5de5e2",
+      "title": "Rival Libya factions sign deal to hold national elections within two years",
+      "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T16:38:01.000Z",
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
+    },
+    {
       "id": "5fd16a9b377989f1cc6a",
       "title": "Russia says it helped to repel Niger attempted coup",
       "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
@@ -53,18 +383,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T16:33:17.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "441b376693aeb7084c60",
-      "title": "Cleverly to run ‘classically Conservative’ campaign to be next London mayor",
+      "title": "Cleverly avoids culture war issues in pitch to be next London mayor",
       "url": "https://www.theguardian.com/politics/2026/aug/30/james-cleverly-london-mayor-classically-conservative-campaign",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T16:25:02.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "8e64d147ff7d88738557",
@@ -75,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T16:11:44.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "6587c8d8a5c79a3386d0",
@@ -86,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T16:09:16.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "01208d333fc782193a22",
@@ -97,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T16:06:15.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "6af0ccb96c1d2c0f85a8",
@@ -108,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T16:03:27.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "19d8c9b3512a380d6bff",
@@ -119,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-30T16:03:17.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "ae7f02d03a5e1bb48d5b",
@@ -130,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-30T16:01:10.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "49f77f9275e7f45a2657",
@@ -141,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T16:00:11.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "7d7d969eaa8d2e743dff",
-      "title": "Omarchy: Any User Process Can Escalate to Root",
-      "url": "https://0xcc.io/posts/omarchy-root-creds/",
-      "source": "0xcc.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T15:59:49.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "71ea82b21cba5eecf4d4",
@@ -163,18 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T15:50:45.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "00e57af2f54f00bdbd68",
-      "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
-      "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:43:57.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "0a7e388880a0ff1eee45",
@@ -185,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T15:35:11.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "85bb4b822da97fe072f1",
@@ -196,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T15:31:36.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "0626a88acd05ea99d1ae",
-      "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
-      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:25:45.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "a28cd7774316ad298bb9",
@@ -218,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T15:19:49.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "fd63c107474a6cf67226",
@@ -229,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T15:19:36.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "a072b325bc377db94068",
@@ -240,18 +537,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-30T15:12:40.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "0e89192f625cb80a374f",
-      "title": "At least seven dead and 23 missing after ferry capsizes off northern Cyprus",
+      "title": "At least eight dead and 18 missing after ferry capsizes off northern Cyprus",
       "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T15:12:03.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "6b0d33e4207f73e7c167",
@@ -262,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T15:08:33.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     },
     {
       "id": "ab3fa837a73e4c6def3f",
@@ -273,304 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T15:01:00.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "80934d6165661179c607",
-      "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
-      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:00:51.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "585d133ba17bc2214708",
-      "title": "Iceland rejects EU accession talks after divisive referendum campaign",
-      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:57:49.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "55a703d50e9c44f7bb7a",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:55:55.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "cd52d28eb30c9a5657b2",
-      "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:50:22.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "4fc73440f3f5167d400a",
-      "title": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
-      "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:38:00.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "0e835bb611cdb94bea00",
-      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:36:44.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "ba4b8ab5e2caae036777",
-      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-      "source": "fortune.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T14:29:25.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "ca35f9e87b44af0eaeff",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:25:43.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "0b3510129a26d8886848",
-      "title": "How does your name taste? The strange science of synaesthesia",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:14:06.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "b4c018dd1c97897d563d",
-      "title": "New York City to increase cooling tower inspections after legionnaires’ outbreaks",
-      "url": "https://www.theguardian.com/society/2026/aug/30/new-york-city-cooling-towers-legionnaires-outbreaks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T14:07:44.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "f8cbb21cd64418268fe7",
-      "title": "Iceland votes to reject EU accession talks: What happens next?",
-      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:37:54.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "271d43359ed6559c192f",
-      "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
-      "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:23:48.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "690300380a304c917dcf",
-      "title": "Abdul El-Sayed apologizes for comment about Michigan synagogue attack",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:14:36.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "962d48f9839cd62f776d",
-      "title": "Van Dijk wants Cody Gakpo to stay at Liverpool despite Man City interest",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/van-dijk-wants-cody-gakpo-to-stay-at-liverpool-despite-man-city-interest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:10:33.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "da376f41138014974cb3",
-      "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:03:15.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "0c84e531930ea3400cad",
-      "title": "Niger’s military-led government says it contained mutiny: What next?",
-      "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:01:20.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "fff6d3b88cb663c966bc",
-      "title": "Trump EPA is manipulating safety data around a highly toxic flame retardant, advocates allege",
-      "url": "https://www.theguardian.com/environment/2026/aug/30/trump-epa-data-toxic-flame-retardant",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T13:00:56.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "a4464ae37dae16d1ed85",
-      "title": "Alvarez returns to Atletico training amid Barcelona, Arsenal transfer links",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/alvarez-returns-to-atletico-training-amid-barcelona-arsenal-transfer-links?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:52:28.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "6ef1860877ac45cc65e8",
-      "title": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/ben-gvir-taunts-palestinian-women-prisoners-over-prison-conditions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:51:20.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "d671abf37cb509d36a7b",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T12:50:54.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "27a08291f014cd13819a",
-      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:45:00.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "daf3d567c0452ce7a58f",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:44:08.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "01a4244ea9edf5024354",
-      "title": "LIVE: Manchester United vs Ipswich Town – Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-manchester-united-vs-ipswich-town-premier-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:36:57.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "e62f0162370f0420911f",
-      "title": "Andy Burnham pledge to end indefinite prison terms ‘a step towards healing’",
-      "url": "https://www.theguardian.com/society/2026/aug/30/andy-burnham-end-indefinite-jail-terms-ipp",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:36:46.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "33410b9bded389160b9a",
-      "title": "Palestinian mother in agony as Israeli attack kills her son",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:33:56.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "69b7820bcfdcf846510a",
-      "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:26:48.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
-    },
-    {
-      "id": "f4e300ffc392e2d9cc84",
-      "title": "Road collapses in Nepal landslide four days after floods",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T12:14:53.000Z",
-      "discoveredAt": "2026-08-30T16:35:48.098Z"
+      "discoveredAt": "2026-08-30T19:25:40.311Z"
     }
   ]
 }
