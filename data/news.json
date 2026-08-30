@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T19:25:40.311Z",
+  "generatedAt": "2026-08-30T22:01:48.928Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,257 @@
   ],
   "stories": [
     {
+      "id": "0b1dd6f1d3d473bc424c",
+      "title": "News live: number of Australians missing in Nepal floods rises; Oscar Jenkins gives first interview since Russia conviction",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:44:14.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "4768120bb08d9cc12b51",
+      "title": "Hikers feared missing after flash flooding hits Grand Canyon",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:32:32.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "6e98e99e8c203a3a3c30",
+      "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:28:16.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "b02f234897e52497dc29",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:15:42.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "95a2c5fe4a46f0a21650",
+      "title": "USDA reportedly shelves cyclospora research amid relocations and fund cuts",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:10:56.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "ea8e3b15394b8088d975",
+      "title": "US strikes Iranian launchers on Larak island amid strait of Hormuz tensions",
+      "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:05:43.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "1a5b488eb37e6cb5bf90",
+      "title": "Israeli strike kills 3-year-old child in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T21:02:45.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "688e6051a671537d41a7",
+      "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:50:04.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "109065e30fac085c1c1d",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "source": "sander.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-30T20:46:53.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "5c732dbde12da516b273",
+      "title": "All-time great Aaron Donald comes out of retirement to rejoin stacked LA Rams",
+      "url": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:42:36.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "c5f6694e7bdbb23bf3e1",
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:40:02.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "8f194fa72c98adb71a5a",
+      "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:38:56.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "5a9ae150d0e8dd875439",
+      "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:31:34.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "9f1c8fdce8b88de77c63",
+      "title": "Australian boxing great Tony Mundine dies aged 75",
+      "url": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:25:15.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "9ba52023dfd86cc4d3b7",
+      "title": "US strikes Iran’s Larak Island in first attack in weeks",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:15:47.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "44859f6fa13c4993adba",
+      "title": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:12:36.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "8c0ca5cb5229b79a122c",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-30T20:02:43.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "3f71414c25405e711eb6",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "source": "righto.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-30T20:00:25.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "2faa992851022a327a94",
+      "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T19:50:15.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
       "id": "0122bc68463ecccd7d78",
-      "title": "Trump ‘border czar’ denies that Milo Yiannopoulos was deported for political reasons",
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
       "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-30T19:04:44.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "publishedAt": "2026-08-30T19:36:57.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "512f87cab5e10b95f950",
+      "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T19:33:18.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "0626a88acd05ea99d1ae",
-      "title": "Captain and crew arrested after at least eight die in Northern Cyprus ferry disaster – latest updates",
+      "title": "Captain and crew arrested after at least eight die in northern Cyprus ferry disaster – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-30T19:03:22.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "publishedAt": "2026-08-30T19:18:02.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
+    },
+    {
+      "id": "5bd2ba3bf1f9519d612f",
+      "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-30T19:06:11.000Z",
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "55a703d50e9c44f7bb7a",
@@ -75,18 +306,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T18:57:22.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "48e8bbf4a5f7f0b5cf9d",
-      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T18:53:53.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "df342197947b1441a39e",
@@ -97,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T18:51:33.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "ac18d431b2bad93eda6d",
@@ -108,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T18:50:27.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "3d62fe2dc3622a9c9204",
@@ -119,7 +350,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-30T18:49:08.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "97e81e0e0be9506985bd",
@@ -130,18 +361,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T18:42:34.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "add91c5f62dd13171ab3",
-      "title": "Photos: Devastation from the Nepal-China floods",
+      "title": "Devastation from the Nepal-China Floods in 30 photos",
       "url": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T18:34:59.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "00e57af2f54f00bdbd68",
@@ -152,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T18:34:21.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "2de88ed2e8c64bddd2d9",
@@ -163,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T18:33:39.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "8c0ca5cb5229b79a122c",
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T18:31:17.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "d6692da0deefde9bd30f",
@@ -185,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T18:28:01.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "5a46ae97cc1e0a7f22d4",
@@ -196,18 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T18:19:03.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "0170c2ed0df5a8fe17ce",
-      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
-      "url": "https://openrun.dev/blog/litestream/",
-      "source": "openrun.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T18:05:06.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "36271f6bec2226815610",
@@ -218,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T17:57:08.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "09abdc45e1e63ecb7f63",
@@ -229,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:50:02.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "daf3d567c0452ce7a58f",
@@ -240,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:49:31.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "bbb6c662553702f3199f",
@@ -251,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T17:44:57.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "608f4d1bf0ef9e6191ff",
@@ -262,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T17:22:06.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "606eddec6adb19aacfe5",
@@ -273,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T17:18:45.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "eab17a1f18113870a676",
@@ -284,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:16:52.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "16d0074c2f679c3dc41b",
@@ -295,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:15:01.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "14747dd76c0ab2609bfb",
@@ -306,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:13:57.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "2583153698ff3aa5ce05",
@@ -317,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T17:06:15.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "8b3eb11682a5e8be1d81",
@@ -328,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T17:00:45.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "b9ada11259792a2af572",
@@ -339,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-30T16:57:21.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "49f6f92a0bb357617e33",
@@ -350,227 +559,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-30T16:48:13.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     },
     {
       "id": "039012e2a70a50f6042a",
-      "title": "‘The river has taken everything’: people return to remains of their homes in Nepal",
+      "title": "Devastated by floods and overwhelmed by bodies, Nepalis weep for what remains of their homes",
       "url": "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-30T16:39:38.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "d09b2b25b7364a5de5e2",
-      "title": "Rival Libya factions sign deal to hold national elections within two years",
-      "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:38:01.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "5fd16a9b377989f1cc6a",
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:33:17.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "441b376693aeb7084c60",
-      "title": "Cleverly avoids culture war issues in pitch to be next London mayor",
-      "url": "https://www.theguardian.com/politics/2026/aug/30/james-cleverly-london-mayor-classically-conservative-campaign",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:25:02.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "8e64d147ff7d88738557",
-      "title": "Iceland votes against restarting EU membership talks",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:11:44.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "6587c8d8a5c79a3386d0",
-      "title": "Israeli soldiers participate in Sydney Marathon despite protests",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:09:16.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "01208d333fc782193a22",
-      "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
-      "url": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:06:15.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "6af0ccb96c1d2c0f85a8",
-      "title": "Educated? Skilled? Ambitious? Traffickers are looking for you",
-      "url": "https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:03:27.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "19d8c9b3512a380d6bff",
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
-      "source": "komoroske.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T16:03:17.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "ae7f02d03a5e1bb48d5b",
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "source": "haiku-os.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T16:01:10.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "49f77f9275e7f45a2657",
-      "title": "Rohingya crisis: Aid falls and hope fades",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-falls-and-hope-fades?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T16:00:11.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "71ea82b21cba5eecf4d4",
-      "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
-      "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:50:45.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "0a7e388880a0ff1eee45",
-      "title": "Jason Arday accuser given three-month teaching ban but can continue research",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:35:11.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "85bb4b822da97fe072f1",
-      "title": "Nepal flood victims fear more bodies are buried under mud",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-nepal-dispatch-dhading-jessica-fm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:31:36.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "a28cd7774316ad298bb9",
-      "title": "Chelsea beat Brighton 4-3 to extend perfect start under Xabi Alonso",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:19:49.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "fd63c107474a6cf67226",
-      "title": "At least seven dead and 23 missing after boat capsizes off northern Cyprus",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/at-least-seven-dead-and-23-missing-after-boat-capsizes-off-northern-cyprus?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:19:36.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "a072b325bc377db94068",
-      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-      "source": "reclaimthenet.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-30T15:12:40.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "0e89192f625cb80a374f",
-      "title": "At least eight dead and 18 missing after ferry capsizes off northern Cyprus",
-      "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:12:03.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "6b0d33e4207f73e7c167",
-      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
-      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:08:33.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
-    },
-    {
-      "id": "ab3fa837a73e4c6def3f",
-      "title": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-30T15:01:00.000Z",
-      "discoveredAt": "2026-08-30T19:25:40.311Z"
+      "discoveredAt": "2026-08-30T22:01:48.928Z"
     }
   ]
 }
