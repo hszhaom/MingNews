@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T19:36:52.028Z",
+  "generatedAt": "2026-08-31T23:21:49.935Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 30,
       "transport": "native-rss"
     },
     {
@@ -45,48 +45,235 @@
   ],
   "stories": [
     {
-      "id": "9b509fc4d3de140b01a7",
-      "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-      "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "id": "322bbfc95c806462a958",
+      "title": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "source": "The Guardian",
       "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
+      "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T19:25:45.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "ae8b955b6ac1999c7cb0",
-      "title": "Top US general says no plans to send troops to polls for November elections",
-      "url": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T19:20:28.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "publishedAt": "2026-08-31T23:14:55.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "4858a82bddc176819dfd",
-      "title": "House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill – live",
+      "title": "Trump’s ballroom construction can resume at White House, supreme court rules – live",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T19:18:50.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "publishedAt": "2026-08-31T23:13:49.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
-      "id": "5f7d6973c33b16cdf215",
-      "title": "Defense lawyers for singer D4vd withdraw from murder case",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/d4vd-case-lawyers",
+      "id": "6280061cb58fde1892b1",
+      "title": "US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T19:18:42.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "publishedAt": "2026-08-31T23:09:25.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "5931bedf02a38f65a29a",
+      "title": "Rising microplastics in soil a threat to UK food security, MPs and campaigners say",
+      "url": "https://www.theguardian.com/environment/2026/sep/01/rising-microplastics-in-soil-a-threat-to-uk-food-security-mps-and-campaigners-say",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T23:01:38.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "591509b51898481f2ec3",
+      "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
+      "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T23:01:37.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "61599fc33cfc723ced11",
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:38:24.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "f78eb1363193e754164e",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "source": "cgicoffee.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-31T22:32:22.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "50960cac234650fc695d",
+      "title": "Three minors killed in Colombia armed group crackdown",
+      "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:30:23.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "f52c51605b1459c16dcd",
+      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:24:12.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "4c0317bd6ed894ea243d",
+      "title": "Hiker, 91, becomes oldest person to complete grueling Appalachian Trail",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/oldest-hiker-appalachian-trail",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:17:52.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "a8e7b4d299ea4fd974e5",
+      "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:16:18.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "44b66ed8f016f79847a0",
+      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+      "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:08:37.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "897093d53d5c91fccb70",
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:05:43.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "de6609dc7f2f275718cf",
+      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:02:05.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "dc25f8145d6e2455ec33",
+      "title": "North Carolina teenager dies from rare infection caused by brain-eating amoeba",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/north-carolina-teen-dies-brain-eating-amoeba",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T21:34:09.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "3c24689a14598ac7ab69",
+      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+      "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T21:24:15.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "30bb2593f7acc4c4ef55",
+      "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+      "url": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T21:21:20.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "6504941fa938b022f949",
+      "title": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
+      "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T21:14:47.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "787a450800c9abd38ca5",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "source": "webiterate.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-31T21:10:58.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "2b06b59c2c0fb075fcce",
+      "title": "Argentinian footballer Lionel Messi announces his retirement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:50:47.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "1791b9de017dcd383140",
+      "title": "Israeli outposts expand as Palestinian homes are demolished",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:48:36.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "4768120bb08d9cc12b51",
@@ -96,8 +283,162 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T18:58:16.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "publishedAt": "2026-08-31T20:47:38.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "2d2873300b35bef96ada",
+      "title": "‘Nothing is usable’: Nepal residents return to flood-ravaged homes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:43:58.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "0ef7bde39d58d169932e",
+      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:42:17.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "f8b9018eebf983b18c00",
+      "title": "Lebanon asks Greece to help enforce agreement with Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:24:41.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "e02e1f28f3c18579c1e8",
+      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:21:47.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "8f882650621ed96593fc",
+      "title": "The U.S. sues Amazon again",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:17:03.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "1b7040c0340d6785bb12",
+      "title": "How will the Mecca agreement become an operational framework?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T20:13:18.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "c7b63c3035dde07bdf38",
+      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:51:46.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "537bb278cd1f18666a5f",
+      "title": "GTA 6: Why is the world’s most anticipated game facing backlash?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:44:20.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "cb4b992763986ae515c2",
+      "title": "Pan Am 103: What to know as alleged Lockerbie bombmaker faces US trial",
+      "url": "https://www.aljazeera.com/news/2026/8/31/what-to-know-us-court-hearing-held-for-alleged-lockerbie-bombmaker?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:41:33.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "a7667aa6b039d36af71b",
+      "title": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:30:46.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "9b509fc4d3de140b01a7",
+      "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+      "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:25:45.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "ae8b955b6ac1999c7cb0",
+      "title": "Top US general says no plans to deploy troops for 2026 midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:20:28.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "9a5bb067e03fa77eff7e",
+      "title": "Across Latin America, 'aura battles' burst onto the scene",
+      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T19:11:57.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
+    },
+    {
+      "id": "fe9594c27ece4dbb1b1c",
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T18:58:35.000Z",
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "7b75633f174b5aeafee1",
@@ -108,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T18:45:40.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "649a9adf0bf4a824c8f8",
@@ -119,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:44:43.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "b3cace36420077c4fa98",
@@ -130,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:42:27.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "a8d30f2169a9f5ecc1c2",
@@ -141,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:42:08.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "807d2bede9e28123c655",
@@ -152,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T18:37:06.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "24daa73368f2a6e29da9",
@@ -163,18 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:36:29.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "f1d6f14fdec2bb17b167",
-      "title": "Kalshi bans ex-congressman George Santos from prediction platform for life",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:26:30.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "c63d155c4f4411a87eda",
@@ -185,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-31T18:21:33.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "3fd7c0be3687dfff616e",
@@ -196,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:17:20.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "d413536686ec168b35ce",
@@ -207,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-31T18:15:12.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "24c7b75f43821263ac34",
@@ -218,18 +548,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T18:15:11.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "9eeb5812fc5fa8f88b5e",
-      "title": "More public control is only way to grow UK economy, Burnham to tell MPs",
+      "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
       "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T18:13:31.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     },
     {
       "id": "589148cfa8f7367e7633",
@@ -240,337 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T18:07:20.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "9ae6a40f92575fd079c8",
-      "title": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:03:47.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "adec9a68d450ec9ee0d3",
-      "title": "Congressional nominee Brad Lander heckled over Israel stance at New York protest",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/brad-lander-israel-protesters",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:03:39.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "dd0046356b6259b8ce0c",
-      "title": "Police appeal after unidentified woman’s body found in Liverpool park",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/31/police-appeal-unidentified-womans-body-liverpool-stanley-park",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:58:12.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "99dd898bd12726a1edd5",
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:54:23.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "bc8dc6794e019593fcc8",
-      "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:42:55.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "114f57e415151ac2e461",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:30:47.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "6e0f907c22e36862ecfd",
-      "title": "She is still in the sea, mother describes losing daughter in ferry disaster",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/she-is-still-in-the-sea-mother-describes-losing-daughter-in-ferry-disaster?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:23:44.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "a5e7abf8bc89e49dea8b",
-      "title": "War on Iran: US bombs Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:22:32.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "8412a5795d0960889f19",
-      "title": "Nepal FM speaks to Al Jazeera on devastating floods",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nepal-fm-speaks-to-al-jazeera-on-devastating-floods?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:19:37.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "7da964f886e91ba87752",
-      "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:17:13.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "f03d1e8bf904c523158a",
-      "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-      "url": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:13:55.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "82347c3ba873fbbd35c9",
-      "title": "Principal who saved 900 students recalls Nepal’s devastating flood",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/principal-who-saved-900-students-recalls-nepals-devastating-flood?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:12:33.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "2d9947102a44127ed3d6",
-      "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:11:54.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "e783255cbfa67dc976cc",
-      "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:06:39.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "4189838593bcc271ac16",
-      "title": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
-      "url": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:04:30.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "86a14e9d723fa9686e09",
-      "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:04:24.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "3c12fbbeb6608034dc94",
-      "title": "Head of Viktor Orbán’s favourite thinktank quits over unpaid wages",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/viktor-orbans-thinktank-mcc-brussels-crisis-frank-furedi-quits",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T17:01:08.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "bfb649e6253e7e364f56",
-      "title": "Tunisia protests: Water, power cuts and rising anger",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:47:34.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "001d0ddadc40419334be",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "source": "jasontucker.blog",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-31T16:47:11.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "50a4e71cbdadaa70bf43",
-      "title": "'I haven't lost my hope' - the search for missing loved ones",
-      "url": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:42:17.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "6529339573f7c31a3c8e",
-      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:37:05.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "4e81cb61622135f09196",
-      "title": "Company offering reward for safe return of truckload of beer",
-      "url": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:32:59.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "46420984857c23f2f5a4",
-      "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
-      "url": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:24:20.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "b4e475e21b6a1fcb0659",
-      "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:23:30.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "30cbe227f51e3fd30172",
-      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "source": "ravynos.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-31T16:19:36.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "cb262358597d058708a7",
-      "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
-      "url": "https://corporatemindgames.com/",
-      "source": "corporatemindgames.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-31T16:08:08.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "1ba2a225315a7129b29a",
-      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-      "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:00:29.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "4a5550b6ca881e145c54",
-      "title": "LIVE: Aston Villa vs Arsenal – Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "b68595530e2fd94e9a9e",
-      "title": "Nepal rescuers race to reach hundreds feared trapped in hydropower tunnels",
-      "url": "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T15:56:31.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
-    },
-    {
-      "id": "758e92144ad31f0cb317",
-      "title": "Israeli air strikes on Gaza kill at least five people: Report",
-      "url": "https://www.aljazeera.com/news/2026/8/31/israeli-air-strikes-on-gaza-kill-at-least-five-people?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T15:56:28.000Z",
-      "discoveredAt": "2026-08-31T19:36:52.028Z"
+      "discoveredAt": "2026-08-31T23:21:49.935Z"
     }
   ]
 }
