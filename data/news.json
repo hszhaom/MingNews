@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T23:21:49.935Z",
+  "generatedAt": "2026-09-01T02:00:57.601Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 29,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,69 @@
   "stories": [
     {
       "id": "322bbfc95c806462a958",
-      "title": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+      "title": "News live: South Australia says block on telehealth for voluntary assisted dying creates ‘barrier’ for equitable access",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T23:14:55.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "publishedAt": "2026-09-01T01:45:05.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "84ae61d727ec9556f46a",
+      "title": "New York police kill knife-wielding woman in Times Square",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-01T01:19:34.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "1b20770e7ee13a98b619",
+      "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
+      "url": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-01T01:17:59.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "0c586c869fc4aae0cc82",
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "source": "jkm.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-01T01:01:08.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "1c5e25bed9c73513b009",
+      "title": "US army secretary resigns after months of tension",
+      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-01T01:01:03.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "cb98e69608f5fef74306",
+      "title": "Police fatally shoot woman who stabbed two people in Times Square",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/new-york-city-stabbing-times-square",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:41:45.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "4858a82bddc176819dfd",
@@ -63,8 +118,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-08-31T23:13:49.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "publishedAt": "2026-09-01T00:34:51.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "d40ff5a0f402fd3157b5",
+      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+      "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:31:20.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "05b10401ee29631b571f",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:15:22.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "9ae6a40f92575fd079c8",
+      "title": "Two dead and at least 15 missing after flash flood in Grand Canyon",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:15:04.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "52ee716d888361c6e3c6",
+      "title": "Man shot and killed in Sydney home invasion was ‘targeted attack’, police believe",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/01/man-shot-killed-glen-alpine-sydney-home-invasion-nsw-police-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:09:59.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "675bc1c9963138e7eefb",
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "0cfe375b4501b31f2fe9",
+      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-31T23:46:38.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "e8910025a49bba7b0512",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "source": "datacolada.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-31T23:45:56.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "e6edbf3be185e751fb1d",
+      "title": "Investigation into Powerhouse Parramatta museum under way as stop-gap leader steps in",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/01/powerhouse-parramatta-western-sydney-investigation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T23:42:51.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "a5b4733daf2356e35ffb",
+      "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-08-31T23:23:00.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "6280061cb58fde1892b1",
@@ -75,7 +229,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T23:09:25.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "5931bedf02a38f65a29a",
@@ -86,7 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T23:01:38.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "591509b51898481f2ec3",
@@ -97,7 +251,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T23:01:37.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "8aebacaf4f828b95e88d",
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "source": "darlinghq.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-08-31T22:53:45.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "61599fc33cfc723ced11",
@@ -108,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-31T22:38:24.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "f78eb1363193e754164e",
@@ -119,7 +284,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-31T22:32:22.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "50960cac234650fc695d",
@@ -130,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T22:30:23.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "f52c51605b1459c16dcd",
@@ -141,7 +306,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-31T22:24:12.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "4c0317bd6ed894ea243d",
@@ -152,7 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-08-31T22:17:52.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "a8e7b4d299ea4fd974e5",
@@ -163,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T22:16:18.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "44b66ed8f016f79847a0",
@@ -174,7 +339,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T22:08:37.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
+    },
+    {
+      "id": "b5cadd383502b39e50d0",
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-08-31T22:07:19.000Z",
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "897093d53d5c91fccb70",
@@ -185,29 +361,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-31T22:05:43.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "de6609dc7f2f275718cf",
-      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T22:02:05.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "dc25f8145d6e2455ec33",
-      "title": "North Carolina teenager dies from rare infection caused by brain-eating amoeba",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/north-carolina-teen-dies-brain-eating-amoeba",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T21:34:09.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "3c24689a14598ac7ab69",
@@ -218,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T21:24:15.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "30bb2593f7acc4c4ef55",
@@ -229,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T21:21:20.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "6504941fa938b022f949",
@@ -240,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T21:14:47.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "787a450800c9abd38ca5",
@@ -251,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-08-31T21:10:58.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "2b06b59c2c0fb075fcce",
@@ -262,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T20:50:47.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "1791b9de017dcd383140",
@@ -273,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T20:48:36.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "4768120bb08d9cc12b51",
@@ -284,7 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-08-31T20:47:38.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "2d2873300b35bef96ada",
@@ -295,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T20:43:58.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "0ef7bde39d58d169932e",
@@ -306,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-31T20:42:17.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "f8b9018eebf983b18c00",
@@ -317,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T20:24:41.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "e02e1f28f3c18579c1e8",
@@ -328,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-31T20:21:47.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "8f882650621ed96593fc",
@@ -339,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-08-31T20:17:03.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "1b7040c0340d6785bb12",
@@ -350,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T20:13:18.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "c7b63c3035dde07bdf38",
@@ -361,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:51:46.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "537bb278cd1f18666a5f",
@@ -372,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:44:20.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "cb4b992763986ae515c2",
@@ -383,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:41:33.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "a7667aa6b039d36af71b",
@@ -394,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:30:46.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "9b509fc4d3de140b01a7",
@@ -405,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:25:45.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     },
     {
       "id": "ae8b955b6ac1999c7cb0",
@@ -416,161 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-08-31T19:20:28.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "9a5bb067e03fa77eff7e",
-      "title": "Across Latin America, 'aura battles' burst onto the scene",
-      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T19:11:57.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "fe9594c27ece4dbb1b1c",
-      "title": "Festival honouring Dolly Parton set for Nashville and London",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:58:35.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "7b75633f174b5aeafee1",
-      "title": "Conservative reshuffle: who’s who in Kemi Badenoch’s top team?",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/conservative-reshuffle-whos-who-in-kemi-badenochs-top-team",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:45:40.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "649a9adf0bf4a824c8f8",
-      "title": "Firecracker factory blast in India kills 8 children",
-      "url": "https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:44:43.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "b3cace36420077c4fa98",
-      "title": "‘Let Data Reign’: Trump decries opposition to data centres in US",
-      "url": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:42:27.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "a8d30f2169a9f5ecc1c2",
-      "title": "Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:42:08.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "807d2bede9e28123c655",
-      "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
-      "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:37:06.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "24daa73368f2a6e29da9",
-      "title": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:36:29.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "c63d155c4f4411a87eda",
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "source": "youtube.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-08-31T18:21:33.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "3fd7c0be3687dfff616e",
-      "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
-      "url": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:17:20.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "d413536686ec168b35ce",
-      "title": "Ex-congressman George Santos banned from betting platform for life",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:15:12.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "24c7b75f43821263ac34",
-      "title": "Western Balkans truck drivers threaten EU border blockade",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/western-balkans-truck-drivers-threaten-eu-border-blockade?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:15:11.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "9eeb5812fc5fa8f88b5e",
-      "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:13:31.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
-    },
-    {
-      "id": "589148cfa8f7367e7633",
-      "title": "Andrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-08-31T18:07:20.000Z",
-      "discoveredAt": "2026-08-31T23:21:49.935Z"
+      "discoveredAt": "2026-09-01T02:00:57.601Z"
     }
   ]
 }
