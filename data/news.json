@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T04:17:06.411Z",
+  "generatedAt": "2026-09-03T09:08:45.416Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,48 +45,488 @@
   ],
   "stories": [
     {
-      "id": "1b899cb8b01c9670f526",
-      "title": "Proportion of secondary school students in England placed in ‘internal exclusion’ almost triples in three years",
-      "url": "https://www.theguardian.com/education/2026/sep/03/proportion-of-secondary-school-students-in-england-placed-in-internal-exclusion-almost-triples-in-three-years",
+      "id": "4086dcaeec406f04a5c3",
+      "title": "Labour party of ‘big money’, claims Greens’ Polanski as he says he will run for Starmer’s seat – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-03T04:00:44.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "publishedAt": "2026-09-03T09:03:52.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
-      "id": "77fb9be8492657c5eaa7",
-      "title": "‘I was never taught Welsh history’: Michael Sheen on reclaiming rebel leader Owain Glyndŵr",
-      "url": "https://www.theguardian.com/culture/2026/sep/03/michael-sheen-on-playing-owain-glyndwr-wales",
+      "id": "f35876e29eae3d9b12ab",
+      "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "f4210525daced031e2ed",
+      "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "dcae06b6938d7db732f7",
+      "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "9ce1dab7c1fe024af14a",
+      "title": "Green party leader Zack Polanski to stand in byelection for Keir Starmer seat",
+      "url": "https://www.theguardian.com/politics/2026/sep/03/zack-polanski-stand-keir-starmer-seat-green-party-candidate",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-03T04:00:43.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "publishedAt": "2026-09-03T08:55:56.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "16285034faad655a80dd",
+      "title": "Photos: Symbolic funerals held in Nepal for missing flood victims",
+      "url": "https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:32:34.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "e7851b09a487a2a04214",
+      "title": "Good Good Golf CEO, president quit amid advertisement controversy",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/good-good-golf-ceo-president-quit-amid-advertisement-controversy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:32:20.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "522551f7490075aec00f",
+      "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
+      "url": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:25:18.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "daa6dc3c1ef2a50de9e6",
+      "title": "NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/nba-fines-clippers-30m-suspends-several-executives-in-kawhi-leonard-probe?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:17:46.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "ef506cc7e695e159a0e9",
+      "title": "Russia to close Goethe-Institut centres as Germany tensions escalate",
+      "url": "https://www.aljazeera.com/news/2026/9/3/russia-to-close-goethe-institut-centres-as-germany-tensions-escalate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:12:46.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "642c2e569769646c9137",
+      "title": "OpenAI’s Sam Altman tells G20 AI will be as essential as electricity",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:04:36.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "9ebcc56a7a582058202a",
+      "title": "Morning News Brief",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:03:57.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "26d3668fd065ba51cada",
+      "title": "Guitar used by George Michael in Faith video goes up for auction",
+      "url": "https://www.theguardian.com/music/2026/sep/03/guitar-george-michael-faith-video-auction-gretsch",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T08:00:47.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "5ad4f44694bf8108e592",
+      "title": "Alcaraz, Sabalenka ease into US Open third round; American players shine",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/alcaraz-sabalenka-ease-into-us-open-third-round-american-players-shine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T07:46:21.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
       "id": "d12937ce27a3b4d94890",
-      "title": "Australia news live: Labor reveals draft rules for 30% tax on discretionary trusts; dead dolphin tests positive for bird flu",
+      "title": "Home loan applications down by 15% since budget, CBA says – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-03T03:57:16.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "publishedAt": "2026-09-03T07:42:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
-      "id": "7079f8445907bb8bff35",
-      "title": "Six-year-old boy died from scurvy despite long-term concerns over diet, Queensland coroner finds",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/03/six-year-old-queensland-boy-dies-from-scurvy-vitamin-c-disease-19th-century-ntwnfb",
+      "id": "f5b9cee0cf1d974fee62",
+      "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+      "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T07:41:45.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "afad118857443f50818e",
+      "title": "Pakistan’s Punjab allows ‘secret’ terrorism trials: Why it’s controversial",
+      "url": "https://www.aljazeera.com/news/2026/9/3/pakistans-punjab-allows-secret-terrorism-trials-why-its-controversial?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T07:25:51.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "e92df5e167d1b13ba8a9",
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T07:04:25.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "0c8fadf9d1c9578bccca",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "source": "scienceblog.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-03T07:04:13.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "7034f8729f50fc3a7a2e",
+      "title": "New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage",
+      "url": "https://www.theguardian.com/stage/2026/sep/03/dan-smith-ralph-pelleymounter-marilyn-monroe-arthur-miller-misfits-together",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-03T03:32:15.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "publishedAt": "2026-09-03T07:00:46.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "5725b766800de7c4c328",
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "source": "pola.rs",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-03T06:59:08.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "75f7b8de667a8f56d847",
+      "title": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
+      "url": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:48:46.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "28a428e43e564a79c020",
+      "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
+      "url": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:39:19.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "4256582254287d7bc418",
+      "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
+      "url": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:35:18.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "162a098e970524eb0b93",
+      "title": "Charles Perrottet repeatedly denies taking payments from developer for political outcomes in Icac hearing",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/icac-charles-perrottet-jean-nassif-nsw-liberals-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:28:19.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "f972354f85fb640a8c81",
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:17:37.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "10a0a025e9e49f8b7e83",
+      "title": "Eto’o calls on African football federations to support FIFA chief Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:15:01.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "e5ec7d4d4bf106a35192",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:01:54.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "4bd4b143faeec5c425c5",
+      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
+      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T06:00:45.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "1d158f7da2b668d50f50",
+      "title": "Ghana reappoints Queiroz to lead Black Stars two months after stepping down",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/ghana-reappoints-queiroz-to-lead-black-stars-two-months-after-stepping-down?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:36:52.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "1472db3dbd7f1c87f0d8",
+      "title": "Floodwaters sweep cars away in eastern China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:20:37.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "c10e91bc94d65cad7c3f",
+      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
+      "url": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:17:04.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "15e89bf31b6c04936a57",
+      "title": "Coalition plan to cut tobacco excise by 80% ‘will kill people,’ Labor says amid public health alarm",
+      "url": "https://www.theguardian.com/society/2026/sep/03/coalition-plan-cut-tobacco-excise-legalise-vapes-price-cigarettes-illegal-trade",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:05:56.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "a547b50cb1d6b08a14eb",
+      "title": "Powerful storm hits Canada’s Toronto, cutting power to tens of thousands",
+      "url": "https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:01:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "a5fab36d73d4c60ba5ca",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T05:00:04.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "9c736edae22077239251",
+      "title": "Chilling footage shows Molly Ticehurst’s murderer saying ‘I can’t believe I just did that’, court hears",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/molly-ticehurst-father-tells-killer-daniel-billings-hopes-daughter-screams-haunt-him-forever-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:56:00.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "4f9b9475d7a1ce305d9f",
+      "title": "Former campaign chair: Trump ‘cares about Trump the most’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:44:58.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "ec948e3fa29d5912914b",
+      "title": "Girl rescued by free-climbing neighbour from balcony in Turkiye",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:37:34.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "7a96a9ccbec35ccd492d",
+      "title": "Gang violence is not ‘out of control’ in Sydney, police minister says after two shootings in two days",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/03/gang-violence-is-not-out-of-control-in-sydney-police-minister-says-after-two-shootings-in-two-days",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:34:13.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "c890123d09d5af971a4e",
+      "title": "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV",
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-medical-groups-issue-vaccine-guidance-urge-jabs-for-flu-covid-and-rsv?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:33:31.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "c2580a0089e04e3b68c7",
+      "title": "Niger displays arsenal seized after failed military mutiny",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/niger-displays-arsenal-seized-after-failed-military-mutiny?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:32:52.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "50083213f11d6986a174",
+      "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
+      "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:26:27.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "b65cf1dd94270915b643",
+      "title": "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
+      "url": "https://www.aljazeera.com/news/2026/9/3/uss-chevron-italys-eni-to-expand-oil-projects-in-venezuela?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-03T04:19:11.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
+    },
+    {
+      "id": "914c1e798ef533a49ed0",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-03T03:39:53.000Z",
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
       "id": "ff0432d2b6d02a857095",
@@ -97,18 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-03T03:21:24.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "b92ee08155f5eb0688f2",
-      "title": "Wk. 6 of Vibecoding an MMO",
-      "url": "https://eldermyr.com/",
-      "source": "eldermyr.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-03T03:13:54.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
       "id": "94bc78ebd515aef5485e",
@@ -119,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-03T03:06:00.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
       "id": "3fb95e3ab66e8aeab97a",
@@ -130,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-03T03:00:27.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     },
     {
       "id": "3598bf68d1c6e1868920",
@@ -141,436 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-03T02:52:38.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "227531c94f9be8878273",
-      "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-03T02:23:37.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "d6596aff8866417931e9",
-      "title": "Minneapolis shooting kills two, wounds three police officers",
-      "url": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T02:18:21.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "9c736edae22077239251",
-      "title": "Molly Ticehurst’s father tells DV murderer he hopes daughter’s screams will haunt him forever",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/03/molly-ticehurst-father-tells-killer-daniel-billings-hopes-daughter-screams-haunt-him-forever-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-03T02:06:32.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "7b9161173132e75cb400",
-      "title": "Trump doubles down on Canada trade war as talks remain stalled – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-03T01:58:14.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "f2ce59a4a113fd81d60f",
-      "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T01:53:40.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "1f285a63e1548c631543",
-      "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-      "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T01:45:32.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "42a17f5f0feb0b8c2293",
-      "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
-      "url": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T01:22:21.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "acdb298ff52ce2e7fdf8",
-      "title": "US Congress rejects constitutional amendment to restrict Supreme Court size",
-      "url": "https://www.aljazeera.com/news/2026/9/3/us-congress-rejects-constitutional-amendment-to-restrict-supreme-court-size?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T01:06:24.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "95c1bb0e0f217dda163d",
-      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
-      "url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T00:52:49.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "9f61d26682f8666c6d59",
-      "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
-      "url": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T00:33:06.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "e2b90eb3b0d144de6611",
-      "title": "Boy charged after teenager's hand nearly cut off in Sydney",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/03/teenager-charged-after-near-complete-amputation-of-boys-hand-in-sydney-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-03T00:24:33.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "bc136ca421d099eec764",
-      "title": "Iran war live: Trump says US ready to strike Iran ‘at any time’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "d6164fb5decc28ee76f7",
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T23:47:15.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "92faada0febaedbb7fc6",
-      "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
-      "url": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T23:28:18.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "b19e353964fa10e0d383",
-      "title": "Did DOGE ruin America’s food safety system?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/aje-onl-nf_did-doge-ruin-americas-food-safety-system-020926?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T23:25:49.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "53208e24847eab2cf1b0",
-      "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T23:01:37.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "179cb2354b2840b69844",
-      "title": "Suspect and two victims dead at apartment shooting in downtown Minneapolis",
-      "url": "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T22:40:12.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "6e96c111f32d07129446",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "source": "Hacker News",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-02T22:36:04.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "ca7ba4f86c97dbcf5cce",
-      "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T22:15:32.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "a09334c6f6b9c9dacd38",
-      "title": "Epstein survivors urge billionaire Leon Black to cooperate with House panel",
-      "url": "https://www.theguardian.com/us-news/2026/sep/02/jeffrey-epstein-leon-black-congress",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T22:03:25.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "ae11cbdb1ce95a4b4038",
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "source": "secondthoughts.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-02T22:02:30.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "2ad092526ff41e4363a8",
-      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:59:14.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "d9855823a1f742bfcc1c",
-      "title": "Cassandra Wilson, Grammy-winning jazz singer, dies aged 70",
-      "url": "https://www.theguardian.com/music/2026/sep/02/cassandra-wilson-jazz-singer-dies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:47:13.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "c96dcf2f54fbd438fadd",
-      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:37:41.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "1df783ebf135c01de91b",
-      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:34:27.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "fcbf5c20f98d0c752607",
-      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:30:35.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "b0f674c5f5c101bd767a",
-      "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:23:55.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "a3134c6aad7d1f707008",
-      "title": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:21:36.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "508f59f04f6b53ff9061",
-      "title": "South African airline behind daring stadium stunt cancels next flyby",
-      "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:21:08.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "d0850d72f57f4d739597",
-      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-      "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:19:32.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "e5886f8b81334c41052b",
-      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T21:15:12.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "0a7697b2110d34ecaf7b",
-      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:59:46.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "131a170d8edc320a1e01",
-      "title": "Clippers docked five first-round draft picks and fined $30m over Kawhi Leonard scandal",
-      "url": "https://www.theguardian.com/sport/2026/sep/02/la-clippers-kawhi-leonard-fine-salary-cap-nba",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:52:28.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "6e7c4dc39a8c16efe58a",
-      "title": "The long-term implications of Pete Hegseth’s US military purges",
-      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:48:22.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "e81e1edd6743296023ae",
-      "title": "Nepal families hold symbolic funerals, thousands still missing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:30:24.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "403e1a332e7f1cc979d8",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:21:04.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "eaeba9218f3a6bf03ef9",
-      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:12:32.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "8c35f4626163e4b444a9",
-      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:12:14.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
-    },
-    {
-      "id": "82a83abf149e6faa8e48",
-      "title": "US launches $1 coin featuring Trump’s face: What to know",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-02T20:11:14.000Z",
-      "discoveredAt": "2026-09-03T04:17:06.411Z"
+      "discoveredAt": "2026-09-03T09:08:45.416Z"
     }
   ]
 }
