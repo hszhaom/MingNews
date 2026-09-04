@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T16:16:10.449Z",
+  "generatedAt": "2026-09-04T19:06:07.459Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,413 @@
   ],
   "stories": [
     {
+      "id": "f3ed9696025289eb81c0",
+      "title": "Judge declares mistrial in Lindsay Clancy murder case after jury fails to reach unanimous verdict – live updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:58:47.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "0375262099609c18b873",
+      "title": "Lindsay Clancy trial highlights gaps in postpartum psychosis research, experts say",
+      "url": "https://www.theguardian.com/society/2026/sep/04/lindsay-clancy-trial-postpartum-psychosis-experts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:57:53.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "5ffcba7d0b4511571773",
+      "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+      "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:52:28.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "af9f78548e07ae11f5af",
+      "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:51:09.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "fd4e0b99ad94043355ab",
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "source": "mullvad.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T18:50:28.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "17a7090e4bcde39c1966",
+      "title": "Brazilian Supreme Court roiled by dispute between justices",
+      "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:46:44.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "e94fc2f0f03f56919cc9",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "anthropic.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T18:42:56.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "433f823b53f92b15de94",
+      "title": "Judge declares mistrial in Lindsay Clancy case after jury deadlocked again",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-mistrial",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:41:51.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "95d34b7fd20852fe3c3a",
+      "title": "Lindsay Clancy judge declares mistrial – what happens next?",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-trial-verdict-mistrial",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:38:46.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "47abdf0df38d61816912",
+      "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
+      "url": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:32:40.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "3f3a85bd1fbc35082731",
+      "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
+      "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:16:10.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "88e9a75e012bb8d0f063",
+      "title": "Moment two workers are pulled alive from Nepal tunnel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T18:02:30.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "96d714b5e5dc11b9b69c",
+      "title": "The Rust React Compiler is now native in Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "source": "blog.master.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T17:49:09.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "9346c0d81c7a02869dd2",
+      "title": "Cambridge University examines conduct of academic suspended by Reform UK",
+      "url": "https://www.theguardian.com/politics/2026/sep/04/cambridge-university-probing-conduct-of-academic-suspended-by-reform-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:48:34.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "cd974509212de1290924",
+      "title": "Cambridge University asks former chief crown prosecutor to open Arday review",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/04/cambridge-university-nazir-afzal-to-lead-first-part-jason-arday-review",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:48:21.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "523f20306ef883c5dd41",
+      "title": "Indonesia wildfires send toxic haze across Southeast Asia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:38:48.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "2b69b213c5cac7241c19",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "wired.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T17:29:22.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "369ef3d9246c11f07a52",
+      "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+      "url": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:29:20.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "3e9e18fb16b0ab116b11",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:26:40.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "f392024c58b83aecceb9",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com/",
+      "source": "opentrailpaper.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T17:18:08.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "489031535084f7e49f4d",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:14:21.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "f52aa7aa399bf52df35a",
+      "title": "Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:02:25.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "3ba66c8dd13f11afeac1",
+      "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-04T17:01:24.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "753b33bc343e42452cf4",
+      "title": "UN votes to adopt new world map that shows Africa’s true scale",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:49:29.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "9465fb417d50df5c309a",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:49:15.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "a367878a948dacd782b5",
+      "title": "Rescuers race to save 10-year-old Algerian boy trapped in deep well",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:48:50.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "efb32cf2a2d830f12110",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "source": "torrentfreak.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T16:46:59.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "4d47cfe77ea9b8593a84",
+      "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+      "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:31:20.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "e2655d5ac299cccd9a68",
+      "title": "The number 10 shirt must not retire with Messi",
+      "url": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:31:15.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "7481c5e52eb79eafbbd1",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:30:50.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "f84606772766a950aaf4",
+      "title": "Bride walks down the aisle despite waist-deep flooding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/bride-walks-down-the-aisle-despite-waist-deep-flooding?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:25:14.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "f811cada5ee199e3bc12",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "github.blog",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T16:24:50.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "3a9ad3ac1cf66bd4c659",
+      "title": "October 7 attack shapes Israel’s elections and fuels political blame",
+      "url": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:20:35.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "83f2344c559183e1ab1d",
+      "title": "With jury deadlocked, Judge declares a mistrial in Lindsay Clancy's murder case",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:20:30.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "7bc848e7facb119f73ba",
+      "title": "Investigations launched into polling firm at centre of Reform UK allegations",
+      "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:14:46.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "54a95c7d849b80f7abc0",
+      "title": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
+      "url": "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:13:34.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "caec72cc7e831204290f",
+      "title": "Russian drone strikes Ukraine’s security service headquarters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:03:41.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
       "id": "7b176e3430d7c1b77cbb",
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
@@ -53,7 +460,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-04T16:02:32.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
+    },
+    {
+      "id": "859d1ea4c45af5a69e98",
+      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T16:01:10.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "5ee24ce0dd90c934b4ef",
@@ -64,51 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T16:01:06.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "f3ed9696025289eb81c0",
-      "title": "Lindsay Clancy murder trial: jury says with ‘heavy heart’ it cannot reach unanimous verdict – live updates",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:59:14.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "af9f78548e07ae11f5af",
-      "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:54:47.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "f52aa7aa399bf52df35a",
-      "title": "Reform suspends two officials over donations sting as Farage admits their comments ‘don’t look good’ – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:49:36.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "433f823b53f92b15de94",
-      "title": "Judge set to declare mistrial in Lindsay Clancy case after jury deadlocked again",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-mistrial",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:47:47.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "93dbbbe6f665a1334a4e",
@@ -119,18 +493,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T15:44:14.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
-      "id": "859d1ea4c45af5a69e98",
-      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:43:46.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "id": "b9d9e17ac142a3f5a03a",
+      "title": "deSEC – Free Secure DNS",
+      "url": "https://desec.io/",
+      "source": "desec.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T15:38:58.000Z",
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "26901e253c02fb59268d",
@@ -141,29 +515,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-04T15:37:52.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "a7a3a65935fc96272f27",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source": "nytimes.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T15:33:45.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "2fde1be469a0eb808502",
-      "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+      "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
       "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T15:31:54.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "ac7ffa36fb32097b10b6",
@@ -174,29 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T15:28:28.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "fc704d5da4ff9e8e092f",
-      "title": "Canary staff not paid amid fears for news website’s future",
-      "url": "https://www.theguardian.com/media/2026/sep/04/canary-staff-not-paid-amid-fears-for-news-websites-future",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:27:35.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "cb333eff9e4f790d1cf4",
-      "title": "New York City police fatally shoot man who climbed up Brooklyn Bridge cables",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/new-york-city-brooklyn-bridge-police-shoot-man",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:25:17.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "8a6d0824955f58b629e0",
@@ -207,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T15:24:13.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "7b707583e0403f2751fc",
@@ -218,18 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-04T15:22:53.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "a26fe232f379cab33c0c",
-      "title": "Deadlocked jury in Lindsay Clancy trial resumes deliberations after dispute",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-trial-jury-deliberations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:17:21.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     },
     {
       "id": "b33984804d5dc5ed309e",
@@ -240,337 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T15:16:34.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "9d42ec027dfc0c149132",
-      "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
-      "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:12:53.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "139553391d7324776c3e",
-      "title": "Reform UK exposé causes another round of headaches for Nigel Farage",
-      "url": "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:12:20.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "a7bd148f78042366843a",
-      "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:04:53.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "85054bb548fd17e80225",
-      "title": "GMails custom domain \"send as\" discontinues January 2027",
-      "url": "https://support.google.com/mail/answer/22370?hl=en",
-      "source": "support.google.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T15:03:03.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "2e1e0a5a48c97dc826fc",
-      "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T15:00:12.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "b2af0790738252ac83d6",
-      "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:50:55.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "753b33bc343e42452cf4",
-      "title": "UN to vote on adopting new world map that shows Africa’s true scale",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:45:21.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "87c0ef677e39fe7802be",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:40:00.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "b5cd321227814a0cd057",
-      "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
-      "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:38:30.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "7d0b62ab246b0fb5f9e2",
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:35:16.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "7481c5e52eb79eafbbd1",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:27:10.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "9465fb417d50df5c309a",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T14:17:35.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "6b71befa094e59b8b2af",
-      "title": "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
-      "url": "https://www.aljazeera.com/news/2026/9/4/can-green-leader-polanski-take-on-labour-and-win-starmers-old-seat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:59:46.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "c9e7a8d8041adc497e52",
-      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
-      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:56:14.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "9664afdeb1f8c70106a4",
-      "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-      "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-      "source": "prospect.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T13:54:26.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "ae72b715ab0916703079",
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:50:43.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "da3a8c2ed66e3865c2bb",
-      "title": "US Military disables ad trackers on troops' phones",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-      "source": "theguardian.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T13:44:14.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "38e20e86620f9c85943a",
-      "title": "Populism poses serious challenge to independent central banks, Bailey says",
-      "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:44:00.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "e3b60bdc530ba84f7ce8",
-      "title": "Philippine vice president is ordered arrested for threats against the president",
-      "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:42:10.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "20516afa11128ce6bc0b",
-      "title": "Two Muslim women journalists allege police assault in India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:37:43.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "4078cffec3822d7fcf20",
-      "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-      "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:35:55.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "2208933f9d09020f666e",
-      "title": "Myanmar military head visits Vietnam to normalize relations",
-      "url": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:35:39.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "a5a7cf694c89894df8e8",
-      "title": "Reform officials ‘plotted to break law on foreign donations’ in undercover film",
-      "url": "https://www.theguardian.com/politics/2026/sep/03/reform-officials-plotted-to-break-law-on-foreign-donations-in-undercover-film",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:30:51.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "cbfc9c06d133b55ed704",
-      "title": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-      "url": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:30:42.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "3aa443cb6cd1c907d8b4",
-      "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-      "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:24:53.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "6e1d893c6ce238b5f86e",
-      "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-      "url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:15:36.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "ad97f926938ba8df171a",
-      "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:13:14.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "fac716cd8bac09ffc410",
-      "title": "Two workers pulled alive from tunnel nine days after Nepal-Tibet floods",
-      "url": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:10:26.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "60be918804acedfd8815",
-      "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:08:23.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
-    },
-    {
-      "id": "d0635561c8473da21fe7",
-      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T13:00:44.000Z",
-      "discoveredAt": "2026-09-04T16:16:10.449Z"
+      "discoveredAt": "2026-09-04T19:06:07.459Z"
     }
   ]
 }
