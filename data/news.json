@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T23:14:31.456Z",
+  "generatedAt": "2026-09-05T01:20:54.183Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,72 @@
   ],
   "stories": [
     {
+      "id": "34b335888890da489276",
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T01:16:27.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "a44a90f9935818c74b7e",
+      "title": "Judge declares mistrial in Lindsay Clancy children’s murder case",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T01:02:18.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "161a4ec7ebc748609b01",
+      "title": "US judge extends block on Trump order to restrict mail-in voting",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:59:38.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "3e9e18fb16b0ab116b11",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:53:11.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "7c52f75e327c60c03d89",
+      "title": "Trump order directs officials to consider stripping protections for gray wolves",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:50:41.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "219d966837e6cee5b562",
+      "title": "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
+      "url": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:19:17.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
       "id": "af9f78548e07ae11f5af",
       "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
@@ -52,19 +118,107 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-04T22:51:11.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "publishedAt": "2026-09-05T00:11:30.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "2ec73a976413b6902b5e",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "source": "artificialanalysis.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T00:04:14.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "569ecdfe18135270c6f4",
+      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
+      "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:00:21.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "287611e82e3e663656ec",
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:00:20.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "fc83ddae3bf404580e47",
+      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T00:00:00.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "8101da91933d6f12889c",
+      "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T23:55:50.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "e870d219d769fc5a2055",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "engineering.atspotify.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T23:38:50.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "a5cdadc9ca305bbd13b6",
+      "title": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
+      "url": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-04T23:19:43.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "94785e3f0535ba57c493",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-04T23:07:23.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "0a6179f4517e5436131c",
-      "title": "Mock Republican convention website redirects users to Epstein Files",
+      "title": "Mock Republican convention website tops Google, redirects to Epstein files",
       "url": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T22:51:06.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "cafe7190b55c9f70b265",
@@ -75,7 +229,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-04T22:48:38.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
+    },
+    {
+      "id": "96676fa55b7e84a213f8",
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "source": "charlespetzold.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-04T22:40:30.000Z",
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "bb3c905f7287d58e941d",
@@ -86,7 +251,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-04T22:26:35.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "969cb59a59bd8182d4eb",
@@ -97,7 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T22:03:16.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "6ef21d4752aa0305b3a0",
@@ -108,7 +273,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-04T22:02:52.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "772a3aada85f248c6fe8",
@@ -119,7 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:58:47.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "6a5cb4a438703700161c",
@@ -130,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T21:52:01.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "1e640e7de79b24e0874d",
@@ -141,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-04T21:51:27.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "9a0e209394de18e29e87",
@@ -152,7 +317,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-04T21:47:19.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "47777437fe1b50971ac3",
@@ -163,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:45:56.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "0c6009cf40693d37cd54",
@@ -174,7 +339,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T21:39:19.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "9cb704c54d6fbe2da79d",
@@ -185,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:37:56.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "d754054ff82a8c0a2cac",
@@ -196,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:27:26.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "deca6ac1b920f0cd1eb9",
@@ -207,18 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:19:05.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "1b432f4c578c35c9b970",
-      "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+      "title": "'Hidden tribunals': Immigration court due process in tumult with new locations",
       "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-04T21:11:56.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "f23f48e91a4da399e863",
@@ -229,18 +394,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T21:05:03.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "79c1bf7596c3600cb86a",
-      "title": "Democrats demand that DHS comply with inquiry into death of Rohingya refugee abandoned by border agents",
+      "title": "Democrats demand DHS documents in investigation into Rohingya refugee’s death",
       "url": "https://www.theguardian.com/us-news/2026/sep/04/rohingya-refugee-death-dhs-investigation",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-04T20:56:16.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "a970809eec783fa77efb",
@@ -251,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:55:16.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "22ced11d28012334a5f7",
@@ -262,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:53:12.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "8bc7e380238f7b9aab93",
@@ -273,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:52:55.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "03d48cd314026373018a",
@@ -284,18 +449,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-04T20:41:08.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "f3ed9696025289eb81c0",
-      "title": "Judge declares mistrial in Lindsay Clancy murder case after jury fails to reach unanimous verdict – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T20:36:58.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "5553f4409f200ed4fd30",
@@ -306,7 +460,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T20:34:49.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "d113ef07f68263c10649",
@@ -317,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:28:40.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "d61c0adafbb25ed1217f",
@@ -328,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:27:11.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "d559f9bb2acec6c5e61e",
@@ -339,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:22:42.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "443be1a4c0402e785673",
@@ -350,18 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-04T20:21:52.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "d277c91cddfb6b60760f",
-      "title": "How to Create a Tor Exit Node",
-      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
-      "source": "madpsy.uk",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T20:16:22.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "67172d16c796be9f5a8b",
@@ -372,7 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-04T20:15:05.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "ecddddcc43702dbb81b1",
@@ -383,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T20:13:08.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "aa514790c24d96084a1e",
@@ -394,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T20:04:13.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "7481c5e52eb79eafbbd1",
@@ -405,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-04T20:03:52.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "fc8b777bd49557418e11",
@@ -416,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     },
     {
       "id": "8e2a7ac7b6cbdef399e3",
@@ -427,150 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-04T19:48:25.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "bde062935eed2db4db3b",
-      "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
-      "url": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T19:44:47.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "3e9e18fb16b0ab116b11",
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T19:44:40.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "8d37610ec3facd3a1a14",
-      "title": "Six-week-old child in Pennsylvania dies from measles, coroner says",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/pennsylvania-measles-death-infant",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T19:26:44.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "7553d6d526bfc9bb6350",
-      "title": "UN votes to adopt new world map that reflects Africa’s true size",
-      "url": "https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T19:25:08.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "2fb0f70549546b1eac52",
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "source": "rietta.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T19:06:39.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "2b4381bb13faabd5a899",
-      "title": "Fermat's Last Theorem in Lean 4",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T18:57:32.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "5ffcba7d0b4511571773",
-      "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
-      "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T18:52:28.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "fd4e0b99ad94043355ab",
-      "title": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "source": "mullvad.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T18:50:28.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "17a7090e4bcde39c1966",
-      "title": "Brazilian Supreme Court roiled by dispute between justices",
-      "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T18:46:44.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "e94fc2f0f03f56919cc9",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "anthropic.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-04T18:42:56.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "47abdf0df38d61816912",
-      "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
-      "url": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T18:32:40.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "3f3a85bd1fbc35082731",
-      "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
-      "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-04T18:16:10.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
-    },
-    {
-      "id": "88e9a75e012bb8d0f063",
-      "title": "Moment two workers are pulled alive from Nepal tunnel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-04T18:02:30.000Z",
-      "discoveredAt": "2026-09-04T23:14:31.456Z"
+      "discoveredAt": "2026-09-05T01:20:54.183Z"
     }
   ]
 }
