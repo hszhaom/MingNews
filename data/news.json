@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T21:07:52.579Z",
+  "generatedAt": "2026-09-05T23:13:39.084Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 34,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,193 @@
   ],
   "stories": [
     {
+      "id": "b6665b2d1331e55111d8",
+      "title": "Australia news live: Taylor proposes laws against flag burning and to lock in 26 January as Australia Day",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:59:36.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "584f276c51ccb9238728",
+      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+      "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:58:33.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "3e20e544fc3cfc552a81",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:44:07.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "443be1a4c0402e785673",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:19:40.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "6f1fd13a7823c0fa37db",
+      "title": "London Paddington fire causes rail chaos as Heathrow trains cancelled",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/london-paddington-fire-causes-rail-chaos-heathrow-trains-cancelled",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:18:25.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "d9d98d0053db2678b895",
+      "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+      "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:16:55.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "44a795850e3c5a06ab68",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T22:15:52.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "dca444ed729f26c39691",
+      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:13:55.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "ca87ebf56d236f6d70c5",
+      "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T22:11:21.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "d6f4c5c66551ebd7a406",
+      "title": "Falsehoods Programmers Believe About LANs",
+      "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
+      "source": "dreamstation.systems",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T22:08:16.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "6a85073520449f9563b6",
+      "title": "More voters identifying as Democrats and not calling themselves Republican",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/us-voters-democrats-republicans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:44:19.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "58ecc523d0bfe451723b",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:39:02.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "4b30f7f6e65510ca2993",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:29:38.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "149a81949bbab7388047",
+      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:23:06.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "a295b59d32f7bdc69ae8",
+      "title": "Building collapses after heavy rain in northern India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:11:25.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "fc0ded2686ada3d544a3",
+      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:01:10.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
+      "id": "0c7583f9d96368b6053d",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T21:00:02.000Z",
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
+    },
+    {
       "id": "532c647ce7ac9b023942",
       "title": "Mental health groups have ‘failed to acknowledge’ risk of violence, says Mind chief",
       "url": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
@@ -53,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T20:43:02.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "3e20e544fc3cfc552a81",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T20:41:59.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "630bf109ed96599c4aeb",
@@ -75,18 +251,18 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T20:31:38.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "2eed77dc269ac9b74532",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
       "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
       "source": "terrytao.wordpress.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T20:25:59.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "1c68fdd9ba79922fb54d",
@@ -97,18 +273,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T20:25:30.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "58ecc523d0bfe451723b",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T20:15:49.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "a0de4f64ecd1586f9454",
@@ -119,18 +284,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T20:14:55.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "06a304af6a1604585317",
-      "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-      "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-      "source": "defensenews.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-05T20:14:25.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "641f2630b4b3e06174c3",
@@ -141,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T20:04:30.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "a10ee2be7255656e69ee",
@@ -152,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T20:03:29.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "c38ef34fb76c3cc3bc3c",
@@ -163,7 +317,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T20:02:35.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "55afe7c8bb580f11eb09",
@@ -174,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T20:00:47.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "1c8977291d63827041cc",
@@ -185,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T20:00:46.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "637bed01521cdb52d86a",
@@ -196,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T20:00:05.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "4a3da1371fcb804c01a5",
@@ -207,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T19:57:21.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "b5d43778a456dd20190a",
@@ -218,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T19:45:39.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "931760eb0db096b24c0f",
@@ -229,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T19:37:10.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "150cb2fddd7605484c33",
@@ -240,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T19:19:52.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "e329c986bb06049d1698",
@@ -251,18 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T19:13:29.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "dca444ed729f26c39691",
-      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T19:03:41.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "068d6d881ea8c8a3d11c",
@@ -273,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:57:56.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "920826cd862289016e6d",
@@ -284,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:44:41.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "d50940d82606a7529191",
@@ -295,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:42:08.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "d575a6d6a22715870ae7",
@@ -306,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T18:16:41.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "55b248f9730e95060126",
@@ -317,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:12:52.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "57bacd3f00469639101d",
@@ -328,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:10:50.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "6f1fd13a7823c0fa37db",
-      "title": "London Paddington fire causes rail chaos as Heathrow trains cancelled",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/london-paddington-fire-causes-rail-chaos-heathrow-trains-cancelled",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T18:10:25.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "7cbc845fc65e6355f1f4",
@@ -350,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T18:07:43.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "34642662f3f087d3b7ac",
@@ -361,18 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T18:00:15.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "415884a72ea16d838224",
-      "title": "The Real Luxuries In Life",
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "source": "feld.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-05T17:46:16.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "7f48f571a55b863b0f7b",
@@ -383,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T17:00:37.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "382c89d856b04243d9fd",
@@ -394,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T16:47:17.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "83d3effa43049b379771",
@@ -405,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T16:45:02.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "06bdfd34df06a1d2401f",
@@ -416,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T16:26:13.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "cad6c056838046ddf9af",
@@ -427,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T16:17:47.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "c871bbfde0cdda4cfc5d",
@@ -438,7 +559,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-05T16:14:24.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     },
     {
       "id": "44f368224c2f9f732d08",
@@ -449,128 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T16:04:01.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "c83021c9df469d10faca",
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:49:44.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "c5f4a5419cca4a1159ac",
-      "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-      "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:41:22.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "eb7546b071924fe80682",
-      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
-      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:37:12.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "025be48c9137ba22f1c9",
-      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-      "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:33:02.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "70e7912bc840829ebf9d",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:22:41.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "8b955cfaba41af2ae8df",
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-05T15:05:08.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "3680853424c6722ebeb0",
-      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
-      "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T14:51:08.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "2826a636a901b417c3b3",
-      "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
-      "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T14:49:36.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "ada1117ac0e4f7b018f7",
-      "title": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
-      "url": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T14:40:38.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "48ff17651e0cdc5e6b7c",
-      "title": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T14:07:52.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
-    },
-    {
-      "id": "6ef21d4752aa0305b3a0",
-      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T14:07:38.000Z",
-      "discoveredAt": "2026-09-05T21:07:52.579Z"
+      "discoveredAt": "2026-09-05T23:13:39.084Z"
     }
   ]
 }
