@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T13:49:46.440Z",
+  "generatedAt": "2026-09-05T16:45:42.884Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,334 @@
   ],
   "stories": [
     {
+      "id": "06bdfd34df06a1d2401f",
+      "title": "‘I wasn’t even listening,’ Farage says of donations scandal meeting",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/i-wasnt-even-listening-farage-says-of-donations-scandal-meeting",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:26:13.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "4a3da1371fcb804c01a5",
+      "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:23:07.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
       "id": "7f48f571a55b863b0f7b",
-      "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
+      "title": "Farage brushes aside Reform controversies in closing conference speech – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-05T13:40:51.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "publishedAt": "2026-09-05T16:22:22.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "cad6c056838046ddf9af",
+      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:17:47.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "58ecc523d0bfe451723b",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:15:35.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "04be8708b907cd3adcd3",
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+      "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "source": "vcresearch.berkeley.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T16:14:34.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "c871bbfde0cdda4cfc5d",
+      "title": "What different world maps get right - and what they get wrong",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:14:24.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "4504384f56413873e41e",
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "source": "wikiworkersunited.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T16:13:57.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "3e20e544fc3cfc552a81",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:13:01.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "44f368224c2f9f732d08",
+      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+      "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T16:04:01.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "c83021c9df469d10faca",
+      "title": "US says it hit three Iranian oil tankers after attacks on warships",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:49:44.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "c5f4a5419cca4a1159ac",
+      "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
+      "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:41:22.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "eb7546b071924fe80682",
+      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:37:12.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "025be48c9137ba22f1c9",
+      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
+      "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:33:02.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "70e7912bc840829ebf9d",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:22:41.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "8b955cfaba41af2ae8df",
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-05T15:05:08.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "3680853424c6722ebeb0",
+      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
+      "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:51:08.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "2826a636a901b417c3b3",
+      "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+      "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:49:36.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "50040d674d538c9b630b",
+      "title": "Raise the Colours leader given access to Reform UK conference while on bail",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/raise-the-colours-leader-given-access-to-reform-uk-conference-while-on-bail",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:45:48.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "99b900ca301c087c78fd",
+      "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "source": "propublica.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T14:40:52.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "ada1117ac0e4f7b018f7",
+      "title": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
+      "url": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:40:38.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "48ff17651e0cdc5e6b7c",
+      "title": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
+      "url": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:07:52.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "6ef21d4752aa0305b3a0",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:07:38.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "dca444ed729f26c39691",
+      "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:04:29.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "7ba98ac3e0b56d2d9914",
+      "title": "Meet the Ig Nobel Prize Winners",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+      "source": "arstechnica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T14:02:44.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "f8f1f13ff33f4782e68c",
+      "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:00:38.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "68ba266b8c9283156295",
+      "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T14:00:37.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "d60d9d74f86caa4e75c9",
+      "title": "Why has the Trump administration ordered staff to take polygraph tests?",
+      "url": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T13:54:33.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "66509b767696100f2f68",
+      "title": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
+      "url": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-05T13:51:29.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
+    },
+    {
+      "id": "11b5d2fa7cb792e3e161",
+      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
+      "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-05T13:47:19.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "388819ff9e6f9d1067a1",
@@ -64,7 +383,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-05T13:36:38.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "bc8b4d0911406d6f2a31",
@@ -75,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T13:20:42.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "8f7415c164b3716d5df2",
-      "title": "Pentagon rescinds new testosterone screening policy without explanation",
-      "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-      "source": "arstechnica.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-05T13:11:14.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "2148bc4554874b2b4d41",
@@ -97,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T13:09:24.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "d447d4be9c01095a298e",
@@ -108,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T13:07:36.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "112e5bc1bc241b8a80fc",
@@ -119,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T12:54:15.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "fd5f93faedd2d1263107",
@@ -130,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T12:49:50.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "261cd64696c7460dd3f8",
@@ -141,29 +449,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T12:43:38.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
-      "id": "58ecc523d0bfe451723b",
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T12:23:00.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "4a3da1371fcb804c01a5",
-      "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T12:20:58.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "id": "fcdf2b1a952243df14b6",
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+      "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+      "source": "buttondown.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-05T12:23:51.000Z",
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "8a4048325a2ec4eb9da5",
@@ -174,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T12:09:56.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "829deb0413d48f214837",
@@ -185,18 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T12:04:52.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "532c647ce7ac9b023942",
-      "title": "Mental health groups have ‘failed to acknowledge’ risk of violence, says Mind chief",
-      "url": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T12:00:36.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "d4cac916a4c6d304e3ac",
@@ -207,18 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T12:00:36.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "3652f3f312d76b12c2a6",
-      "title": "‘I could watch her for hours’: the woman who rescued a bee and created a buzz",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/phoebee-queen-bee-bumblebee-rescue",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T12:00:35.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "7df9d2f012d924dd6aa5",
@@ -229,7 +504,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-05T12:00:00.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "4dae53e2434df2b9bdbd",
@@ -240,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T11:48:16.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "5555c1e57b7e76a77865",
@@ -251,18 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-05T11:43:24.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "40e045ab671a8fe35d5f",
-      "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
-      "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T11:36:15.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "81b0072b947683fb1635",
@@ -273,18 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-05T11:32:07.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "e1d9e7ea9a6fa8968dac",
-      "title": "Rescuers in Nepal find two more people alive after flood disaster",
+      "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
       "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-05T11:26:30.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "4645d134d7eafbd7f5e5",
@@ -295,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-05T11:26:09.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     },
     {
       "id": "8eb3e49aed8e9bd6c881",
@@ -306,271 +570,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-05T11:08:57.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "287611e82e3e663656ec",
-      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T11:08:31.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "04663580c758e44e6bef",
-      "title": "First professional St Nick with Down’s syndrome inducted into International Santa Claus Hall of Fame",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/first-professional-santa-claus-downs-syndrome-hall-of-fame",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T11:00:36.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "facafcd47ca45afde93c",
-      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
-      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T11:00:35.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "7882c03f140a4c710deb",
-      "title": "Mudslide in eastern China kills one, leaves 11 missing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:49:23.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "58a1a0703a5c73e5246e",
-      "title": "Terpstra Keyboard",
-      "url": "http://terpstrakeyboard.com/",
-      "source": "terpstrakeyboard.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-05T10:33:01.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "cf16d4a022d85f95bfe1",
-      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:27:23.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "e14ac6a9f152765a9325",
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "source": "abc.net.au",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-05T10:14:28.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "facf0cd1cd89bc161dad",
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:02:29.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "543c8ddb91d221be1086",
-      "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:00:35.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "d9a457e1d5999471569b",
-      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:00:34.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "b5a953c4d30ae05f4474",
-      "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T10:00:33.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "aded0424b0f9b54b4905",
-      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:56:53.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "7e7f97be7a2055c24e1f",
-      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:52:44.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "7be7966b5eca79a4adc0",
-      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
-      "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:48:48.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "54380c9b2e9687b1418a",
-      "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:44:45.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "e0150e72ec482f4f619c",
-      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:16:01.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "a97349203f4d5fa38b05",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:12:48.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "04100a48e538c6874fb5",
-      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "url": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:12:34.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "b3d5e8af5411d407131f",
-      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-      "url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:11:58.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "ade2f1c2f4a83e04ea6f",
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:00:00.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "e5351aae694636035331",
-      "title": "Flock cameras draw opposition from across the political spectrum",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-05T09:00:00.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "e9ef188534700aac9abc",
-      "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T08:44:40.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "70e7912bc840829ebf9d",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-05T08:41:38.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
-    },
-    {
-      "id": "391883aeb891cd642215",
-      "title": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
-      "url": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-05T08:40:53.000Z",
-      "discoveredAt": "2026-09-05T13:49:46.440Z"
+      "discoveredAt": "2026-09-05T16:45:42.884Z"
     }
   ]
 }
