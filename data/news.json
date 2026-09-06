@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T17:19:08.230Z",
+  "generatedAt": "2026-09-06T19:27:28.883Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -46,14 +46,223 @@
   "stories": [
     {
       "id": "7a87cd6da87e6c202055",
-      "title": "German far-right set for big win in eastern state - projections",
+      "title": "German far-right set for big win in eastern state, projections show",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-06T17:13:15.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "publishedAt": "2026-09-06T19:13:51.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "79a442068886fb03fff2",
+      "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T19:12:36.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "6d5d0fb46395eef594d4",
+      "title": "Finder is so frustrating and has been since day one",
+      "url": "https://kepter.app/finder",
+      "source": "kepter.app",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T19:06:09.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "a0a02e934e978c386462",
+      "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T19:00:12.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "de000bf14e3fdc6f4867",
+      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:56:25.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "66d1da35044b038623e8",
+      "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:47:59.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "8198249db900063a63bf",
+      "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+      "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:47:03.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "487501b29db04207b226",
+      "title": "Why is Argentina reviving the Falklands dispute?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:36:40.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "e51208de54ed4214d7dd",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:33:50.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "c2a7555f7c9584db2dd6",
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:32:53.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "285e0d90db36191b8ed1",
+      "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:28:27.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "0b7d0a4ec04ff461d8a8",
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:13:29.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "ae6e6a81a5e214f074e9",
+      "title": "Sabalenka through to US Open quarterfinals",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:12:06.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "84a81e40bc5a65b41d3b",
+      "title": "Algerian boy found dead after four days trapped in a well",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T18:10:49.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "5773f7864c158f90b655",
+      "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T17:56:13.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "d3be7802bd74b9089492",
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T17:51:23.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "ee301c4d5f504d769b9d",
+      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T17:50:17.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "742806d6d415fe0c893d",
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T17:49:47.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "2e09036d4b168a1309fd",
+      "title": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/f1-leader-kimi-antonelli-wins-italian-gp-after-epic-charge-from-the-back?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T17:40:41.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "27523a3fa6db27e20428",
+      "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T17:39:10.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "25f65611b4d3b90931ac",
@@ -64,7 +273,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T17:05:11.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "1f61c03307dbcf916f79",
@@ -75,18 +284,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T17:03:20.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
-      "id": "1b93d87af9a9cf852954",
-      "title": "Any Nix package, live in the browser",
-      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-      "source": "fzakaria.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
+      "id": "0d78e641d5f3d5f27e45",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
       "publishedAt": "2026-09-06T17:00:56.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "47d09dd534cf3ad0461b",
@@ -97,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T17:00:10.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "87e1d3f1d6bc8ff37d59",
@@ -108,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T16:59:04.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "4694fbf29d286157def3",
@@ -119,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T16:55:38.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "f2d63d41b43a4a6de7bf",
@@ -130,7 +339,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T16:54:34.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "9430659cdc6685aa78e3",
@@ -141,7 +350,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-06T16:36:48.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "1f0643794f0c78a697d9",
@@ -152,7 +361,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-06T16:27:05.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "d489ec734e0ec38198a6",
@@ -163,18 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T16:23:02.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "0b7d0a4ec04ff461d8a8",
-      "title": "Far-right AfD wins key German state election but may fail to secure majority",
-      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:17:39.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "305aba3e4e3882f2bf2d",
@@ -185,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T16:17:06.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "b50d156a71a120c242da",
@@ -196,7 +394,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-06T16:10:05.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "fff714e94391d9af1d21",
@@ -207,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T16:07:08.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "901c6d4b8d7f38b60089",
@@ -218,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T16:04:56.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "6a6bacf53860a07d6f3c",
@@ -229,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T16:00:21.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "d1df404b90b142a67bb2",
@@ -240,7 +438,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T16:00:09.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "8f6fb59c7a259082d0cb",
@@ -251,7 +449,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-06T15:44:24.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "08df1fb6c7c6233a849d",
@@ -262,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:42:00.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "b9ffff9e47f723c9e2c3",
@@ -273,18 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:36:33.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "e51208de54ed4214d7dd",
-      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T15:32:27.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "ff5ceecfb849e9ad227b",
@@ -295,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:32:00.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "2090f89352c81f40d759",
@@ -306,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:19:47.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "659fbb69708d816ea7f0",
@@ -317,7 +504,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T15:16:43.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "3784d7aba9718af9aa19",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T15:08:44.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "68093f94c4cdc31b26e1",
@@ -328,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:07:18.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "1f67141f17c1c1575622",
@@ -339,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T15:00:16.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "20d98ae88c2885d302be",
@@ -350,7 +548,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T15:00:10.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
+    },
+    {
+      "id": "f7a38bfeadd1bebd219e",
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "source": "kuber.studio",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T14:52:07.000Z",
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     },
     {
       "id": "7bb3ba92b0568a9f497c",
@@ -361,216 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T14:51:12.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "6af37cfc46223431c74c",
-      "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:44:38.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "7f51a8eba989071800c5",
-      "title": "Bosnian Serbs strengthen ties with Israel amid tensions",
-      "url": "https://www.aljazeera.com/news/2026/9/6/bosnian-serbs-strengthen-ties-with-israel-amid-tensions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:37:40.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "8526bc07699b8e26dfd0",
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T14:34:46.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "a871c7441d09de4dd276",
-      "title": "A/I shuts down – Stay human",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "source": "keepitfree.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T14:34:34.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "9c76b844b1002af831bb",
-      "title": "Nepal rescuers search hydropower tunnels for survivors",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/nepal-rescuers-search-hydropower-tunnels-for-survivors?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:32:06.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "97278dd6fdbb9469088e",
-      "title": "Why potluck parties are making a big comeback in America",
-      "url": "https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:19:23.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "ac6727ccc65a4f9c4ce1",
-      "title": "China, Nepal race to find thousands still missing 12 days after floods",
-      "url": "https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:14:07.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "7733431a20e8c3a16cbe",
-      "title": "What the US militarisation of Latin America could look like",
-      "url": "https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:10:35.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "65e8057c918af6530b3e",
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-      "source": "phoronix.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T14:08:59.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "9b12258d722e9169b7a6",
-      "title": "Reform UK says Britain is broken. Birmingham tells another story",
-      "url": "https://www.aljazeera.com/opinions/2026/9/6/reform-uk-says-britain-is-broken-birmingham-tells-another-story?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T14:01:39.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "7b7c001b51b4cfe84cdf",
-      "title": "How significant are the Yemeni government’s military gains against Houthis?",
-      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:41:25.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "19c6008516cedbda08f1",
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "source": "economist.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T13:38:07.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "61924aa2ab17f2b31407",
-      "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
-      "url": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:24:05.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "65f794aaffaf3c37a6d7",
-      "title": "German startup sends first commercial rocket into space from Europe",
-      "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:21:36.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "9e2c7ed201b6fa4c01e8",
-      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-      "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:15:46.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "d5d2368c9d914834b616",
-      "title": "How the West’s promise of freedom created a world of anger",
-      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:14:33.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "276be7798197822a46cb",
-      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:13:36.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "66d1da35044b038623e8",
-      "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
-      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T13:05:46.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
-    },
-    {
-      "id": "db2851b15f07d068d766",
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "source": "beige.party",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T13:02:41.000Z",
-      "discoveredAt": "2026-09-06T17:19:08.230Z"
+      "discoveredAt": "2026-09-06T19:27:28.883Z"
     }
   ]
 }
