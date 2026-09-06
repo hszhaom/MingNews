@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T21:39:52.609Z",
+  "generatedAt": "2026-09-06T23:46:50.324Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 30,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,39 @@
   ],
   "stories": [
     {
+      "id": "6bfd62ed6ddfc0abead0",
+      "title": "Australia news live: Chalmers says next election to be fought on super after One Nation reveals plan; Sydney to get urban solar farm",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T23:18:35.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "2cfe7e0a9cc6d3f802e5",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source": "austinhenley.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T23:14:08.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "deba1ed0f2aa95c040cb",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T23:13:29.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
       "id": "7a87cd6da87e6c202055",
       "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
@@ -52,30 +85,107 @@
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-06T21:37:05.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "publishedAt": "2026-09-06T23:02:45.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
-      "id": "6bfd62ed6ddfc0abead0",
-      "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "id": "df124f4c8da31c5695c1",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T23:02:40.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "665ff753b99a014cddd0",
+      "title": "‘Gigantic spaceship’: University of Bristol’s flagship £500m campus opens",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-06T21:29:57.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "publishedAt": "2026-09-06T23:01:18.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "57cf0414b34b5e0a68a2",
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T22:43:25.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "41efbf529626880cc089",
+      "title": "Assailant lunged at Democratic candidate for Ohio governor, campaign says",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T22:40:55.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "e05911a68e2fa1d0290b",
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+      "source": "piie.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T22:36:07.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "03d322fcba281fcecc5a",
+      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T21:49:27.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "8b06865c51f2d5d3b85a",
+      "title": "Alcaraz breezes into last eight at US Open",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-06T21:46:08.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
+    },
+    {
+      "id": "2d1dae0b1d68abbbc176",
+      "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-06T21:38:52.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "39bfb72f624645d3b57c",
-      "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
       "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T21:11:01.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "cb6b6e43b4f85bcde667",
@@ -86,7 +196,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T21:08:30.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "a1f12c6a7382fdde0dbc",
@@ -97,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T21:08:24.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "802b3bc782a05edadf1c",
@@ -108,7 +218,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T20:52:12.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "b1e0f480eba7ef1c06c6",
@@ -119,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T20:52:01.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "e9cfeba35e90a895de71",
@@ -130,7 +240,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-06T20:45:13.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "e51208de54ed4214d7dd",
@@ -141,7 +251,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T20:41:58.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "959742251564afa7694a",
@@ -152,7 +262,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T20:41:48.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "ee7195fb9ee4b38b0742",
@@ -163,29 +273,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T20:40:52.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
-      "id": "16cfe9c67e9a8fb257c7",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "source": "anubis.techaro.lol",
+      "id": "7929171132ca345c993d",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "source": "arxiv.org",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-09-06T20:32:38.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "publishedAt": "2026-09-06T20:31:20.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
-      "id": "03d322fcba281fcecc5a",
-      "title": "Amazon cargo plane crashes at Miami airport and hits several vehicles",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T20:24:13.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "id": "a7297fb2fa1ecef04d45",
+      "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+      "url": "https://github.com/FulltimeFeline/Sol",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-06T20:24:56.000Z",
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "571ff77c20a531cb0e6d",
@@ -196,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-06T20:24:00.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "8be28ae7030bc03f92c3",
@@ -207,18 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T20:20:47.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "69c2d6fe37cb8ee23fdd",
-      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-      "url": "https://getvodforge.com/",
-      "source": "getvodforge.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T20:07:30.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "770e9de23e32208f6609",
@@ -229,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T20:05:32.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "c498339a2c1d2ec39bca",
@@ -240,18 +339,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T20:00:14.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "1f7257b08b966cd004e6",
-      "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
       "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-06T19:54:28.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "fc6f8c98e9bfb0fddcdf",
@@ -262,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T19:45:36.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "79a442068886fb03fff2",
@@ -273,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T19:12:36.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "a0a02e934e978c386462",
@@ -284,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T19:00:12.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "6dec4dff8e3e70f8d870",
@@ -295,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:58:35.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "de000bf14e3fdc6f4867",
@@ -306,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:56:25.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "66d1da35044b038623e8",
@@ -317,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T18:47:59.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "8198249db900063a63bf",
@@ -328,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:47:03.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "487501b29db04207b226",
@@ -339,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:36:40.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "c2a7555f7c9584db2dd6",
@@ -350,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T18:32:53.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "285e0d90db36191b8ed1",
@@ -361,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:28:27.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "0b7d0a4ec04ff461d8a8",
@@ -372,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T18:13:29.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "ae6e6a81a5e214f074e9",
@@ -383,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:12:06.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "84a81e40bc5a65b41d3b",
@@ -394,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T18:10:49.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "5773f7864c158f90b655",
@@ -405,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T17:56:13.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "ee301c4d5f504d769b9d",
@@ -416,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T17:50:17.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "2e09036d4b168a1309fd",
@@ -427,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T17:40:41.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "27523a3fa6db27e20428",
@@ -438,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T17:39:10.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "25f65611b4d3b90931ac",
@@ -449,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-06T17:05:11.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "1f61c03307dbcf916f79",
@@ -460,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-06T17:03:20.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     },
     {
       "id": "0d78e641d5f3d5f27e45",
@@ -471,106 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-06T17:00:56.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "47d09dd534cf3ad0461b",
-      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
-      "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T17:00:10.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "87e1d3f1d6bc8ff37d59",
-      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-      "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:59:04.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "4694fbf29d286157def3",
-      "title": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:55:38.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "f2d63d41b43a4a6de7bf",
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:54:34.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "cbbfecf0c510efad1754",
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:36:48.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "1f0643794f0c78a697d9",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "source": "openai.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T16:27:05.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "d489ec734e0ec38198a6",
-      "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:23:02.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "305aba3e4e3882f2bf2d",
-      "title": "Iran touts military response as US maintains blockade, hits tankers",
-      "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-06T16:17:06.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
-    },
-    {
-      "id": "b50d156a71a120c242da",
-      "title": "Research carried out using NetBSD",
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "source": "netbsd.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-06T16:10:05.000Z",
-      "discoveredAt": "2026-09-06T21:39:52.609Z"
+      "discoveredAt": "2026-09-06T23:46:50.324Z"
     }
   ]
 }
