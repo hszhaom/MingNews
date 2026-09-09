@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T20:52:28.672Z",
+  "generatedAt": "2026-09-09T23:09:21.092Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -31,8 +31,9 @@
     {
       "id": "npr-news",
       "sourceType": "rsshub",
-      "status": "failed",
-      "count": 0
+      "status": "fallback",
+      "count": 10,
+      "transport": "native-rss"
     },
     {
       "id": "al-jazeera",
@@ -44,26 +45,257 @@
   ],
   "stories": [
     {
-      "id": "f1496d92d5f62f1155ce",
-      "title": "Former child refugee selected as Labour candidate in byelection for Starmer’s old seat",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/former-child-refugee-selected-as-labour-candidate-in-byelection-for-starmers-old-seat",
+      "id": "04cca2428815313d3d77",
+      "title": "Australia politics live: furious Lambie warns Hastie cartoon shows Hanson’s ‘true colours’; ‘no graver accusation’ than traitor, Paterson says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-09T20:41:11.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "publishedAt": "2026-09-09T23:03:14.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "08f9bb9d14a62923aa99",
-      "title": "Republicans’ midterm convention kicks off as national party chair says event will be about ‘defying history’ – live",
+      "title": "Republican convention kicks off as Democratic senator John Fetterman reportedly set to praise Trump in video message to crowd – live",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-09T20:40:22.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "publishedAt": "2026-09-09T23:02:40.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "6c36f150680b669c7139",
+      "title": "Teachers say holidays in term can be worth more than time in school",
+      "url": "https://www.theguardian.com/education/2026/sep/10/teachers-say-holidays-in-term-can-be-worth-more-than-time-in-school",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T23:01:08.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "a55b03bbdf95431932e5",
+      "title": "UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours",
+      "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T23:01:08.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "a38c9539b2cc35b80cfa",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:19:25.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "08bcb73b41c79ad06559",
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:17:22.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "c3671ccd7169fe69836e",
+      "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:08:01.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "40df15a4ea9d446be6cb",
+      "title": "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:06:25.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "340e0c8562958eb243e2",
+      "title": "Missouri’s Trump-backed voting maps approved by federal panel challenged in supreme court",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/missouri-redistricting-map-appeal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:04:44.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "6a20f848e383525b4219",
+      "title": "Trump says he would consider pardon for former attorney Michael Cohen",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-pardon-michael-cohen",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T22:03:00.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "f1496d92d5f62f1155ce",
+      "title": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
+      "url": "https://www.theguardian.com/politics/2026/sep/09/former-child-refugee-selected-as-labour-candidate-in-byelection-for-starmers-old-seat",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:56:49.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "e722b555cdf896580283",
+      "title": "South Park creators rename show 'South America'",
+      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+      "source": "bbc.co.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-09T21:53:43.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "377d8e76a8e07c4f5f75",
+      "title": "US court denies Tate brothers’ bid to be released from Miami jail",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:28:16.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "3c9b2a656c234d9c5f1c",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:23:45.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "81aa74db5bbcdb2d8d9a",
+      "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:20:20.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "60b45db376df70b19ee1",
+      "title": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:15:04.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "d43c621e669da83a8797",
+      "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:14:20.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "89ec3c37ccb245ccc6ae",
+      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:09:45.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "91303bff27994fa52d39",
+      "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T21:03:21.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "657d8a323d1ab5b53641",
+      "title": "Trump says Putin wants to make a deal to end Ukraine war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T20:56:05.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "47536d19c4cb4ed97bfd",
+      "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T20:53:26.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "7d05802c28d046189464",
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-09T20:42:19.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "fd717bbad1e58f7165b4",
+      "title": "Burnham defends UK ban on Israeli settlement trade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-09T20:32:24.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "319ea42404a97aa075bd",
@@ -74,7 +306,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T20:32:16.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "37bf0f7879b136d19fbe",
@@ -85,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-09T20:28:04.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "b0a072b7fcb687a933e5",
@@ -96,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T20:23:34.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "72a3110370cbadaede81",
@@ -107,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T20:23:27.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "97248ae77c2656701c5f",
@@ -118,7 +350,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-09T20:22:51.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "b9d3f2b155b231837542",
@@ -129,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T20:17:49.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "f15628bdfbacee15bde4",
@@ -140,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T20:05:48.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "cbfd797b9ed7d471e581",
@@ -151,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T20:05:22.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "f0fb8579328d27e09925",
@@ -162,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T20:00:35.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "0ebeac45fb2f135d8a06",
@@ -173,18 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T19:56:30.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "203866f5a79144e569f1",
-      "title": "Andrew and Tristan Tate denied US bail as brothers fight extradition to UK",
-      "url": "https://www.theguardian.com/news/2026/sep/09/andrew-tristan-tate-judge",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T19:46:28.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "627c35e7383e95caaa99",
@@ -195,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:37:47.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "5d3674936a3352fabd0f",
@@ -206,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:27:18.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "3098b47b7a7c732d31c4",
@@ -217,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:21:50.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "c5d70698d8ceb0b9b061",
@@ -228,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:19:01.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "b797d8e17e034e32f4eb",
@@ -239,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:18:19.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "807c63a97d7152bbdbe8",
@@ -250,7 +471,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T19:16:56.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "669c14de10d43d884505",
@@ -261,29 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T19:10:35.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "fde5d1622ee1d1dbd9fb",
-      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T19:09:13.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "7febf8d3081d90277dff",
-      "title": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T19:07:53.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "bf78d4e35c0b40c55bfb",
@@ -294,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T19:00:36.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "b921e922918af754057e",
-      "title": "Met police launch inquiry into alleged overseas donations to Reform UK",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/met-police-launch-inquiry-into-alleged-overseas-donations-to-reform-uk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T19:00:03.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "c71b4c36a4acc683b43a",
@@ -316,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T18:59:33.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "5be7fb27683a0558b11f",
@@ -327,7 +515,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T18:40:38.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
+    },
+    {
+      "id": "5190ffbba42fdf41dbf5",
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-09T18:39:57.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "a5c9d91c5bf554de8920",
@@ -338,40 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-09T18:36:50.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
-      "id": "d598ea1394a844bd1adb",
-      "title": "Explosion at depot storing weapons left from Syria war kills 14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "id": "330eafb5ab3e71428f0c",
+      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-09T18:32:19.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "18b53a929044aa626965",
-      "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-      "url": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T18:31:10.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "9998f0c39811bdb9ed3e",
-      "title": "How significant are new European sanctions on illegal Israeli settlements?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T18:23:27.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "publishedAt": "2026-09-09T18:27:35.000Z",
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "b1cb57bc7c1f46f2971b",
@@ -382,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-09T18:20:24.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     },
     {
       "id": "227061d064a98d5fdf91",
@@ -393,183 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-09T18:15:43.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "3f21ae085698ff13e41f",
-      "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
-      "url": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T18:00:02.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "669ebd812103f00ee8a7",
-      "title": "Back to work, not school: Yemen’s crisis forces children to drop out",
-      "url": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:57:37.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "b69988f9d5946d15e627",
-      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:57:14.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "707b25cf57041ba7f660",
-      "title": "Apple Watch Series 12",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "source": "apple.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-09T17:56:17.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "a316ee6738a95a433449",
-      "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
-      "url": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:47:11.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "8e3cbfd0aae9c0eb4cf1",
-      "title": "Sudanese refugee returning home ’to make buildings for our country’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:46:44.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "5b32cdc139a2d9709fe2",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "source": "apple.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "67e63ac5f23032543eac",
-      "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat",
-      "url": "https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:37:50.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "25fe0846ad20849b3dc2",
-      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-      "url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:36:42.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "15fbf084df0e1594d176",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "source": "apple.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-09T17:33:20.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "a243dda31ba21558303e",
-      "title": "Palestinian child misses first day of school due to settler siege",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/palestinian-child-misses-first-day-of-school-due-to-settler-siege?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:32:46.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "a76cf7777d6decb4b3d2",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "source": "gist.github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-09T17:24:28.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "8a013453e2c4bb4a52b9",
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "source": "spectrum.ieee.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-09T17:14:59.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "46858d52b764951c9df9",
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:06:48.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "59c4f005af79c5dcbae9",
-      "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
-      "url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-09T17:04:24.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
-    },
-    {
-      "id": "067b51133f14d702b8bf",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-09T16:46:53.000Z",
-      "discoveredAt": "2026-09-09T20:52:28.672Z"
+      "discoveredAt": "2026-09-09T23:09:21.092Z"
     }
   ]
 }
