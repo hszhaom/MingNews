@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T22:29:03.043Z",
+  "generatedAt": "2026-09-12T00:34:27.259Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 28,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,160 @@
   ],
   "stories": [
     {
+      "id": "6b0c0920807809bbf37a",
+      "title": "Arrest made over the death of black woman found hanged from tree",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T00:31:16.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "ded20ad5a3e38df9039c",
+      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T00:04:23.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "a22f1fb3e98295e73d1c",
+      "title": "As China rises, Australia is increasingly enmeshed in the US war machine. Is the alliance still worth the risk?",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T00:00:18.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "dda5d9a05e35dc443558",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T00:00:00.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "6d8b035670f7958b010c",
+      "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T23:56:19.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "83258d3ec382ffc921ea",
+      "title": "Trump keeps touting $5,000 payments if Republicans retain control of Congress as some in his party question feasibility – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T23:56:09.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "fc63b2341e475ebaf44e",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "source": "firecrawl.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-11T23:43:53.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "79fb829b55e41415e568",
+      "title": "Republican senator fires aide who used Nazi soldiers as Facebook profile picture",
+      "url": "https://www.theguardian.com/us-news/2026/sep/11/republican-senator-aide-nazi-ss-picture",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T23:21:19.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "b0c48a4bc7fbd4346420",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "rubyhack.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "cb64c2385fc0f2eb81d7",
+      "title": "UN extends partial Sudan arms embargo for a month",
+      "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-11T23:08:05.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "df97eef5727308fa7d61",
+      "title": "Military aircraft reportedly blamed for UK air traffic control outage",
+      "url": "https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T23:04:27.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "01e99d7fbd3067b406b0",
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-11T22:57:51.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "1bee9ebbb5255a5443fa",
+      "title": "Ex-CIA officer accused of stealing gold bars reaches tentative plea deal",
+      "url": "https://www.theguardian.com/us-news/2026/sep/11/cia-officer-gold-bars-tentative-plea-deal",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T22:30:55.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "8026a883c51fde66abba",
+      "title": "CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11",
+      "url": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T22:27:21.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
       "id": "1a1defb3379a5c7e3f77",
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -53,7 +207,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-11T22:17:45.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "a2bfe6fc2a0b73bb581f",
@@ -64,7 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-11T22:17:25.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "89ec18f49a7f6ab68e2f",
@@ -75,18 +229,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-11T22:15:00.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "75601bbf49d5da379c3a",
-      "title": "California petition worker arrested for allegedly paying people to forge voter signs",
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/california-petition-worker-arrested-identity-fraud",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T22:09:51.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "216e37bd90c8f423aa6d",
@@ -97,18 +240,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-11T22:00:18.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "83258d3ec382ffc921ea",
-      "title": "Trump keeps touting $5,000 payments if Republicans retain control of Congress as some in his party question feasibility – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T21:59:44.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "85129f16a49ea7d96d13",
@@ -119,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T21:53:34.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "56ada5d3ccc246c42d83",
@@ -130,18 +262,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-11T21:48:00.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "f0e1f6eb2f4da778e072",
-      "title": "GPT-6 built this earth exploration site in 5 prompts",
-      "url": "https://earth.ethanplus.ai/",
-      "source": "earth.ethanplus.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-11T21:39:52.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "5fe43c1fa5937bb3951c",
@@ -152,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T21:30:47.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "3b7879702e8c4fa304c0",
@@ -163,7 +284,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T21:28:34.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "7f16c3464a2172ba09ef",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T21:25:32.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "0cc95f8e642acda3f877",
@@ -174,18 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T21:23:51.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "903b2f94a30cc2ef1ef0",
-      "title": "North Carolina state trooper charged with murder of police captain",
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/north-carolina-state-trooper-police-captain",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T21:23:49.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "e580212fc3b0f7bfa400",
@@ -196,7 +317,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-11T21:07:19.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "680cc976aba6be3ba969",
@@ -207,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T21:01:23.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "1e6e7a6a117b5ce11ac9",
@@ -218,18 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T20:59:51.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "205595233e83381dd21a",
-      "title": "Los Angeles to memorialize late mountain lion P-22 with sculpture in Griffith Park",
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/los-angeles-mountain-lion-griffith-park-sculpture",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T20:56:59.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "f3c6607eab0cfde522fd",
@@ -240,7 +350,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T20:42:05.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
+    },
+    {
+      "id": "a55c3c350c9abddc3fab",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-11T20:34:29.000Z",
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "0cd278e2f990b091460a",
@@ -251,7 +372,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-11T20:29:31.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "da1b4f58dbdfe373c60e",
@@ -262,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T20:07:15.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "5c03f0e8483997a96d63",
@@ -273,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T20:04:02.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "552c2504b5a577d6536c",
@@ -284,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T20:00:55.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "f453241a2c3c121ce893",
@@ -295,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T19:59:41.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "53f9dccf3e6c28f42fb0",
@@ -306,7 +427,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-11T19:44:58.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "2fbd3f4428e75f587c02",
@@ -317,7 +438,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-11T19:39:35.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "79f425cd7a6f3c9e2af0",
@@ -328,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T19:37:17.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "562da7c1f937f6c74aa6",
@@ -339,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T19:23:41.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "d8a64d8c1e60bc8e2211",
@@ -350,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T19:21:48.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "e44c20c2d4a80a0b8562",
@@ -361,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-11T19:05:00.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "5faddf7ae204e34db751",
@@ -372,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T19:01:07.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "5e97932056794107383e",
@@ -383,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-11T18:50:36.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "5ea3cc0ce095b371c9fb",
@@ -394,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T18:44:57.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "3cda75aae4460c13bbaf",
@@ -405,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T18:33:36.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "1a11e7c2583e4e5e3b01",
@@ -416,7 +537,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-11T18:24:55.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "59eb5575cebb2498608e",
@@ -427,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-11T18:14:29.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "054c0143efa7010f8aed",
@@ -438,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-11T18:13:57.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     },
     {
       "id": "6d134ed885afc69e8799",
@@ -449,128 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-11T18:10:20.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "fd60976f0c62f4692baa",
-      "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T18:06:08.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "ad9b6844fd09f81d1d0d",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "source": "capitalbnews.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-11T18:05:21.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "376994215539ad5df2d4",
-      "title": "US holds memorials for the 9/11 attacks, 25 years later",
-      "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-11T18:00:41.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "4d43870b68ca4a03463e",
-      "title": "Northern Ireland schools must give girls option to wear trousers from next year",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:56:57.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "ca67f61af0b797a75738",
-      "title": "Why did the assisted dying bill fail in the Commons? | Rowena Mason",
-      "url": "https://www.theguardian.com/society/2026/sep/11/why-did-assisted-dying-bill-fail-commons-england-wales-analysis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:54:33.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "27d3981660ac3e517308",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "source": "mathandai.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-11T17:45:12.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "d57b8cb8d27b87380eee",
-      "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
-      "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:41:50.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "5b5318e43ea03e312c5f",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "source": "snap.berkeley.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-11T17:36:11.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "ebd9ef8b76dbb410e077",
-      "title": "US declares end of largest recorded cyclosporiasis outbreak",
-      "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:35:36.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "3e125200336937195220",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:32:44.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
-    },
-    {
-      "id": "1b6a6c712544c2c657c4",
-      "title": "UK lawmakers vote against bill to legalise assisted dying",
-      "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-11T17:31:22.000Z",
-      "discoveredAt": "2026-09-11T22:29:03.043Z"
+      "discoveredAt": "2026-09-12T00:34:27.259Z"
     }
   ]
 }
