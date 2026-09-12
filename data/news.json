@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T13:04:40.018Z",
+  "generatedAt": "2026-09-12T16:14:46.709Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,356 @@
   ],
   "stories": [
     {
-      "id": "7f16c3464a2172ba09ef",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "id": "02d0cb944e72f2222aee",
+      "title": "Number of UK anti-migrant vigilante groups surges in last 18 months",
+      "url": "https://www.theguardian.com/world/2026/sep/12/number-of-uk-anti-migrant-vigilante-groups-surges-in-last-18-months",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T16:00:38.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "b9d28eb17909bcfb1a25",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-12T13:02:55.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "publishedAt": "2026-09-12T15:53:43.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "48cf3008c641c129d155",
+      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:46:01.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "71b5fa37e6ad5d96e4be",
+      "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+      "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:35:12.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "3be14e6ee7a27dc3c216",
+      "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open",
+      "url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:34:51.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "d6096e2c6db94b6fd47b",
+      "title": "LG responds to TV spying allegations",
+      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "source": "theverge.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-12T15:33:48.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "ac6747ebbeb3ef7a9cb6",
+      "title": "At least seven killed in fire at prison in northern Syria",
+      "url": "https://www.aljazeera.com/news/2026/9/12/at-least-seven-killed-in-fire-at-prison-in-northern-syria?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:26:48.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "806718a98ca019557f6b",
+      "title": "Danish FA allege FIFA Legal Committee evaded questions on Infantino’s plan",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/danish-fa-say-fifa-legal-committee-evaded-questions-on-infantino-proposal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:16:13.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "d344a2875d4f6a14dbd6",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:09:55.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "3161179d2a911128b8c8",
+      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
+      "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:09:05.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "e69ea070a08a9832e619",
+      "title": "Christopher Harborne matches £36m Reform donation of Ben Delo",
+      "url": "https://www.theguardian.com/politics/2026/sep/12/christopher-harborne-matches-36m-reform-donation-of-ben-zelo",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:09:05.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "bacf7aac6987233eb088",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "economist.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "779beaea2446dfe99a73",
+      "title": "Police in Barcelona clash with Catalan national day activists",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/police-in-barcelona-clash-with-catalan-national-day-activists?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:06:05.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "e6ed1f3983b734039e85",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:05:53.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "78887c3f53e5ca1a2977",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "url": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T15:03:14.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "a7bcb465d9e92a3d3e9f",
+      "title": "Donations of £72m make Reform’s prospects both rosier and riskier",
+      "url": "https://www.theguardian.com/politics/2026/sep/12/reform-uk-billionaire-donations-analysis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:53:17.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "c97454fff788495881f9",
+      "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:49:48.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "6d22b038fda6b221e0c6",
+      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:42:40.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "6780d573675a7c2daeef",
+      "title": "Taxes wouldn’t fund $5,000 Trump ‘dividend’ if Republicans win midterms, says commerce secretary",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-midterm-dividend-funding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:38:25.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "f6d83c6ed97bc956b861",
+      "title": "England survive Pakistan scare to seal 3-0 Test series sweep",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/england-pakistan-third-test-edgbaston-joe-root-razaullah-cricket?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:24:39.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "4bd7bce49adef6c93ed3",
+      "title": "Trump says a unified Ireland would be ‘fantastic’ during Irish visit",
+      "url": "https://www.aljazeera.com/news/2026/9/12/trump-says-a-unified-ireland-would-be-fantastic-during-irish-visit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:20:28.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "fea2014f274b0f506e4c",
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "source": "oilprice.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-12T14:17:28.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "80923c185408fd79a9dd",
+      "title": "Six Nigerians extradited to US over $6M online romance scam",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:05:45.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "fdf32bd46650696eb066",
+      "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T14:01:50.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "b948d6282416b5867139",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "source": "transformer-circuits.pub",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-12T13:56:58.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "f389eb2dd9404372850c",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:56:20.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "7b828412f3bee8e91f17",
+      "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+      "url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:45:00.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "abc68c16cc3368c24ba2",
+      "title": "IDF soldier filmed shooting Palestinian in leg amid West Bank settler standoff",
+      "url": "https://www.theguardian.com/world/2026/sep/12/idf-soldier-filmed-shooting-palestinian-in-leg-amid-west-bank-settler-standoff",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:44:10.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "cab979f5b2fc37742578",
+      "title": "Nashville airport board unanimously approves name change to honor Dolly Parton",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:40:06.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "3d95bf82725e463902e0",
+      "title": "Donald Trump says he would ‘love’ to see united Ireland",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/donald-trump-says-he-would-love-to-see-united-ireland",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:06:47.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "6e958e449f06f0e7cd25",
+      "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:06:05.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
+    },
+    {
+      "id": "98cfc53c8fdf8c263436",
+      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+      "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-12T13:03:20.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "0728ac7e390092c8438c",
@@ -64,29 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-12T13:00:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "f389eb2dd9404372850c",
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T12:54:23.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "6d22b038fda6b221e0c6",
-      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T12:48:31.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "710f7d79a8f328251cfa",
@@ -97,7 +416,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-12T12:39:12.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "dcc6c2ac2c8778667b60",
@@ -108,7 +427,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-12T12:36:55.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "de8853e7eb3bab17ec1c",
@@ -119,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T12:19:56.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "8c61ee59a26eb8695a47",
@@ -130,18 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-12T12:15:50.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "75d64031725a723ec35a",
-      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
-      "url": "https://liniora.com/",
-      "source": "liniora.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-12T12:15:12.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "522177655a3d3cb47087",
@@ -152,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T12:12:29.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "da90744835d737e166f2",
@@ -163,29 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T12:10:13.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
-      "id": "e69ea070a08a9832e619",
-      "title": "Christopher Harborne matches £36m Reform donation of Ben Delo",
-      "url": "https://www.theguardian.com/politics/2026/sep/12/christopher-harborne-matches-36m-reform-donation-of-ben-zelo",
+      "id": "9c0a0ed4760201aba113",
+      "title": "‘I love the boldness of modernism’: New York fashion week goes highbrow",
+      "url": "https://www.theguardian.com/fashion/2026/sep/12/boldness-of-modernism-new-york-fashion-week-goes-highbrow",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-12T12:01:11.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "4d2449ecce0fe0d65732",
-      "title": "Calls for investigation after video shows ICE officers using batons on protesters",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/maryland-ice-protesters",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T12:00:34.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "publishedAt": "2026-09-12T12:08:33.000Z",
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "587d4925654a21b5b885",
@@ -196,7 +493,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-12T12:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "92728852d25f5c0fdc19",
@@ -207,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T11:57:49.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "c0dea4fbb35cf763edb5",
@@ -218,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T11:43:28.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "cf9d405f4994bb616ca0",
@@ -229,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-12T11:42:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "ffe60cbfa229874d8fea",
@@ -240,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T11:32:02.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "0cf0923586908fd20079",
@@ -251,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T11:30:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "4e8072dbb99755c45145",
@@ -262,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-12T11:13:38.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     },
     {
       "id": "0c5da71b884c7bad69c9",
@@ -273,304 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-12T11:04:34.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "df0f6621f4d2f1c9c27c",
-      "title": "Jamaican delegation defends legal route of petition to King Charles for slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/sep/12/jamaican-petition-delegation-king-charles-slavery-reparations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T11:00:34.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "25231440d36593cd7ec7",
-      "title": "Registered sex offender was allowed to participate at South Carolina church for decades",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/south-carolina-brookwood-church-sex-offender",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T11:00:33.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "1a388e7be82ad5922a6c",
-      "title": "Beyond the heatwave: what it really takes for climate warnings to cut through in the UK",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T11:00:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "bed6aade7b66f146375d",
-      "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T11:00:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "28cef37520860f2fd584",
-      "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T11:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "cbac8167acc1e34c8cf6",
-      "title": "Hong Kong jails Tiananmen vigil activists for seven years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:58:05.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "72a2160cc9025623127c",
-      "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
-      "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:55:14.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "a39fe1c6d9430fd81374",
-      "title": "Far-right protesters rally against Islam on 9/11 anniversary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/far-right-protesters-rally-against-islam-on-9-11?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:51:07.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "c972b77d6aaff74119c5",
-      "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:37:10.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "b015328f9b67cb8d35c8",
-      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
-      "url": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:36:18.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "e4b2e57a3acd5fde7874",
-      "title": "London Underground workers exposed to asbestos without protective masks, documents reveal",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/london-underground-workers-exposed-to-asbestos-without-protective-masks-documents-reveal",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:00:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "59ea8bbabb3fb7f7e0c7",
-      "title": "Trump personality cult alive and well in Dallas – will it power Republican midterm success?",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:00:32.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "adef82d11cc903b4905c",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:00:05.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "42145c0ed791599aff20",
-      "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T10:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "d8566118b8c4c3f52169",
-      "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:53:59.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "a437989cd62626f8e77b",
-      "title": "What did US intelligence know before the 9/11 attacks?",
-      "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:30:51.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "33c830c44c9ff6da5a99",
-      "title": "Fighting re-erupts in Yemen and civilians are paying the price",
-      "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:30:46.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "1d36f147a196fb21e75d",
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "3d743ccf0e7745c281a9",
-      "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "99a660e1f8983b3b8fcb",
-      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T09:00:00.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "093623717bc4ea6072ca",
-      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T08:49:01.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "cdb0bbdd7ebf044c42c2",
-      "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
-      "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T08:47:19.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "6d55050478c60de4dde0",
-      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-      "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T08:42:28.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "46d44c9f7037e49fe621",
-      "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T08:38:48.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "6e693e74f1ef32ebae35",
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T08:04:16.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "cd4275fac97b5fd9e5cb",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "source": "eiln.github.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-12T07:54:03.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
-    },
-    {
-      "id": "d5569e4c219e276d13e2",
-      "title": "Trump may be BRICS’s best recruitment agent",
-      "url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T07:44:06.000Z",
-      "discoveredAt": "2026-09-12T13:04:40.018Z"
+      "discoveredAt": "2026-09-12T16:14:46.709Z"
     }
   ]
 }
