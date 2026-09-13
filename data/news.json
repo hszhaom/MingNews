@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T16:56:31.809Z",
+  "generatedAt": "2026-09-13T19:22:08.610Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 23,
       "transport": "native-rss"
     },
     {
@@ -46,25 +46,267 @@
   "stories": [
     {
       "id": "e54c57432d91109d25f3",
-      "title": "Sweden general election: close race as far right eyes role in government – Europe live",
+      "title": "Sweden election: exit polls project centre-left government and bad night for the far-right – live",
       "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-13T16:46:23.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "publishedAt": "2026-09-13T19:16:35.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "8a64ff239f1ad19ba477",
+      "title": "US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T19:15:57.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "07caa1f4f90135d92c13",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T19:14:21.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "93481b94ca4005d779e3",
+      "title": "JD Vance’s Catholicism could be at odds with Maga evangelicals in 2028",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:56:09.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "405af91616a2d21ac203",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:49:37.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "49eac2969b438776a0b1",
+      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:49:28.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "a262fccdf8bcaf452c2d",
+      "title": "Flock cameras used to arrest a child for playing on a swing",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "source": "youtube.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T18:47:26.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "9422fe039d1f008ed406",
+      "title": "​Bangsamoro’s parliamentary election is a turning point",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:39:28.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "6a294feb46dd5c8a4df6",
+      "title": "Haaland goal sees 10-men City beat United in controversial Manchester derby",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:39:24.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "c5a9ac5694fd35aeaea6",
+      "title": "Syrian child killed after roadside object explodes near Damascus",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:30:29.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "1d609073fd1f6ff3179c",
+      "title": "Swedish election: centre-left bloc looks set to take power, exit polls show",
+      "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:26:27.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "6e6573f8c1be8f38b471",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:20:22.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "82acf227640046d22b6f",
+      "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+      "url": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T18:15:12.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "d42ce96dc59dee3e31dd",
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "source": "dreamstation.systems",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T18:03:09.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "d9ba6868623605224a0d",
+      "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T17:50:08.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "465ec87aed168b571913",
+      "title": "Pennsylvania reports apparent third measles-related death amid outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T17:46:12.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "a497658e7506da26527d",
+      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-13T17:45:33.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "0ebdaec429ac2a9e31d0",
+      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+      "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T17:43:03.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "18db813c4932ff11baf4",
+      "title": "Device Drivers lab exercise – COSC562",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "source": "web.eecs.utk.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T17:41:50.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "87060bd958a6a516b039",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "source": "atomic14.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T17:37:44.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "724427eb192629f06ec7",
+      "title": "French TV programme pulled after actress speaks out on Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T17:15:36.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "3903dbe1f8324569770c",
+      "title": "Donald Trump doubles down on support for united Ireland",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T16:59:06.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
+    },
+    {
+      "id": "01ca980f3f42dd9dec87",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "twitter.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T16:52:33.000Z",
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "2fefbf790f60cc591b19",
-      "title": "First ministers at Celtic summit to affirm right to seek independence from the UK",
+      "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
       "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T16:41:58.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "d720b8da5772a3c9889d",
@@ -75,40 +317,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T16:34:35.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "07caa1f4f90135d92c13",
-      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T16:33:57.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "405af91616a2d21ac203",
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T16:29:27.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "0ebdaec429ac2a9e31d0",
-      "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
-      "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T16:13:39.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "b5ba9d41c96cefd55a0d",
@@ -119,7 +328,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T16:11:43.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "2afdc278e856638217ec",
@@ -130,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T16:11:41.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "6c4dd4ec6f9ad6e5fb87",
@@ -141,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T16:05:33.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "0c9c723850fd409b1c55",
@@ -152,7 +361,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T16:04:49.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "880360284ebf98364213",
@@ -163,7 +372,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:51:44.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "5b9182d0e8b75215d8c2",
@@ -174,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:51:33.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "921ab1acb26f87fb27e8",
@@ -185,18 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T15:50:46.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "93c44a20f6f4801efae7",
-      "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T15:47:37.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "62f3ef1ee0ea49f09a0b",
@@ -207,7 +405,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:45:29.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "a061c44f7783dde2c2d6",
@@ -218,18 +416,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-13T15:44:38.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "49eac2969b438776a0b1",
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T15:42:50.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "d2178051a65139e6e493",
@@ -240,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T15:40:24.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "d38654bd92b188937a3d",
@@ -251,18 +438,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:30:43.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "8de5032844127f50eefa",
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "source": "belderbos.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T15:24:05.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "37f7b117c229d2eccd01",
@@ -273,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T15:22:59.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "ed92f6f3b90c0fb59a4e",
@@ -284,40 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:17:38.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "a984f890fb311b797f5e",
-      "title": "Predictive intelligence to anticipate anything.",
-      "url": "https://prior.chat/",
-      "source": "prior.chat",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T15:11:22.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "c287e840e377eb6d0742",
-      "title": "Kamala Harris’s California home targeted by trespasser, officials say",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T15:08:58.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "41807804f10b020ac4f8",
-      "title": "Trump reiterates $5,000 ‘dividend’ pledge if Republicans win midterms",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T15:07:23.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "47c2c6c7e0a542ed92af",
@@ -328,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T15:03:48.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "340d83a17f9dffcaaf90",
@@ -339,7 +482,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-13T15:02:56.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "74023f669ea85b911597",
@@ -350,18 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T15:00:47.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "7845e6c0b3b639e935c3",
-      "title": "Reform’s Robert Jenrick ‘very confident’ £72m donations are ‘perfectly legal’ – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T15:00:19.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "693fd5ab4104e42f2083",
@@ -372,7 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:00:09.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "39287b9a03b871eb1135",
@@ -383,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:00:09.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "2a69b7d9e7c647b704eb",
@@ -394,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T15:00:07.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "b13a66c229470f6e8b5b",
@@ -405,18 +537,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T14:38:46.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "a4e1679781f306a9009d",
-      "title": "US Open men’s singles final live: Zverev vs Shelton",
+      "title": "US Open men’s final live: Alexander Zverev vs Ben Shelton",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/us-open-mens-singles-final-live-alexander-zverev-vs-ben-shelton?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T14:35:21.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "213f7fae1d5f35a03ac9",
@@ -427,7 +559,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-13T14:28:36.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     },
     {
       "id": "accc21ab10abd85c1216",
@@ -438,139 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-13T14:25:56.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "e1eb60d78f10e9e03428",
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T14:25:13.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "24a9b9783df88a8d4d5b",
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "source": "paulgraham.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T14:09:53.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "a1dd8504ff1b1ed88e54",
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T14:01:44.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "eadb01974c05765f031b",
-      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-13T14:00:00.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "40a6ee84bcde539ed044",
-      "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-      "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:59:27.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "11eb2d027860a96106d2",
-      "title": "Villagers in India tie technician to cell tower over 5G failure",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:34:42.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "d4cc521c561669e3445a",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:30:38.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "13d1e3187ab716d5cfad",
-      "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:26:45.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "819e8444f9d98ff55e5b",
-      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:09:22.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "10d2f1fc746775718c02",
-      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-      "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T13:05:40.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "4578648677aceb3958bc",
-      "title": "The Iran war reveals the limits of BRICS",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T12:46:58.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
-    },
-    {
-      "id": "7e98ba0d5c9222f6bfc8",
-      "title": "The Houthis’ escalation in Yemen could flop",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T12:39:50.000Z",
-      "discoveredAt": "2026-09-13T16:56:31.809Z"
+      "discoveredAt": "2026-09-13T19:22:08.610Z"
     }
   ]
 }
