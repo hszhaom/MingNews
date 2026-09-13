@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T06:44:02.092Z",
+  "generatedAt": "2026-09-13T12:41:07.851Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 24,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,400 @@
   ],
   "stories": [
     {
-      "id": "9df4efd07802e992f083",
-      "title": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
-      "url": "https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino",
+      "id": "ec3086790118e6b91cb5",
+      "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
+      "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-13T06:00:00.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "publishedAt": "2026-09-13T12:33:16.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "7845e6c0b3b639e935c3",
+      "title": "Reform’s Robert Jenrick ‘very confident’ £72m donations are ‘perfectly legal’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T12:28:33.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "886e8b9b191d0749dd58",
-      "title": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
+      "title": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
       "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-13T05:10:38.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "publishedAt": "2026-09-13T12:18:49.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "c2dda56ee56e66a462ad",
+      "title": "India vs Sri Lanka live: Asia Cup final",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T12:06:09.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "ed46b41627a76a10e950",
+      "title": "BRICS summit 2026: What are the key takeaways?",
+      "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T12:04:39.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "2b656074a0a074555936",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "source": "ras.ac.uk",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T12:01:52.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "8ad1d80b5600c02e6470",
+      "title": "Pressure builds in Spain to deny US extradition request for leftwing donor",
+      "url": "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T12:00:03.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "31e30c35effe73b5b2f6",
+      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+      "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:45:24.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "a4b618643c8cdf4db31e",
+      "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:35:04.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "0e96b06dbd3c1f0e27d7",
+      "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+      "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:26:06.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "5f1ec3a254f68b9e0db1",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:23:42.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "7e6ce5c880ad4a181198",
+      "title": "Only slim chance target of building 1.5m homes in England will be met, minister says",
+      "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:23:10.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "1d609073fd1f6ff3179c",
+      "title": "Voting under way in Sweden with far right eyeing first role in government",
+      "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:17:15.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "e2bc2fc4f2efebaa7446",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:13:07.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "71a7f113fa97bb5b1a9b",
+      "title": "Dover unrest exposes serious flaws in Britain’s handling of far-right extremism",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/dover-unrest-britain-far-right-extremism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:00:06.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "504b29f54fed8bb3710a",
+      "title": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:00:05.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "bd4ad0c4177a8918814a",
+      "title": "Lawyer charged over alleged insurance fraud after Hurricane Ida poised to plead guilty",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:00:01.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "de4bfcc7407cd470627d",
+      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-13T11:00:00.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "b07a4cc8e0a2696ddfac",
+      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:48:04.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "fd73e1043854a206ab5e",
+      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:47:19.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "d9ba6868623605224a0d",
+      "title": "Reform UK’s £72m donations may be caught by new bill, Rayner suggests",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:31:44.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "b2aaf358e8d678292983",
+      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:31:10.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "34f42138d6987aa0a10e",
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "source": "invezz.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T10:29:18.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "a4794ab1a4337c166d48",
+      "title": "Israeli attack on Gaza kills two Palestinians",
+      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:22:01.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "a0059a51c9aa18e5943d",
+      "title": "A kingdom within a republic: Inside Uganda’s Buganda",
+      "url": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T10:12:15.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "d4cc521c561669e3445a",
+      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T09:42:08.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "93481b94ca4005d779e3",
+      "title": "Religious Vance seeks to avoid Maga schism as he keeps the faith for 2028",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-13T09:00:03.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "55e73fcf60e029ec268c",
+      "title": "How a young woman became an ISIS bride — and then an informant, helping save others",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-13T09:00:00.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "05c57280a56e5f9d06c4",
+      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
+      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T08:54:32.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "8f3ea9d6ed7ec5e111ff",
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source": "brew.sh",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T08:41:17.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "c8517ce6d0a63c297fa8",
+      "title": "Voting under way in Sweden election that could see far right in government",
+      "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T08:39:49.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "cd121f46a9a80b49bf64",
+      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T08:13:56.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "4b766bba8f4fae392be1",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "source": "jetkvm.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-13T07:49:46.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "87b7c7e2b71010ecd263",
+      "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T07:48:22.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "c2e97dcd42de8a465a5d",
+      "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
+      "url": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T07:00:59.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
+    },
+    {
+      "id": "ecc6734e94e58ef34c6f",
+      "title": "More than 100 people missing after Indonesian passenger ship capsizes",
+      "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-13T06:36:40.000Z",
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "b297efdaf0ba5bc16e00",
@@ -75,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T05:04:52.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "f9a8ab80cf88f296eee6",
@@ -86,40 +460,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T05:02:29.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "80ba0d43370f90dd19a0",
-      "title": "UK government to offer clearer guidance on student loans after repayment row",
-      "url": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T05:01:00.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "6871dee044705e120c02",
-      "title": "Burnham must understand Wales is ‘not a region in England’, says first minister",
-      "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-wales-first-minister-rhun-ap-iorweth-senedd-devolution",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T05:00:03.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "584aebdaedbc9e7ddff4",
-      "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
       "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T04:40:18.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "512ec25fa59f1bb539ee",
@@ -130,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T04:22:41.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "8e2878acf2dcc7046f0a",
@@ -141,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T04:00:53.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "83c2b89503db83c21fd0",
@@ -152,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T03:41:14.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "e04cbd1ab58e8a2b5e2f",
@@ -163,40 +515,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T03:36:16.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "3681a958b56efb27a16a",
-      "title": "A succession crisis that tore England apart",
-      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "source": "historytoday.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T03:18:29.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "436f8fc61fe3573df7fa",
-      "title": "Aligned to Whom?",
+      "title": "Aligned to whom?",
       "url": "https://hyperbo.la/w/aligned-to-whom/",
       "source": "hyperbo.la",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-13T03:17:18.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "e80e52a2ed9378320492",
-      "title": "After Math",
-      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-      "source": "terrytao.wordpress.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T03:16:41.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "1d1002dd8d9ff53cd805",
@@ -207,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T02:44:32.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "a42624e10e76cfd4e5b0",
@@ -218,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-13T02:43:57.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "c08a128a084c92ba3462",
@@ -229,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-13T02:39:50.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     },
     {
       "id": "e6d7274e89b0809e6684",
@@ -240,337 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-13T02:37:24.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "62eaa2f4a3f47ceb416b",
-      "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-      "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T02:32:12.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "1dbde322b149226f1544",
-      "title": "NSW to put strict caps on screen time in classrooms while pushing for ‘pen and paper’ learning",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T02:00:53.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "7b5597e3c3a8ea369b45",
-      "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
-      "url": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T01:41:10.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "7356c53541f6aaf8ce1a",
-      "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T01:32:56.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "0e96b06dbd3c1f0e27d7",
-      "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-      "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T01:27:49.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "1f6e75f3866a4a885f75",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "yoshuabengio.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "c9650075632b52f81cfd",
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-13T00:49:08.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "fe7254d3241ebb7977a8",
-      "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T00:43:48.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "04c613c6bac80c12f93d",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "source": "xeiaso.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-13T00:30:44.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "c5aa3a5fe12868e6676d",
-      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T00:24:29.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "f2d493a1a08e3b6b6dfd",
-      "title": "Iran war live: Commercial ship attacked in Hormuz killing 1, wounding 3",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-13T00:00:40.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "31b5d0044224412b0f4b",
-      "title": "Teen rescued after clinging to boat for two days off Alaska",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:56:58.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "f0ca9c75e4f79da06972",
-      "title": "Celine Dion returns to the stage after battling rare illness",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:54:06.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "191f5e88c8eb4bd2f8e3",
-      "title": "Death toll from Philippine ferry fire rises to 76",
-      "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:50:03.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "3e2a11afa0b98c247948",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "source": "agentsdock.net",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-12T23:45:58.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "a6a88d92518f624d6325",
-      "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:43:32.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "4e6f6627c3c339755187",
-      "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:25:22.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "bfae91a244cb588c8ebb",
-      "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:14:28.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "4b191da8d7d3c808c3f5",
-      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T23:00:37.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "c789aa3b66e06e69402b",
-      "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T22:51:28.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "aeec58019c569b778b58",
-      "title": "Tens of thousands march across Germany to protest far-right party AfD",
-      "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T22:37:03.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "a8706ea5fef3a8d1f17a",
-      "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T22:10:18.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "45093697809e5327d7c3",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T22:00:28.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "a0e7f288f815e9e4e899",
-      "title": "First naval battle between drones takes place in the Black Sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T21:38:24.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "c111500f49ee2ee049a7",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T21:25:28.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "518333e5fa889f9d678b",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T21:19:11.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "b9d28eb17909bcfb1a25",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-12T21:16:47.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "be96ac7a5922ac758012",
-      "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T20:44:18.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "15da10e46d0293a0cf78",
-      "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-      "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T20:43:57.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
-    },
-    {
-      "id": "5052703846661b17e1cf",
-      "title": "Fire at nursing home in Chile kills 16 elderly residents",
-      "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-12T20:42:23.000Z",
-      "discoveredAt": "2026-09-13T06:44:02.092Z"
+      "discoveredAt": "2026-09-13T12:41:07.851Z"
     }
   ]
 }
