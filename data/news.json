@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T20:28:43.569Z",
+  "generatedAt": "2026-09-14T23:23:36.454Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 32,
+      "count": 33,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,314 @@
   ],
   "stories": [
     {
+      "id": "3d9be6b5d6835d6e05dc",
+      "title": "Australia politics live: Labor defends Catherine King’s top-tier Qantas membership gift; defence recruitment reaches 16-year high",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T23:14:56.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "d31813a3aa335b59eee6",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-14T23:01:36.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "92884a1f1fdcec83f86a",
+      "title": "Democracy indicators in US at lowest levels for 50 years, data shows",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/us-democracy-indicators-lowest-for-50-years",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T23:01:19.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "6b85381b23ce2cf8b448",
+      "title": "Texas governor threatens to penalize datacenters not obeying water laws",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:57:15.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "8117fc652311d823e348",
+      "title": "DHS officers raise concerns over potentially illegal voter searches and unreliable data, whistleblower says",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/dhs-voter-data-whistleblower",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:55:19.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "d9a07c21dd5b243fa378",
+      "title": "Duke and Duchess of Sussex granted security review after return to UK",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/14/duke-and-duchess-of-sussex-granted-security-review-after-return-to-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:54:06.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "2546349b29620584800e",
+      "title": "Republican senator Mitch McConnell returns to Capitol Hill after months-long hiatus while recovering from fall – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:50:52.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "8f3725061562388a1685",
+      "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:36:33.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "ca3d25d23361b9fb25ea",
+      "title": "Russian oligarch close to Putin paid for part of Donald Trump Jr’s lavish wedding",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:28:51.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "12cdec4eeec91520647f",
+      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:10:52.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "efd5f93697f83c0ff9cf",
+      "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-14T22:05:06.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "c1b0778438411d842aef",
+      "title": "Landowners in Texas ask court to stop Trump border wall",
+      "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:44:03.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "977a1273925ad468c005",
+      "title": "Israeli attack targets Gaza displacement camp",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:37:04.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "66c94dcd65dc3f842b55",
+      "title": "US repeals rules limiting greenhouse gas emissions by power plants",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:36:09.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "c782bf9254a7ab831ae0",
+      "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:29:50.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "42959c194c2578cc7e1c",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:29:12.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "2c5feb85a0f2c92f5a64",
+      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:23:53.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "7591806ea80f1f15640f",
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "source": "dbtcharts.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-14T21:22:54.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "8db55d644aea4228e853",
+      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:20:00.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "091787bb9090be953a15",
+      "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:19:41.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "2baa91b6b0abfdbb9211",
+      "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+      "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:12:07.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "937e97743839da56b891",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "source": "law.justia.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-14T21:05:22.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "c4ebe9e6a5d996429b10",
+      "title": "Manchester derby VAR officials stood down from weekend Premier League games",
+      "url": "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T21:00:40.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "d9f08459fbd8b630a8c6",
+      "title": "What could stop the Houthis’ advance across Yemen?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T20:55:57.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "492f2916c3be0faa946f",
+      "title": "Inside the Houthis’ expanding war economy in Yemen",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T20:41:47.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "12eebaa4a382477ddbd9",
+      "title": "Austria denies entry to Iranian official after UN ruling",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T20:41:21.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "242b64cd029487785a82",
+      "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
+      "url": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-14T20:40:54.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
+      "id": "2e3d4b871a7d0c27e388",
+      "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-14T20:34:20.000Z",
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
+    },
+    {
       "id": "5dc70c2bb05fc19cc0c4",
       "title": "Multiple vehicle road crash in South Africa kills 21",
       "url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss",
@@ -53,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T20:21:01.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "2da8544405d8516d1064",
@@ -64,40 +372,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T20:20:20.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "3518d7803f0d5da213e1",
-      "title": "A Beginning for Mathematics",
-      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
-      "source": "proofsandprompts.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T20:14:45.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "2546349b29620584800e",
-      "title": "Trump and Republican allies rail against AI controls despite growing calls for more checks – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T20:09:22.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "de6ae76a78b4d846ae4a",
-      "title": "Amendment to bill in Lords could test legality of £72m Reform donations",
+      "title": "Ministers seek law change to make £72m donations to Reform illegal",
       "url": "https://www.theguardian.com/politics/2026/sep/14/amendment-to-bill-in-lords-could-test-legality-of-72m-reform-donations",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-14T20:01:23.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "84f70c062b113594a094",
@@ -108,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T19:59:06.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "baf3658e1d9c87c8b494",
@@ -119,18 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-14T19:56:20.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "4a7a980b939c971dff4b",
-      "title": "Firefighters make progress to contain northern California’s Lucas fire",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T19:53:57.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "7ee55e8b918ec2384117",
@@ -141,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T19:51:26.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "605b71e3aa36706e4927",
@@ -152,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T19:50:27.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "6e1e56d6f583d9a7311b",
@@ -163,29 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T19:46:56.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "b5e28adb19757c6b9a23",
-      "title": "Neo Emacs – Emacs from the Future",
-      "url": "https://neomacs.org/",
-      "source": "neomacs.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T19:42:22.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "0af841fd685ecefe4dde",
-      "title": "Mahmoud Khalil sues Columbia University over years of alleged anti-Palestinian discrimination",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/mahmoud-khalil-columbia-university-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T19:34:28.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "ab04daca8e31dd33e7ce",
@@ -196,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T19:32:23.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "119bb8de080ff9591ef9",
@@ -207,18 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-14T19:08:43.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "df2238ecb34c76548760",
-      "title": "Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T18:53:14.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "1469fb7c8161726851e2",
@@ -229,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T18:46:25.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "e218d7487aad6748cd29",
@@ -240,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-14T18:45:21.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "c0c07f740bacfedacfb7",
@@ -251,29 +493,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-14T18:41:13.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "efb677741c4ee9cc0e46",
-      "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+      "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
       "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T18:40:23.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "fe08ae0905d3e76618c4",
-      "title": "States and cities sue Trump administration over policy restricting green card benefits",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-immigration-snap-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T18:36:54.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "a0ec6b1904732db8ca09",
@@ -284,18 +515,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-14T18:25:04.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "12cdec4eeec91520647f",
-      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T18:17:47.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "f0c81238d5e1dcafb5b6",
@@ -306,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-14T18:07:55.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "8ff30c0b7ce035366f33",
@@ -317,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T18:02:44.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "ecf17743dd5f943e5542",
@@ -328,18 +548,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T17:52:33.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "8e60d417c87d05c00deb",
-      "title": "Carney pitches Canada to global investors amid US trade war",
+      "title": "Mark Carney pitches Canada to global investors amid US trade war",
       "url": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-14T17:42:33.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     },
     {
       "id": "57bcdc1582ddb6a72523",
@@ -350,227 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-14T17:41:06.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "24b15875e2e6a8d784c0",
-      "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
-      "url": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:30:36.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "6521ac2763494dd5ccda",
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "source": "store.steampowered.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T17:27:55.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "7f01d47a9585c6f873b9",
-      "title": "Syria fuel price hikes test public patience with economic recovery",
-      "url": "https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:25:13.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "7f9c9e96ea07a5edce85",
-      "title": "Private schools become a costly choice for struggling parents in Gaza",
-      "url": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:22:48.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "46a49e9b45774d776359",
-      "title": "JD Vance insists US is ‘on top of’ Houthi advance in Red Sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jd-vance-insists-us-is-on-top-of-houthi-advance-in-red-sea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:16:18.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "b54bfac470e15413bc3b",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "source": "andonlabs.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T17:16:06.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "a59809c77b67f112e0ab",
-      "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:04:56.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "58ff6a7a9850b4a2ced4",
-      "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
-      "url": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T17:04:05.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "7b627cb99b71d01f8663",
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "source": "blog.cloudflare.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T17:02:34.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "28a6a6b875862200b4e5",
-      "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-      "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:56:53.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "c0f2d9c1b93fe6899de2",
-      "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:55:41.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "b0b4de1bf98bef2e28ff",
-      "title": "How Israel systematically dismantles Palestinian life in occupied West Bank",
-      "url": "https://www.aljazeera.com/news/2026/9/14/how-israel-systematically-dismantles-palestinian-life-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:53:11.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "73dd66d8b8254606835d",
-      "title": "Unions to intervene on political funding as TUC chief warns ‘super-rich’ threaten democracy",
-      "url": "https://www.theguardian.com/politics/2026/sep/14/uk-unions-split-over-party-donations-cap-as-tuc-chief-says-super-rich-corrupting-politics",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:50:46.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "f71855bc2c075f660f3e",
-      "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-      "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:48:34.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "7ef8fc45d5dea0182630",
-      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:48:10.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "75660e2d8182515ca67d",
-      "title": "Sweden’s political parties launch coalition talks as both blocs try to secure power",
-      "url": "https://www.theguardian.com/world/2026/sep/14/sweden-political-parties-launch-coalition-talks-both-blocs-try-to-secure-power",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:47:25.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "72adce655567de4dae6d",
-      "title": "Why Middle East tensions are pushing oil prices above $100",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:36:05.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "712c25db4c998bf956bb",
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "source": "amazon.science",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T16:32:23.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "64319bccd3e78a1168ab",
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-14T16:23:42.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
-    },
-    {
-      "id": "e2d31cd92fde7b783da8",
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "source": "serpentine.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-14T16:23:16.000Z",
-      "discoveredAt": "2026-09-14T20:28:43.569Z"
+      "discoveredAt": "2026-09-14T23:23:36.454Z"
     }
   ]
 }
