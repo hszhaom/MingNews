@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T18:50:17.519Z",
+  "generatedAt": "2026-09-16T22:04:04.178Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,125 @@
   ],
   "stories": [
     {
-      "id": "8708e9aed58480c043d0",
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T18:36:16.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "2fd8e894f03e022ca369",
-      "title": "Federal Reserve raises interest rates for first time since July 2023 – live",
-      "url": "https://www.theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
+      "id": "770c579916ba2775345a",
+      "title": "Trump blasts interest rate uptick and claims US is doing so well that rates ‘should be 1%, or less’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-16T18:32:58.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "publishedAt": "2026-09-16T21:48:53.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "1df151fb13b2ba9058fe",
+      "title": "Australian politics live: Labor to reveal new immigration rules; PM hails narrowing of gender gap",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:48:23.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "f48f212f9d18567de101",
+      "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+      "url": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:41:36.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "ae7f699b015139a74cd0",
+      "title": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine",
+      "url": "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:26:53.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "3b1fd99596f34aed6a4f",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:24:24.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "b6c854f4510dc2a28370",
+      "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:20:59.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "ffdd11b93bb77b101f84",
+      "title": "Top Trump military adviser says US must prepare to fight around moon",
+      "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:19:04.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "9cd4f1772c549538d9f9",
+      "title": "Rescue workers search for survivors after Gaza building collapse",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:15:42.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "6b3adf6a12fd0e71228c",
+      "title": "LA homelessness non-profit workers arrested over alleged corruption and bribes",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/los-angeles-homelessness-nonprofit-arrests",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:13:54.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "2fab2761e0049e476a29",
+      "title": "House holds billionaire Leon Black in contempt of Congress",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:12:27.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "612035abe7bdae42eb47",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T21:02:11.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "d6efe3c4ae3b20ee3945",
@@ -74,63 +173,338 @@
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-16T18:28:29.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "publishedAt": "2026-09-16T21:01:39.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "cab4f1a04be9562a541f",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T20:59:24.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "da521e69cafae33ff584",
+      "title": "Trump administration plans ideological warning signs for Smithsonian",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:55:54.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "78404be780abac683997",
+      "title": "US removes Venezuela from list of drug transit, production countries",
+      "url": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:53:02.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "ba9ceb5353f3332fd2fb",
+      "title": "The 'burnerverse' exploiting young women in college",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:50:17.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "c90b63cb842294c160c0",
+      "title": "Displaced Syrians dig through hills of garbage to make a living",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:29:41.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "a31db2c53f10a77f8527",
+      "title": "Key House Democrat refuses to clear Trump’s $2.8bn arms sale to Israel",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/us-arms-sale-israel-gregory-meeks",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:20:28.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "afbd4146bf62984f1f3b",
+      "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:12:25.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "e15e9f57512c30c78475",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "source": "mimo.xiaomi.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T20:09:18.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "d6b81143b00a5078c4e2",
+      "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
+      "url": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:08:50.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "919a787c6eed7b7432a1",
+      "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:08:27.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "1149d32fb60e7d45bda4",
+      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "url": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T20:05:51.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "2fe3dd513d861ff3dfc3",
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:59:57.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "537ae4653bff29cf2507",
+      "title": "macOS 27 Golden Gate – Review",
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "source": "arstechnica.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T19:53:36.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "b4c9a96e4f41ef97c449",
+      "title": "Al-Mughayyir: A village under siege",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:48:05.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "884ee2ac1ef8ad73a7b9",
+      "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
+      "url": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:45:30.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "95ab3cbbcfeb8dac76a9",
+      "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+      "url": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:44:05.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "2e6831d697f979dbc148",
+      "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
+      "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:39:28.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "b27850c9f4110c81f2d3",
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T19:19:08.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "cbc940ac687df516bd1a",
+      "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:14:28.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "2eacf9556973f8932310",
+      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T19:12:48.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "ddeaf25f349ec8139bed",
+      "title": "Is EU’s offer to Canada a blueprint for Britain – or a reminder it is out in the cold?",
+      "url": "https://www.theguardian.com/world/2026/sep/16/eu-offer-canada-blueprint-britain-brexit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T18:57:14.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "498c9033f65b5d79b0d6",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T18:56:05.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "0da9cc616455623f0914",
+      "title": "English far-right extremist who discussed killing Jews, Muslims and migrants is jailed",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/16/ivan-jennings-stafford-jailed-far-right-terrorism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T18:53:15.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "4b99a853d3afdbe8b64f",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "rohanbansal.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T18:50:00.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "4baa7d469e32105be71a",
+      "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
+      "url": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T18:46:30.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "a82f2d4e881fc82fba01",
+      "title": "Prisoners to ‘double up’ in one-person prefab cells, leaked documents show",
+      "url": "https://www.theguardian.com/society/2026/sep/16/leaked-emails-reveal-plans-to-double-up-prisoners-in-one-person-prefab-cells",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T18:41:00.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "8708e9aed58480c043d0",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-16T18:36:16.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
+    },
+    {
+      "id": "6b6a541ec712d28a5b91",
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "source": "opensource.googleblog.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-16T18:31:35.000Z",
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "1535eb0bdc7f2cdd47a8",
-      "title": "Scotland votes for moratorium on new large-scale datacentres for up to a year",
+      "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
       "url": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-16T18:28:12.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "770c579916ba2775345a",
-      "title": "Democrats criticize Mike Johnson for sending lawmakers home for recess a day early – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T18:28:03.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "d454a99cc4789236cc84",
-      "title": "Family of pregnant woman who died sues Ken Paxton for wrongful death",
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/pregnant-woman-denied-abortion-ken-paxton-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T18:27:37.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "024013adfd4ee30c006c",
-      "title": "New lawsuit accuses Trump administration of blocking NIH grants as form of censorship",
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/aclu-lawsuit-nih-censorship",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T18:20:58.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "de2fecc8fa69a498d910",
-      "title": "US Fed raises interest rates as inflation weighs on economy",
+      "title": "US Fed raises interest rates for first time in three years",
       "url": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-16T18:03:51.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "3876d85c723326c8e3dc",
@@ -141,51 +515,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-16T18:00:15.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "f67b74317633e03b7c67",
-      "title": "Geopolitical divides fueling Security Council inaction, Guterres warns",
+      "title": "Geopolitical divides fueling UN Security Council inaction, Guterres warns",
       "url": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-16T17:55:49.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "a76a7cd7a3e34f72e7be",
-      "title": "Suspect in ‘Putney pusher’ case found dead at his west London home",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/16/suspect-in-putney-pusher-case-found-dead-at-his-west-london-home",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:53:26.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "bedb33078688e049b43d",
-      "title": "Body found in search for three-year-old Noah Woods",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/16/body-found-search-boy-missing-suffolk-playground-noah-woods",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:51:10.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "6d11a6f8528c751b783e",
-      "title": "Don’t back down on pledge to put water firms under public control, Burnham told",
-      "url": "https://www.theguardian.com/business/2026/sep/16/mayors-and-other-local-leaders-could-be-given-powers-to-oversee-water-firms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:43:31.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "36426cae55717c14d1b7",
@@ -196,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-16T17:42:00.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "5f32bd2c18c19f94fa3c",
@@ -207,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-16T17:38:09.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "ff93837782233f6b0ed0",
@@ -218,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-16T17:32:44.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     },
     {
       "id": "5f8cd9604e703c61f3c3",
@@ -229,348 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-16T17:20:15.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "61912121b5555a650b00",
-      "title": "DOJ charges Russian agents with plotting attacks, including in US",
-      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:19:49.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "bfe77f6378b7e506c03b",
-      "title": "More Republicans are turning on Iran war as midterms come into view",
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:18:14.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "42a0ada7bc1f4e8e10f5",
-      "title": "Why has the response to Nepal’s floods been so muted?",
-      "url": "https://www.aljazeera.com/opinions/2026/9/16/why-has-the-response-to-nepals-floods-been-so-muted?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:17:49.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "f23469f8854ca551dd0b",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:16:47.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "fb889f2aebbc66d32c14",
-      "title": "South Africa slams planned US sanctions over alleged racial discrimination",
-      "url": "https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:13:06.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "a053b307b84088b80096",
-      "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-      "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:07:50.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "46f25729bd1bb3cc8b4d",
-      "title": "A tumultuous congressional primary season closes with record departures and defeats",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:05:41.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "2fd724138278d55b583c",
-      "title": "Neturei Karta: Opposing Zionism",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T17:00:00.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "9979b02de7cc1d96d7e7",
-      "title": "Can the US government punish a university for boycotting Israel?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/can-the-us-government-punish-a-university-for-boycotting-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:57:32.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "7f378e3cdc789d762a65",
-      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
-      "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:45:04.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "ee2b529da17201d786dc",
-      "title": "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
-      "url": "https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:39:11.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "38dc860fa92219c88df3",
-      "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
-      "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:36:15.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "5669369a4ef57e1fe4d1",
-      "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
-      "url": "https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:35:28.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "10a964708abad7ad270e",
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "source": "claude.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-16T16:26:25.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "74df6f457f8c5f389785",
-      "title": "Ebola fight in DRC ‘far from over,’ warns WHO chief",
-      "url": "https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:23:37.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "7e274bc3175bea22db85",
-      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-16T16:14:19.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "fa71584bf1aa15502720",
-      "title": "Small Programming Tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "source": "will-keleher.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-16T15:56:47.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "6b052d22e77bb33fb7d4",
-      "title": "Sweden expels Iran embassy employee, citing security concerns",
-      "url": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:53:38.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "47e0bdcbcb8ba51dd0fa",
-      "title": "Former French culture minister goes on trial over corruption charges",
-      "url": "https://www.theguardian.com/world/2026/sep/16/rachida-dati-france-former-culture-minister-trial-corruption-renault-nissan-carlos-ghosn",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:48:43.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "5e3f4ce59cb9337b5ee6",
-      "title": "Sweden voted against more power for the far right – but are centrists listening?",
-      "url": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:45:49.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "0f70f35142d6554149c1",
-      "title": "Can we stop with the uptime percentages?",
-      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-      "source": "blog.jim-nielsen.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-16T15:40:04.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "c91612140f1df34ae42f",
-      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:33:19.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "6f8f81388659f8c4a2fe",
-      "title": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:23:51.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "18a9e64b5998e56b0897",
-      "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-      "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:16:07.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "91ff450627c10fa47ab6",
-      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:04:40.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "c51fc0ca8b6c4de71c0a",
-      "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:02:19.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "06f2f8c9f8e4236d3804",
-      "title": "Health officials in turmoil over 11th-hour backflip on aged care algorithm override powers, emails reveal",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/australian-home-support-assessment-algorithm-aged-care",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:00:24.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "b2c0122abac791758a45",
-      "title": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/16/community-grants-scheme-senate-inquiry-funding-favours-labor",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:00:24.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "2579815b3e5bbd1be9d6",
-      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:00:20.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "a3874e13061fafba1638",
-      "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-16T15:00:16.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
-    },
-    {
-      "id": "3ed3ae14c23a4f6be84d",
-      "title": "US opts not to back Saudi Arabia in Yemen after meeting Houthi leaders",
-      "url": "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-16T14:56:40.000Z",
-      "discoveredAt": "2026-09-16T18:50:17.519Z"
+      "discoveredAt": "2026-09-16T22:04:04.178Z"
     }
   ]
 }
