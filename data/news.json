@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T22:24:19.724Z",
+  "generatedAt": "2026-09-18T00:44:45.267Z",
   "sources": [
     {
       "id": "gdelt",
       "sourceType": "gdelt",
-      "status": "ok",
-      "count": 30
+      "status": "failed",
+      "count": 0
     },
     {
       "id": "hacker-news",
@@ -46,25 +46,179 @@
   "stories": [
     {
       "id": "0b4f43e619a36acc52df",
-      "title": "Democratic candidates hold narrow leads in Texas and Michigan US Senate races, new poll shows – live",
+      "title": "US Institute of Peace files emergency motion to block carving of Trump’s name into facade of its headquarters – live",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-17T21:57:20.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "publishedAt": "2026-09-18T00:34:51.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "938c9bbdbc8f2655db80",
+      "title": "LA woman charged with murder over bus crash that preceded deadly helicopter plunge",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/los-angeles-bus-crash-helicopter-woman-charged",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T00:34:32.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "89cafdde9755e5661a15",
-      "title": "Australia news live: Albanese to meet Apple heads in US after social media reform; medicinal cannabis driving laws pass in NSW",
+      "title": "Australia news live: Asio chief Mike Burgess says Iran may want to ‘kill prominent Jewish Australians’ and warns antisemitism at ‘disturbing’ levels",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-17T21:51:23.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "publishedAt": "2026-09-18T00:34:25.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "5f3b45ae9b210c0fd050",
+      "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+      "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T00:23:31.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "6a57be020cf0d69a1c22",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T00:09:32.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "81fdd9d2f318251272c3",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "6cf613f6cd07919cf237",
+      "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:59:44.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "95c06b6eef3bf1bb1126",
+      "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
+      "url": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:42:37.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "185a33e481277cd99b94",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:29:17.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "96f8e42658d59a8661d7",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:16:25.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "526f14424b782048b8bb",
+      "title": "‘Outright racist’ activist Daniel Thomas will face ‘full force of law’ over any crimes, says home secretary",
+      "url": "https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:01:01.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "f0ac963ac882576477c0",
+      "title": "Find a credible plan for British Steel, ministers told as ‘startling’ costs soar",
+      "url": "https://www.theguardian.com/business/2026/sep/18/british-steel-mps-labour-spending-watchdog-pac",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T23:01:01.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "83e9186a0944df8460d8",
+      "title": "Man who sprayed Ilhan Omar with vinegar sentenced to 14 months",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T22:48:57.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "707d78574d06442eb56c",
+      "title": "YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation",
+      "url": "https://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-17T22:39:49.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "9068dd3d2df806db8063",
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-17T22:19:58.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "99657fb95a9e21a8c554",
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-17T22:12:22.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "c78409335e2a2d69199f",
@@ -75,18 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:42:31.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "3c7cc1062ec97bd740a2",
-      "title": "I Hate You Microsoft",
-      "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
-      "source": "henriquenunez.eu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-17T21:41:48.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "bdc19c333ddfadfa7ff0",
@@ -97,7 +240,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-17T21:41:19.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "0ab5bf6c4a039e2e676b",
@@ -108,7 +251,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:38:17.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "8111199dcd3e92259ed3",
@@ -119,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:27:11.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "6ea217c93b42ed4f34ce",
@@ -130,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:20:57.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "3a54f1a4cc2cb66fd7c8",
@@ -141,18 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-17T21:17:39.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "e062ea20710798498c1a",
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "source": "iankduncan.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-17T21:15:52.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "8d664c9fcaf279cdcce6",
@@ -163,7 +295,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-17T21:14:32.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "b99c151f8719568d862a",
@@ -174,7 +306,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-17T21:13:31.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "e049b1d3362aff8cf35b",
@@ -185,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:08:51.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "301eadefdbfa2cfb2ed2",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-17T21:04:24.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "407f46e46e11eb7844dd",
@@ -207,7 +339,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T21:01:41.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "fc9d3bc79e65e2f32a1c",
@@ -218,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T20:47:52.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "3cb11e59dfcef740f0d6",
@@ -229,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T20:46:21.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "620c54083067f312e1dc",
@@ -240,7 +372,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-17T20:44:28.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "4b0483ab4145d11ab40d",
@@ -251,7 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-17T20:43:38.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "0e4b830f25ee55a7195d",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T20:37:06.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "2529c4416d7268f8c69f",
@@ -273,7 +405,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "9ba37bd5bd260ca18ba9",
@@ -284,7 +416,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-17T20:34:30.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "0efc1fea4684fe2704d4",
@@ -295,7 +427,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-17T20:33:37.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
+    },
+    {
+      "id": "f73e2b1218adf6405c14",
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+      "source": "bbc.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-17T20:33:00.000Z",
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "18f445bfeeb4ff98dba9",
@@ -306,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T20:30:39.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "6637b719f7a34a928bed",
@@ -317,7 +460,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-17T20:23:34.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "fa958b936d28768bc641",
@@ -328,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-17T20:17:48.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "2f1ebf97dd098be3c2c2",
@@ -339,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-17T20:00:35.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "08ff2016991bd0b8bf09",
@@ -350,18 +493,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-17T19:59:55.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "7ddeefee8efc856db742",
-      "title": "Why Canadians are ready for closer ties with Europe",
+      "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
       "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-17T19:59:54.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "c986c7789c05238343eb",
@@ -372,18 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T19:54:46.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "81e905f846fba4db73bf",
-      "title": "Everybody's Lost Their Minds",
-      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "source": "netmeister.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-17T19:43:34.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "88acbce1aecab53380cb",
@@ -394,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T19:42:30.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "185a33e481277cd99b94",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T19:35:23.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "bcaf58363fd591f8bed6",
@@ -416,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T19:34:15.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "0c9e07dd54f48681c027",
@@ -427,7 +548,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-17T19:33:30.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "ba8a543cc4fdeb3db752",
@@ -438,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T19:31:03.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     },
     {
       "id": "93ff8960fb45f9eac303",
@@ -449,128 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-17T19:30:12.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "194d3d44ca19b082cd13",
-      "title": "Nato head: Britain must show ‘credible path’ of annual defence budget increases",
-      "url": "https://www.theguardian.com/world/2026/sep/17/nato-head-britain-must-show-credible-path-of-annual-defence-budget-increases",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T19:29:44.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "a11e1cb5ce218e6f08d2",
-      "title": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport",
-      "url": "https://www.aljazeera.com/news/2026/9/17/third-person-dies-from-malaria-in-cluster-near-germanys-frankfurt-airport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-17T19:04:53.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "5bb688c6e5670ce72569",
-      "title": "Accused Oregon killer indicted in connection with death of sixth woman",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/oregon-jesse-calhoun-charged-killings",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T19:00:15.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "4cb5b3475022aadc67e2",
-      "title": "Serbia opens factory to assemble Israeli-made drones",
-      "url": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:54:42.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "4dc0ab1a926094caaecb",
-      "title": "Outcry as Michigan high school asks girls to share details of menstrual cycles",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:53:06.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "a599bb769ce5560c0aa3",
-      "title": "Charles sounded 'giddily elated' after Diana’s death, claims Earl Spencer",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/17/charles-giddily-elated-dianas-death-earl-spencer-book",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:47:24.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "66468cc5f0b696348b9a",
-      "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:36:40.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "0fb37588bd0ed69f19dd",
-      "title": "US secures release of detained citizen Adam Castillo in Myanmar",
-      "url": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:34:30.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "1f076575390911469e38",
-      "title": "‘I’m genuinely sorry’: Australian Hyrox athlete who soiled herself apologises to China and rivals",
-      "url": "https://www.theguardian.com/sport/2026/sep/17/im-genuinely-sorry-australian-hyrox-athlete-who-soiled-herself-apologises-to-china-and-rivals",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:30:23.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "c1dd143ab67fc64db5f1",
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:22:14.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
-    },
-    {
-      "id": "c2785cab7479ac1c5995",
-      "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-17T18:18:48.000Z",
-      "discoveredAt": "2026-09-17T22:24:19.724Z"
+      "discoveredAt": "2026-09-18T00:44:45.267Z"
     }
   ]
 }
