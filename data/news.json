@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T18:20:07.387Z",
+  "generatedAt": "2026-09-18T21:11:33.077Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 27,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,358 @@
   ],
   "stories": [
     {
+      "id": "6647c9fc50b2e199d7b2",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T21:05:49.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "3d68ad8e1324eb33b763",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "code.claude.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T21:00:32.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "50d1c89a8bc031143f2e",
+      "title": "Trump doubles down on banning CNN, MS Now and Politico from White House and warns more outlets could follow– live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T20:57:52.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "7bedabd902453a455132",
+      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T20:38:00.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "12170d31eedcf0047750",
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T20:20:23.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "00b4c6ceffe43db1bcd1",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T20:17:50.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "4cc4ca4e5f4985a50a1e",
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-18T20:15:53.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "36b71d7b15092af0e63a",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "source": "koreajoongangdaily.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T20:02:54.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "cd0b4ee5aa33823af79c",
+      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+      "url": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:50:04.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "eb2f8c1f53f13421830e",
+      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:39:16.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "cf4ea8da53c64e4b8567",
+      "title": "Trump bans CNN, MS Now and Politico from the White House",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:36:16.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "e84820cce55caeb8fc9b",
+      "title": "Lebanese artist turns Israeli missile debris into art",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:31:32.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "4a710b785f498bf7952f",
+      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:14:41.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "cad8df1f10c7431a7ef8",
+      "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:14:15.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "403b84aa4f323dc8f8d9",
+      "title": "Syrian regime planned American journalist's kidnapping for weeks",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:13:52.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "24061cb7b0f07a5d65f9",
+      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T19:12:58.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "c9a125d04430ed26d207",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "grapheneos.social",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "d35c7bfffe978d42aca6",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T19:00:06.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "8232697a094c45a359db",
+      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:56:17.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "5f30185a2f4d3e3f4492",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T18:55:35.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "064f0744d960476db61c",
+      "title": "Pentagon resumes paused testosterone policy amid medical experts’ concerns",
+      "url": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:54:12.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "eb5e0e2da34b5b551554",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "blog.cloudflare.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T18:51:46.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "1d6272cb4834c806a272",
+      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
+      "url": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:46:51.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "467a0018e9888554383b",
+      "title": "Do elections in Russia make a difference?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:45:30.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "1866e2d867e80627dead",
+      "title": "San Diego police investigate case of family of three found fatally shot in home",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/san-diego-police-investigate-family-found-dead",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:45:25.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "12b0127a024237007680",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "source": "developer.apple.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T18:39:31.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "baa33733795ae8a6a36e",
+      "title": "Why Europe has been absent from the great AI safety debate",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:37:36.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "2b2033c967ab977696dc",
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:32:24.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "da8987d4b7ac929a4c50",
+      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:19:47.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "a0c3d314d88801f907e3",
+      "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+      "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:16:20.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "d8581e7a5b99f179842b",
+      "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
+      "url": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T18:15:32.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "169bc5c4b8f2f11993d9",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "source": "lawandcrime.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-18T18:08:32.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
       "id": "83e9529895aebe4611f4",
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
@@ -53,18 +405,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-18T18:04:38.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
-      "id": "50d1c89a8bc031143f2e",
-      "title": "Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-      "source": "The Guardian",
+      "id": "fb865641efa4f7357341",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-18T17:57:26.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "publishedAt": "2026-09-18T17:57:30.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "cfe3f480cf67311e78b9",
+      "title": "Sweden’s left-wing opposition leader begins efforts to form government",
+      "url": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-18T17:55:38.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "bf9bcff3af24108c1f5f",
@@ -75,51 +438,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:49:38.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "660539c8ec25238a3745",
-      "title": "Earl Spencer doubles down on claims about ‘monstrous’ call with King Charles after Diana’s death",
+      "title": "Earl Spencer doubles down on claims about ‘monstrous’ call with Charles after Diana’s death",
       "url": "https://www.theguardian.com/uk-news/2026/sep/18/earl-spencer-doubles-down-on-claims-about-monstrous-call-with-king-charles-after-dianas-death",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:40:49.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "1866e2d867e80627dead",
-      "title": "San Diego police investigate case of family of three found fatally shot in home",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/san-diego-police-investigate-family-found-dead",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T17:31:45.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "00b4c6ceffe43db1bcd1",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T17:31:30.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "e23fae26ca174658c119",
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "source": "cnn.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T17:28:01.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "1ba3f11239185461d4ec",
@@ -130,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:27:39.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "9f29adc29618e833e90e",
@@ -141,7 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-18T17:23:23.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "019c5f3fc425b30a9124",
+      "title": "North Korean anthem played for South Korea at Asian Games",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T17:18:09.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "77cc300c74746d76bc62",
@@ -152,7 +493,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:15:02.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
+    },
+    {
+      "id": "e16e191edb7b8b13366b",
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-18T17:10:58.000Z",
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "acb2b4c6556874128ecc",
@@ -163,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:10:37.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "071ede0b588d626e40a7",
@@ -174,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-18T17:00:23.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "4491241d3564bf78e605",
@@ -185,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-18T16:59:38.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "b6e0a0e09ba109668eb3",
@@ -196,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-18T16:54:18.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "f08c902ede6cd803d7e5",
@@ -207,7 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-18T16:40:58.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     },
     {
       "id": "1ad5d40a0b3312971f2f",
@@ -218,359 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-18T16:38:10.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "55e3f3483e0b3cb2a2f0",
-      "title": "Polanski request to postpone Greens’ conference to focus on byelection refused by party",
-      "url": "https://www.theguardian.com/politics/2026/sep/18/zack-polanski-request-postpone-greens-conference-byelection-refused",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T16:26:35.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "f2e064e8ca662763d3ed",
-      "title": "Duncan Sheik, singer and composer of Spring Awakening, dies at 56",
-      "url": "https://www.theguardian.com/music/2026/sep/18/duncan-sheik-dies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T16:18:04.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "dccf318b76aa63bf9586",
-      "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-      "url": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T16:12:28.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "3e4cc38ea370ea483960",
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-18T16:07:51.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "87d74eaac595d21b5362",
-      "title": "Lone holdout juror in Lindsay Clancy murder trial speaks out",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/holdout-juror-lindsay-clancy-trial-speaks-out",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:48:33.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "f3e5088aaa5e94e7aabc",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:47:28.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "2726278e1bd976fc721a",
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:45:45.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "3d1816480541c5da8253",
-      "title": "Stephanie Cole, Coronation Street and Open All Hours actor, dies aged 84",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/18/stephanie-cole-coronation-street-and-open-all-hours-actor-dies-aged-84",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:45:27.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "8cc78afe574b3b4b6734",
-      "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
-      "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:45:18.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "2192805a96ed1daa4e8b",
-      "title": "Marks and Spencer’s first LFW catwalk gamble pays off with compelling looks at affordable prices",
-      "url": "https://www.theguardian.com/business/2026/sep/18/marks-and-spencer-london-fashion-week-catwalk-show",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:36:36.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "df0c8a2f25077be20829",
-      "title": "Police hit migrants with batons during camp transfer in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:24:18.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "eff8e7af3f8b130e8a02",
-      "title": "Carrick brushes off questions over his Manchester United future",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/carrick-brushes-off-questions-over-his-manchester-united-future?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:21:45.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "89acef853bdca803d25e",
-      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "source": "miro.vision",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T15:04:54.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "238294835c3b12447fcc",
-      "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:00:23.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "6c7d7dfc3544c4630bf7",
-      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
-      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T15:00:22.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "8d66c2a60447cce1111c",
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "source": "science.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T14:45:32.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "37234f9a78b2d79cfe72",
-      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:42:08.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "6432076c12c20140da39",
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "source": "quantamagazine.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T14:41:02.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "24ddf52c1031fa987552",
-      "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:37:30.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "a54241a7fc8f18e5a4d3",
-      "title": "I vibed a proof of Conway's conjecture",
-      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "source": "overreacted.io",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T14:36:10.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "cd5ae4268b7ebb9706bc",
-      "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:30:18.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "4f28517e943e6e396073",
-      "title": "New Bolivian cat claws its way into species list: What we meow",
-      "url": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:25:53.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "b713bf2029c696223ee8",
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "source": "try.cloudflare.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T14:18:41.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "b9af687d16f11a6bb94b",
-      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:17:20.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "3a8f13de81477cce83ae",
-      "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
-      "url": "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:12:10.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "ba641bc0c417e22eb746",
-      "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T14:08:03.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "3ffde772a67b331531f0",
-      "title": "The cost of Iran’s regional leverage",
-      "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T13:52:49.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "6eb24dd66acce3f1954b",
-      "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T13:36:58.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "063d7d83c67c852e0720",
-      "title": "Video: Students flee deadly school shooting in the Philippines",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T13:30:16.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "cd675c05fde9968e0dfd",
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "source": "nats.aero",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-18T13:24:35.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "fbaa6472304ff447adf1",
-      "title": "US voter opposition to war on Iran grows to new highs: Poll",
-      "url": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T13:09:27.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
-    },
-    {
-      "id": "8134291a181208bc9c98",
-      "title": "FIFA’s Infantino ‘must go, no ifs or buts’, blasts German FA vice president",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/fifas-infantino-must-go-no-ifs-or-buts-says-german-fa-vice-president?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-18T13:05:35.000Z",
-      "discoveredAt": "2026-09-18T18:20:07.387Z"
+      "discoveredAt": "2026-09-18T21:11:33.077Z"
     }
   ]
 }
