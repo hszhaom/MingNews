@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T14:09:19.965Z",
+  "generatedAt": "2026-09-20T17:38:32.255Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,400 @@
   ],
   "stories": [
     {
-      "id": "212dc2a2070d89f3b110",
-      "title": "Teen Social Media Bans Miss the Point",
-      "url": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
-      "source": "thereader.mitpress.mit.edu",
+      "id": "94fc38bba541a6b34e69",
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-20T17:29:29.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "c3c2d4f6569f0270d6e0",
+      "title": "Greek police investigate death of 82-year-old man after beach brawl over sunlounger",
+      "url": "https://www.theguardian.com/world/2026/sep/20/greek-police-investigate-death-man-beach-brawl",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T17:07:12.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "2b09c1ffea344bbc60bd",
+      "title": "House Republican doubles down on jab at Trump’s immigration enforcement",
+      "url": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T17:04:19.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "0ea575d9c4e561dca111",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "source": "radius.to",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-09-20T13:32:14.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "publishedAt": "2026-09-20T16:51:26.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "313473f6a5135e709440",
+      "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:50:21.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "f90a3eacd70136b3f849",
+      "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+      "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:47:50.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "3eb6381f08225aa93c7b",
+      "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+      "url": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:47:33.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "b2e57e6d1f46c30896b2",
+      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:37:19.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "e791fd7ad415206f7cf9",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:36:43.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "9a0a56f17896cfd355f7",
+      "title": "Photos: Nepal flood survivors find little trace of former lives",
+      "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:36:03.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "3e48ae4c8630e212197d",
+      "title": "La Bola Negra wins Toronto film festival people’s choice award",
+      "url": "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:22:49.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "53b17ff8738e44ef701e",
+      "title": "Lib Dems use conference to set out £2bn plan to cut fuel duty",
+      "url": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T16:09:11.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "b549058fb878da7206dc",
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club/",
+      "source": "evaluation.club",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:59:25.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "90a434fe9bdb9c934fba",
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "source": "gist.github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:58:52.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "186a30a3df8b26ffe8df",
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:57:48.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "47c7ed334676942f742b",
+      "title": "Custom home server built from spare parts",
+      "url": "https://asmat.ca/blog/i-went-bananas/",
+      "source": "asmat.ca",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:43:32.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "22aa2d365946451ea49d",
+      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:30:10.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "7362b503eb6d7f07259e",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "buchodi.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:18:44.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "b9a96080db72d51b6eaf",
+      "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "source": "gadgetreview.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:18:05.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "36d93e595128246c0710",
+      "title": "Trump says monumental arch in Washington, DC will also be military complex",
+      "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:16:38.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "3f5d6f808ce7c8f29aa9",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "source": "pirateface.co",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:16:07.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "acf2a88829a1590cc25e",
+      "title": "Victoria Starmer models clothes at London fashion week show",
+      "url": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:16:01.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "44359fcd9d56bebe8c5b",
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "source": "toolguyd.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T15:09:41.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "89d99ef017774571afcc",
+      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:05:47.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "82d055437982764897a2",
+      "title": "One Nation-linked company built $56,000 shed on private property of Pauline Hanson’s right-hand man",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/the-populist-one-nation-james-ashby-shed-pauline-hanson-gina-rinehart-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:00:20.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "f14e65fbd561656b322c",
+      "title": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
+      "url": "https://www.theguardian.com/society/2026/sep/20/adults-severe-mental-illness-more-likely-die-earlier-diseases-cancer-nhs-data",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T15:00:19.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "1220e5a181711801967e",
+      "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:44:17.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "b8177303f2ef1c536e1b",
+      "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:43:49.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "a5a7b9cf7289ed1a24aa",
+      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:38:01.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "35ba92f0403d6163c0a4",
+      "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
+      "url": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:24:33.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "729d3e6c7c9c9bad8bc8",
+      "title": "The senior engineer death spiral",
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+      "source": "sunilpai.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-20T14:16:14.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "df327304fe2dbb3e0348",
+      "title": "Humanoid robots fight in cage match in Shanghai",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:12:28.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "09d687c27ba0fd5bc39f",
+      "title": "The pro-Israel censors are starting to lose",
+      "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:00:32.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "e9c9d03562d26c8e068b",
+      "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
+      "url": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-20T14:00:17.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "fb725bb3e739cace04b6",
+      "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T13:53:21.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
+    },
+    {
+      "id": "226410ee3497921d1872",
+      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-20T13:47:26.000Z",
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "1d970028e8379c231868",
@@ -64,7 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T13:31:25.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "8037fd68c28a4b16c340",
@@ -75,18 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-20T13:26:23.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "506d100fbe8cbd268a5a",
-      "title": "Do birds have accents? the regional differences in birdsong",
-      "url": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
-      "source": "theconversation.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-20T13:19:32.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "bf3dba119fb0c971123b",
@@ -97,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T13:13:27.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "0d74fff93ba8312ba735",
@@ -108,7 +482,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T13:12:40.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "1710523e1829b75fd6de",
@@ -119,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T13:10:35.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "58292849ad5172bdb3e1",
@@ -130,7 +504,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-20T13:09:25.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "db54351da68b2908642f",
@@ -141,7 +515,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-20T13:00:16.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "f7542aeeb12d638b8463",
@@ -152,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T12:57:57.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "cb2a379aa4a6a5238871",
@@ -163,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T12:38:21.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "41a328d63814f6a519d6",
@@ -174,18 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T12:33:08.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "3732492539d5d6763162",
-      "title": "RNLI warns supporters their personal information may have been hacked",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/20/rnli-warns-supporters-personal-information-hacked",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:28:57.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "16fa4a548e6b996cb8e3",
@@ -196,29 +559,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-20T12:24:02.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "b728d4142f80e9423b4a",
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "source": "softwarecrisis.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-20T12:20:13.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "fe1dafe802e7c4aa0764",
-      "title": "The Millennium Problems for Biology",
-      "url": "https://millenniumproblems.bio/",
-      "source": "millenniumproblems.bio",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-20T12:17:54.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     },
     {
       "id": "13c174fa158f5f8d814c",
@@ -229,348 +570,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-20T12:11:22.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "1220e5a181711801967e",
-      "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
-      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:09:33.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "3f31ed17feb7d17f078f",
-      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
-      "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:04:08.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "8f6486d656c5eb2daf86",
-      "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
-      "url": "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:02:43.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "08cd1cd8bbfabc911498",
-      "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:00:16.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "7e4c1c7d56cc066710b8",
-      "title": "Rabies concerns grow in the US – but it’s unclear if there’s an increase of the fatal disease",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/rabies-beaver-goat-prevalence-concerns",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:00:15.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "2c89035c34b58010de5c",
-      "title": "US environment agency let Bayer pick regulations for destructive weedkiller, documents show",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/epa-bayer-regulation-pesticide-dicamba",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T12:00:14.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "cfbf8ac59ccd74cb669e",
-      "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-      "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:54:24.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "7e7a1ac8e1e4800d4132",
-      "title": "Back to school in Gaza: Learning in tents after years of disruption",
-      "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:26:20.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "d2b858c7bde6ac6f5d0c",
-      "title": "What are Iran’s latest conditions to end its war with the US?",
-      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:21:06.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "c8b2e6c56374351ac665",
-      "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:18:21.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "455156ea29dda33f3c01",
-      "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:10:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "b71743c0a807f19a5e4d",
-      "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
-      "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:00:14.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "3c813c7f56a92c76397b",
-      "title": "‘It’s transformed the village’: the volunteers greening up Britain’s train stations",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/20/transformed-volunteers-greening-up-britain-train-stations-rhs-bloom",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:00:13.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "c8cfc4931cf2deb10da8",
-      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T11:00:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "02c051e4729c8b4b695a",
-      "title": "Trump’s Greenland deal: A triumph of optics?",
-      "url": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:49:10.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "ad9e995a839bf16fad6e",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:45:39.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "b431b23698ea5b044015",
-      "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
-      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:23:33.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "03adfb64fbd190e6ba01",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "source": "chesterwisniewski.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-20T10:07:51.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "d8237a67bd445c0ebe6f",
-      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:01:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "5f114171c35666162731",
-      "title": "Leftists make waves and Trump flexes muscles: US primary season takeaways",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/us-primary-season-takeaways",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:00:13.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "47963457906c24abcc59",
-      "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T10:00:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "76e6d2f37f20388602fb",
-      "title": "Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:52:30.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "7cfea08bf58d905fea25",
-      "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:36:23.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "4874c81aa8bec1d148f4",
-      "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:30:51.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "5226c24e89dc416482f6",
-      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:16:42.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "29f7b4ed7d53a843fffa",
-      "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-      "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:15:24.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "85a7054f7f1570785e39",
-      "title": "How the NPR College Podcast Challenge changed lives",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:00:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "ea7f1baa01642fe2b473",
-      "title": "NPR's College Podcast Challenge is back for 2026",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:00:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "1bf13982be548a6c5773",
-      "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-20T09:00:00.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "85b7248231550eda972d",
-      "title": "Echoicide: Who decides which truths survive in Gaza?",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-20T08:32:45.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
-    },
-    {
-      "id": "f2b6cdb0f73ccc95ac31",
-      "title": "The gunzels’ grand final: Melbourne Tramaroos’ campaign derails at European TramDriver Championship",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/20/the-gunzels-grand-final-melbourne-tramaroos-campaign-derails-at-european-tramdriver-championship",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-20T08:16:39.000Z",
-      "discoveredAt": "2026-09-20T14:09:19.965Z"
+      "discoveredAt": "2026-09-20T17:38:32.255Z"
     }
   ]
 }
