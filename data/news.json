@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T21:26:05.558Z",
+  "generatedAt": "2026-09-23T23:55:11.150Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 23,
+      "count": 22,
       "transport": "native-rss"
     },
     {
@@ -45,37 +45,323 @@
   ],
   "stories": [
     {
-      "id": "0b09e05a79044f1965c3",
-      "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
-      "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T21:21:33.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "id": "99f07499acb5de16fbe2",
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "source": "meta.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T23:47:56.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
-      "id": "0af751427e60a921c8bb",
-      "title": "‘Ukraine did not choose this war’, Volodymyr Zelenskyy tells UN general assembly - live",
-      "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-      "source": "The Guardian",
+      "id": "24a6d9427f52953a5168",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "sourceType": "rsshub",
-      "sourceId": "guardian-world",
+      "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-09-23T21:21:29.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "publishedAt": "2026-09-23T23:44:58.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "2398fbfbc1822920fb59",
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:42:38.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "9825b6d76c03ae628b90",
-      "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+      "title": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-09-23T21:16:25.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "publishedAt": "2026-09-23T23:39:52.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "67f2d7e9b34187033fac",
+      "title": "Justin Bieber performs surprise acoustic gig in beleaguered Los Angeles park",
+      "url": "https://www.theguardian.com/music/2026/sep/23/justin-bieber-macarthur-park-los-angeles",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:33:20.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "105f3787e06edd1f13b9",
+      "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:30:50.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "382a49ed6b6bfa799eec",
+      "title": "China’s Xi arrives to Trump welcome on state visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:19:29.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "0af751427e60a921c8bb",
+      "title": "Trump greets Xi Jinping at airport in rare personal welcome ahead of high stakes US-China summit – live",
+      "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:18:46.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "1ff6a3ee1cccbcf440a4",
+      "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:16:12.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "7ad5a0b3054d770375dc",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:14:10.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "04cfd77db689c874de65",
+      "title": "We've Turned Starlink into a Planetary Barometer",
+      "url": "https://www.spaceweather.com/starlink/starlink_drag_explainer.html",
+      "source": "spaceweather.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T23:10:22.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "337397a418d63261e0da",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:03:56.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "a3d9c371dbee53942478",
+      "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+      "url": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T23:01:01.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "545de6765ec80c5030ce",
+      "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:56:41.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "3a9fb775f1e9f5b9b401",
+      "title": "RFK Jr received $4m in book advances from Maha allies over past year",
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/rfk-jr-maha-book-advances",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:56:04.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "b3c467df5813cc1ec362",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "source": "blog.arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T22:45:49.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "04a3bc5f3fae7e0889a5",
+      "title": "Senator confirms ‘eight suicide attempts’ by US navy personnel assigned to USS Abraham Lincoln carrier group – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:44:08.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "48865d819b6e09d6e6dc",
+      "title": "Three charged with assault after anti-migration protests in Hampshire",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:41:27.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "eac9d7de530aee00cc2f",
+      "title": "Judge considers restoring journalists' access to White House after Trump's ban",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:40:39.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "3336633e70bcfc638778",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "qualcomm.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T22:38:16.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "097dfe5b1a77c69d8c8b",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "source": "artificialanalysis.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T22:16:19.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "6a96baabbc49e6fb46c8",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "blog.cloudflare.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T22:03:21.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "68b4e36734a487d4da55",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:01:17.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "d6b24347b4c67ab858c9",
+      "title": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+      "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T22:00:01.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "644fb0260c30e08264af",
+      "title": "Tories target universal credit claimants in plan condemned as ‘fast track to poverty’",
+      "url": "https://www.theguardian.com/politics/2026/sep/23/tories-target-universal-credit-claimants-plan-condemned-fast-track-to-poverty",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T21:30:01.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "31ff2fc5f10a2d251708",
+      "title": "Pupils to be offered vocational GCSEs in radical shake-up of system in England",
+      "url": "https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T21:30:01.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "9cac110aee62fe013802",
+      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T21:29:04.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "4264506216ba0f46403c",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-23T21:26:14.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
+    },
+    {
+      "id": "86a7f67720ec170dd065",
+      "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "url": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-23T21:18:22.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "46dd0b19303bba2bbeb4",
@@ -86,7 +372,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-23T21:16:00.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "52debf849de3a12cacf4",
@@ -97,29 +383,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-23T21:12:39.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "1ff6a3ee1cccbcf440a4",
-      "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T21:11:32.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "48865d819b6e09d6e6dc",
-      "title": "Three charged with assault after anti-migration protests in Hampshire",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T21:07:55.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "f04af86ea8c129a05a3b",
@@ -130,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T21:05:36.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "b9cbb96dbef0b491426b",
@@ -141,29 +405,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-23T21:05:09.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
-      "id": "cedb10a27b869535af35",
-      "title": "Andy Burnham signals he may lift ban on alcohol in football stands",
-      "url": "https://www.theguardian.com/football/2026/sep/23/andy-burnham-signals-he-may-lift-ban-on-alcohol-in-football-stands",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T21:00:00.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "fc96df62bfb64636a7aa",
-      "title": "UK defence contractors to offer 40,000 apprenticeships, placements and jobs",
-      "url": "https://www.theguardian.com/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T21:00:00.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "id": "6ced8738ec2cb6dd8eee",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "source": "fly.io",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-23T21:01:48.000Z",
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "d92df9c917dcdf9c1d9a",
@@ -174,18 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T20:56:15.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "04a3bc5f3fae7e0889a5",
-      "title": "Judge promises to rule soon on Trump’s ban of journalists from the White House – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T20:39:19.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "9dbfc774b79871042b67",
@@ -196,18 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T20:37:18.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "4264506216ba0f46403c",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T20:28:16.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "536835f8c9d1f3058463",
@@ -218,18 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T20:23:31.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "5b62934c833bee8e0af7",
-      "title": "Michael Kiwanuka says he faces ‘long, tough journey’ to recovery from stroke",
-      "url": "https://www.theguardian.com/music/2026/sep/23/michael-kiwanuka-has-suffered-a-stroke-and-faces-long-tough-journey-to-recovery",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T20:21:23.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "9f7056df76c8fa053799",
@@ -240,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:58:00.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "7fc769193222daa77304",
@@ -251,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:54:24.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "2e0e51ddcc7a70b4fc62",
@@ -262,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-23T19:40:48.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "406edefa03546bd92291",
@@ -273,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:35:09.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "df1e073ff4cf6e8fac95",
@@ -284,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:32:58.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "e1e166e5c14a2b5c73dc",
@@ -295,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:31:12.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "d24756c9e703e2d74548",
@@ -306,7 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:29:49.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "8fa09fc4ef9029b5a6bb",
@@ -317,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:29:28.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "b1b9c97f369364653c22",
@@ -328,249 +548,29 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:27:50.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "f3b36593b9f1c56b0766",
-      "title": "Trump administration to defend White House ban on news outlets in court",
+      "title": "US judge leaves White House media ban in place for now",
       "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-23T19:26:03.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     },
     {
       "id": "ae23e4eb6a6aae2cbd9a",
-      "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+      "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
       "url": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-23T19:24:39.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "49491069707aafe8da99",
-      "title": "Once Claude can measure something, it can make it faster",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "source": "claude.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-23T19:23:40.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "dc7ffe1548df165751e7",
-      "title": "Zelenskyy: Putin is making the world ‘more dangerous’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T19:13:09.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "4c72d831eb66bc78ab4f",
-      "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
-      "url": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T19:12:27.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "e101c9866deb4481289b",
-      "title": "The White House press pool: What is it and how does it work?",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:57:50.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "8ffcbcfe0c9c634051c7",
-      "title": "Save the Children officially warned by regulator over staff put at risk in Yemen",
-      "url": "https://www.theguardian.com/society/2026/sep/23/save-the-children-officially-warned-by-regulator-over-staff-put-at-risk-in-yemen",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:55:10.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "90210de10b2a2e91ed7f",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:51:12.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "33807a5531a3da38b3cc",
-      "title": "Texas to execute death-row prisoner over 2005 triple killing",
-      "url": "https://www.theguardian.com/us-news/2026/sep/23/texas-execution-kersean-ramey",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:51:08.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "effdad8bde17b3ffc2a0",
-      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:50:43.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "60e2910e7ce0a4e40c75",
-      "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
-      "url": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:49:45.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "8e0c63eb44196f6bc71f",
-      "title": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:48:26.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "599264ab7308da68e221",
-      "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
-      "url": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:36:39.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "225152e9c8d1f228bb32",
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
-      "source": "huggingface.co",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-23T18:36:29.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "a29d7bde08e100eb0661",
-      "title": "Why does Greenland matter to the US?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:35:55.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "3769bf56238befc80423",
-      "title": "US open to Cuba talks on government change, Marco Rubio says",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:34:20.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "1071aea2270863891aad",
-      "title": "Trump set to greet Xi for high-stakes state visit",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:23:19.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "4dcb53e3691638b9cb01",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:15:31.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "49f948e5abd457761e22",
-      "title": "Iran's president gives a rare wartime speech at the U.N.",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:14:40.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "0aaa6c6b2356f2807467",
-      "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
-      "url": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:09:31.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "f001ab3ba45b910d4153",
-      "title": "‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club",
-      "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-23T18:09:10.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
-    },
-    {
-      "id": "ef1b3a4772eab8370f46",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "anthropic.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-23T18:06:47.000Z",
-      "discoveredAt": "2026-09-23T21:26:05.558Z"
+      "discoveredAt": "2026-09-23T23:55:11.150Z"
     }
   ]
 }
