@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T19:44:25.828Z",
+  "generatedAt": "2026-09-26T22:41:07.045Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 26,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,270 @@
   ],
   "stories": [
     {
+      "id": "6096d6a184eb3059d866",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T22:15:59.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "52e39d420686e7252239",
+      "title": "Student protesters disrupt NVIDIA AI climate panel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T22:09:33.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "c40a3dfae780cf5bfc42",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T22:04:26.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "4d101d0e27a5d87fc451",
+      "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T22:00:47.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "5f02cd0662f018e42a27",
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T21:51:56.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "f17c89a03d2a28954b32",
+      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-26T21:13:54.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "77ada0dded07bb21ff62",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T21:13:13.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "b39ecf3ed3c9768d457e",
+      "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T21:09:59.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "a549c1e7add8cfc6772d",
+      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:57:54.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "908c8ed49d22a59f728a",
+      "title": "Why is violence between Pakistan and Afghanistan recurring?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:55:44.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "9f523ea37253605a40fb",
+      "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:34:42.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "f576b51d82297c97f87a",
+      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:33:05.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "6baf09294841fa99587d",
+      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+      "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:21:56.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "e023c7714d82ce1776cf",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "source": "lightspeedmagazine.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-26T20:08:50.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "78db6144a0ee25adff2e",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:08:28.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "3632a5abeb09c16d0810",
+      "title": "Private colleges around Australia offering last-minute discounts for diploma allegedly ‘misused by shonks’",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:00:45.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "0ef0008192d6f008bafd",
+      "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T20:00:45.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "7426e24e28c006870356",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:59:00.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "a83c5e774ac1189b85fe",
+      "title": "‘Miracle on the Hudson’ pilot Chesly Sullenberger inducted into US Aviation Hall of Fame",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/chesley-sullenberger-national-aviation-hall-of-fame",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:54:54.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "1d7078360a489aa3c567",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:48:06.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "74475369bb3f424ad168",
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:43:03.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "e8509ba9853d929d3958",
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:42:57.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "04413d8040d2b509837a",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:40:14.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
+      "id": "8c6e7c261622008b95d2",
+      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+      "url": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-09-26T19:21:53.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
+    },
+    {
       "id": "93518d29afda753734a7",
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
@@ -53,29 +317,29 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-26T19:16:14.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "389fd0490c34466e78bf",
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "title": "Tenth woman's body found as South Africa police probe killings",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-09-26T18:30:04.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
-      "id": "6096d6a184eb3059d866",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T18:17:12.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "id": "e21b1a157dc5cfe4be4b",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-26T18:22:41.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "a31ac5b583144a72fb4e",
@@ -86,7 +350,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T18:08:12.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "2fd237246b2e4aa9ae4d",
@@ -97,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T18:00:43.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "25f4666af5b610ae57bf",
@@ -108,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:55:22.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "082251a0ee95e0404ded",
@@ -119,18 +383,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T17:48:38.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
-      "id": "c40a3dfae780cf5bfc42",
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T17:47:09.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "id": "02340bd8d13f0a869269",
+      "title": "Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "source": "aljazeera.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-09-26T17:43:11.000Z",
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "88285bc5e6ac7b3a8204",
@@ -141,7 +405,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:39:18.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "be77f16dfbef0cfa1e85",
@@ -152,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:35:11.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "74ecc2c75626e1718b4e",
@@ -163,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:27:19.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "910ccc41224f30ee7d7d",
@@ -174,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:22:44.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "d3596de7e73f0297f430",
@@ -185,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T17:20:40.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "616714d2268be87d75d8",
@@ -196,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T17:15:43.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "334a6646400953ddb11c",
@@ -207,7 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-09-26T17:10:40.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "8a3173ada2c2fc444b90",
@@ -218,7 +482,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-09-26T17:10:04.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "5b83291a7f093203ecae",
@@ -229,7 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T16:57:54.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "8b45b9590127d886ff49",
@@ -240,18 +504,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T16:54:55.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "1d7078360a489aa3c567",
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T16:53:32.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "7cbe98914895a6b91c61",
@@ -262,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T16:42:38.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "d49281dbf14061976b4c",
@@ -273,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T16:35:27.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "99e67ce6dc1873f22ff5",
@@ -284,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T16:24:51.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "39439c88d41bcaf2d927",
@@ -295,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T16:19:29.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "573ca175e293e91267b4",
@@ -306,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-09-26T16:16:49.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     },
     {
       "id": "92394b4d7d792f080b02",
@@ -317,260 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-26T16:15:45.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "47d9520834744b7ccc59",
-      "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T16:14:35.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "355b8ad256f4a4a70469",
-      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-      "url": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T16:00:39.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "b716be8129cd3d8fd01e",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "source": "tangled.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-26T15:56:34.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "c36e6f97c3d21114f32e",
-      "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-      "url": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:50:27.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "1438f94dffd2eb817414",
-      "title": "Manchester City confident they can prove ‘innocence’ over charges: Chairman",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:49:57.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "21cd6a4ef40d68b003a5",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:48:51.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "babd16f0030a7cf3952e",
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "source": "macrumors.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-26T15:48:18.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "4cb914a22f3f1f84c301",
-      "title": "LIVE: England vs Spain – UEFA Nations League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:47:40.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "a894c7ff0c754d765fb0",
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:46:40.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "d4ae10a46a845cdcd6e1",
-      "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-      "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:43:11.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "2687e86916ba9afba478",
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:34:18.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "fb7cb330d696463e4297",
-      "title": "California man charged in the killing of his ex-wife – two decades after she vanished",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/california-man-charged-killing-ex-wife-jill-maiorca",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:28:28.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "2c42d5c226678ca235a6",
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "source": "economist.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-26T15:24:08.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "f7970410a947f556cef8",
-      "title": "Thousands of students protest German military conscription",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:23:38.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "9e2198bd4c095d09150d",
-      "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/one-year-on-the-uks-recognition-of-palestinian-statehood-is-bearing-fruit?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:20:24.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "619163c8375c190d79f9",
-      "title": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/26/jill-dando-murder-technological-advances-police-cctv",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:15:47.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "fb1d1507ce4e40a42248",
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T15:12:25.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "a01c32229bac798a413f",
-      "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:46:53.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "3dbafae9851ea6a7bcea",
-      "title": "Olympics: Germany picks Munich for Summer Games bid",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:37:12.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "18c070194db1eb736ee1",
-      "title": "Israel-Ireland match to go ahead in Nations League after player vote",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:36:21.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "695748bf191857d10f97",
-      "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:17:43.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "3a6da1155289f816c73c",
-      "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:10:05.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
-    },
-    {
-      "id": "bf489b9cf95dc38d5063",
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-26T14:00:43.000Z",
-      "discoveredAt": "2026-09-26T19:44:25.828Z"
+      "discoveredAt": "2026-09-26T22:41:07.045Z"
     }
   ]
 }
