@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T01:30:34.633Z",
+  "generatedAt": "2026-10-01T07:43:33.389Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 31,
+      "count": 32,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,422 @@
   ],
   "stories": [
     {
+      "id": "46565bd2eccd966d3c91",
+      "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:38:30.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "f60c9bd1545297208683",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:27:25.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "9eac447b15f32220ebf1",
+      "title": "First home buyers with big loans among those most at risk of falling into negative equity, RBA warns",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:26:51.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "d56d8cc6e6f205aea2d3",
+      "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+      "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:23:18.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "7e74a86d5227d8142bd2",
+      "title": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/01/this-is-where-ebikes-go-to-die-first-ebikes-seized-under-new-laws-crushed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:21:50.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
       "id": "f2c43ea2cdd1a01cc9fe",
-      "title": "Australia news live: Shoebridge welcomes Faruqi working outside Greens leadership team; recruitment for Antarctic jobs opens",
+      "title": "Australia news live: NSW seeks to join Queensland in ‘from the river to the sea’ ban case – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-10-01T01:15:25.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "publishedAt": "2026-10-01T07:15:25.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "4619583fb24baa30f5e6",
+      "title": "‘Don’t freak out’: Beau Lamarre-Condon asked friend if hire cars could be tracked before alleged murders, court hears",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/01/beau-lamarre-condon-murder-trial-jesse-baird-housemate-sufboard-bags-photo-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:13:13.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "b777380f6d2387042a3b",
+      "title": "Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:12:45.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "1f7706314cac26e93964",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:04:27.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "9e867a33cfee2d99907e",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T07:01:16.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "e52fc338126ec1d25295",
+      "title": "UK house price growth halves amid rising mortgage interest rates",
+      "url": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T06:59:04.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "cede6d3ddf9d0ba91d7b",
+      "title": "India vs Pakistan live: Asian Games hockey semifinal",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T06:40:43.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "bf95e723cc182909c0b6",
+      "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T06:04:17.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "733045f7c80d72ef541d",
+      "title": "Charity threatens legal action over two-year NHS wait for ADHD and autism assessments",
+      "url": "https://www.theguardian.com/society/2026/oct/01/adhd-uk-two-year-wait-nhs-autism-west-yorkshire-icb-legal-action",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T06:00:31.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "ea858374757dadaeed26",
+      "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:43:24.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "d1b187cb7a6f98802b81",
+      "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
+      "url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:37:39.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "0020bb02b66be15b11b3",
+      "title": "Mourners bury DR Congo official killed after defending Ebola response",
+      "url": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:18:52.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "d9419e81b2c0162abd16",
+      "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:04:28.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "f3d38d69ec55f2e7f9e9",
+      "title": "Prisoners freed early in England and Wales risk living on the streets, say probation officers",
+      "url": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:00:29.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "6b7a8c6a5511002f5598",
+      "title": "Healey urged to offer energy support in budget as bills rise 4%",
+      "url": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T05:00:29.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "1806cc7b6ad9fc459695",
+      "title": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:58:48.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "853b5c197a419da8a64d",
+      "title": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:55:41.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "52e151e5cb5d1301fb37",
+      "title": "Execution of US woman Christa Pike fails after botched lethal injection",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:55:02.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "e5020c755acd30752aed",
+      "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+      "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:16:19.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "c127ace938f603fe26d6",
+      "title": "South Korea’s exports hit record high on AI boom",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:08:15.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "480804ff498d647df556",
+      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:00:30.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "3fa321a2aa546d46f68a",
+      "title": "New Google Maps images reveal massive scale of devastation in Gaza",
+      "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:00:28.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "3d6037eacdc425d9c65e",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
+      "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:00:27.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "279812b62e08f8152b40",
+      "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
+      "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T04:00:26.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "91e45b88ccdc4a0c6f09",
+      "title": "Tennessee woman on death row taken to hospital after surviving two lethal injections",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T03:53:11.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "fe30ec7f22e93319bda2",
+      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T03:52:20.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "1e543f09854abc69fbc7",
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "source": "blog.cryptographyengineering.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-10-01T03:27:41.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "4a3e31caf84e87704ea7",
+      "title": "AFCON 2027: East Africa races to get tournament-ready",
+      "url": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T03:04:24.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "87cca88bea219ecc0898",
+      "title": "Tennessee inmate Christa Pike survives lethal injection execution attempt",
+      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T02:35:59.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "660cb593462d60f7f9d5",
+      "title": "Hegseth announces 20% cut to US military commanders",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T02:34:55.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "6e51ebb4942878ed179f",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T02:31:24.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "4133422bf8d12b2cbf27",
+      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+      "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-01T02:30:45.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
+    },
+    {
+      "id": "70af8ac142c2fdb4874b",
+      "title": "Man arrested over alleged plot to attack Texas state capitol",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-01T01:28:33.000Z",
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "fdd1d994e218879d9764",
@@ -64,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-10-01T01:11:22.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "c6536b75483936010d2b",
@@ -75,7 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-01T01:07:18.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "81c0497f4cd377422a6c",
@@ -86,18 +493,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-01T01:05:07.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "bf95e723cc182909c0b6",
-      "title": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul",
-      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-01T00:59:54.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "1297247b804f77af8652",
@@ -108,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-10-01T00:57:04.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "f3be655e16bba83f84f9",
@@ -119,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-10-01T00:53:54.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "84f6bc617e989bc4b403",
@@ -130,29 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-10-01T00:39:04.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "91e45b88ccdc4a0c6f09",
-      "title": "Tennessee execution of Christa Pike can go ahead, US supreme court rules",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-01T00:30:21.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "9e867a33cfee2d99907e",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-10-01T00:19:20.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "5f1e49db4cdaaa6a1c7e",
@@ -163,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-01T00:17:56.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "c24bc35f728a52087d12",
@@ -174,7 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-10-01T00:08:23.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "7ad38d10c956fb658e7f",
@@ -185,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-10-01T00:00:00.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     },
     {
       "id": "55f7cdb7b086f959f0a2",
@@ -196,381 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-09-30T23:58:01.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "70af8ac142c2fdb4874b",
-      "title": "Man arrested over alleged plot to attack Texas state capitol",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:53:33.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "6633c65dc5cc68975f7d",
-      "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:50:17.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "8402516ce8f912bd3ca7",
-      "title": "The children dying in India's remote tribal heartland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:41:34.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "e74aca6baa8bb1b88354",
-      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:31:54.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "92e75d85220a67fe0a77",
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:25:23.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "d6c1f98464d91c54ee6c",
-      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:15:00.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "a55a8a4a0acb98782c61",
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:10:19.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "c701e4f965714c7db092",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:10:06.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "042a5f6854c93f8f4054",
-      "title": "Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets",
-      "url": "https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:01:21.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "737a94a303321a9047c3",
-      "title": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
-      "url": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:00:21.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "cde3e751edf0549c3367",
-      "title": "Swiss glaciers suffer another year of record ice loss",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-30T23:00:00.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "a15348092f445e1e0e5a",
-      "title": "US Senate rejects bill targeting AI data centre electricity costs",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T22:58:21.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "54af9a4990f072cfb13b",
-      "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-      "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T22:30:53.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "a590a258bffb6fc36428",
-      "title": "Hong Kong journalist arrested on sedition charge",
-      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T22:16:01.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "2759560e4e27f654cfc3",
-      "title": "Russian drone crashes into Kyiv playground without exploding",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T22:13:35.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "a9a29ad46db4536c9663",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "url": "https://56k.rip/",
-      "source": "56k.rip",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-30T22:08:50.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "19d55ba426929ce7dcd9",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "source": "thespacereview.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-30T22:03:04.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "910b86dd7216aa80cf03",
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T22:01:16.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "4840e70a477d61819011",
-      "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:51:20.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "e9673cefe626ee197cf0",
-      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:38:54.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "6e51ebb4942878ed179f",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:36:31.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "b1dd409655ac07eaf595",
-      "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:34:30.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "4765f690647a6c911b5e",
-      "title": "Trump administration files complaint against judges over media comments",
-      "url": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:28:43.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "b80960499de573872bb7",
-      "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:12:46.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "b38eb6518e9ce53fc6f4",
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T21:01:13.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "fbae444782c3007bbf15",
-      "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T20:53:12.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "7d2a1031c0da999109db",
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T20:12:22.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "6381db252deeabb6b54b",
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "source": "blog.google",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-30T20:04:37.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "baccf9b593a7bba2ffc6",
-      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T20:00:36.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "3df0942dcead66098161",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-09-30T19:51:24.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "337bdec06d04ab6f2ec5",
-      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-      "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T19:49:21.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "9da14f06a61f58be65eb",
-      "title": "US regulator launches probe into AI companies",
-      "url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T19:46:35.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "4e9bf6aeea4bebfa94a8",
-      "title": "How does Trump’s White House AI accord work?",
-      "url": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-09-30T19:44:42.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
-    },
-    {
-      "id": "399635cac677b60ca1fa",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "source": "mattkeeter.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-09-30T19:44:37.000Z",
-      "discoveredAt": "2026-10-01T01:30:34.633Z"
+      "discoveredAt": "2026-10-01T07:43:33.389Z"
     }
   ]
 }
