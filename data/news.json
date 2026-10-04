@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T14:45:00.869Z",
+  "generatedAt": "2026-10-04T18:36:29.299Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 22,
+      "count": 21,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,466 @@
   ],
   "stories": [
     {
+      "id": "e4159c9e6947218451db",
+      "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T18:34:30.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "219aac60a08f6cda9831",
+      "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T18:00:34.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "fba83a4b65f39bda102a",
+      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+      "url": "https://awesomedataviz.com/",
+      "source": "awesomedataviz.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-10-04T17:54:49.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "5e50dfe1ef477a4240be",
+      "title": "Police investigating Flydubai co-pilot’s Australia ties",
+      "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:53:34.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "6415a84ce720818dbb36",
+      "title": "Building a RAG Pipeline for Semantic Code Search",
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "source": "blog.jetbrains.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-10-04T17:51:48.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "a3e85df3e8fae8ecba4f",
+      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:45:28.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "3317e61e19d0b68ea4ff",
+      "title": "Green party votes to adopt policy that equates Zionism with racism",
+      "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:40:39.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "253b70a824668830fcab",
+      "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:27:32.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "3e708d52082f011dd483",
+      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:17:42.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "8c43e1cec6b55b13e3ca",
+      "title": "Indian police accused of sexual harassment against journalists at protest",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T17:01:19.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "64850e1f9588b6ce1dcb",
+      "title": "Mass protests demanding poll chief resignation shake India for third day",
+      "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:55:03.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "2ebb5eac41a3dccaaa3d",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:51:30.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "737229af507d5702302c",
+      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:38:45.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
       "id": "cc3d90559d04b8f1e260",
-      "title": "‘Zionism is racism’ motion passed by Green party at annual conference – UK politics live",
+      "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
       "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-10-04T14:29:44.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "publishedAt": "2026-10-04T16:32:00.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "df42a7f55faaf55d10b9",
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:28:43.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "78239cd208372aef58bd",
+      "title": "Blindsight (Watts Novel)",
+      "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "source": "en.wikipedia.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-10-04T16:25:17.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "42762d3d7a1052a96591",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:24:48.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "8201c5c2169ec13c365c",
+      "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:23:59.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "ef8091a6ef7c4f5337ef",
+      "title": "Three years of genocide in Gaza through one man’s camera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:18:01.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "10d038589e2dda4b2b8d",
+      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:12:21.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "a3a025e351a4d3015e04",
+      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:04:53.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "8d29492e4ae4751cc675",
+      "title": "Philippines arrests 244 suspects in online scam crackdown",
+      "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T16:00:50.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "c00e54f30eee73cc79d7",
+      "title": "Portugal vs Norway – LIVE: UEFA Nations League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:47:10.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "66370d205e067ce33d5c",
+      "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+      "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:45:04.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "e961c820a54fe772fc45",
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "source": "automatictransmission.khoury.northeastern.edu",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-10-04T15:43:14.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "e4176dd995ed3e2cbb31",
+      "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:41:07.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "ca0135ba038fe0a4935f",
+      "title": "Why does the US want to deport Salah Sarsour?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:36:10.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "8a533900701516ceeccc",
+      "title": "Mass shootings leave two people dead in Georgia and 12-year-old girl dead in Baltimore",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:23:26.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "afe9d374dbfafd4fb312",
+      "title": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
+      "url": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:22:25.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "7353e7f02115a4c9b14d",
+      "title": "‘We need freedom’: New Delhi women protest sexual violence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:20:48.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "cf1635a7e57abf3d794e",
+      "title": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:16:50.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "08e86575e6cc3ef18345",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:16:03.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "62de0136dce15b2ae1db",
+      "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:15:09.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "9538c89b3215eb64ee40",
+      "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+      "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:08:23.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "5f1603cb1f977294ff6b",
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:06:14.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "308a0935a37eb16168ab",
+      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:05:37.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "7acb7a0acf96f910ef3b",
+      "title": "Nigel Farage questioned by standards commissioner over £5m gift",
+      "url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:04:34.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "3032bf922564c3afc05d",
+      "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
+      "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T15:00:31.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "b8d3bfd4bbf0cf64e7d3",
+      "title": "How the Cornell case is affecting women who have experienced sexual assault",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-10-04T14:51:27.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "23f60e007b651cfcac55",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T14:36:57.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "47a3c398474df3572da3",
+      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T14:35:31.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
+    },
+    {
+      "id": "b44427dd60f96ae2ed2b",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-10-04T14:25:32.000Z",
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "8ef90ee6cdc53f10e030",
@@ -64,29 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-10-04T14:21:20.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "47a3c398474df3572da3",
-      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T14:16:32.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "3317e61e19d0b68ea4ff",
-      "title": "Green party votes to adopt policy that equates Zionism with racism",
-      "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T14:15:31.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "1cbcde15050e7bbcb53e",
@@ -97,7 +526,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-04T14:00:32.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "e492e4b92d139cb53785",
@@ -108,7 +537,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-04T14:00:32.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "cdc9efd92257cca78747",
@@ -119,7 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-04T14:00:32.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "dceca2f3e8aee2a155f5",
@@ -130,7 +559,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-04T14:00:20.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     },
     {
       "id": "be09c0d8e3a4c6407239",
@@ -141,436 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-10-04T13:52:33.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "3473769d306e2cbb2d06",
-      "title": "US marine arrested in Japan on suspicion of killing woman, police say",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:46:19.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "a3e85df3e8fae8ecba4f",
-      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:44:50.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "26b5d05d8e4f1489266f",
-      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:42:16.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "07160458556fb88745e5",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:33:05.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "1b79d0b6f50ca1eebf89",
-      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:31:15.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "5b738b6d6dc0ecdde5f4",
-      "title": "Somali president: Ethiopia can access our port, but must negotiate",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:22:22.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "10715c13f845e3cb9ca2",
-      "title": "What are the five questions being asked regarding the Flydubai attack?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:11:27.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "861f80dd3528b6752a49",
-      "title": "Did the fall of al-Andalus reshape Europe forever?",
-      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/10/4/did-the-fall-of-al-andalus-reshape-europe-forever?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:01:54.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "253b70a824668830fcab",
-      "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T13:00:28.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "96208a561e498ab19492",
-      "title": "Amid teen triumph and organisational chaos, Asian Games close in Japan",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/amid-teen-triumph-and-organisational-chaos-asian-games-close-in-japan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T12:53:33.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "89be4e220d9f6acb170f",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-10-04T12:51:53.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "de2cce3625e61856c814",
-      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T12:48:50.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "bd9526dd54522978c8a4",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T12:09:04.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "c28dd568753098322b33",
-      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-      "source": "teachyourkids.substack.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-10-04T11:58:47.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "1e061e9a32481fefa289",
-      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:58:14.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "10d038589e2dda4b2b8d",
-      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:53:09.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "8560b67806cdcb4e0d1e",
-      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:15:34.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "6169c026fecb43e0a454",
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:11:30.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "17b87bf7263b44c21089",
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:05:02.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "899dbc8063186241a25d",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:03:20.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "c40899d73b93cebf7e79",
-      "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:02:33.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "322573ee3e711953a285",
-      "title": "Court quashes block on mothers and children in Gaza joining families in UK",
-      "url": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:00:28.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "e7b88471e99644372124",
-      "title": "Trump sets off on midterm blitz – are his trademark rallies a liability for Republicans?",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T11:00:28.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "621ef75fe78a6b811de3",
-      "title": "Is the Sudanese army gaining momentum against the RSF?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:56:12.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "03dc6ea5ff343ef883c4",
-      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:55:40.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "87bb0997bb992cb2ca1b",
-      "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:53:22.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "eeaae2bff020e5b61897",
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "url": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:44:23.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "ae7c8bced106f0b26068",
-      "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
-      "url": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:16:49.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "6b95d31dba8c151d4169",
-      "title": "Netanyahu’s fight to own the election narrative",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:05:53.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "e6301d3fd83ae38a2be4",
-      "title": "Tributes as Bosnian football star Edin Dzeko retires",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:04:54.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "292f49fde803ca14942e",
-      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:00:00.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "62f7506f172b1e7114f2",
-      "title": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T10:00:00.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "762bed354d406e130277",
-      "title": "Flydubai: What happens when a plane plunges 17,000 feet?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/flydubai-what-happens-when-a-plane-plunges-17000-feet?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T09:53:39.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "353cc985ab6119b8a749",
-      "title": "Costa’s coffee shops return to profit with iced drinks and matcha on the menu",
-      "url": "https://www.theguardian.com/business/2026/oct/04/costa-coffee-shops-return-profit-iced-drinks-matcha",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T09:50:28.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "667d2f944d9556f4b3ed",
-      "title": "The story of a book in Gaza: A treasured possession given new lease of life",
-      "url": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T09:46:48.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "1d9e0fedc80d56047335",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-10-04T09:24:52.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "144c2d7ccb3028b434f2",
-      "title": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
-      "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-10-04T09:13:29.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "5c5ed6264c6cf7dd5495",
-      "title": "Photos: Community unites in Senegal’s Dakar to clean dilapidated school",
-      "url": "https://www.aljazeera.com/gallery/2026/10/4/photos-dakar-community-unites-to-clean-school-ahead-of-academic-year?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-10-04T09:09:08.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
-    },
-    {
-      "id": "777226cc9e710885af09",
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "source": "gamehistory.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-10-04T09:07:11.000Z",
-      "discoveredAt": "2026-10-04T14:45:00.869Z"
+      "discoveredAt": "2026-10-04T18:36:29.299Z"
     }
   ]
 }
