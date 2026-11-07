@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T20:31:46.698Z",
+  "generatedAt": "2026-11-07T00:16:10.490Z",
   "sources": [
     {
       "id": "gdelt",
@@ -12,13 +12,13 @@
       "id": "hacker-news",
       "sourceType": "hacker-news",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 26,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,314 @@
   ],
   "stories": [
     {
+      "id": "deca9e14c1b1bd6c0355",
+      "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-07T00:09:34.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "fc60c05aac35d093d743",
+      "title": "Russell Brand suspected to have attacked at least 10 other women",
+      "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-07T00:00:47.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "1188df38c507aac8f8a6",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "5e5d594fdbc2cc1f8a4d",
+      "title": "New Zealanders head to polls on final day of voting",
+      "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T23:48:01.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "911ad8b0ad65cc94fc80",
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T23:33:28.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "a93bb982b1213878b096",
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T23:07:22.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "1a92097f132a4f984e99",
+      "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T23:06:10.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "6c7a92be9a6ef007c09d",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "source": "developers.openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-06T23:03:55.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "34cee9796b77b2dd568a",
+      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+      "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+      "source": "ievchina.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-06T23:00:46.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "c89affef09d9f9bcea36",
+      "title": "US urges China to honour Busan trade deal commitments",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T23:00:37.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "5b5f4925f1b37cdff301",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "source": "community.openai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-06T22:50:43.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "f8efee77e698620bfcd7",
+      "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T22:35:09.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "b56562d9a287edb1a8ea",
+      "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T22:09:01.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "25cd541ca2207ece4c1d",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:49:50.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "f787e72ccb2e7762b1b5",
+      "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:46:37.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "5775ac7c5e45aa6aad46",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:37:30.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "20e5ea8a8d5139236251",
+      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:23:54.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "f86868dd0749dc70ff62",
+      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+      "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:22:57.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "358c61084baa4890242b",
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:20:49.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "8918f50849b90e539181",
+      "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:14:46.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "de0c28c9953fb6e77af4",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:06:25.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "6f51785ef2d88ce30d87",
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T21:04:40.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "637d99f7a2516103121f",
+      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T20:48:25.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "612883a640e88a9ac930",
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-06T20:42:51.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "b48fed293045d247b31b",
+      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T20:28:07.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "e0c8b4541e0b5e8be31a",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "planned-obsolescence.org",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-06T20:27:23.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "dcb9dd91a088d7181051",
+      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T20:27:09.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "dcc1063f9f73634e90c5",
+      "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-06T20:22:22.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
       "id": "fb1a883a482931630d8f",
       "title": "The incoming class of U.S. senators is full of historic firsts",
       "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
@@ -53,7 +361,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-06T20:21:13.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "f27c8c77d8ebcc3f52d3",
@@ -64,18 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T20:17:32.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "deca9e14c1b1bd6c0355",
-      "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T20:14:51.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "e926a52b1adddb7b7f3f",
@@ -86,7 +383,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-06T20:09:58.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
+    },
+    {
+      "id": "96d96bc83625d43e6426",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "source": "crusoe.ai",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-06T20:09:14.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "57344dc3307bdd0eb0da",
@@ -97,18 +405,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-06T20:06:11.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "b75a8369fadc38a1116c",
-      "title": "Russell Brand barrister reports himself to watchdog over confrontation with journalist",
+      "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
       "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-06T19:59:23.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "49dc0f1d956d45af282e",
@@ -119,18 +427,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-06T19:50:14.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "973fe76bce3be79d4c74",
-      "title": "HN: CloneGuard – scan a repo for credential-stealing tricks before you run it",
-      "url": "https://github.com/tharun208/cloneguard",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T19:49:27.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "60724c835de1389a14be",
@@ -141,18 +438,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-06T19:48:51.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "b6628861d80cec7dca9f",
-      "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-      "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:46:56.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "a14ce572aafc2a76343c",
@@ -163,40 +449,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:42:46.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "ed9d02bfe46241387bc7",
-      "title": "Incoming Democratic senators don’t want Chuck Schumer as majority leader",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/chuck-schumer-majority-leader-incoming-democratic-senators",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:37:25.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "de0c28c9953fb6e77af4",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:37:10.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "d9801d2aea1cf90be207",
-      "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
-      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-      "source": "e360.yale.edu",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T19:36:16.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "996b7e2a999e271ad3e0",
@@ -207,7 +460,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:34:33.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "19e5a3d3b856bd20631f",
@@ -218,29 +471,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-06T19:33:38.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "27ebd0cac09b03cbacb1",
-      "title": "My first and last telegram was from Rebecca West",
-      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-      "source": "thelampmagazine.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T19:30:00.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "393e67af6a75d08a4d37",
-      "title": "Houston to limit police cooperation with federal immigration authorities",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:29:55.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "0d8ff67061a9f55f1189",
@@ -251,18 +482,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-06T19:23:24.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "fc60c05aac35d093d743",
-      "title": "Russell Brand suspected to have attacked at least 10 other women",
-      "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:23:24.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "c1c67cc6800fc35aff8a",
@@ -273,7 +493,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-06T19:19:27.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "d6d6910f74d0a909803e",
@@ -284,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:18:33.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "279baf0ccfafe38cdfcb",
@@ -295,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:16:07.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "d3614eae10e980abb548",
@@ -306,7 +526,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-06T19:13:52.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "9f1aba68d4a47499981e",
@@ -317,18 +537,18 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-06T19:13:06.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "dd4cfcb407a27aa8e5a6",
-      "title": "Trump appoints adviser Stephen Miller as new White House chief of staff",
+      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
       "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
       "source": "Al Jazeera English",
       "sourceType": "rsshub",
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:08:31.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
       "id": "329b1908651376aee84a",
@@ -339,238 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-06T19:07:06.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     },
     {
-      "id": "64633c4199c225a501b7",
-      "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
-      "url": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:00:49.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "f535280c987a445b73c6",
-      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-06T19:00:21.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "aef2e26799ddab6a3ae9",
-      "title": "Prince Harry and others seek to challenge ruling in Daily Mail privacy case",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/06/prince-harry-others-appeal-daily-mail-phone-hacking-claim",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:59:04.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "fab1420fbed1a2e43515",
-      "title": "Why is Paraguay facing a banking and political crisis?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:54:08.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "4124fc328a5ee49a687c",
-      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:51:37.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "4c56f590e5a91d66db79",
-      "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:45:00.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "7dd160a49e994ff7710e",
-      "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:38:44.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "ede3e5b314ae73da20b8",
-      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:23:11.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "e51732b7f9d2a9962a95",
-      "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:17:39.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "83cff862ec5440889d34",
-      "title": "We know 15k websites are infected. how do we tell them?",
-      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-      "source": "scotthelme.co.uk",
+      "id": "083100755f603f5cb62d",
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "source": "frontier.replit.com",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-11-06T18:13:35.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "90dff6c45e3c0ef3f4a2",
-      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-      "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T18:09:49.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "bc00e1abe23c7a7329aa",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "source": "arxiv.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T18:03:33.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "2db937636c180a639c5d",
-      "title": "Size-It-Up (Game)",
-      "url": "https://magnitudle.com/size-it-up",
-      "source": "magnitudle.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T17:59:59.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "e81ce0fa8abc098951e9",
-      "title": "Prince, the pope, and autumn 2026: purple is hot this season",
-      "url": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:51:37.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "154ff9c72b68abc3c888",
-      "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:50:13.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "716f6923291076d08d9e",
-      "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-      "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:42:22.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "b18212a21f6c85410596",
-      "title": "US city votes to divest from Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:40:13.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "bf31cc7b830f06048246",
-      "title": "Remembering 'Star Trek' actor Patrick Stewart",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:36:39.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "1298ab911e646bae166b",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:35:55.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "eaee8112f6cf14217102",
-      "title": "Devvm.dev: One VM for every project",
-      "url": "https://devvm.dev/",
-      "source": "devvm.dev",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-06T17:30:22.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
-    },
-    {
-      "id": "f3811a8d5b13944b9e7f",
-      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-06T17:14:31.000Z",
-      "discoveredAt": "2026-11-06T20:31:46.698Z"
+      "publishedAt": "2026-11-06T19:06:10.000Z",
+      "discoveredAt": "2026-11-07T00:16:10.490Z"
     }
   ]
 }
