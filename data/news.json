@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T22:14:29.737Z",
+  "generatedAt": "2026-11-08T01:45:49.687Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 24,
+      "count": 25,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,158 @@
   ],
   "stories": [
     {
+      "id": "f9ce569d6615b2e5a37f",
+      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T01:00:48.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "3980ab797e5915ca609f",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T00:50:28.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "e6f32b7d44ef53651cc0",
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-08T00:19:52.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "f7ebc1abd2e64897a255",
+      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T00:17:28.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "2d9c97c6c432a6779777",
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T00:00:56.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "7cfda1d71bccd0438f70",
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-07T23:45:45.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "a8eb9d36860a8eb70f86",
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "source": "commodore.ca",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-07T23:15:34.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "62bcbf2fb4b3a6721796",
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "github.blog",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-07T23:09:40.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "d04570c52c8f8b018285",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-07T22:58:49.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "a5fe3cb9688bbbec7fe8",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "eli.thegreenplace.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-07T22:38:58.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
       "id": "b652c1e8eeb105f669e6",
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-11-07T21:39:50.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "publishedAt": "2026-11-07T22:32:41.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "7258284a6c835ece3e32",
+      "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-07T22:21:58.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "79a8ecf18d1460196950",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-07T22:19:59.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "212301cf7c6ead033754",
+      "title": "The surprising and often forgotten history of economic populism in Texas",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-07T22:12:07.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "b4c8a6df9ba6174fefe2",
@@ -64,7 +207,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T21:24:10.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "0099b19869517b47b80b",
@@ -75,29 +218,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T21:19:01.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "d04570c52c8f8b018285",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-07T21:13:24.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "0d2aa7d21102e3b66419",
-      "title": "Show HN: Where Were We",
-      "url": "https://wherewerewe.app/",
-      "source": "wherewerewe.app",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-07T21:08:35.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "8c7c0249db21d6bfcb37",
@@ -108,7 +229,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:53:47.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "b3274226f671fdc99cbd",
@@ -119,7 +240,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:48:58.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
+    },
+    {
+      "id": "10bdc73097cfd2386d0a",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "apiiro.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-07T20:45:32.000Z",
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "6ca0a6e857781c135945",
@@ -130,7 +262,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:44:34.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "d34a0f171ec3bd13c8fe",
@@ -141,7 +273,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:26:58.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "193d985bb4f154561787",
@@ -152,7 +284,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-07T20:18:18.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "234d3c38a55eff44ef75",
@@ -163,7 +295,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:12:22.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "b11880d001c66c7a2eaf",
@@ -174,7 +306,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:10:38.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "885c91141a45ea58cb13",
@@ -185,7 +317,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T20:08:47.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "d2e6dcf01b2cdd6e4bb5",
@@ -196,7 +328,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T20:06:25.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "ba84036a0a06fb5cdec0",
@@ -207,7 +339,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T20:03:23.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "fe43e4b6ce3d31067615",
@@ -218,7 +350,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T19:49:39.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "f7a275eb55bf87aec35d",
@@ -229,7 +361,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:49:19.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "f56a08b03354d6d00f1f",
@@ -240,7 +372,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:42:46.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "465390b3b2dd5d919894",
@@ -251,7 +383,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:29:06.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "6e896acc9a2b47d653d0",
@@ -262,7 +394,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:24:21.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "8bd014409233113582f8",
@@ -273,7 +405,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-07T19:17:22.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "46e72cb718475b9f5aa7",
@@ -284,7 +416,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:10:34.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "1956ed37ebff5d6c974f",
@@ -295,7 +427,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:06:31.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "2eb06f90366f33d30cec",
@@ -306,7 +438,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T19:04:04.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "47cd986cf4ff25549de0",
@@ -317,7 +449,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T19:00:20.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "e2e4b20054263a02e1cd",
@@ -328,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-07T19:00:19.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "8c7c9a2d63ae341ab510",
@@ -339,18 +471,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T18:55:40.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "efa3042371dea0f3e229",
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
       "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
       "source": "NPR News",
       "sourceType": "rsshub",
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-07T18:37:36.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "1d2d67c66c89237b629b",
@@ -361,7 +493,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T18:35:15.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "082aa9ac915444e4fc36",
@@ -372,7 +504,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-07T18:14:38.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "579f1e45f94231f744dc",
@@ -383,7 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-07T18:12:12.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "8017ce29f6d88c8d95a2",
@@ -394,7 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "f37a7ef2866c3f3f50c0",
@@ -405,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T18:00:21.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "6f87cce88ee43aa9253c",
@@ -416,18 +548,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-07T17:58:41.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "3cc832560729b0163295",
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-      "source": "atlasobscura.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-07T17:54:56.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "ab4018ae8a8c5aa2eae6",
@@ -438,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-07T17:39:23.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     },
     {
       "id": "77d50e9f552120a850d9",
@@ -449,128 +570,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-07T17:30:49.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "55aa1dc18cbb251b0d3e",
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-07T17:27:30.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "dff9b7a159183f5ba33e",
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "source": "maxxbench.unlap.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-07T17:19:00.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "32cc88826eff2720494f",
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:16:50.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "d885a696d889ce6383aa",
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:14:36.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "bf8e651ee8a87a722cc8",
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:11:29.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "6d8a06c4630839f61739",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:09:24.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "840f536384a14a6f8423",
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "source": "theguardian.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-07T17:06:36.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "3af9ddddb805ef843dd5",
-      "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-      "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:00:16.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "ae3f5cc32471eab1f842",
-      "title": "Valencia vs Real Madrid LIVE: La Liga",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-07T17:00:12.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "c6ae51f0f919c58bd700",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-07T16:50:06.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
-    },
-    {
-      "id": "3b79c01a6e3d75952e5d",
-      "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-07T16:41:07.000Z",
-      "discoveredAt": "2026-11-07T22:14:29.737Z"
+      "discoveredAt": "2026-11-08T01:45:49.687Z"
     }
   ]
 }
