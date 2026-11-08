@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T15:54:49.825Z",
+  "generatedAt": "2026-11-08T20:24:00.533Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 25,
+      "count": 27,
       "transport": "native-rss"
     },
     {
@@ -45,15 +45,477 @@
   ],
   "stories": [
     {
-      "id": "0456b3e3e60a1f3a44fd",
-      "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
+      "id": "6819a8dc78b4b176db26",
+      "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-11-08T15:37:54.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "publishedAt": "2026-11-08T20:13:09.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "07141ad7abea75515a89",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:58:02.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "8b18a5361e6d14a958f6",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "sergeykuhne.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T19:37:42.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "bc46cc2b8f9488c54640",
+      "title": "Small plane crashes into pickup truck on busy Florida highway",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:29:05.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "2a0125287138a38324c0",
+      "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:26:38.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "115856182950e41c3ecd",
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:25:30.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "7cbb1e8e79a45712035a",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "mailroute.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T19:20:32.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "c921a77dce278b7fca89",
+      "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:15:36.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "ef5d60457aa61b7ed143",
+      "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:11:33.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "024d6444e5e61bd529a5",
+      "title": "After the midterms, where does the Republican Party stand?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:09:18.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "c7aa9e435f02c624ff0b",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "source": "duxlabs.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T19:08:51.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "52d64f6ee7ee9b44c418",
+      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T19:05:04.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "f400a8a2e0a8ec6a5be1",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "wsj.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T18:43:07.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "19a03350da9284a59746",
+      "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:33:34.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "02a116f75331bf70a071",
+      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:22:58.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "379d0639d8e7925b4820",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:22:53.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "cddd52a41816fee67878",
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:20:06.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "fe5fdb83e1ea95f1b424",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "thestateofai.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T18:16:07.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "dcf74648f917546b2738",
+      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+      "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:12:27.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "d9f954947601d7f3606b",
+      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:07:54.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "34dbd7e3a503db61a556",
+      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:01:05.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "fc1f1b889b4b5274348b",
+      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T18:01:01.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "aaa9539f55510ac6207b",
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:58:43.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "0710a39b76016560aad8",
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:53:59.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "ed4e6b3802ec42be504a",
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:51:19.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "dfb7c585a47464e2b612",
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:51:17.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "3a163a2d2a09f1bc2641",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:44:51.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "dcfc87a759380b628913",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "source": "respawnfirst.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T17:20:29.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "fddcd5eaa1cd7d679ab2",
+      "title": "A Little Snitch for Windows",
+      "url": "https://packethound.app/",
+      "source": "packethound.app",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-08T17:16:07.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "96d04fc8300d51d6ff38",
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:11:52.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "9a5f12381671b80d5545",
+      "title": "Photos: Diwali celebrations light up India and its global diaspora",
+      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:03:14.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "a0aeaba50789a9630d2b",
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T17:00:00.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "954fe16017fe8a6452e4",
+      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:59:31.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "36f0f593609e81ee75b7",
+      "title": "Fan hospitalised after falling through stand at Norwegian football match",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:53:03.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "030e446e431de481bf1c",
+      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:51:41.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "e234be1478cf3d5ec791",
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:50:58.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "ab240c5c1385e9720919",
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:46:15.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "2054c1d5960b70ba90b8",
+      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+      "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:37:20.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "87245766fd9838bcd390",
+      "title": "Seven killed, 112 injured in train collision in Egypt",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:31:54.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "2750aa3feb24597d00e6",
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:30:16.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "c1a4fd198fabf5e01f14",
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:18:09.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "f386653fd1a3aece8b3a",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-08T16:05:57.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
+    },
+    {
+      "id": "fb1f1bfd807c8ef2449d",
+      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-08T15:47:11.000Z",
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     },
     {
       "id": "d74e9a0194a1b2014278",
@@ -64,18 +526,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-08T15:37:16.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "1f9639d5e128f4b4e119",
-      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "bloomberg.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T15:19:51.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     },
     {
       "id": "0d5fde50150fd8a0b7be",
@@ -86,7 +537,7 @@
       "sourceId": "npr-news",
       "topic": "world",
       "publishedAt": "2026-11-08T15:07:15.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     },
     {
       "id": "5e95281cff0e2d8d8b16",
@@ -97,18 +548,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-08T15:00:43.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "a6ab6098292800ba8af9",
-      "title": "‘The end of an era’: Scillonian III sets sail on final voyage from Isles of Scilly",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:56:59.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     },
     {
       "id": "f695c521429c2183cb23",
@@ -119,18 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-08T14:53:29.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "b3b504e090d22e065db6",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-      "source": "247wallst.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T14:49:23.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     },
     {
       "id": "892996f722c40901c62c",
@@ -141,436 +570,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-08T14:49:16.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "d04570c52c8f8b018285",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:32:52.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "fe43e4b6ce3d31067615",
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:26:14.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "f3a32f977b4eb25c1b52",
-      "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:19:17.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "6067e433b9153141ed61",
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:06:19.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "f813389e9bfad7c5de14",
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:02:35.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "4e0e57590300e582bc83",
-      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T14:00:43.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "a2c35f3bff1e1ac2a3a5",
-      "title": "UK spent £100m on zombie Brexit border inspection posts",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:32:58.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "fb98d47c9b5492c0525f",
-      "title": "At least 21 dead as small boat sinks off Senegal",
-      "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:32:17.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "45bf1bd7befd01a3412d",
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:27:57.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "9add0c107628fa5e0377",
-      "title": "Cop31 must deliver climate progress that people can see is real, host says",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:24:00.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "52d64f6ee7ee9b44c418",
-      "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
-      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:18:50.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "f932495a99dce7902f6f",
-      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:11:41.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "accc697a0db8b0fb1f4b",
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:06:28.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "0f7115b2368310632035",
-      "title": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:05:13.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "679a9ff07774d45ad016",
-      "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:00:41.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "b4a23f307828b22da6da",
-      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T13:00:40.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "99da3b0e5d8641cc0648",
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:40:12.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "c3a3b8dabb02dec0b66d",
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:20:17.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "7b4813acfe7ae8af92d1",
-      "title": "South Africa’s ANC suffers setback in local elections",
-      "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:19:14.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "a51b2b0b2c979827d821",
-      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:00:40.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "6343531a32e8234b61cc",
-      "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:00:40.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "d2755ebc4728e1eff983",
-      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-      "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T12:00:39.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "2c02b424814c04ba92f7",
-      "title": "Could UFC boss Dana White be next White House press secretary?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:57:05.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "34430db32ce5c9d8cf4d",
-      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:50:15.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "ed224a74ead9763ee09b",
-      "title": "Who’s who at Cop31: key players at the climate talks",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:48:56.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "d80b465171e95cb513f3",
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:34:58.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "dcc13ba1d4d778565fb7",
-      "title": "Person of Interest",
-      "url": "https://krthr.co/person-of-interest/",
-      "source": "krthr.co",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T11:23:28.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "c305599c878b22168cd6",
-      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:38.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "7ec4875ef1b71dee51b0",
-      "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
-      "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:38.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "4c10af253256e2e76d1e",
-      "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:37.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "dbc8cba8fba8cac8d9db",
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:00.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "1649fd65c3aad2164408",
-      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:00.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "08cac028d81e43b42a7e",
-      "title": "In Maine, a new approach to practicing medicine in the sky",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-08T11:00:00.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "98aba03876da70fc8a09",
-      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T10:50:12.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "fbb4c6ab199fa8c66f53",
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "source": "linebender.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T10:42:15.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "1f923716babf3c1ff15e",
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "source": "muratbuffalo.blogspot.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T10:41:52.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "9887582717628631625f",
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T10:28:08.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "55858f2b4ca73bdea18b",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-08T10:22:04.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
-    },
-    {
-      "id": "fbc060fbfdd3361aa3f7",
-      "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-08T10:03:21.000Z",
-      "discoveredAt": "2026-11-08T15:54:49.825Z"
+      "discoveredAt": "2026-11-08T20:24:00.533Z"
     }
   ]
 }
