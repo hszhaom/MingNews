@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T21:55:26.487Z",
+  "generatedAt": "2026-11-11T01:51:26.042Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 36,
+      "count": 38,
       "transport": "native-rss"
     },
     {
@@ -45,26 +45,433 @@
   ],
   "stories": [
     {
+      "id": "74de9db39c10ff2565c7",
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:44:21.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "ac8342204264ccf33862",
+      "title": "Republicans block Hegseth impeachment motion",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:43:42.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
       "id": "d1c5195bec7e377f3e8b",
-      "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
       "sourceType": "rsshub",
       "sourceId": "guardian-world",
       "topic": "world",
-      "publishedAt": "2026-11-10T21:34:13.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "publishedAt": "2026-11-11T01:42:15.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "0b823b803235a9dbf930",
+      "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:23:39.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "f1b3506ce3d4d107abc6",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:18:56.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "bb354b722b4500e49fb1",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:14:40.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "9ed41e501ef4b55ce5f9",
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:11:04.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "7e05e4f70bd6e4a0dc6e",
+      "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:09:55.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "bf0354919e892807020a",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:01:20.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "583078c3b10ea4c7fcec",
+      "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T01:00:28.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "519ae6fa55a3d300b017",
+      "title": "Spain holds state funeral for 69 victims of deadly train crash",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:42:41.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "caa7edcd13864ef47e6e",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:26:02.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "5713f027470c917da233",
+      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+      "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:24:27.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "78fa4d08006b669dc413",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:19:42.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "edffa78622022dce6381",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:18:07.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "745aba6caea69e722e37",
+      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:01:26.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "89132c3a7ec9c1a00f0d",
+      "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
+      "url": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:01:23.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "4b24619ad14464431903",
+      "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
+      "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:01:23.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "e88bd441bce49bebe94d",
+      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-11T00:01:23.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "e93ba7046c22a2cdb22d",
+      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:56:11.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "83447a8c17e5ed786ed1",
+      "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:43:11.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "b6f3bdd75c58d2514d36",
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "source": "github.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-10T23:41:41.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "2da4c241c91800563d2e",
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:38:02.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "4c24a2f57765ef3bfa29",
+      "title": "Massive fire as Israeli settlers burn down business near Nablus",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:33:43.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "5d6bebf95b1ba9857295",
+      "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:27:32.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "8037a42ab52fd6409079",
+      "title": "French far-right author Zemmour launches second bid for 2027 presidency",
+      "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T23:23:12.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "9435eb24521189adedd5",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:52:15.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "518877a6ec48aa433e1f",
+      "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:42:43.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "2e670bfef37b951a405a",
+      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:41:07.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "b22f5e381c35f14e6293",
+      "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:37:13.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "464e1b84ffe5a3a645c1",
+      "title": "US House Republicans block Pete Hegseth impeachment effort",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:36:14.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "2b1a51c62db6caf6b798",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "vulncheck.com",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-10T22:17:56.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "d0e1cc1440dbbaefd8b6",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "sourceType": "rsshub",
       "sourceId": "bbc-world",
       "topic": "world",
-      "publishedAt": "2026-11-10T21:23:00.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "publishedAt": "2026-11-10T22:17:45.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "4c0b2172d0f0878ecedf",
+      "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:16:32.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "9d92cf480c898e2ae1a0",
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:03:50.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "ca03446c24203e42e460",
+      "title": "US poll shows death penalty lost majority support for first time since 1971",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T22:03:20.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "e09bde83ffafc449e72e",
+      "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-10T21:57:57.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "34398fbf1a9ffa5494c5",
+      "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+      "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-10T21:55:49.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
+    },
+    {
+      "id": "18ca08d734528fd23508",
+      "title": "Should you trust new AI agents with your money and data?",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+      "source": "NPR News",
+      "sourceType": "rsshub",
+      "sourceId": "npr-news",
+      "topic": "world",
+      "publishedAt": "2026-11-10T21:44:32.000Z",
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "d3212160414aac1d2d3b",
@@ -75,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-10T21:21:55.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "a0be7b97ea13b903a2d6",
@@ -86,29 +493,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-10T21:17:00.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "518877a6ec48aa433e1f",
-      "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T21:13:43.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "9435eb24521189adedd5",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T21:06:04.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "1423948b2509889cca7d",
@@ -119,7 +504,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-10T21:00:55.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "a780d52c1c109bb53cad",
@@ -130,7 +515,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-10T21:00:01.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "ab7b71ea882de237fd46",
@@ -141,18 +526,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-10T20:58:44.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "0880039063e03d60bbdb",
-      "title": "Sherman Anti-Trust Act (1890",
-      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-      "source": "archives.gov",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-10T20:56:16.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "78377496e414ed1cbcbc",
@@ -163,7 +537,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-10T20:46:40.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "4bf9ec2f4610b45fc3f3",
@@ -174,7 +548,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-10T20:41:53.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "05502925159fa53a17ad",
@@ -185,7 +559,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-10T20:39:46.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     },
     {
       "id": "c20c2bdeabaf12137c65",
@@ -196,381 +570,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-10T20:36:58.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "27c7e57f89df3f6dd42c",
-      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-      "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:31:17.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "d15384db1bf4e0e94a45",
-      "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
-      "url": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:28:47.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "82c04007e672db9a7dd2",
-      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:23:03.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "7c5cd06acfffaa441b0a",
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-      "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:22:21.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "63fa02d91580d3923b0e",
-      "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:18:14.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "2d1d43e268545e03a39d",
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:14:34.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "4eefeaa377e174d8f9f6",
-      "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:12:11.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "b22f5e381c35f14e6293",
-      "title": "Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:08:10.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "dfd39e47e761b4342271",
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:07:01.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "6a4da90b755cb8d42d7f",
-      "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
-      "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:00:43.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "0df3cbc3d01fce806896",
-      "title": "Trump administration seeks to cut food aid for more than six million people",
-      "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T20:00:18.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "9dbf5d98c76e5882ee7a",
-      "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
-      "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:59:33.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "97e619e9b75e0f32cfde",
-      "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:55:13.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "c5da30050562948aad5c",
-      "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-      "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:54:46.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "3cead47eb0018323c367",
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "source": "theautopian.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-10T19:50:46.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "70af22daa82b99e1ad87",
-      "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:49:49.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "2f8552fa5bdd42a1f6ef",
-      "title": "Rubio says no need for major combat operations against Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:34:13.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "43b41d6003dac1cbf842",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:26:42.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "242c2c5235cec9434be2",
-      "title": "What objective is reasoning solving?",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "source": "alexwang.ai",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-10T19:25:14.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "21f1ad0a430a225bee9a",
-      "title": "US Senate advances major bill boosting energy infrastructure",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:09:12.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "57fea1eedeca906e3908",
-      "title": "A comprehensive study of how fingerprintable users are",
-      "url": "https://fingerprinting.study/",
-      "source": "fingerprinting.study",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-10T19:03:54.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "c650b02fc655d4a0b19c",
-      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:01:33.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "3be541cf24e860516b31",
-      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "8eaf6577d9402af3e24c",
-      "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:58:05.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "c85168273b56d0a59d2f",
-      "title": "U.S. boycotts U.N. human rights review for second year running",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-      "source": "NPR News",
-      "sourceType": "rsshub",
-      "sourceId": "npr-news",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:53:34.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "c0413d783d37fb55406b",
-      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:43:04.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "4a5b46424afef133e453",
-      "title": "UK children’s author David Walliams accused of grooming minors",
-      "url": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:42:14.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "55b4bc03a0eb318e375f",
-      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:35:35.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "b812a27808c73cb4c28a",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:33:51.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "565f673f87838f624771",
-      "title": "Trump administration again boycotts UN human rights review",
-      "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:29:56.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "64c42318800e2297bd87",
-      "title": "Judge who sentenced Russell Brand praised for dispelling rape myths",
-      "url": "https://www.theguardian.com/news/2026/nov/10/judge-sentenced-russell-brand-praised-rape-myths-justice-bennathan",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:11:00.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "523978a1a0a53598d471",
-      "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:08:29.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "6dd43c8324543e897ebe",
-      "title": "Arrests made after visit from former US President Biden",
-      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:07:56.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
-    },
-    {
-      "id": "22ba8384ebb478f31a8c",
-      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
-      "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-10T18:07:23.000Z",
-      "discoveredAt": "2026-11-10T21:55:26.487Z"
+      "discoveredAt": "2026-11-11T01:51:26.042Z"
     }
   ]
 }
