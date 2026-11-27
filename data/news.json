@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T23:14:41.166Z",
+  "generatedAt": "2026-11-27T05:17:45.245Z",
   "sources": [
     {
       "id": "gdelt",
@@ -18,7 +18,7 @@
       "id": "bbc-world",
       "sourceType": "rsshub",
       "status": "fallback",
-      "count": 29,
+      "count": 31,
       "transport": "native-rss"
     },
     {
@@ -45,6 +45,380 @@
   ],
   "stories": [
     {
+      "id": "a067c0da2f1d96696152",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T05:15:26.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "f4e84e6acf3c002d2917",
+      "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T05:02:40.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "8dd0d50f43e41639d231",
+      "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+      "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T05:00:55.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "8f25d43282f67083cbac",
+      "title": "New Zealand’s Opportunity Party poised to become election kingmaker",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T04:59:53.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "390a0e5d59e909ecaa0e",
+      "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T04:56:32.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "20d57cb5d63bf1587f48",
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "source": "herecomesthemoon.net",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-27T04:56:18.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "2e01e9894d395b12f1e4",
+      "title": "Estonia closing land borders with Russia to keep out spies",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T04:46:15.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "cb76ace6a631ee375096",
+      "title": "Thanksgiving storms leave nearly a million without power across the US",
+      "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T04:34:43.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "532f9831d8c26d732ea2",
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T04:06:52.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "38e09cde56051e320801",
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T03:49:08.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "bb9b1913a5e15500d7b5",
+      "title": "Asian stock markets rise after earlier tech rout",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T03:42:16.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "7d6be5dc19172846ebe8",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T03:28:15.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "5f9c557285d6a641f334",
+      "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T03:14:10.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "1752588abd94c038b0a0",
+      "title": "Spain and Morocco under-17 stars target World Cup 2030",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T02:58:48.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "070fa6bfc84f4bc91731",
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T02:38:15.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "103d3589ce27620244e8",
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T02:14:25.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "7ab0db33e2225e1e9fc6",
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T01:44:02.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "6124f37cc5df62c6e508",
+      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T01:36:23.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "cc032371e29e1cf4d8ee",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "blog.ktz.me",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-27T01:13:49.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "c4c151cdbfdfb4f309dd",
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T01:07:44.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "34a04aa6806b5c9c8289",
+      "title": "Threat from China looms large over Taiwan’s local elections",
+      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T01:00:49.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "efe7c65837100c2fdbb1",
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:48:11.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "9b174b6e98d0e13f5f41",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:47:43.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "651fd1a7e01a8c1e89c0",
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:46:19.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "978d9aab174be43c3db2",
+      "title": "America’s Thanksgiving holiday seen through different eyes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:41:28.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "016ac6b417df66e3d472",
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
+      "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:11:16.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "10700dbe16ec8215e3eb",
+      "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:10:55.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "bd19ba6222622bab6b6a",
+      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:02:10.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "304f3aebbc7d27961cb7",
+      "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
+      "url": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:01:48.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "869f0cb62bd2d648a082",
+      "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
+      "url": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
+      "source": "The Guardian",
+      "sourceType": "rsshub",
+      "sourceId": "guardian-world",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:01:47.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "1ee8bc1e3aee192c9920",
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "3167fd057e6742c3284a",
+      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+      "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-26T23:37:17.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "62a77f8e0080f285eea2",
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-26T23:07:36.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "b084591b14edb85ced18",
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "sourceType": "rsshub",
+      "sourceId": "bbc-world",
+      "topic": "world",
+      "publishedAt": "2026-11-26T23:03:16.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
       "id": "6a642c31fb67bd3f7e20",
       "title": "Chance of snow forecast for northern England and Scotland in next few days",
       "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
@@ -53,7 +427,18 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-26T23:01:40.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "7130558396abd839dbcd",
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "sourceType": "rsshub",
+      "sourceId": "al-jazeera",
+      "topic": "world",
+      "publishedAt": "2026-11-26T22:51:55.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "2eccc11da40e85e306dc",
@@ -64,7 +449,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-26T22:49:27.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "dac0c25473a314f08741",
@@ -75,7 +460,7 @@
       "sourceId": "guardian-world",
       "topic": "world",
       "publishedAt": "2026-11-26T22:36:55.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "c097e9f230dab4e89a25",
@@ -86,7 +471,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-26T22:06:54.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "84c0a249884bc4edef49",
@@ -97,7 +482,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-26T22:06:20.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "5a12d8427988c91984a8",
@@ -108,7 +493,18 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-26T22:01:22.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
+    },
+    {
+      "id": "c74df66d31bcb6720b40",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "source": "kendell.dev",
+      "sourceType": "hacker-news",
+      "sourceId": "hacker-news",
+      "topic": "technology",
+      "publishedAt": "2026-11-26T21:59:19.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "aebfbe56731bd98a52c5",
@@ -119,18 +515,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-26T21:47:45.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "7a7d6b9db8ea7d7de786",
-      "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-      "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T21:33:36.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "0f889ad86b2320334e2c",
@@ -141,7 +526,7 @@
       "sourceId": "bbc-world",
       "topic": "world",
       "publishedAt": "2026-11-26T21:17:53.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "977e288256c24f00407c",
@@ -152,7 +537,7 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-26T21:08:44.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "5a9cc3a0f53057a07484",
@@ -163,7 +548,7 @@
       "sourceId": "hacker-news",
       "topic": "technology",
       "publishedAt": "2026-11-26T21:08:05.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
       "id": "da21c152567eb313849a",
@@ -174,403 +559,18 @@
       "sourceId": "al-jazeera",
       "topic": "world",
       "publishedAt": "2026-11-26T21:04:39.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     },
     {
-      "id": "bd19ba6222622bab6b6a",
-      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:58:12.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "1d8ed179c0d8f1723d62",
-      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:34:34.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "45b5554e420ec5277246",
-      "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:33:26.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "bb1d47b33428c7af5ba2",
-      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-      "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:33:07.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "4a98807e7a109960266f",
-      "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:32:43.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "1ec98806fba7b80cb8aa",
-      "title": "Mexico seeks US talks about suspected SpaceX debris",
-      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:31:50.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "836107f5fe27cdb5ae95",
-      "title": "Musk pledges two SpaceX shares for every US child",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:19:22.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "6167442d2b001c7cebed",
-      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T20:01:47.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "193724b9fae7f2c0faaf",
-      "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:54:05.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "2eac8052b2ee17bbd5bf",
-      "title": "Top-cited AI scientists at four US companies compared",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "source": "topcitedscientists.com",
+      "id": "ce1216521d8786e02dc5",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "source": "lia.mg",
       "sourceType": "hacker-news",
       "sourceId": "hacker-news",
       "topic": "technology",
-      "publishedAt": "2026-11-26T19:44:31.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "8e2adab2345cd1aefbbc",
-      "title": "Peru burns more than 10 tonnes of seized drugs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:44:05.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "64295a51bb9fe152c13a",
-      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:41:37.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "6337193dc7946189ca5d",
-      "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:38:26.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "531caf503c7fef54c54f",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "sourceType": "rsshub",
-      "sourceId": "bbc-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:26:16.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "07077494d39d27bb53c9",
-      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:19:12.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "8027b82605caa4a8e9ce",
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-26T19:18:09.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "f2475865a43d1fb32a72",
-      "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:16:35.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "176ba0183227250bb2f6",
-      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:09:39.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "247567e47cb3a669ae42",
-      "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
-      "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:07:44.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "0716955a245c7094c76f",
-      "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
-      "url": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T19:03:47.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "747bd29bc3902685e18e",
-      "title": "What will Trump’s latest tariffs mean for the world?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:53:15.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "495075d69b6b840e8a68",
-      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
-      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:45:44.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "342052b63b5d713b0fd7",
-      "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-      "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:43:13.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "bbac3107fda6ec0a9631",
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "source": "bui.preetham.top",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-26T18:37:24.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "6f2d7c396033d6579f40",
-      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:30:36.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "80b82e12abd4470ea95c",
-      "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
-      "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:27:49.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "663f0f630a3f534344c5",
-      "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:27:27.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "59336dc3e4cc06c9560d",
-      "title": "What would happen if Russia detonated a nuclear weapon in space?",
-      "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:13:33.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "27a7250f17853237b3d6",
-      "title": "George Whitesides, 1939-2026",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "source": "science.org",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-26T18:13:07.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "3e0ba0e4900c118fb645",
-      "title": "Guinea-Bissau military leaders delay presidential election until 2028",
-      "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T18:07:18.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "cb913a1768e9ff785dce",
-      "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T17:53:44.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "8375d91514f568616ba0",
-      "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-      "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T17:51:17.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "005248df97fec73910de",
-      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-      "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-      "source": "The Guardian",
-      "sourceType": "rsshub",
-      "sourceId": "guardian-world",
-      "topic": "world",
-      "publishedAt": "2026-11-26T17:50:54.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "5896797fd3159e6ec9f7",
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "krebsonsecurity.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-26T17:47:45.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "2ad88a0708c019c4f706",
-      "title": "Netanyahu’s corruption trial: Is it really all over?",
-      "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "sourceType": "rsshub",
-      "sourceId": "al-jazeera",
-      "topic": "world",
-      "publishedAt": "2026-11-26T17:38:02.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
-    },
-    {
-      "id": "a0439c16159af772d6b3",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "github.com",
-      "sourceType": "hacker-news",
-      "sourceId": "hacker-news",
-      "topic": "technology",
-      "publishedAt": "2026-11-26T17:36:47.000Z",
-      "discoveredAt": "2026-11-26T23:14:41.166Z"
+      "publishedAt": "2026-11-26T20:49:49.000Z",
+      "discoveredAt": "2026-11-27T05:17:45.245Z"
     }
   ]
 }
